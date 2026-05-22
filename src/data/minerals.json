@@ -1,0 +1,117 @@
+[
+  {
+    "id": "tahitian_pearl",
+    "name": "大溪地黑珍珠",
+    "name_en": "Tahitian Black Pearl",
+    "region": "法属波利尼西亚",
+    "region_en": "French Polynesia",
+    "coordinates": [-17.6797, -149.4068],
+    "mineral_type": "有机宝石 / 珍珠",
+    "color": "孔雀绿、铅灰、墨色",
+    "stories": [
+      {
+        "culture": "波利尼西亚",
+        "title": "Oro 与 Vairaumati",
+        "content": "传说造物神 Oro 沿着彩虹自天界降临波拉波拉岛，把一枚名为 Te Ufi 的黑唇牡蛎交给了凡间女子 Vairaumati。Te Ufi 在月光下张开壳，吐出第一颗黑珍珠，作为天神与凡人结合的信物。从此波利尼西亚人相信，每一颗黑珍珠都是 Oro 留在海中的低声细语。"
+      },
+      {
+        "culture": "毛利",
+        "title": "鲨神之泪",
+        "content": "毛利渔人讲，海中的鲨神 Mokarakara 在丢失爱人之后，眼泪沉入海底变成黑珍珠。所以潜水人要先向礁石礼拜，才能采珠，不然鲨神会把潜水人也变成珠子。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "mediterranean_pearl",
+    "name": "地中海珍珠",
+    "name_en": "Mediterranean Pearl",
+    "region": "希腊 · 爱琴海",
+    "region_en": "Greece, Aegean Sea",
+    "coordinates": [37.0902, 25.3667],
+    "mineral_type": "有机宝石 / 珍珠",
+    "color": "象牙白、玫瑰金",
+    "stories": [
+      {
+        "culture": "古希腊",
+        "title": "维纳斯的眼泪",
+        "content": "阿芙洛狄忒（维纳斯）自海中诞生时，海风掀起的浪花在贝壳里凝结成珍珠。罗马博物学家普林尼写道：女神涉水上岸，珍珠便从她的足下滚落。所以希腊人在婚礼上要把珍珠串进新娘的发辫，象征女神亲手给予的祝福。"
+      },
+      {
+        "culture": "拜占庭",
+        "title": "圣母的露珠",
+        "content": "拜占庭人改写了这个故事——珍珠是圣母在清晨流下的露珠，被海里的牡蛎接住。教堂里的圣像画因此常用珍珠装饰圣母的衣襟。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "hepu_pearl",
+    "name": "合浦珍珠 · 南珠",
+    "name_en": "Hepu Pearl (Nan Zhu)",
+    "region": "中国 · 南海合浦",
+    "region_en": "Hepu, South China Sea",
+    "coordinates": [21.6731, 109.1929],
+    "mineral_type": "有机宝石 / 珍珠",
+    "color": "银白、淡金、粉霞",
+    "stories": [
+      {
+        "culture": "汉地",
+        "title": "鲛人泣珠",
+        "content": "《博物志》《述异记》载：南海之外，有鲛人居水中，能织绡，性近于鱼。鲛人哭泣，泪落为珠。合浦的渔民相信，月夜的海面上若听见女子歌声，便是鲛人在自家屋里抹泪——次日下海，珠贝里多会藏着一颗有暖意的圆珠。"
+      },
+      {
+        "culture": "汉地",
+        "title": "合浦珠还",
+        "content": "东汉孟尝任合浦太守，前任贪取无度，珠蚌竟徙去交趾。孟尝革除苛政、息盗劝农，珠又自交趾归合浦。'合浦珠还' 成了清廉政事换回生灵的典故。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "mogok_ruby",
+    "name": "抹谷鸽血红宝石",
+    "name_en": "Mogok Pigeon-Blood Ruby",
+    "region": "缅甸 · 抹谷",
+    "region_en": "Mogok, Myanmar",
+    "coordinates": [22.9167, 96.5083],
+    "mineral_type": "刚玉 / 红宝石",
+    "color": "鸽血红、玫瑰红",
+    "stories": [
+      {
+        "culture": "缅甸",
+        "title": "巨蟒之卵",
+        "content": "抹谷山谷里世代相传：一只名叫 Naga 的巨蟒在山中产下三枚卵，孵化时其中一枚卵壳碎裂，化作整座山谷的红宝石。所以矿工进山前要向蛇神献酒，红宝石之色，是 Naga 的血。"
+      },
+      {
+        "culture": "印度 / 缅甸",
+        "title": "插于皮下的护身石",
+        "content": "古缅甸战士相信，把一颗抹谷红宝石塞进皮肉里，刀剑就近不了身。马可·波罗在游记中写到 '罗刹国' 的红宝石，正是经由抹谷流向南亚和波斯的这一脉。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "badakhshan_lapis",
+    "name": "巴达赫尚青金石",
+    "name_en": "Badakhshan Lapis Lazuli",
+    "region": "阿富汗 · 巴达赫尚",
+    "region_en": "Badakhshan, Afghanistan",
+    "coordinates": [36.7347, 70.8119],
+    "mineral_type": "青金石",
+    "color": "夜空蓝、金星点",
+    "stories": [
+      {
+        "culture": "苏美尔",
+        "title": "伊南娜的下界之行",
+        "content": "苏美尔女神伊南娜下到冥界时，身上佩戴七件饰物，其中一条便是青金石做的项链——象征夜空与神权。在每一道冥门，她被剥去一件，行至最深处赤身。学者认为，青金石就是苏美尔人眼中 '把夜空带在身上' 的石头，全部出自巴达赫尚的萨雷桑古矿。"
+      },
+      {
+        "culture": "古埃及",
+        "title": "法老眼中的天",
+        "content": "图坦卡蒙的黄金面具上，眉骨与眼线嵌的便是巴达赫尚青金石。古埃及人称它 hsbd，认为这石头是 '天的碎片'，磨成粉是壁画里最贵的群青色——后来传入欧洲，被叫做 ultramarine，意为 '从海那边来的'。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1518131491556-44604bf3eb33?auto=format&fit=crop&w=800&q=80"
+  }
+]
