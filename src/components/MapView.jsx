@@ -1,20 +1,27 @@
-import { useEffect } from 'react'
+import { useEffect, useMemo } from 'react'
 import { MapContainer, TileLayer, Marker, useMap } from 'react-leaflet'
 import L from 'leaflet'
+import { categoryColor } from '../data/categories.js'
 
-const pulseIcon = L.divIcon({
-  className: 'mineral-marker',
-  html: '<div class="marker-pulse"></div>',
-  iconSize: [14, 14],
-  iconAnchor: [7, 7],
-})
+function hexToRgba(hex, alpha) {
+  const m = hex.replace('#', '')
+  const full = m.length === 3 ? m.split('').map((c) => c + c).join('') : m
+  const n = parseInt(full, 16)
+  return `rgba(${(n >> 16) & 255}, ${(n >> 8) & 255}, ${n & 255}, ${alpha})`
+}
 
-const selectedIcon = L.divIcon({
-  className: 'mineral-marker-selected',
-  html: '<div class="marker-pulse" style="background:#fff7d6;width:18px;height:18px;"></div>',
-  iconSize: [18, 18],
-  iconAnchor: [9, 9],
-})
+function buildIcon(color, selected) {
+  const halo = hexToRgba(color, 0.55)
+  const style = `--marker-color:${color};--marker-halo:${halo};`
+  const cls = selected ? 'marker-pulse is-selected' : 'marker-pulse'
+  const size = selected ? 18 : 14
+  return L.divIcon({
+    className: 'mineral-marker',
+    html: `<div class="${cls}" style="${style}"></div>`,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
+  })
+}
 
 function FlyTo({ coordinates }) {
   const map = useMap()
@@ -27,6 +34,18 @@ function FlyTo({ coordinates }) {
 
 export default function MapView({ entries, selectedId, onSelect }) {
   const selected = entries.find((e) => e.id === selectedId)
+
+  const icons = useMemo(() => {
+    const cache = new Map()
+    return (entry) => {
+      const isSelected = entry.id === selectedId
+      const key = (entry.category || 'other') + (isSelected ? ':sel' : '')
+      if (!cache.has(key)) {
+        cache.set(key, buildIcon(categoryColor(entry.category), isSelected))
+      }
+      return cache.get(key)
+    }
+  }, [selectedId])
 
   return (
     <MapContainer
@@ -46,7 +65,7 @@ export default function MapView({ entries, selectedId, onSelect }) {
         <Marker
           key={entry.id}
           position={entry.coordinates}
-          icon={entry.id === selectedId ? selectedIcon : pulseIcon}
+          icon={icons(entry)}
           eventHandlers={{
             click: () => onSelect(entry.id),
           }}

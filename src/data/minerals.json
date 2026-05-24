@@ -6,6 +6,7 @@
     "region": "法属波利尼西亚",
     "region_en": "French Polynesia",
     "coordinates": [-17.6797, -149.4068],
+    "category": "pearl",
     "mineral_type": "有机宝石 / 珍珠",
     "color": "孔雀绿、铅灰、墨色",
     "stories": [
@@ -20,7 +21,11 @@
         "content": "毛利渔人讲，海中的鲨神 Mokarakara 在丢失爱人之后，眼泪沉入海底变成黑珍珠。所以潜水人要先向礁石礼拜，才能采珠，不然鲨神会把潜水人也变成珠子。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "黑唇牡蛎养殖珍珠合法流通；法属波利尼西亚已建立珍珠分级与原产地标识体系。"
+    }
   },
   {
     "id": "mediterranean_pearl",
@@ -29,6 +34,7 @@
     "region": "希腊 · 爱琴海",
     "region_en": "Greece, Aegean Sea",
     "coordinates": [37.0902, 25.3667],
+    "category": "pearl",
     "mineral_type": "有机宝石 / 珍珠",
     "color": "象牙白、玫瑰金",
     "stories": [
@@ -43,7 +49,11 @@
         "content": "拜占庭人改写了这个故事——珍珠是圣母在清晨流下的露珠，被海里的牡蛎接住。教堂里的圣像画因此常用珍珠装饰圣母的衣襟。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "现代地中海珍珠以养殖为主；天然野生珍珠极稀少且不参与商业交易。"
+    }
   },
   {
     "id": "hepu_pearl",
@@ -52,6 +62,7 @@
     "region": "中国 · 南海合浦",
     "region_en": "Hepu, South China Sea",
     "coordinates": [21.6731, 109.1929],
+    "category": "pearl",
     "mineral_type": "有机宝石 / 珍珠",
     "color": "银白、淡金、粉霞",
     "stories": [
@@ -63,10 +74,14 @@
       {
         "culture": "汉地",
         "title": "合浦珠还",
-        "content": "东汉孟尝任合浦太守，前任贪取无度，珠蚌竟徙去交趾。孟尝革除苛政、息盗劝农，珠又自交趾归合浦。'合浦珠还' 成了清廉政事换回生灵的典故。"
+        "content": "东汉孟尝任合浦太守，前任贪取无度，珠蚌竟徙去交趾。孟尝革除苛政、息盗劝农，珠又自交趾归合浦。「合浦珠还」成了清廉政事换回生灵的典故。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?auto=format&fit=crop&w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "国家地理标志产品，合法养殖；天然南珠存量极少，市售以养殖为主。"
+    }
   },
   {
     "id": "mogok_ruby",
@@ -75,6 +90,7 @@
     "region": "缅甸 · 抹谷",
     "region_en": "Mogok, Myanmar",
     "coordinates": [22.9167, 96.5083],
+    "category": "ruby",
     "mineral_type": "刚玉 / 红宝石",
     "color": "鸽血红、玫瑰红",
     "stories": [
@@ -86,10 +102,15 @@
       {
         "culture": "印度 / 缅甸",
         "title": "插于皮下的护身石",
-        "content": "古缅甸战士相信，把一颗抹谷红宝石塞进皮肉里，刀剑就近不了身。马可·波罗在游记中写到 '罗刹国' 的红宝石，正是经由抹谷流向南亚和波斯的这一脉。"
+        "content": "古缅甸战士相信，把一颗抹谷红宝石塞进皮肉里，刀剑就近不了身。马可·波罗在游记中写到「罗刹国」的红宝石，正是经由抹谷流向南亚和波斯的这一脉。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "美国 BURMA Act 对缅甸红宝石实施进口限制；产地溯源困难。中国境内合法销售须有 NGTC 或国际同等证书。",
+      "required_cert": ["NGTC", "GRS"]
+    }
   },
   {
     "id": "badakhshan_lapis",
@@ -98,20 +119,221 @@
     "region": "阿富汗 · 巴达赫尚",
     "region_en": "Badakhshan, Afghanistan",
     "coordinates": [36.7347, 70.8119],
+    "category": "lapis",
     "mineral_type": "青金石",
     "color": "夜空蓝、金星点",
     "stories": [
       {
         "culture": "苏美尔",
         "title": "伊南娜的下界之行",
-        "content": "苏美尔女神伊南娜下到冥界时，身上佩戴七件饰物，其中一条便是青金石做的项链——象征夜空与神权。在每一道冥门，她被剥去一件，行至最深处赤身。学者认为，青金石就是苏美尔人眼中 '把夜空带在身上' 的石头，全部出自巴达赫尚的萨雷桑古矿。"
+        "content": "苏美尔女神伊南娜下到冥界时，身上佩戴七件饰物，其中一条便是青金石做的项链——象征夜空与神权。在每一道冥门，她被剥去一件，行至最深处赤身。学者认为，青金石就是苏美尔人眼中「把夜空带在身上」的石头，全部出自巴达赫尚的萨雷桑古矿。"
       },
       {
         "culture": "古埃及",
         "title": "法老眼中的天",
-        "content": "图坦卡蒙的黄金面具上，眉骨与眼线嵌的便是巴达赫尚青金石。古埃及人称它 hsbd，认为这石头是 '天的碎片'，磨成粉是壁画里最贵的群青色——后来传入欧洲，被叫做 ultramarine，意为 '从海那边来的'。"
+        "content": "图坦卡蒙的黄金面具上，眉骨与眼线嵌的便是巴达赫尚青金石。古埃及人称它 hsbd，认为这石头是「天的碎片」，磨成粉是壁画里最贵的群青色——后来传入欧洲，被叫做 ultramarine，意为「从海那边来的」。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1518131491556-44604bf3eb33?auto=format&fit=crop&w=800&q=80"
+    "image": "https://images.unsplash.com/photo-1518131491556-44604bf3eb33?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "巴达赫尚矿区受塔利班和武装团体控制，开采收益每年约 2000 万美元流向其中。Global Witness 与美国 OFAC 均提示与之沾边的交易有合规风险。电商建议改采俄罗斯贝加尔湖、智利、美国加州产地。",
+      "required_cert": []
+    },
+    "provenance_alt": ["俄罗斯 · 贝加尔湖", "智利 · 奥瓦列", "美国 · 加州"]
+  },
+  {
+    "id": "muzo_emerald",
+    "name": "穆佐祖母绿",
+    "name_en": "Muzo Emerald",
+    "region": "哥伦比亚 · 穆佐",
+    "region_en": "Muzo, Colombia",
+    "coordinates": [5.5333, -74.1],
+    "category": "emerald",
+    "mineral_type": "绿柱石 / 祖母绿",
+    "color": "穆佐绿、深翠",
+    "stories": [
+      {
+        "culture": "穆伊斯卡 (Muisca)",
+        "title": "Fura 与 Tena",
+        "content": "创世神 Are 在伊塔约河边用泥造出最完美的一男一女，名为 Tena 与 Fura，赐他们永生，唯一的条件是要彼此忠贞。岁月太长，Fura 抵不过另一个男子，破了誓。她开始衰老、流下不能止息的眼泪——泪落入山岩，凝成一颗颗深绿色的石头。她的丈夫 Tena 用 yaraqui 之刀自尽，血染河水。从此穆佐的祖母绿矿脉里，永远夹着她的泪与他的血。"
+      },
+      {
+        "culture": "西班牙征服史",
+        "title": "失落的祖母绿之路",
+        "content": "1537 年西班牙人 Quesada 攻入穆伊斯卡领地，搜走了上千颗祖母绿。一艘载满祖母绿的盖伦船在百慕大海域沉没——四百年后被打捞起来时，绿色仍未褪。这条「从穆佐到欧洲」的祖母绿之路，比黄金之路开通得更早。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1611425143678-08fc480cafde?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "哥伦比亚祖母绿合法贸易；穆佐矿区由政府监管，建议要求 GRS / SSEF / NGTC 证书。",
+      "required_cert": ["NGTC", "GRS"]
+    }
+  },
+  {
+    "id": "ceylon_sapphire",
+    "name": "锡兰蓝宝石",
+    "name_en": "Ceylon Sapphire",
+    "region": "斯里兰卡 · 拉特纳普勒",
+    "region_en": "Ratnapura, Sri Lanka",
+    "coordinates": [6.6828, 80.4034],
+    "category": "sapphire",
+    "mineral_type": "刚玉 / 蓝宝石",
+    "color": "矢车菊蓝、皇家蓝",
+    "stories": [
+      {
+        "culture": "古印度 · 吠陀",
+        "title": "沙尼神的礼物",
+        "content": "蓝宝石在印度被称作 Neelam，是土星之神 Sani（沙尼）的护身石。沙尼性情严厉，他给人的礼物有「考验」——佩戴者若与之相合，即得富贵；若不合，则带来灾祸。古印度宝石师会先把蓝宝石放在枕下一夜，做梦祥和方敢佩戴。"
+      },
+      {
+        "culture": "近代 · 英国王室",
+        "title": "戴安娜的蓝戒",
+        "content": "斯里兰卡的蓝宝石因「矢车菊蓝」闻名，是 1981 年戴安娜王妃订婚戒指上那颗。后来这枚戒指传给了威廉王子，又戴在了凯特中指上。一颗石头跨越三代人，把一个家族的故事缝在自身。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "斯里兰卡蓝宝石合法贸易，多数处理（加热）需如实标注；电商建议要求 NGTC / SSEF / GRS 证书并注明处理方式。",
+      "required_cert": ["NGTC"]
+    }
+  },
+  {
+    "id": "merelani_tanzanite",
+    "name": "梅雷拉尼坦桑石",
+    "name_en": "Merelani Tanzanite",
+    "region": "坦桑尼亚 · 梅雷拉尼",
+    "region_en": "Merelani Hills, Tanzania",
+    "coordinates": [-3.5667, 36.9833],
+    "category": "other",
+    "mineral_type": "黝帘石 / 坦桑石",
+    "color": "紫罗兰、深蓝",
+    "stories": [
+      {
+        "culture": "马赛 (Maasai)",
+        "title": "闪电烧出的蓝",
+        "content": "1967 年的一场旱季野火席卷梅雷拉尼山脚的草原，闪电点燃了棕草。火过之后，马赛牧人发现地面上出现了一块块前所未见的紫蓝色石头——本是普通的褐色黝帘石，被野火烤过变了色。族里的老人说，那是天神 Engai 给新出生的男孩牛犊的祝福。从此马赛母亲会在初生的孩子身上系一颗坦桑石，祈求生命如那场火一样烧出新的颜色。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1518401996902-c3bd344b8e76?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "全球唯一产地坦桑尼亚梅雷拉尼山，合法贸易；建议关注 TanzaniteOne 等正规来源。"
+    }
+  },
+  {
+    "id": "baltic_amber",
+    "name": "波罗的海琥珀",
+    "name_en": "Baltic Amber",
+    "region": "立陶宛 · 帕兰加",
+    "region_en": "Palanga, Lithuania",
+    "coordinates": [55.9175, 21.0686],
+    "category": "amber",
+    "mineral_type": "树脂化石 / 琥珀",
+    "color": "蜂蜜金、樱桃红",
+    "stories": [
+      {
+        "culture": "立陶宛",
+        "title": "Jurate 与 Kastytis",
+        "content": "波罗的海底有一座琥珀宫，住着海神 Jurate。年轻的渔夫 Kastytis 在她管辖的海域撒网，本该被惩罚——她却爱上了他，把他领进琥珀宫。雷神 Perkunas 大怒，劈碎宫殿、把 Kastytis 沉入海底、把 Jurate 锁在宫殿废墟里。从此每逢风暴，海浪就把宫殿的金色碎片冲上岸——其中泪滴形的，是她为 Kastytis 哭的眼泪。立陶宛沿海至今仍以「检琥珀」为家族日常。"
+      },
+      {
+        "culture": "古罗马",
+        "title": "Phaethon 姐妹的眼泪",
+        "content": "希腊神话里太阳神之子 Phaethon 驾日车坠落，他的姐妹 Heliades 在波河岸边哭泣三月不止，被诸神化为白杨树。她们继续滴下的眼泪沿河漂入海，凝固成琥珀。罗马诗人奥维德在《变形记》里写过这一段。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1599733589046-833caccbbd03?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "波罗的海琥珀合法贸易。注意：缅甸虫珀涉及战乱冲突资源与化石保护双重风险，不可上架。"
+    }
+  },
+  {
+    "id": "cooberpedy_opal",
+    "name": "库柏佩迪欧泊",
+    "name_en": "Coober Pedy Opal",
+    "region": "澳大利亚 · 库柏佩迪",
+    "region_en": "Coober Pedy, Australia",
+    "coordinates": [-29.0144, 134.7544],
+    "category": "opal",
+    "mineral_type": "二氧化硅水合物 / 欧泊",
+    "color": "彩虹斑斓、火彩",
+    "stories": [
+      {
+        "culture": "阿兰达 (Arrernte) 原住民",
+        "title": "彩虹蛇的鳞片",
+        "content": "造物之神彩虹蛇 Wanambi 在梦创时代从天降至大地，鳞片散落沙漠。每一片鳞片落地后埋入红土，变成会发光的石头——白人后来管它叫欧泊。原住民相信欧泊不可随意挖出，因为那是彩虹蛇的身体；现在库柏佩迪的矿区仍保留若干「不可触碰」的圣地。"
+      },
+      {
+        "culture": "近代殖民",
+        "title": "沙漠里的地下城",
+        "content": "1915 年一队矿工的少年发现了欧泊矿脉，澳洲内陆烈日太毒，矿工干脆把家也凿进地下——库柏佩迪因此成为「世界欧泊之都」，半数人口住在地下穴居屋里，连教堂也在地下。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1612345318449-31bf52ae6b3e?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "澳洲欧泊合法贸易；注意「Triplet」「Doublet」拼合欧泊须如实标注，不可冒充实心欧泊。"
+    }
+  },
+  {
+    "id": "neyshabur_turquoise",
+    "name": "内沙布尔绿松石",
+    "name_en": "Neyshabur Turquoise",
+    "region": "伊朗 · 内沙布尔",
+    "region_en": "Neyshabur, Iran",
+    "coordinates": [36.2133, 58.7959],
+    "category": "turquoise",
+    "mineral_type": "含水磷酸盐 / 绿松石",
+    "color": "天空蓝、瓷蓝",
+    "stories": [
+      {
+        "culture": "琐罗亚斯德教 / 古波斯",
+        "title": "Ahura Mazda 的颜色",
+        "content": "古波斯人相信，绿松石的颜色是天空之神 Ahura Mazda 的颜色——把天空压成一片薄薄的石头佩在身上，就能在地上看到神的目光。古波斯骑士把绿松石嵌在马辔与剑柄上，相信能让自己远离坠马与刀伤。「波斯蓝」（Persian Blue）至今是世界绿松石的标准色。"
+      },
+      {
+        "culture": "丝路 · 唐",
+        "title": "胡商驼队",
+        "content": "唐代「胡商」把内沙布尔的绿松石经丝路驮入长安，称之为「瑟瑟」。在唐墓壁画中常见胡商身上垂着的串珠便是这种瑟瑟。绿松石之名「Turquoise」本身在法语里就是「土耳其的」，因为欧洲人最早从土耳其商人手中买到它——其实它来自更东的伊朗。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1611425862321-21ae9d96b67e?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "伊朗绿松石合法贸易；注意优化处理（注胶、染色）须如实标注。"
+    }
+  },
+  {
+    "id": "hetian_nephrite",
+    "name": "和田玉籽料",
+    "name_en": "Hetian Nephrite",
+    "region": "中国 · 新疆和田 · 玉龙喀什河",
+    "region_en": "Hotan, Xinjiang, China",
+    "coordinates": [37.1167, 79.9333],
+    "category": "nephrite",
+    "mineral_type": "透闪石 / 软玉",
+    "color": "羊脂白、青白、糖色",
+    "stories": [
+      {
+        "culture": "先秦",
+        "title": "和氏璧",
+        "content": "楚人卞和得璞玉，献于厉王，玉工说不过是石头，砍其左足；献于武王，又砍其右足。文王即位，卞和抱璞泣于荆山下，三日三夜，泪尽继之以血。文王使人剖璞，果得宝玉——后世名为「和氏璧」，秦始皇统六国后改琢为传国玉玺，「受命于天，既寿永昌」。"
+      },
+      {
+        "culture": "民俗",
+        "title": "玉龙喀什河的捞玉夜",
+        "content": "和田之南有玉龙喀什河，每年秋洪退水后，村人提灯下河摸石——「籽料」即被河水亿万年冲打、温润如肤的玉。古时摸玉以妇女为先，相传女子阴气能引玉出水。如今这一图景多半只剩在老照片里：自 2011 年起，玉龙喀什河禁止机械采挖；2023 年新疆所有和田玉矿停业，籽料只能从存量与少量招标渠道流通。"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1611425143678-08fc480cafde?auto=format&fit=crop&w=800&q=80",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "玉龙喀什河 2011 起禁止机械采挖，2023 年和田所有矿口停业；市场货源真假混杂、俄料 / 青海料冒充时有发生。电商须强制 NGTC 证书并注明产地。",
+      "required_cert": ["NGTC"]
+    }
   }
 ]

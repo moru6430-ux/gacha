@@ -1,12 +1,23 @@
+import LegalStatusCard from './LegalStatusCard.jsx'
+import { categoryColor, categoryLabel } from '../data/categories.js'
+
 export default function DetailPanel({ entry, onClose }) {
   if (!entry) return null
+
+  const catColor = categoryColor(entry.category)
 
   return (
     <aside className="absolute top-0 right-0 h-full w-full sm:w-[420px] bg-ink-900/95 backdrop-blur border-l border-ink-700 shadow-[-10px_0_40px_rgba(0,0,0,0.4)] z-[1000] flex flex-col">
       <div className="flex items-start justify-between px-5 py-4 border-b border-ink-700">
         <div>
-          <div className="text-xs text-stone-500 tracking-widest uppercase">
-            {entry.region_en || entry.region}
+          <div className="text-xs text-stone-500 tracking-widest uppercase flex items-center gap-1.5">
+            <span
+              className="inline-block w-2 h-2 rounded-full"
+              style={{ background: catColor, boxShadow: `0 0 6px ${catColor}aa` }}
+            />
+            <span>{categoryLabel(entry.category)}</span>
+            <span className="text-stone-600">·</span>
+            <span>{entry.region_en || entry.region}</span>
           </div>
           <h2 className="text-2xl font-serif text-amber-glow mt-0.5">{entry.name}</h2>
           <div className="text-xs text-stone-400 mt-1">
@@ -37,6 +48,15 @@ export default function DetailPanel({ entry, onClose }) {
                 e.currentTarget.style.display = 'none'
               }}
             />
+          </div>
+        )}
+
+        <LegalStatusCard status={entry.legal_status} />
+
+        {entry.provenance_alt?.length > 0 && (
+          <div className="mt-3 mx-5 text-xs text-stone-400">
+            <span className="text-stone-500">合规替代产地：</span>
+            {entry.provenance_alt.join(' · ')}
           </div>
         )}
 
