@@ -73,6 +73,16 @@ body {
   outline-offset: 2px;
 }
 
+.marker-pulse.is-favorited::after {
+  content: '';
+  position: absolute;
+  inset: -5px;
+  border-radius: 9999px;
+  border: 1px solid rgba(244, 114, 182, 0.7);
+  box-shadow: 0 0 8px rgba(244, 114, 182, 0.35);
+  pointer-events: none;
+}
+
 @keyframes marker-pulse {
   0% {
     box-shadow: 0 0 0 0 var(--marker-halo, rgba(245, 201, 122, 0.55));

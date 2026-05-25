@@ -1,16 +1,19 @@
-import { useMemo, useState } from 'react'
+import { lazy, Suspense, useMemo, useState } from 'react'
 import MapView from './components/MapView.jsx'
 import SearchBar from './components/SearchBar.jsx'
 import DetailPanel from './components/DetailPanel.jsx'
 import CategoryFilter from './components/CategoryFilter.jsx'
 import UserMenu from './components/UserMenu.jsx'
-import AuthModal from './components/AuthModal.jsx'
 import { useMinerals } from './hooks/useMinerals.js'
 import { useFavorites } from './hooks/useFavorites.jsx'
+import { useAuth } from './hooks/useAuth.jsx'
+
+const AuthModal = lazy(() => import('./components/AuthModal.jsx'))
 
 export default function App() {
   const { minerals, source } = useMinerals()
   const { favoriteIds, toggle } = useFavorites()
+  const { user } = useAuth()
 
   const [query, setQuery] = useState('')
   const [category, setCategory] = useState('all')
@@ -29,7 +32,11 @@ export default function App() {
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase()
     return minerals.filter((m) => {
-      if (category !== 'all' && (m.category || 'other') !== category) return false
+      if (category === 'favorites') {
+        if (!favoriteIds.has(m.id)) return false
+      } else if (category !== 'all' && (m.category || 'other') !== category) {
+        return false
+      }
       if (!q) return true
       return (
         m.name.toLowerCase().includes(q) ||
@@ -39,7 +46,7 @@ export default function App() {
         m.mineral_type?.toLowerCase().includes(q)
       )
     })
-  }, [query, category, minerals])
+  }, [query, category, minerals, favoriteIds])
 
   const selected = minerals.find((m) => m.id === selectedId) || null
 
@@ -66,13 +73,20 @@ export default function App() {
         <UserMenu onSignInClick={() => setAuthOpen(true)} />
       </header>
 
-      <CategoryFilter active={category} onChange={setCategory} counts={counts} />
+      <CategoryFilter
+        active={category}
+        onChange={setCategory}
+        counts={counts}
+        showFavorites={!!user}
+        favoritesCount={favoriteIds.size}
+      />
 
       <main className="flex-1 relative">
         <MapView
           entries={filtered}
           selectedId={selectedId}
           onSelect={setSelectedId}
+          favoriteIds={favoriteIds}
         />
         <DetailPanel
           entry={selected}
@@ -83,7 +97,11 @@ export default function App() {
         />
       </main>
 
-      <AuthModal open={authOpen} onClose={() => setAuthOpen(false)} />
+      {authOpen && (
+        <Suspense fallback={null}>
+          <AuthModal open onClose={() => setAuthOpen(false)} />
+        </Suspense>
+      )}
     </div>
   )
 }
