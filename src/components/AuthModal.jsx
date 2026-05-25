@@ -19,7 +19,28 @@ export default function AuthModal({ open, onClose, defaultMode = 'signin' }) {
     }
   }, [open, defaultMode])
 
+  useEffect(() => {
+    if (!open) return
+    const onKey = (e) => {
+      if (e.key === 'Escape') onClose()
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [open, onClose])
+
   if (!open) return null
+
+  const friendlyError = (msg) => {
+    if (!msg) return '未知错误'
+    if (/failed to fetch|networkerror|load failed/i.test(msg)) {
+      return '网络异常，连不上服务器——检查网络或稍后重试。'
+    }
+    if (/invalid login credentials/i.test(msg)) return '邮箱或密码不对。'
+    if (/user already registered/i.test(msg)) return '这个邮箱已经注册过了，直接登录吧。'
+    if (/password should be at least/i.test(msg)) return '密码至少 6 位。'
+    if (/email rate limit/i.test(msg)) return '请求太频繁，稍等一两分钟再试。'
+    return msg
+  }
 
   const handleSubmit = async (e) => {
     e.preventDefault()
@@ -41,7 +62,7 @@ export default function AuthModal({ open, onClose, defaultMode = 'signin' }) {
         }
       }
     } catch (err) {
-      setError(err.message || String(err))
+      setError(friendlyError(err.message || String(err)))
     } finally {
       setSubmitting(false)
     }
