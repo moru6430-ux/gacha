@@ -3,12 +3,19 @@ import MapView from './components/MapView.jsx'
 import SearchBar from './components/SearchBar.jsx'
 import DetailPanel from './components/DetailPanel.jsx'
 import CategoryFilter from './components/CategoryFilter.jsx'
-import minerals from './data/minerals.json'
+import UserMenu from './components/UserMenu.jsx'
+import AuthModal from './components/AuthModal.jsx'
+import { useMinerals } from './hooks/useMinerals.js'
+import { useFavorites } from './hooks/useFavorites.jsx'
 
 export default function App() {
+  const { minerals, source } = useMinerals()
+  const { favoriteIds, toggle } = useFavorites()
+
   const [query, setQuery] = useState('')
   const [category, setCategory] = useState('all')
   const [selectedId, setSelectedId] = useState(null)
+  const [authOpen, setAuthOpen] = useState(false)
 
   const counts = useMemo(() => {
     const acc = {}
@@ -17,7 +24,7 @@ export default function App() {
       acc[k] = (acc[k] || 0) + 1
     })
     return acc
-  }, [])
+  }, [minerals])
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase()
@@ -32,7 +39,7 @@ export default function App() {
         m.mineral_type?.toLowerCase().includes(q)
       )
     })
-  }, [query, category])
+  }, [query, category, minerals])
 
   const selected = minerals.find((m) => m.id === selectedId) || null
 
@@ -53,8 +60,10 @@ export default function App() {
           />
         </div>
         <div className="text-xs text-stone-500 hidden sm:block">
-          {filtered.length} / {minerals.length} 条记录
+          {filtered.length} / {minerals.length}
+          <span className="ml-1 text-stone-600">{source === 'supabase' ? '· 云端' : '· 本地'}</span>
         </div>
+        <UserMenu onSignInClick={() => setAuthOpen(true)} />
       </header>
 
       <CategoryFilter active={category} onChange={setCategory} counts={counts} />
@@ -68,8 +77,13 @@ export default function App() {
         <DetailPanel
           entry={selected}
           onClose={() => setSelectedId(null)}
+          favorited={selected ? favoriteIds.has(selected.id) : false}
+          onToggleFavorite={toggle}
+          onRequireAuth={() => setAuthOpen(true)}
         />
       </main>
+
+      <AuthModal open={authOpen} onClose={() => setAuthOpen(false)} />
     </div>
   )
 }

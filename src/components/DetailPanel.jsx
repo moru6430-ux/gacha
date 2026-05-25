@@ -1,7 +1,14 @@
 import LegalStatusCard from './LegalStatusCard.jsx'
+import FavoriteButton from './FavoriteButton.jsx'
 import { categoryColor, categoryLabel } from '../data/categories.js'
 
-export default function DetailPanel({ entry, onClose }) {
+export default function DetailPanel({
+  entry,
+  onClose,
+  favorited,
+  onToggleFavorite,
+  onRequireAuth,
+}) {
   if (!entry) return null
 
   const catColor = categoryColor(entry.category)
@@ -9,7 +16,7 @@ export default function DetailPanel({ entry, onClose }) {
   return (
     <aside className="absolute top-0 right-0 h-full w-full sm:w-[420px] bg-ink-900/95 backdrop-blur border-l border-ink-700 shadow-[-10px_0_40px_rgba(0,0,0,0.4)] z-[1000] flex flex-col">
       <div className="flex items-start justify-between px-5 py-4 border-b border-ink-700">
-        <div>
+        <div className="flex-1 min-w-0">
           <div className="text-xs text-stone-500 tracking-widest uppercase flex items-center gap-1.5">
             <span
               className="inline-block w-2 h-2 rounded-full"
@@ -17,17 +24,25 @@ export default function DetailPanel({ entry, onClose }) {
             />
             <span>{categoryLabel(entry.category)}</span>
             <span className="text-stone-600">·</span>
-            <span>{entry.region_en || entry.region}</span>
+            <span className="truncate">{entry.region_en || entry.region}</span>
           </div>
           <h2 className="text-2xl font-serif text-amber-glow mt-0.5">{entry.name}</h2>
           <div className="text-xs text-stone-400 mt-1">
             {entry.mineral_type}
             {entry.color && <span className="text-stone-500"> · {entry.color}</span>}
           </div>
+          <div className="mt-2">
+            <FavoriteButton
+              mineralId={entry.id}
+              favorited={favorited}
+              onToggle={onToggleFavorite}
+              onRequireAuth={onRequireAuth}
+            />
+          </div>
         </div>
         <button
           onClick={onClose}
-          className="text-stone-500 hover:text-stone-200 transition-colors -mr-1"
+          className="text-stone-500 hover:text-stone-200 transition-colors -mr-1 ml-2"
           aria-label="关闭"
         >
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
