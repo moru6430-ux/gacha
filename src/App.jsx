@@ -10,6 +10,7 @@ import { useAuth } from './hooks/useAuth.jsx'
 
 const AuthModal = lazy(() => import('./components/AuthModal.jsx'))
 const SellModal = lazy(() => import('./components/SellModal.jsx'))
+const MyListingsModal = lazy(() => import('./components/MyListingsModal.jsx'))
 
 export default function App() {
   const { minerals, source } = useMinerals()
@@ -21,6 +22,7 @@ export default function App() {
   const [selectedId, setSelectedId] = useState(null)
   const [authOpen, setAuthOpen] = useState(false)
   const [sellOpen, setSellOpen] = useState(false)
+  const [myListingsOpen, setMyListingsOpen] = useState(false)
   const [listingsRefreshKey, setListingsRefreshKey] = useState(0)
 
   const counts = useMemo(() => {
@@ -73,7 +75,10 @@ export default function App() {
           {filtered.length} / {minerals.length}
           <span className="ml-1 text-stone-600">{source === 'supabase' ? '· 云端' : '· 本地'}</span>
         </div>
-        <UserMenu onSignInClick={() => setAuthOpen(true)} />
+        <UserMenu
+          onSignInClick={() => setAuthOpen(true)}
+          onMyListingsClick={() => setMyListingsOpen(true)}
+        />
         {user && (
           <button
             onClick={() => setSellOpen(true)}
@@ -125,6 +130,18 @@ export default function App() {
             minerals={minerals}
             defaultMineralId={selectedId}
             onPublished={() => setListingsRefreshKey((k) => k + 1)}
+          />
+        </Suspense>
+      )}
+
+      {myListingsOpen && (
+        <Suspense fallback={null}>
+          <MyListingsModal
+            open
+            onClose={() => {
+              setMyListingsOpen(false)
+              setListingsRefreshKey((k) => k + 1)
+            }}
           />
         </Suspense>
       )}

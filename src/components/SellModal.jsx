@@ -28,6 +28,9 @@ export default function SellModal({ open, onClose, minerals, defaultMineralId, o
   const [contactMethod, setContactMethod] = useState('email')
   const [contactValue, setContactValue] = useState('')
   const [imageUrl, setImageUrl] = useState('')
+  const [uploadedImageUrl, setUploadedImageUrl] = useState('')
+  const [uploading, setUploading] = useState(false)
+  const [uploadError, setUploadError] = useState(null)
   const [certOrg, setCertOrg] = useState('NGTC')
   const [certNumber, setCertNumber] = useState('')
   const [certImageUrl, setCertImageUrl] = useState('')
@@ -48,6 +51,9 @@ export default function SellModal({ open, onClose, minerals, defaultMineralId, o
       setContactMethod('email')
       setContactValue(user?.email || '')
       setImageUrl('')
+      setUploadedImageUrl('')
+      setUploading(false)
+      setUploadError(null)
       setCertOrg('NGTC')
       setCertNumber('')
       setCertImageUrl('')
@@ -78,6 +84,35 @@ export default function SellModal({ open, onClose, minerals, defaultMineralId, o
   }, [rules, title, description, mineral, category])
 
   if (!open) return null
+
+  const handleFile = async (e) => {
+    const file = e.target.files?.[0]
+    if (!file) return
+    if (!user) {
+      setUploadError('请先登录')
+      return
+    }
+    if (file.size > 5 * 1024 * 1024) {
+      setUploadError('图片不能超过 5 MB')
+      return
+    }
+    setUploadError(null)
+    setUploading(true)
+    try {
+      const ext = (file.name.split('.').pop() || 'jpg').toLowerCase()
+      const path = `${user.id}/${crypto.randomUUID()}.${ext}`
+      const { error: upErr } = await supabase.storage
+        .from('listing-images')
+        .upload(path, file, { contentType: file.type, upsert: false })
+      if (upErr) throw upErr
+      const { data } = supabase.storage.from('listing-images').getPublicUrl(path)
+      setUploadedImageUrl(data.publicUrl)
+    } catch (err) {
+      setUploadError(err.message || String(err))
+    } finally {
+      setUploading(false)
+    }
+  }
 
   const handleSubmit = async (e) => {
     e.preventDefault()
@@ -133,6 +168,7 @@ export default function SellModal({ open, onClose, minerals, defaultMineralId, o
       }))
       const status = ev?.warnHits.length ? 'pending' : 'active'
 
+      const finalImageUrl = uploadedImageUrl || imageUrl.trim()
       const { data: inserted, error: insErr } = await supabase
         .from('listings')
         .insert({
@@ -144,7 +180,7 @@ export default function SellModal({ open, onClose, minerals, defaultMineralId, o
           price_cents: cents,
           currency,
           condition,
-          images: imageUrl.trim() ? [imageUrl.trim()] : [],
+          images: finalImageUrl ? [finalImageUrl] : [],
           contact_method: contactMethod,
           contact_value: contactValue.trim(),
           moderation_flags,
@@ -279,14 +315,47 @@ export default function SellModal({ open, onClose, minerals, defaultMineralId, o
             </Field>
           </div>
 
-          <Field label="图片 URL（可选，v1 用外链）">
-            <input
-              type="url"
-              value={imageUrl}
-              onChange={(e) => setImageUrl(e.target.value)}
-              placeholder="https://..."
-              className="w-full bg-ink-800 border border-ink-700 rounded-md px-3 py-2 text-sm text-stone-200 focus:outline-none focus:border-amber-glow/60"
-            />
+          <Field label="图片">
+            <div className="space-y-2">
+              <div className="flex items-center gap-3">
+                <input
+                  type="file"
+                  accept="image/jpeg,image/png,image/webp,image/gif"
+                  onChange={handleFile}
+                  disabled={uploading}
+                  className="text-xs text-stone-400 file:mr-2 file:py-1 file:px-2 file:rounded file:border file:border-ink-700 file:bg-ink-800 file:text-stone-300 file:text-xs hover:file:bg-ink-700 disabled:opacity-50"
+                />
+                {uploading && <span className="text-xs text-stone-500">上传中…</span>}
+                {uploadedImageUrl && !uploading && (
+                  <button
+                    type="button"
+                    onClick={() => setUploadedImageUrl('')}
+                    className="text-[11px] text-stone-500 hover:text-rose-300"
+                  >
+                    移除
+                  </button>
+                )}
+              </div>
+              {uploadedImageUrl && (
+                <img
+                  src={uploadedImageUrl}
+                  alt="preview"
+                  className="w-24 h-24 object-cover rounded border border-ink-700"
+                />
+              )}
+              {uploadError && (
+                <p className="text-xs text-rose-300">{uploadError}</p>
+              )}
+              {!uploadedImageUrl && (
+                <input
+                  type="url"
+                  value={imageUrl}
+                  onChange={(e) => setImageUrl(e.target.value)}
+                  placeholder="或贴一个外链 URL（如 Wikimedia Commons）"
+                  className="w-full bg-ink-800 border border-ink-700 rounded-md px-3 py-2 text-xs text-stone-200 focus:outline-none focus:border-amber-glow/60"
+                />
+              )}
+            </div>
           </Field>
 
           <div className="grid grid-cols-3 gap-3">

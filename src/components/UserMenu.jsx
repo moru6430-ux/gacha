@@ -7,7 +7,7 @@ function initial(user) {
   return name.charAt(0).toUpperCase()
 }
 
-export default function UserMenu({ onSignInClick }) {
+export default function UserMenu({ onSignInClick, onMyListingsClick }) {
   const { user, signOut } = useAuth()
   const [open, setOpen] = useState(false)
 
@@ -44,11 +44,21 @@ export default function UserMenu({ onSignInClick }) {
           </div>
           <button
             onMouseDown={(e) => e.preventDefault()}
+            onClick={() => {
+              onMyListingsClick?.()
+              setOpen(false)
+            }}
+            className="w-full text-left px-3 py-2 text-xs text-stone-300 hover:bg-ink-700 transition-colors"
+          >
+            我的发布
+          </button>
+          <button
+            onMouseDown={(e) => e.preventDefault()}
             onClick={async () => {
               await signOut()
               setOpen(false)
             }}
-            className="w-full text-left px-3 py-2 text-xs text-stone-300 hover:bg-ink-700 transition-colors"
+            className="w-full text-left px-3 py-2 text-xs text-stone-300 hover:bg-ink-700 transition-colors border-t border-ink-700"
           >
             登出
           </button>
