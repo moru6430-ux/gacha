@@ -9,6 +9,7 @@ import { useFavorites } from './hooks/useFavorites.jsx'
 import { useAuth } from './hooks/useAuth.jsx'
 
 const AuthModal = lazy(() => import('./components/AuthModal.jsx'))
+const SellModal = lazy(() => import('./components/SellModal.jsx'))
 
 export default function App() {
   const { minerals, source } = useMinerals()
@@ -19,6 +20,8 @@ export default function App() {
   const [category, setCategory] = useState('all')
   const [selectedId, setSelectedId] = useState(null)
   const [authOpen, setAuthOpen] = useState(false)
+  const [sellOpen, setSellOpen] = useState(false)
+  const [listingsRefreshKey, setListingsRefreshKey] = useState(0)
 
   const counts = useMemo(() => {
     const acc = {}
@@ -71,6 +74,14 @@ export default function App() {
           <span className="ml-1 text-stone-600">{source === 'supabase' ? '· 云端' : '· 本地'}</span>
         </div>
         <UserMenu onSignInClick={() => setAuthOpen(true)} />
+        {user && (
+          <button
+            onClick={() => setSellOpen(true)}
+            className="hidden sm:inline text-xs px-3 py-1.5 rounded-full bg-amber-glow/15 text-amber-glow border border-amber-glow/40 hover:bg-amber-glow/25 transition-colors"
+          >
+            + 挂一件
+          </button>
+        )}
       </header>
 
       <CategoryFilter
@@ -94,12 +105,27 @@ export default function App() {
           favorited={selected ? favoriteIds.has(selected.id) : false}
           onToggleFavorite={toggle}
           onRequireAuth={() => setAuthOpen(true)}
+          canSell={!!user}
+          onSellClick={() => setSellOpen(true)}
+          listingsRefreshKey={listingsRefreshKey}
         />
       </main>
 
       {authOpen && (
         <Suspense fallback={null}>
           <AuthModal open onClose={() => setAuthOpen(false)} />
+        </Suspense>
+      )}
+
+      {sellOpen && (
+        <Suspense fallback={null}>
+          <SellModal
+            open
+            onClose={() => setSellOpen(false)}
+            minerals={minerals}
+            defaultMineralId={selectedId}
+            onPublished={() => setListingsRefreshKey((k) => k + 1)}
+          />
         </Suspense>
       )}
     </div>

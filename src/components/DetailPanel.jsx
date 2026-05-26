@@ -1,6 +1,7 @@
 import LegalStatusCard from './LegalStatusCard.jsx'
 import FavoriteButton from './FavoriteButton.jsx'
 import SourcesList from './SourcesList.jsx'
+import ListingsByMineral from './ListingsByMineral.jsx'
 import { categoryColor, categoryLabel } from '../data/categories.js'
 
 export default function DetailPanel({
@@ -9,6 +10,9 @@ export default function DetailPanel({
   favorited,
   onToggleFavorite,
   onRequireAuth,
+  canSell,
+  onSellClick,
+  listingsRefreshKey,
 }) {
   if (!entry) return null
 
@@ -94,6 +98,13 @@ export default function DetailPanel({
         </div>
 
         <SourcesList sources={entry.sources} />
+
+        <ListingsByMineral
+          key={`${entry.id}-${listingsRefreshKey || 0}`}
+          mineralId={entry.id}
+          canSell={canSell}
+          onSellClick={onSellClick}
+        />
       </div>
 
       <footer className="px-5 py-3 border-t border-ink-700 text-xs text-stone-500">

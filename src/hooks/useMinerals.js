@@ -24,6 +24,10 @@ export function useMinerals() {
           setSource('supabase')
         }
       })
+      .catch((err) => {
+        if (cancelled) return
+        console.warn('[minerals] supabase fetch threw, keeping local', err.message)
+      })
     return () => {
       cancelled = true
     }

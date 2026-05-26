@@ -26,6 +26,11 @@ export function useFavorites() {
         }
         setLoading(false)
       })
+      .catch((err) => {
+        if (cancelled) return
+        console.warn('[favorites] fetch threw', err.message)
+        setLoading(false)
+      })
     return () => {
       cancelled = true
     }
