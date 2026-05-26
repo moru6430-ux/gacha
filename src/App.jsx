@@ -8,7 +8,7 @@ import { useMinerals } from './hooks/useMinerals.js'
 import { useFavorites } from './hooks/useFavorites.jsx'
 import { useAuth } from './hooks/useAuth.jsx'
 import {
-  getContinent,
+  getContinents,
   CONTINENT_MAP,
 } from './data/continents.js'
 
@@ -40,12 +40,13 @@ export default function App() {
     return acc
   }, [minerals])
 
-  // 大洲计数（用于入口徽章）
+  // 大洲计数（用于入口徽章）。横跨多洲的矿物在每个所属大洲各计一次。
   const continentCounts = useMemo(() => {
     const acc = {}
     minerals.forEach((m) => {
-      const cid = getContinent(m.coordinates, m.continent)
-      acc[cid] = (acc[cid] || 0) + 1
+      getContinents(m.coordinates, m.continent).forEach((cid) => {
+        acc[cid] = (acc[cid] || 0) + 1
+      })
     })
     return acc
   }, [minerals])
@@ -61,7 +62,8 @@ export default function App() {
     return minerals.filter((m) => {
       // 大洲过滤（只在选中大洲、且没用搜索 / 分类时启用，否则全局搜）
       if (selectedContinent && !hasFilter) {
-        if (getContinent(m.coordinates, m.continent) !== selectedContinent) return false
+        if (!getContinents(m.coordinates, m.continent).includes(selectedContinent))
+          return false
       }
       if (category === 'favorites') {
         if (!favoriteIds.has(m.id)) return false

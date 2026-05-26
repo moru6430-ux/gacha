@@ -75,8 +75,7 @@ export const CONTINENT_MAP = Object.fromEntries(CONTINENTS.map((c) => [c.id, c])
 // 通过坐标推断大洲。每条矿物也可以显式带 continent 字段做覆盖。
 // 顺序：先窄后宽，先确定的后兜底。Europe 提到 Africa 前面是为了让希腊
 // 这类地中海北岸不被吞进 Africa；东边界设到 55E 把伊朗留给 Asia。
-export function getContinent(coordinates, override) {
-  if (override) return override
+function classify(coordinates) {
   if (!coordinates) return 'asia'
   const [lat, lng] = coordinates
   if (lat <= 15 && lng >= -82 && lng <= -34) return 'south_america'
@@ -90,6 +89,19 @@ export function getContinent(coordinates, override) {
   if (lat >= 35 && lng >= -25 && lng <= 55) return 'europe'
   if (lat >= -35 && lat <= 38 && lng >= -20 && lng <= 52) return 'africa'
   return 'asia'
+}
+
+// 返回该矿物所属的大洲数组。多数矿物一个；边界矿物（如乌拉尔横跨欧亚）
+// 可以在数据里设 continent: ['europe', 'asia']，两边的入口都会计数 + 出现。
+export function getContinents(coordinates, override) {
+  if (Array.isArray(override) && override.length > 0) return override
+  if (typeof override === 'string') return [override]
+  return [classify(coordinates)]
+}
+
+// 兼容旧调用：取第一个作为主要归属
+export function getContinent(coordinates, override) {
+  return getContinents(coordinates, override)[0]
 }
 
 export function continentLabel(id) {

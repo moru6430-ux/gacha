@@ -36,6 +36,12 @@ export default function DetailPanel({
             {entry.mineral_type}
             {entry.color && <span className="text-stone-500"> · {entry.color}</span>}
           </div>
+          {entry.border_note && (
+            <div className="mt-2 inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-violet-500/10 border border-violet-400/30 text-violet-300 text-[11px]">
+              <span>◇</span>
+              <span>{entry.border_note}</span>
+            </div>
+          )}
           <div className="mt-2">
             <FavoriteButton
               mineralId={entry.id}

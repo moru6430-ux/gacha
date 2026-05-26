@@ -440,7 +440,12 @@
         "title": "Mindat: Malachite",
         "url": "https://www.mindat.org/min-2550.html"
       }
-    ]
+    ],
+    "continent": [
+      "europe",
+      "asia"
+    ],
+    "border_note": "横跨欧亚边界 · 已知神话来自俄罗斯一侧"
   },
   {
     "id": "tibetan_dzi",
