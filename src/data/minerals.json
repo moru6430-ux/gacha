@@ -56,12 +56,13 @@
         "content": "拜占庭人改写了这个故事——珍珠是圣母在清晨流下的露珠，被海里的牡蛎接住。教堂里的圣像画因此常用珍珠装饰圣母的衣襟。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Akoya_pearls.JPG?width=640",
     "legal_status": {
       "commerce": "safe",
       "notes": "现代地中海珍珠以养殖为主；天然野生珍珠极稀少且不参与商业交易。"
     },
-    "marker_color": "#f0d8c4"
+    "marker_color": "#f0d8c4",
+    "image_credit": "Akoya 珍珠（Wikimedia Commons）— 暂代地中海珍珠"
   },
   {
     "id": "hepu_pearl",
@@ -88,12 +89,13 @@
         "content": "东汉孟尝任合浦太守，前任贪取无度，珠蚌竟徙去交趾。孟尝革除苛政、息盗劝农，珠又自交趾归合浦。「合浦珠还」成了清廉政事换回生灵的典故。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Akoya_pearls.JPG?width=640",
     "legal_status": {
       "commerce": "safe",
       "notes": "国家地理标志产品，合法养殖；天然南珠存量极少，市售以养殖为主。"
     },
-    "marker_color": "#e9e2d0"
+    "marker_color": "#e9e2d0",
+    "image_credit": "Akoya 珍珠（Wikimedia Commons）— 暂代南珠"
   },
   {
     "id": "mogok_ruby",
@@ -120,7 +122,7 @@
         "content": "古缅甸战士相信，把一颗抹谷红宝石塞进皮肉里，刀剑就近不了身。马可·波罗在游记中写到「罗刹国」的红宝石，正是经由抹谷流向南亚和波斯的这一脉。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruby_cristal.jpg?width=640",
     "legal_status": {
       "commerce": "restricted",
       "notes": "美国 BURMA Act 对缅甸红宝石实施进口限制；产地溯源困难。中国境内合法销售须有 NGTC 或国际同等证书。",
@@ -129,7 +131,8 @@
         "GRS"
       ]
     },
-    "marker_color": "#c1132c"
+    "marker_color": "#c1132c",
+    "image_credit": "红宝石晶体（Wikimedia Commons）"
   },
   {
     "id": "badakhshan_lapis",
@@ -156,7 +159,7 @@
         "content": "图坦卡蒙的黄金面具上，眉骨与眼线嵌的便是巴达赫尚青金石。古埃及人称它 hsbd，认为这石头是「天的碎片」，磨成粉是壁画里最贵的群青色——后来传入欧洲，被叫做 ultramarine，意为「从海那边来的」。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1518131491556-44604bf3eb33?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lapis_lazuli_(lazuritic_gneiss)_(Sar-e-Sang_Deposit,_Sakhi_Formation,_Precambrian,_2.4-2.7_Ga_(%3F);_Sar-e-Sang_Mining_District,_Hindu-Kush_Mountains,_Afghanistan)_2_(47087519601).jpg?width=640",
     "legal_status": {
       "commerce": "restricted",
       "notes": "巴达赫尚矿区受塔利班和武装团体控制，开采收益每年约 2000 万美元流向其中。Global Witness 与美国 OFAC 均提示与之沾边的交易有合规风险。电商建议改采俄罗斯贝加尔湖、智利、美国加州产地。",
@@ -167,7 +170,8 @@
       "智利 · 奥瓦列",
       "美国 · 加州"
     ],
-    "marker_color": "#1d3b8e"
+    "marker_color": "#1d3b8e",
+    "image_credit": "巴达赫尚 Sar-e-Sang 矿区青金石原石 / James St. John CC-BY"
   },
   {
     "id": "muzo_emerald",
@@ -194,7 +198,7 @@
         "content": "1537 年西班牙人 Quesada 攻入穆伊斯卡领地，搜走了上千颗祖母绿。一艘载满祖母绿的盖伦船在百慕大海域沉没——四百年后被打捞起来时，绿色仍未褪。这条「从穆佐到欧洲」的祖母绿之路，比黄金之路开通得更早。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1611425143678-08fc480cafde?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emerald-calcite-pyrite_on_carbonaceous_shale_(Muzo_Hydrothermal_Emerald_Deposit;_Muzo_area,_Boyaca,_Colombia)_(32688929206).jpg?width=640",
     "legal_status": {
       "commerce": "safe",
       "notes": "哥伦比亚祖母绿合法贸易；穆佐矿区由政府监管，建议要求 GRS / SSEF / NGTC 证书。",
@@ -203,7 +207,8 @@
         "GRS"
       ]
     },
-    "marker_color": "#0a8056"
+    "marker_color": "#0a8056",
+    "image_credit": "穆佐矿区祖母绿原石 / James St. John CC-BY"
   },
   {
     "id": "ceylon_sapphire",
@@ -260,12 +265,13 @@
         "content": "1967 年的一场旱季野火席卷梅雷拉尼山脚的草原，闪电点燃了棕草。火过之后，马赛牧人发现地面上出现了一块块前所未见的紫蓝色石头——本是普通的褐色黝帘石，被野火烤过变了色。族里的老人说，那是天神 Engai 给新出生的男孩牛犊的祝福。从此马赛母亲会在初生的孩子身上系一颗坦桑石，祈求生命如那场火一样烧出新的颜色。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1518401996902-c3bd344b8e76?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tanzanite_(Merelani_Tanzanite_Deposit,_Merelani_Hills,_Arusha,_Tanzania).JPG?width=640",
     "legal_status": {
       "commerce": "safe",
       "notes": "全球唯一产地坦桑尼亚梅雷拉尼山，合法贸易；建议关注 TanzaniteOne 等正规来源。"
     },
-    "marker_color": "#6452c8"
+    "marker_color": "#6452c8",
+    "image_credit": "梅雷拉尼矿区坦桑石 / Wikimedia Commons CC-BY-SA"
   },
   {
     "id": "baltic_amber",
@@ -292,12 +298,13 @@
         "content": "希腊神话里太阳神之子 Phaethon 驾日车坠落，他的姐妹 Heliades 在波河岸边哭泣三月不止，被诸神化为白杨树。她们继续滴下的眼泪沿河漂入海，凝固成琥珀。罗马诗人奥维德在《变形记》里写过这一段。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1599733589046-833caccbbd03?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_piece_of_raw_Baltic_amber_2.jpg?width=640",
     "legal_status": {
       "commerce": "safe",
       "notes": "波罗的海琥珀合法贸易。注意：缅甸虫珀涉及战乱冲突资源与化石保护双重风险，不可上架。"
     },
-    "marker_color": "#c97f1a"
+    "marker_color": "#c97f1a",
+    "image_credit": "波罗的海琥珀原石 / Wikimedia Commons"
   },
   {
     "id": "cooberpedy_opal",
@@ -324,12 +331,13 @@
         "content": "1915 年一队矿工的少年发现了欧泊矿脉，澳洲内陆烈日太毒，矿工干脆把家也凿进地下——库柏佩迪因此成为「世界欧泊之都」，半数人口住在地下穴居屋里，连教堂也在地下。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1612345318449-31bf52ae6b3e?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/8ct_Lightning_Ridge_Black_Opal.JPG?width=640",
     "legal_status": {
       "commerce": "safe",
       "notes": "澳洲欧泊合法贸易；注意「Triplet」「Doublet」拼合欧泊须如实标注，不可冒充实心欧泊。"
     },
-    "marker_color": "#4dcae2"
+    "marker_color": "#4dcae2",
+    "image_credit": "澳洲黑欧泊（来自 Lightning Ridge，非库柏佩迪本矿）"
   },
   {
     "id": "neyshabur_turquoise",

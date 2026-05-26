@@ -72,8 +72,15 @@ export default function DetailPanel({
               loading="lazy"
               onError={(e) => {
                 e.currentTarget.style.display = 'none'
+                const credit = e.currentTarget.nextElementSibling
+                if (credit) credit.style.display = 'none'
               }}
             />
+            {entry.image_credit && (
+              <div className="text-[10px] text-stone-600 mt-1 italic">
+                图：{entry.image_credit}
+              </div>
+            )}
           </div>
         )}
 
