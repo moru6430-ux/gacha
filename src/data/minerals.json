@@ -841,5 +841,67 @@
         "url": "https://www.greenshinto.com/2011/07/09/the-three-imperial-regalia/"
       }
     ]
+  },
+  {
+    "id": "paraiba_tourmaline",
+    "name": "帕拉伊巴碧玺",
+    "name_en": "Paraíba Tourmaline",
+    "region": "巴西 · 帕拉伊巴州 · 圣若泽德巴塔利亚",
+    "region_en": "São José de Batalha, Paraíba State, Brazil",
+    "coordinates": [
+      -6.9,
+      -36.5
+    ],
+    "category": "tourmaline",
+    "mineral_type": "电气石 / 含铜锰碧玺（Cuprian Elbaite）",
+    "color": "霓虹蓝绿（铜元素发色，英文称 neon blue / paraiba blue）",
+    "stories": [
+      {
+        "culture": "巴西原住民 · 图皮 / 帕拉伊巴州口传",
+        "title": "电石匠的山",
+        "content": "帕拉伊巴碧玺的发现本身就是一段近现代神话。1981 年，矿工 Heitor Dimas Barbosa 凭着「山里藏着什么前所未见的东西」的直觉，带着一把锄头在帕拉伊巴州东北角的花岗伟晶岩山丘上凿了整整八年。1989 年秋，他的矿洞终于打开了一个晶腔——里面是一批蓝绿色宝石，颜色明亮到宝石学家起初以为是染色假货。\n\n当地图皮语支各族的口传中，这片山丘被称为「发光之土」——雨后地面偶尔反出异样的蓝绿光泽，被认为是大地灵魂的呼吸。Barbosa 自己后来说，他是被反复做的同一个梦驱动才不肯放弃：梦里有人告诉他「再深一点，那里有光」。"
+      },
+      {
+        "culture": "现代宝石学",
+        "title": "铜的颜色，月光的强度",
+        "content": "帕拉伊巴碧玺的颜色来自极微量的铜（Cu²⁺）和锰（Mn³⁺）取代了晶格中的铝——这在碧玺家族里绝无仅有，因为铜不是碧玺的正常着色元素。铜的特殊之处在于它的发光效率：1 克拉帕拉伊巴能反射的光子数量远超 1 克拉普通蓝色宝石，宝石学家形容它「即使在阴影里也自带光源」，英语圈直接叫它 neon blue。\n\n1990 年代末，莫桑比克和尼日利亚发现了化学成分几乎相同的铜碧玺矿床。争议随之而来：所谓「帕拉伊巴碧玺」到底是一个地理来源标签，还是一个矿物成分标签？GIA 在 2006 年给出折中定义：凡含铜致色的碧玺，无论来自巴西、莫桑比克还是尼日利亚，皆可标注产地后冠以「帕拉伊巴型碧玺」。但市场上「帕拉伊巴」三字的溢价依然只留给巴西原产——同样成分，巴西产的克拉价可以是非洲产的十倍。"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Paraiba_tourmaline_on_matrix_-_Mina_Batalha%2C_Sao_Jose_de_Batalha%2C_Paraiba%2C_Brazil.jpg/640px-Paraiba_tourmaline_on_matrix_-_Mina_Batalha%2C_Sao_Jose_de_Batalha%2C_Paraiba%2C_Brazil.jpg",
+    "image_credit": "Wikimedia Commons – CC-BY-SA",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "巴西、莫桑比克、尼日利亚产铜碧玺均合法贸易；巴西原矿区已近枯竭，高品质原石极稀。GIA / GRS 产地证书对价格影响极大。",
+      "required_cert": [
+        "GIA",
+        "GRS"
+      ]
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Shigley, James E.",
+        "title": "Cuprian Tourmaline from Brazil",
+        "year": 1990,
+        "locator": "Gems & Gemology, Vol. 26, pp. 189-205"
+      },
+      {
+        "type": "secondary",
+        "author": "Laurs, Brendan M. et al.",
+        "title": "Copper-bearing tourmaline from Mozambique: A new find",
+        "year": 2008,
+        "locator": "Gems & Gemology, Vol. 44"
+      },
+      {
+        "type": "web",
+        "title": "Paraíba Tourmaline – GIA",
+        "url": "https://www.gia.edu/paraiba-tourmaline"
+      },
+      {
+        "type": "web",
+        "title": "Paraíba tourmaline – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Para%C3%ADba_tourmaline"
+      }
+    ]
   }
 ]
