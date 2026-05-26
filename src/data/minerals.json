@@ -28,7 +28,8 @@
     "legal_status": {
       "commerce": "safe",
       "notes": "黑唇牡蛎养殖珍珠合法流通；法属波利尼西亚已建立珍珠分级与原产地标识体系。"
-    }
+    },
+    "marker_color": "#2a3b3a"
   },
   {
     "id": "mediterranean_pearl",
@@ -59,7 +60,8 @@
     "legal_status": {
       "commerce": "safe",
       "notes": "现代地中海珍珠以养殖为主；天然野生珍珠极稀少且不参与商业交易。"
-    }
+    },
+    "marker_color": "#f0d8c4"
   },
   {
     "id": "hepu_pearl",
@@ -90,7 +92,8 @@
     "legal_status": {
       "commerce": "safe",
       "notes": "国家地理标志产品，合法养殖；天然南珠存量极少，市售以养殖为主。"
-    }
+    },
+    "marker_color": "#e9e2d0"
   },
   {
     "id": "mogok_ruby",
@@ -125,7 +128,8 @@
         "NGTC",
         "GRS"
       ]
-    }
+    },
+    "marker_color": "#c1132c"
   },
   {
     "id": "badakhshan_lapis",
@@ -162,7 +166,8 @@
       "俄罗斯 · 贝加尔湖",
       "智利 · 奥瓦列",
       "美国 · 加州"
-    ]
+    ],
+    "marker_color": "#1d3b8e"
   },
   {
     "id": "muzo_emerald",
@@ -197,7 +202,8 @@
         "NGTC",
         "GRS"
       ]
-    }
+    },
+    "marker_color": "#0a8056"
   },
   {
     "id": "ceylon_sapphire",
@@ -231,7 +237,8 @@
       "required_cert": [
         "NGTC"
       ]
-    }
+    },
+    "marker_color": "#2e5cb8"
   },
   {
     "id": "merelani_tanzanite",
@@ -257,7 +264,8 @@
     "legal_status": {
       "commerce": "safe",
       "notes": "全球唯一产地坦桑尼亚梅雷拉尼山，合法贸易；建议关注 TanzaniteOne 等正规来源。"
-    }
+    },
+    "marker_color": "#6452c8"
   },
   {
     "id": "baltic_amber",
@@ -288,7 +296,8 @@
     "legal_status": {
       "commerce": "safe",
       "notes": "波罗的海琥珀合法贸易。注意：缅甸虫珀涉及战乱冲突资源与化石保护双重风险，不可上架。"
-    }
+    },
+    "marker_color": "#c97f1a"
   },
   {
     "id": "cooberpedy_opal",
@@ -319,7 +328,8 @@
     "legal_status": {
       "commerce": "safe",
       "notes": "澳洲欧泊合法贸易；注意「Triplet」「Doublet」拼合欧泊须如实标注，不可冒充实心欧泊。"
-    }
+    },
+    "marker_color": "#4dcae2"
   },
   {
     "id": "neyshabur_turquoise",
@@ -350,7 +360,8 @@
     "legal_status": {
       "commerce": "safe",
       "notes": "伊朗绿松石合法贸易；注意优化处理（注胶、染色）须如实标注。"
-    }
+    },
+    "marker_color": "#4ab1b6"
   },
   {
     "id": "hetian_nephrite",
@@ -384,7 +395,8 @@
       "required_cert": [
         "NGTC"
       ]
-    }
+    },
+    "marker_color": "#e5dec5"
   },
   {
     "id": "ural_malachite",
@@ -445,7 +457,8 @@
       "europe",
       "asia"
     ],
-    "border_note": "横跨欧亚边界 · 已知神话来自俄罗斯一侧"
+    "border_note": "横跨欧亚边界 · 已知神话来自俄罗斯一侧",
+    "marker_color": "#0b7a5a"
   },
   {
     "id": "tibetan_dzi",
@@ -505,7 +518,8 @@
         "year": 1988,
         "locator": "The Tibet Journal, Vol. 13, No. 1"
       }
-    ]
+    ],
+    "marker_color": "#3a2a1c"
   },
   {
     "id": "meso_obsidian",
@@ -563,7 +577,8 @@
         "title": "Tezcatlipoca – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Tezcatlipoca"
       }
-    ]
+    ],
+    "marker_color": "#1c2820"
   },
   {
     "id": "sri_moonstone",
@@ -612,7 +627,8 @@
         "title": "Moonstone (Hecatolite) – Chandramani Stone",
         "url": "https://www.iafaforallergy.com/semi-precious-stones-upratnas/chandramani-stone-moonstone-hecatolite/"
       }
-    ]
+    ],
+    "marker_color": "#c9d8eb"
   },
   {
     "id": "koh_i_noor_diamond",
@@ -682,7 +698,8 @@
         "title": "Tower of London · Crown Jewels",
         "url": "https://www.hrp.org.uk/tower-of-london/whats-on/the-crown-jewels/"
       }
-    ]
+    ],
+    "marker_color": "#eef2ff"
   },
   {
     "id": "imperial_topaz",
@@ -733,7 +750,8 @@
         "title": "Imperial Topaz from Brazil – Pala International",
         "url": "http://www.palagems.com/topaz-buyers-guide"
       }
-    ]
+    ],
+    "marker_color": "#d97c2d"
   },
   {
     "id": "herkimer_quartz",
@@ -783,7 +801,8 @@
         "title": "Diamond Mountain Mining (Herkimer NY)",
         "url": "https://www.diamondmountainmining.com/about-the-mine"
       }
-    ]
+    ],
+    "marker_color": "#e8e9eb"
   },
   {
     "id": "magatama_jade",
@@ -845,7 +864,8 @@
         "title": "The Three Imperial Regalia (Sanshu no Jingi) – Green Shinto",
         "url": "https://www.greenshinto.com/2011/07/09/the-three-imperial-regalia/"
       }
-    ]
+    ],
+    "marker_color": "#00a86b"
   },
   {
     "id": "paraiba_tourmaline",
@@ -907,6 +927,7 @@
         "title": "Paraíba tourmaline – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Para%C3%ADba_tourmaline"
       }
-    ]
+    ],
+    "marker_color": "#00d4dc"
   }
 ]

@@ -73,15 +73,13 @@ export default function MapView({
     return (entry) => {
       const isSelected = entry.id === selectedId
       const isFavorited = favoriteIds?.has(entry.id) || false
+      const color = entry.marker_color || categoryColor(entry.category)
       const key =
-        (entry.category || 'other') +
+        color +
         (isSelected ? ':sel' : '') +
         (isFavorited ? ':fav' : '')
       if (!cache.has(key)) {
-        cache.set(
-          key,
-          buildIcon(categoryColor(entry.category), isSelected, isFavorited),
-        )
+        cache.set(key, buildIcon(color, isSelected, isFavorited))
       }
       return cache.get(key)
     }
