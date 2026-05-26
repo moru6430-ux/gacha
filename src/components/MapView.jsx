@@ -2,6 +2,8 @@ import { useEffect, useMemo } from 'react'
 import { MapContainer, TileLayer, Marker, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { categoryColor } from '../data/categories.js'
+import { CONTINENT_MAP } from '../data/continents.js'
+import ContinentLayer from './ContinentLayer.jsx'
 
 function hexToRgba(hex, alpha) {
   const m = hex.replace('#', '')
@@ -34,7 +36,36 @@ function FlyTo({ coordinates }) {
   return null
 }
 
-export default function MapView({ entries, selectedId, onSelect, favoriteIds }) {
+// 切换视图层级时的过场：进入大洲 → flyToBounds；回到世界 → flyTo 默认中心
+function ViewTransition({ viewMode, continentId }) {
+  const map = useMap()
+  useEffect(() => {
+    if (viewMode === 'continent' && continentId) {
+      const c = CONTINENT_MAP[continentId]
+      if (c) {
+        map.flyToBounds(c.bounds, {
+          duration: 1.6,
+          easeLinearity: 0.25,
+          padding: [40, 40],
+        })
+      }
+    } else if (viewMode === 'world') {
+      map.flyTo([20, 30], 2, { duration: 1.6, easeLinearity: 0.25 })
+    }
+  }, [viewMode, continentId, map])
+  return null
+}
+
+export default function MapView({
+  entries,
+  selectedId,
+  onSelect,
+  favoriteIds,
+  viewMode,
+  selectedContinent,
+  continentCounts,
+  onPickContinent,
+}) {
   const selected = entries.find((e) => e.id === selectedId)
 
   const icons = useMemo(() => {
@@ -56,6 +87,9 @@ export default function MapView({ entries, selectedId, onSelect, favoriteIds }) 
     }
   }, [selectedId, favoriteIds])
 
+  const showContinents = viewMode === 'world'
+  const showMarkers = !showContinents
+
   return (
     <MapContainer
       center={[20, 30]}
@@ -70,16 +104,24 @@ export default function MapView({ entries, selectedId, onSelect, favoriteIds }) 
         url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
         subdomains="abcd"
       />
-      {entries.map((entry) => (
-        <Marker
-          key={entry.id}
-          position={entry.coordinates}
-          icon={icons(entry)}
-          eventHandlers={{
-            click: () => onSelect(entry.id),
-          }}
-        />
-      ))}
+
+      {showContinents && (
+        <ContinentLayer counts={continentCounts} onPick={onPickContinent} />
+      )}
+
+      {showMarkers &&
+        entries.map((entry) => (
+          <Marker
+            key={entry.id}
+            position={entry.coordinates}
+            icon={icons(entry)}
+            eventHandlers={{
+              click: () => onSelect(entry.id),
+            }}
+          />
+        ))}
+
+      <ViewTransition viewMode={viewMode} continentId={selectedContinent} />
       {selected && <FlyTo coordinates={selected.coordinates} />}
     </MapContainer>
   )
