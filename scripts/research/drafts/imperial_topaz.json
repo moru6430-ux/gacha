@@ -1,0 +1,48 @@
+{
+  "id": "imperial_topaz",
+  "name": "帝王托帕石",
+  "name_en": "Imperial Topaz",
+  "region": "巴西 · 米纳斯吉拉斯 · 黑金城",
+  "region_en": "Ouro Preto, Minas Gerais, Brazil",
+  "coordinates": [-20.3856, -43.5036],
+  "category": "topaz",
+  "mineral_type": "氟硅酸铝 / 黄玉",
+  "color": "金黄、雪利酒色、樱桃红（雪利顶色 sherry top color）",
+  "stories": [
+    {
+      "culture": "古希腊 · 罗马",
+      "title": "Topazos 岛与雾里的石",
+      "content": "「Topaz」之名来自希腊语 topazos——博物学家普林尼在《自然史》第 37 卷中记载：红海中有一座叫 Topazos 的岛常年云雾环绕，水手寻而不见，故希腊语 topazein 意为「寻觅」。岛上产出一种金绿色的宝石，古埃及人作为太阳神 Ra 的眼睛佩戴。\n\n现代矿物学考证：那座岛即今天埃及的扎巴尔加德岛（Zabargad），出产的其实是橄榄石（peridot），不是托帕石。但「Topaz」这个名字被沿用下来，到中世纪转嫁到我们现在叫 topaz 的氟硅酸铝矿物上。"
+    },
+    {
+      "culture": "葡属巴西 · 1768",
+      "title": "黑金城的金色石头",
+      "content": "1768 年葡萄牙殖民者在巴西米纳斯吉拉斯山区——当时因金矿命名为 Ouro Preto「黑金城」——发现了独一无二的金黄色到雪利红的托帕石矿脉。葡萄牙王室宣布这是「帝王专享」，故名 Imperial Topaz。这种樱桃红（雪利顶色）托帕石至今全球只此一地出产，是托帕石家族的顶级品。\n\n如今巴西黑金城是 UNESCO 世界遗产，老矿仍在小规模开采，但雪利红顶色每年只产出极少量。"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Topaze_imp%C3%A9riale_%28Bresil%29.jpg/640px-Topaze_imp%C3%A9riale_%28Bresil%29.jpg",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "巴西托帕石合法贸易；注意辐照处理过的「Blue Topaz」与天然帝王托帕石不是一回事，须如实标注处理方式。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Pliny the Elder",
+      "title": "Naturalis Historia",
+      "year": 77,
+      "locator": "Book XXXVII, Ch. 32",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+37.32"
+    },
+    {
+      "type": "museum",
+      "title": "Smithsonian National Museum of Natural History · Imperial Topaz",
+      "url": "https://naturalhistory.si.edu/explore/collections/geogallery/10002686"
+    },
+    {
+      "type": "web",
+      "title": "Imperial Topaz from Brazil – Pala International",
+      "url": "http://www.palagems.com/topaz-buyers-guide"
+    }
+  ]
+}

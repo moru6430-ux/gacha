@@ -1,0 +1,46 @@
+{
+  "id": "sri_moonstone",
+  "name": "斯里兰卡蓝月光石",
+  "name_en": "Sri Lankan Blue Moonstone",
+  "region": "斯里兰卡 · 米蒂亚戈达",
+  "region_en": "Meetiyagoda, Sri Lanka",
+  "coordinates": [6.1167, 80.0833],
+  "category": "moonstone",
+  "mineral_type": "正长石 / 月光石",
+  "color": "乳白底 + 蓝光晕（adularescence）",
+  "stories": [
+    {
+      "culture": "古印度 · 吠陀",
+      "title": "Chandrakanta · 月光所爱",
+      "content": "梵语里月光石叫 Chandrakanta——「Chandra（月神）所爱」。Chandra 是吠陀十大星宿之一，主宰夜晚、植物与情感，与苏摩酒（Soma）同体。古印度人相信月光石是月神身上凝下的光：把它放在舌下，可以预见未来；月圆夜佩戴，能让所求之人入梦。\n\n更古的一则吠陀传说讲：毗湿奴击碎魔神 Bali 的眼睛，眼中的光辉碎落地面，便凝成月光石。从此印度阿育吠陀医学把它列入治疗失眠与「月相失衡」的处方。"
+    },
+    {
+      "culture": "维多利亚英国",
+      "title": "柯林斯的《月亮石》",
+      "content": "1868 年英国作家 Wilkie Collins 写《The Moonstone》——常被誉为第一本现代侦探小说。书里那颗大宝石设定为印度月神 Chandra 雕像额头上的「Chandrakanta」，被殖民军官从印度劫掠到伦敦，引出一连串报应。Collins 用这块石头把英国对印度的掠夺写成了一则鬼故事——殖民史的另一面。"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Moonstone.gem.800pix.jpg/640px-Moonstone.gem.800pix.jpg",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "斯里兰卡月光石合法贸易；高品质蓝月光石主要产自米蒂亚戈达一带矿区，国际市场公开流通。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Collins, Wilkie",
+      "title": "The Moonstone",
+      "year": 1868
+    },
+    {
+      "type": "secondary",
+      "title": "Chandra · Hindu God of the Moon",
+      "url": "https://worldhistoryedu.com/chandra-hindu-god-of-the-moon/"
+    },
+    {
+      "type": "web",
+      "title": "Moonstone (Hecatolite) – Chandramani Stone",
+      "url": "https://www.iafaforallergy.com/semi-precious-stones-upratnas/chandramani-stone-moonstone-hecatolite/"
+    }
+  ]
+}

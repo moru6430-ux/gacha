@@ -1,0 +1,47 @@
+{
+  "id": "herkimer_quartz",
+  "name": "赫基默「钻石」双尖水晶",
+  "name_en": "Herkimer Diamond",
+  "region": "美国 · 纽约 · 赫基默县 · 莫霍克河谷",
+  "region_en": "Herkimer County, Mohawk Valley, NY, USA",
+  "coordinates": [43.0245, -74.9876],
+  "category": "quartz",
+  "mineral_type": "石英 · 双端晶（doubly-terminated）",
+  "color": "水晶清透、偶含黑沥青/水包",
+  "stories": [
+    {
+      "culture": "莫霍克 / 易洛魁联盟",
+      "title": "「水晶族」",
+      "content": "「赫基默钻石」其实不是钻石——是莫霍克河谷白云岩晶腔里长出的天然双端石英晶体，五亿年前的卡纳乔哈里岩层中孕育，因双端尖晶切面似钻石而得名。\n\n这一带的莫霍克人自称 Kanyenkehaka——长期被译作「燧石族」（People of the Flint），但当代语言学考证后认为更准确的译法是「水晶族」（People of the Crystals）。他们在河床和地表捡到的这些清透晶体被视为「精灵之石」（spirit stones），用作护身符、净化器、随死者入葬。考古发现的莫霍克陪葬品里常见水晶串饰。\n\n易洛魁联盟（Haudenosaunee，含莫霍克 / 奥奈达 / 奥农达加 / 卡尤加 / 塞内卡 / 后加入的图斯卡罗拉六族）把水晶视为通往祖先世界的窗。"
+    },
+    {
+      "culture": "近代",
+      "title": "矿工的「双尖」",
+      "content": "1820 年代赫基默县开始系统开采石英晶，1900 年初已成北美知名标本产地。所谓「双尖」（doubly terminated）是因为晶体在白云岩晶腔里悬浮生长，没有底面接触岩壁，自然两端都长出尖。这种几何完整性极少见——大多数石英晶只有一端尖。"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Herkimer_diamond_quartz_with_dolomite_-_Treasure_Mountain_Diamond_Mine%2C_Little_Falls%2C_Herkimer_County%2C_New_York%2C_USA.jpg/640px-Herkimer_diamond_quartz_with_dolomite_-_Treasure_Mountain_Diamond_Mine%2C_Little_Falls%2C_Herkimer_County%2C_New_York%2C_USA.jpg",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "赫基默水晶为天然石英，合法贸易；当地保留几个对公众开放的「自己挖」矿场。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Tooker, Elisabeth",
+      "title": "The Iroquois Ceremonial of Midwinter",
+      "year": 1970,
+      "locator": "Syracuse University Press"
+    },
+    {
+      "type": "web",
+      "title": "Herkimer diamond – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Herkimer_diamond"
+    },
+    {
+      "type": "web",
+      "title": "Diamond Mountain Mining (Herkimer NY)",
+      "url": "https://www.diamondmountainmining.com/about-the-mine"
+    }
+  ]
+}

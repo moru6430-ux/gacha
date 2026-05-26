@@ -1,0 +1,59 @@
+{
+  "id": "magatama_jade",
+  "name": "勾玉 · 八尺琼勾玉",
+  "name_en": "Magatama · Yasakani no Magatama",
+  "region": "日本 · 新潟 · 糸魚川",
+  "region_en": "Itoigawa, Niigata, Japan",
+  "coordinates": [37.0333, 137.8667],
+  "category": "jade",
+  "mineral_type": "硬玉 / 翡翠岩（糸魚川产）",
+  "color": "翠绿、苹果绿、薰衣紫（极稀）",
+  "stories": [
+    {
+      "culture": "绳文-古坟时代",
+      "title": "弯月形的玉",
+      "content": "勾玉（まがたま）是日本列岛特有的弯月形珠饰，从绳文时代晚期（约公元前 1000 年）一直延续到古坟时代（6 世纪）。早期用各种石头甚至陶土做，到了古坟时代材料几乎统一为糸魚川产的硬玉翡翠——这是东亚唯一的硬玉翡翠产地（缅甸翡翠是另一脉源）。「マガ」意为弯曲、「タマ」意为玉珠。\n\n勾玉的形状被解释为：胎儿、月、动物獠牙、灵魂的化身。考古学没有定论，但确定的是它在弥生-古坟时代成为身份和神圣的标志，常见于豪族墓葬。"
+    },
+    {
+      "culture": "神道 · 古事记",
+      "title": "天岩戸前的五百颗勾玉",
+      "content": "《古事记》（712 年）与《日本书纪》（720 年）都记下了这则神话：太阳女神天照大神被弟弟须佐之男的暴行激怒，躲进天岩戸（天石窟），世界陷入黑暗。诸神在洞口设法把她引出——女神天宇受卖命跳秽舞引爆笑声，玉祖命（Tamanooya no Mikoto）则串了五百颗勾玉挂在 Sakaki 树上，同时挂上一面八咫镜。天照伸头看自己的倒影，被诱出洞口，光明复还。\n\n那串勾玉名 Yasakani no Magatama（八尺琼勾玉），与八咫镜、草薙剑一起，是日本皇室世代传承的「三神器」，象征仁、智、勇。三神器至今仍参与天皇即位仪式——但据说从未对外公开，外人也从未亲眼见过。"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Magatama_Tokyo_National_Museum.jpg/640px-Magatama_Tokyo_National_Museum.jpg",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "糸魚川硬玉为日本国石（2016 年由日本矿物学会指定）；糸魚川海岸 / 河床为天然纪念物，禁止采集，市售料来自历史矿区库存与商业开采点。古坟出土文物为日本「文化财」，禁止出境。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "太安万侶",
+      "title": "古事記",
+      "year": 712,
+      "locator": "上巻 · 天岩戸段"
+    },
+    {
+      "type": "primary",
+      "author": "舎人親王 等",
+      "title": "日本書紀",
+      "year": 720,
+      "locator": "巻一 · 神代上"
+    },
+    {
+      "type": "museum",
+      "title": "Tokyo National Museum · Magatama collection",
+      "url": "https://www.tnm.jp/"
+    },
+    {
+      "type": "web",
+      "title": "Magatama – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magatama"
+    },
+    {
+      "type": "secondary",
+      "title": "The Three Imperial Regalia (Sanshu no Jingi) – Green Shinto",
+      "url": "https://www.greenshinto.com/2011/07/09/the-three-imperial-regalia/"
+    }
+  ]
+}

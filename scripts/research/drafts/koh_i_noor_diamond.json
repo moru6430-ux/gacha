@@ -1,0 +1,63 @@
+{
+  "id": "koh_i_noor_diamond",
+  "name": "光之山钻石 · Koh-i-Noor",
+  "name_en": "Koh-i-Noor Diamond",
+  "region": "印度 · 戈尔康达（原产）",
+  "region_en": "Golconda, India",
+  "coordinates": [17.3833, 78.4011],
+  "category": "other",
+  "mineral_type": "钻石（Type IIa）",
+  "color": "无色（原 186 克拉，1852 年重切至 105.6 克拉）",
+  "stories": [
+    {
+      "culture": "莫卧儿印度",
+      "title": "巴布尔的「半天饮食」",
+      "content": "光之山最早可信的文字记录在莫卧儿王朝开国者巴布尔（Babur）1526 年的回忆录《巴布尔纳玛》（Baburnama）里——他写道这颗钻石原属十四世纪的 Alauddin 苏丹，珠宝师评估其价格「相当于整个世界半天的饮食」。它后被沙·贾汗（Shah Jahan，建泰姬陵那位）镶进了著名的孔雀宝座。"
+    },
+    {
+      "culture": "波斯入侵 · 1739",
+      "title": "「光之山！」",
+      "content": "1739 年波斯纳第尔沙（Nader Shah）洗劫德里，把孔雀宝座连同这颗钻石一并运走。传说他第一次见到它时惊呼「Koh-i-Noor!」（波斯语「光之山」），名字由此固定。纳第尔沙遇刺后，钻石几经辗转流入阿富汗、锡克王朝。"
+    },
+    {
+      "culture": "英国王室 · 1849",
+      "title": "锡克之子的签字",
+      "content": "1849 年第二次英国-锡克战争后，东印度公司在《拉合尔条约》中迫使年仅 10 岁的锡克王 Duleep Singh 签字交出光之山。1850 年它被献给维多利亚女王，1852 年阿尔伯特亲王下令在荷兰重切——磨去近一半重量以追求「现代」亮度。如今镶在伦敦塔王太后王冠的中央。\n\n印度、巴基斯坦、伊朗、阿富汗四国都曾在不同时期要求归还。2023 年查尔斯三世加冕，王后没戴这顶冠——王室没解释，但分析者普遍认为是为了不刺激印度。"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Replica_of_the_Koh-i-Noor_diamond.jpg/640px-Replica_of_the_Koh-i-Noor_diamond.jpg",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "Type IIa 高净度钻石合法贸易；但此特定文物受多国争议（印度、巴基斯坦、伊朗、阿富汗均提出归还诉求）。本条目仅做内容展示，不涉及交易。"
+  },
+  "provenance_alt": ["现代南非", "博茨瓦纳", "俄罗斯雅库特"],
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Babur",
+      "title": "Baburnama (Memoirs of Babur)",
+      "year": 1530
+    },
+    {
+      "type": "secondary",
+      "author": "Dalrymple, William & Anita Anand",
+      "title": "Koh-i-Noor: The History of the World's Most Infamous Diamond",
+      "year": 2017
+    },
+    {
+      "type": "web",
+      "title": "Koh-i-Noor – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Koh-i-Noor"
+    },
+    {
+      "type": "web",
+      "title": "Koh-i-Noor – GIA 4Cs",
+      "url": "https://4cs.gia.edu/en-us/blog/famous-diamonds-kohinoor/"
+    },
+    {
+      "type": "museum",
+      "title": "Tower of London · Crown Jewels",
+      "url": "https://www.hrp.org.uk/tower-of-london/whats-on/the-crown-jewels/"
+    }
+  ]
+}

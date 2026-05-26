@@ -5,7 +5,10 @@
     "name_en": "Tahitian Black Pearl",
     "region": "法属波利尼西亚",
     "region_en": "French Polynesia",
-    "coordinates": [-17.6797, -149.4068],
+    "coordinates": [
+      -17.6797,
+      -149.4068
+    ],
     "category": "pearl",
     "mineral_type": "有机宝石 / 珍珠",
     "color": "孔雀绿、铅灰、墨色",
@@ -33,7 +36,10 @@
     "name_en": "Mediterranean Pearl",
     "region": "希腊 · 爱琴海",
     "region_en": "Greece, Aegean Sea",
-    "coordinates": [37.0902, 25.3667],
+    "coordinates": [
+      37.0902,
+      25.3667
+    ],
     "category": "pearl",
     "mineral_type": "有机宝石 / 珍珠",
     "color": "象牙白、玫瑰金",
@@ -61,7 +67,10 @@
     "name_en": "Hepu Pearl (Nan Zhu)",
     "region": "中国 · 南海合浦",
     "region_en": "Hepu, South China Sea",
-    "coordinates": [21.6731, 109.1929],
+    "coordinates": [
+      21.6731,
+      109.1929
+    ],
     "category": "pearl",
     "mineral_type": "有机宝石 / 珍珠",
     "color": "银白、淡金、粉霞",
@@ -89,7 +98,10 @@
     "name_en": "Mogok Pigeon-Blood Ruby",
     "region": "缅甸 · 抹谷",
     "region_en": "Mogok, Myanmar",
-    "coordinates": [22.9167, 96.5083],
+    "coordinates": [
+      22.9167,
+      96.5083
+    ],
     "category": "ruby",
     "mineral_type": "刚玉 / 红宝石",
     "color": "鸽血红、玫瑰红",
@@ -109,7 +121,10 @@
     "legal_status": {
       "commerce": "restricted",
       "notes": "美国 BURMA Act 对缅甸红宝石实施进口限制；产地溯源困难。中国境内合法销售须有 NGTC 或国际同等证书。",
-      "required_cert": ["NGTC", "GRS"]
+      "required_cert": [
+        "NGTC",
+        "GRS"
+      ]
     }
   },
   {
@@ -118,7 +133,10 @@
     "name_en": "Badakhshan Lapis Lazuli",
     "region": "阿富汗 · 巴达赫尚",
     "region_en": "Badakhshan, Afghanistan",
-    "coordinates": [36.7347, 70.8119],
+    "coordinates": [
+      36.7347,
+      70.8119
+    ],
     "category": "lapis",
     "mineral_type": "青金石",
     "color": "夜空蓝、金星点",
@@ -140,7 +158,11 @@
       "notes": "巴达赫尚矿区受塔利班和武装团体控制，开采收益每年约 2000 万美元流向其中。Global Witness 与美国 OFAC 均提示与之沾边的交易有合规风险。电商建议改采俄罗斯贝加尔湖、智利、美国加州产地。",
       "required_cert": []
     },
-    "provenance_alt": ["俄罗斯 · 贝加尔湖", "智利 · 奥瓦列", "美国 · 加州"]
+    "provenance_alt": [
+      "俄罗斯 · 贝加尔湖",
+      "智利 · 奥瓦列",
+      "美国 · 加州"
+    ]
   },
   {
     "id": "muzo_emerald",
@@ -148,7 +170,10 @@
     "name_en": "Muzo Emerald",
     "region": "哥伦比亚 · 穆佐",
     "region_en": "Muzo, Colombia",
-    "coordinates": [5.5333, -74.1],
+    "coordinates": [
+      5.5333,
+      -74.1
+    ],
     "category": "emerald",
     "mineral_type": "绿柱石 / 祖母绿",
     "color": "穆佐绿、深翠",
@@ -168,7 +193,10 @@
     "legal_status": {
       "commerce": "safe",
       "notes": "哥伦比亚祖母绿合法贸易；穆佐矿区由政府监管，建议要求 GRS / SSEF / NGTC 证书。",
-      "required_cert": ["NGTC", "GRS"]
+      "required_cert": [
+        "NGTC",
+        "GRS"
+      ]
     }
   },
   {
@@ -177,7 +205,10 @@
     "name_en": "Ceylon Sapphire",
     "region": "斯里兰卡 · 拉特纳普勒",
     "region_en": "Ratnapura, Sri Lanka",
-    "coordinates": [6.6828, 80.4034],
+    "coordinates": [
+      6.6828,
+      80.4034
+    ],
     "category": "sapphire",
     "mineral_type": "刚玉 / 蓝宝石",
     "color": "矢车菊蓝、皇家蓝",
@@ -197,7 +228,9 @@
     "legal_status": {
       "commerce": "safe",
       "notes": "斯里兰卡蓝宝石合法贸易，多数处理（加热）需如实标注；电商建议要求 NGTC / SSEF / GRS 证书并注明处理方式。",
-      "required_cert": ["NGTC"]
+      "required_cert": [
+        "NGTC"
+      ]
     }
   },
   {
@@ -206,7 +239,10 @@
     "name_en": "Merelani Tanzanite",
     "region": "坦桑尼亚 · 梅雷拉尼",
     "region_en": "Merelani Hills, Tanzania",
-    "coordinates": [-3.5667, 36.9833],
+    "coordinates": [
+      -3.5667,
+      36.9833
+    ],
     "category": "other",
     "mineral_type": "黝帘石 / 坦桑石",
     "color": "紫罗兰、深蓝",
@@ -229,7 +265,10 @@
     "name_en": "Baltic Amber",
     "region": "立陶宛 · 帕兰加",
     "region_en": "Palanga, Lithuania",
-    "coordinates": [55.9175, 21.0686],
+    "coordinates": [
+      55.9175,
+      21.0686
+    ],
     "category": "amber",
     "mineral_type": "树脂化石 / 琥珀",
     "color": "蜂蜜金、樱桃红",
@@ -257,7 +296,10 @@
     "name_en": "Coober Pedy Opal",
     "region": "澳大利亚 · 库柏佩迪",
     "region_en": "Coober Pedy, Australia",
-    "coordinates": [-29.0144, 134.7544],
+    "coordinates": [
+      -29.0144,
+      134.7544
+    ],
     "category": "opal",
     "mineral_type": "二氧化硅水合物 / 欧泊",
     "color": "彩虹斑斓、火彩",
@@ -285,7 +327,10 @@
     "name_en": "Neyshabur Turquoise",
     "region": "伊朗 · 内沙布尔",
     "region_en": "Neyshabur, Iran",
-    "coordinates": [36.2133, 58.7959],
+    "coordinates": [
+      36.2133,
+      58.7959
+    ],
     "category": "turquoise",
     "mineral_type": "含水磷酸盐 / 绿松石",
     "color": "天空蓝、瓷蓝",
@@ -313,7 +358,10 @@
     "name_en": "Hetian Nephrite",
     "region": "中国 · 新疆和田 · 玉龙喀什河",
     "region_en": "Hotan, Xinjiang, China",
-    "coordinates": [37.1167, 79.9333],
+    "coordinates": [
+      37.1167,
+      79.9333
+    ],
     "category": "nephrite",
     "mineral_type": "透闪石 / 软玉",
     "color": "羊脂白、青白、糖色",
@@ -333,7 +381,9 @@
     "legal_status": {
       "commerce": "restricted",
       "notes": "玉龙喀什河 2011 起禁止机械采挖，2023 年和田所有矿口停业；市场货源真假混杂、俄料 / 青海料冒充时有发生。电商须强制 NGTC 证书并注明产地。",
-      "required_cert": ["NGTC"]
+      "required_cert": [
+        "NGTC"
+      ]
     }
   },
   {
@@ -342,7 +392,10 @@
     "name_en": "Ural Malachite",
     "region": "俄罗斯 · 乌拉尔 · 波列夫斯科伊",
     "region_en": "Polevskoy, Ural, Russia",
-    "coordinates": [56.4422, 60.1939],
+    "coordinates": [
+      56.4422,
+      60.1939
+    ],
     "category": "malachite",
     "mineral_type": "碳酸盐 / 孔雀石",
     "color": "孔雀绿、深翠、丝纹纹理",
@@ -364,10 +417,29 @@
       "notes": "乌拉尔大型矿脉 19 世纪末基本枯竭；现代市售孔雀石主要来自刚果、赞比亚、纳米比亚、亚利桑那。乌拉尔老料件多为古董流通。"
     },
     "sources": [
-      { "type": "primary", "author": "Бажов, Павел Петрович", "title": "Малахитовая шкатулка (The Malachite Casket)", "year": 1939, "locator": "首篇〈Хозяйка Медной горы / 铜山女主人〉，1936 年发表" },
-      { "type": "secondary", "author": "Sagalayev, A.", "title": "曼西-汉特族母神原型考", "year": 1991 },
-      { "type": "web", "title": "The Malachite Box", "url": "https://en.wikipedia.org/wiki/The_Malachite_Box" },
-      { "type": "web", "title": "Mindat: Malachite", "url": "https://www.mindat.org/min-2550.html" }
+      {
+        "type": "primary",
+        "author": "Бажов, Павел Петрович",
+        "title": "Малахитовая шкатулка (The Malachite Casket)",
+        "year": 1939,
+        "locator": "首篇〈Хозяйка Медной горы / 铜山女主人〉，1936 年发表"
+      },
+      {
+        "type": "secondary",
+        "author": "Sagalayev, A.",
+        "title": "曼西-汉特族母神原型考",
+        "year": 1991
+      },
+      {
+        "type": "web",
+        "title": "The Malachite Box",
+        "url": "https://en.wikipedia.org/wiki/The_Malachite_Box"
+      },
+      {
+        "type": "web",
+        "title": "Mindat: Malachite",
+        "url": "https://www.mindat.org/min-2550.html"
+      }
     ]
   },
   {
@@ -376,7 +448,10 @@
     "name_en": "Tibetan Dzi Bead",
     "region": "藏地 · 喜马拉雅 / 喀喇昆仑",
     "region_en": "Tibet & Himalayan Plateau",
-    "coordinates": [29.6500, 91.1000],
+    "coordinates": [
+      29.65,
+      91.1
+    ],
     "category": "agate",
     "mineral_type": "玛瑙 / 蚀花玛瑙",
     "color": "黑底白纹、天珠眼",
@@ -399,10 +474,32 @@
       "required_cert": []
     },
     "sources": [
-      { "type": "primary", "author": "欧阳修 等", "title": "新唐书 · 吐蕃传", "year": 1060, "locator": "卷二一六" },
-      { "type": "secondary", "author": "Laufer, Berthold", "title": "Notes on Turquoise in the East", "year": 1913, "locator": "Field Museum of Natural History, Publication 169" },
-      { "type": "web", "title": "Dzi bead – Wikipedia", "url": "https://en.wikipedia.org/wiki/Dzi_bead" },
-      { "type": "secondary", "author": "Ebbinghouse, David & Winsten, Michael", "title": "Tibetan dZi (gZi) Beads", "year": 1988, "locator": "The Tibet Journal, Vol. 13, No. 1" }
+      {
+        "type": "primary",
+        "author": "欧阳修 等",
+        "title": "新唐书 · 吐蕃传",
+        "year": 1060,
+        "locator": "卷二一六"
+      },
+      {
+        "type": "secondary",
+        "author": "Laufer, Berthold",
+        "title": "Notes on Turquoise in the East",
+        "year": 1913,
+        "locator": "Field Museum of Natural History, Publication 169"
+      },
+      {
+        "type": "web",
+        "title": "Dzi bead – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dzi_bead"
+      },
+      {
+        "type": "secondary",
+        "author": "Ebbinghouse, David & Winsten, Michael",
+        "title": "Tibetan dZi (gZi) Beads",
+        "year": 1988,
+        "locator": "The Tibet Journal, Vol. 13, No. 1"
+      }
     ]
   },
   {
@@ -411,7 +508,10 @@
     "name_en": "Mesoamerican Obsidian",
     "region": "墨西哥 · 帕丘卡（普埃布拉山脉）",
     "region_en": "Pachuca, Hidalgo, Mexico",
-    "coordinates": [20.1011, -98.7591],
+    "coordinates": [
+      20.1011,
+      -98.7591
+    ],
     "category": "other",
     "mineral_type": "火山玻璃 / 黑曜石",
     "color": "纯黑、雪花斑、彩虹光泽、金曜石（Sierra de Pachuca 特产金绿色）",
@@ -433,10 +533,313 @@
       "notes": "现代黑曜石原石与饰品合法贸易（墨西哥、亚美尼亚、冰岛、美国俄勒冈州皆有产）。但前哥伦布时期文物受墨西哥《国家历史与文物联邦法》（1972）保护，不得出境——市面上「阿兹特克黑曜石手工艺品」要确认是现代复刻还是文物。"
     },
     "sources": [
-      { "type": "primary", "author": "Sahagún, Bernardino de", "title": "Historia general de las cosas de Nueva España (Florentine Codex)", "year": 1582, "locator": "Books II & VI" },
-      { "type": "secondary", "author": "Thibodeau, Alyson M. et al.", "title": "The mirror, the magus and more: reflections on John Dee's obsidian mirror", "year": 2021, "locator": "Antiquity, Vol. 95, Issue 384", "url": "https://www.cambridge.org/core/journals/antiquity/article/mirror-the-magus-and-more-reflections-on-john-dees-obsidian-mirror/38D4BFEA2CB9766973791029C2EE1289" },
-      { "type": "museum", "title": "British Museum · Obsidian mirror (John Dee)", "url": "https://www.britishmuseum.org/collection/object/H_1966-1001-1" },
-      { "type": "web", "title": "Tezcatlipoca – Wikipedia", "url": "https://en.wikipedia.org/wiki/Tezcatlipoca" }
+      {
+        "type": "primary",
+        "author": "Sahagún, Bernardino de",
+        "title": "Historia general de las cosas de Nueva España (Florentine Codex)",
+        "year": 1582,
+        "locator": "Books II & VI"
+      },
+      {
+        "type": "secondary",
+        "author": "Thibodeau, Alyson M. et al.",
+        "title": "The mirror, the magus and more: reflections on John Dee's obsidian mirror",
+        "year": 2021,
+        "locator": "Antiquity, Vol. 95, Issue 384",
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/mirror-the-magus-and-more-reflections-on-john-dees-obsidian-mirror/38D4BFEA2CB9766973791029C2EE1289"
+      },
+      {
+        "type": "museum",
+        "title": "British Museum · Obsidian mirror (John Dee)",
+        "url": "https://www.britishmuseum.org/collection/object/H_1966-1001-1"
+      },
+      {
+        "type": "web",
+        "title": "Tezcatlipoca – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tezcatlipoca"
+      }
+    ]
+  },
+  {
+    "id": "sri_moonstone",
+    "name": "斯里兰卡蓝月光石",
+    "name_en": "Sri Lankan Blue Moonstone",
+    "region": "斯里兰卡 · 米蒂亚戈达",
+    "region_en": "Meetiyagoda, Sri Lanka",
+    "coordinates": [
+      6.1167,
+      80.0833
+    ],
+    "category": "moonstone",
+    "mineral_type": "正长石 / 月光石",
+    "color": "乳白底 + 蓝光晕（adularescence）",
+    "stories": [
+      {
+        "culture": "古印度 · 吠陀",
+        "title": "Chandrakanta · 月光所爱",
+        "content": "梵语里月光石叫 Chandrakanta——「Chandra（月神）所爱」。Chandra 是吠陀十大星宿之一，主宰夜晚、植物与情感，与苏摩酒（Soma）同体。古印度人相信月光石是月神身上凝下的光：把它放在舌下，可以预见未来；月圆夜佩戴，能让所求之人入梦。\n\n更古的一则吠陀传说讲：毗湿奴击碎魔神 Bali 的眼睛，眼中的光辉碎落地面，便凝成月光石。从此印度阿育吠陀医学把它列入治疗失眠与「月相失衡」的处方。"
+      },
+      {
+        "culture": "维多利亚英国",
+        "title": "柯林斯的《月亮石》",
+        "content": "1868 年英国作家 Wilkie Collins 写《The Moonstone》——常被誉为第一本现代侦探小说。书里那颗大宝石设定为印度月神 Chandra 雕像额头上的「Chandrakanta」，被殖民军官从印度劫掠到伦敦，引出一连串报应。Collins 用这块石头把英国对印度的掠夺写成了一则鬼故事——殖民史的另一面。"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Moonstone.gem.800pix.jpg/640px-Moonstone.gem.800pix.jpg",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "斯里兰卡月光石合法贸易；高品质蓝月光石主要产自米蒂亚戈达一带矿区，国际市场公开流通。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Collins, Wilkie",
+        "title": "The Moonstone",
+        "year": 1868
+      },
+      {
+        "type": "secondary",
+        "title": "Chandra · Hindu God of the Moon",
+        "url": "https://worldhistoryedu.com/chandra-hindu-god-of-the-moon/"
+      },
+      {
+        "type": "web",
+        "title": "Moonstone (Hecatolite) – Chandramani Stone",
+        "url": "https://www.iafaforallergy.com/semi-precious-stones-upratnas/chandramani-stone-moonstone-hecatolite/"
+      }
+    ]
+  },
+  {
+    "id": "koh_i_noor_diamond",
+    "name": "光之山钻石 · Koh-i-Noor",
+    "name_en": "Koh-i-Noor Diamond",
+    "region": "印度 · 戈尔康达（原产）",
+    "region_en": "Golconda, India",
+    "coordinates": [
+      17.3833,
+      78.4011
+    ],
+    "category": "other",
+    "mineral_type": "钻石（Type IIa）",
+    "color": "无色（原 186 克拉，1852 年重切至 105.6 克拉）",
+    "stories": [
+      {
+        "culture": "莫卧儿印度",
+        "title": "巴布尔的「半天饮食」",
+        "content": "光之山最早可信的文字记录在莫卧儿王朝开国者巴布尔（Babur）1526 年的回忆录《巴布尔纳玛》（Baburnama）里——他写道这颗钻石原属十四世纪的 Alauddin 苏丹，珠宝师评估其价格「相当于整个世界半天的饮食」。它后被沙·贾汗（Shah Jahan，建泰姬陵那位）镶进了著名的孔雀宝座。"
+      },
+      {
+        "culture": "波斯入侵 · 1739",
+        "title": "「光之山！」",
+        "content": "1739 年波斯纳第尔沙（Nader Shah）洗劫德里，把孔雀宝座连同这颗钻石一并运走。传说他第一次见到它时惊呼「Koh-i-Noor!」（波斯语「光之山」），名字由此固定。纳第尔沙遇刺后，钻石几经辗转流入阿富汗、锡克王朝。"
+      },
+      {
+        "culture": "英国王室 · 1849",
+        "title": "锡克之子的签字",
+        "content": "1849 年第二次英国-锡克战争后，东印度公司在《拉合尔条约》中迫使年仅 10 岁的锡克王 Duleep Singh 签字交出光之山。1850 年它被献给维多利亚女王，1852 年阿尔伯特亲王下令在荷兰重切——磨去近一半重量以追求「现代」亮度。如今镶在伦敦塔王太后王冠的中央。\n\n印度、巴基斯坦、伊朗、阿富汗四国都曾在不同时期要求归还。2023 年查尔斯三世加冕，王后没戴这顶冠——王室没解释，但分析者普遍认为是为了不刺激印度。"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Replica_of_the_Koh-i-Noor_diamond.jpg/640px-Replica_of_the_Koh-i-Noor_diamond.jpg",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "Type IIa 高净度钻石合法贸易；但此特定文物受多国争议（印度、巴基斯坦、伊朗、阿富汗均提出归还诉求）。本条目仅做内容展示，不涉及交易。"
+    },
+    "provenance_alt": [
+      "现代南非",
+      "博茨瓦纳",
+      "俄罗斯雅库特"
+    ],
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Babur",
+        "title": "Baburnama (Memoirs of Babur)",
+        "year": 1530
+      },
+      {
+        "type": "secondary",
+        "author": "Dalrymple, William & Anita Anand",
+        "title": "Koh-i-Noor: The History of the World's Most Infamous Diamond",
+        "year": 2017
+      },
+      {
+        "type": "web",
+        "title": "Koh-i-Noor – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Koh-i-Noor"
+      },
+      {
+        "type": "web",
+        "title": "Koh-i-Noor – GIA 4Cs",
+        "url": "https://4cs.gia.edu/en-us/blog/famous-diamonds-kohinoor/"
+      },
+      {
+        "type": "museum",
+        "title": "Tower of London · Crown Jewels",
+        "url": "https://www.hrp.org.uk/tower-of-london/whats-on/the-crown-jewels/"
+      }
+    ]
+  },
+  {
+    "id": "imperial_topaz",
+    "name": "帝王托帕石",
+    "name_en": "Imperial Topaz",
+    "region": "巴西 · 米纳斯吉拉斯 · 黑金城",
+    "region_en": "Ouro Preto, Minas Gerais, Brazil",
+    "coordinates": [
+      -20.3856,
+      -43.5036
+    ],
+    "category": "topaz",
+    "mineral_type": "氟硅酸铝 / 黄玉",
+    "color": "金黄、雪利酒色、樱桃红（雪利顶色 sherry top color）",
+    "stories": [
+      {
+        "culture": "古希腊 · 罗马",
+        "title": "Topazos 岛与雾里的石",
+        "content": "「Topaz」之名来自希腊语 topazos——博物学家普林尼在《自然史》第 37 卷中记载：红海中有一座叫 Topazos 的岛常年云雾环绕，水手寻而不见，故希腊语 topazein 意为「寻觅」。岛上产出一种金绿色的宝石，古埃及人作为太阳神 Ra 的眼睛佩戴。\n\n现代矿物学考证：那座岛即今天埃及的扎巴尔加德岛（Zabargad），出产的其实是橄榄石（peridot），不是托帕石。但「Topaz」这个名字被沿用下来，到中世纪转嫁到我们现在叫 topaz 的氟硅酸铝矿物上。"
+      },
+      {
+        "culture": "葡属巴西 · 1768",
+        "title": "黑金城的金色石头",
+        "content": "1768 年葡萄牙殖民者在巴西米纳斯吉拉斯山区——当时因金矿命名为 Ouro Preto「黑金城」——发现了独一无二的金黄色到雪利红的托帕石矿脉。葡萄牙王室宣布这是「帝王专享」，故名 Imperial Topaz。这种樱桃红（雪利顶色）托帕石至今全球只此一地出产，是托帕石家族的顶级品。\n\n如今巴西黑金城是 UNESCO 世界遗产，老矿仍在小规模开采，但雪利红顶色每年只产出极少量。"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Topaze_imp%C3%A9riale_%28Bresil%29.jpg/640px-Topaze_imp%C3%A9riale_%28Bresil%29.jpg",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "巴西托帕石合法贸易；注意辐照处理过的「Blue Topaz」与天然帝王托帕石不是一回事，须如实标注处理方式。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Pliny the Elder",
+        "title": "Naturalis Historia",
+        "year": 77,
+        "locator": "Book XXXVII, Ch. 32",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+37.32"
+      },
+      {
+        "type": "museum",
+        "title": "Smithsonian National Museum of Natural History · Imperial Topaz",
+        "url": "https://naturalhistory.si.edu/explore/collections/geogallery/10002686"
+      },
+      {
+        "type": "web",
+        "title": "Imperial Topaz from Brazil – Pala International",
+        "url": "http://www.palagems.com/topaz-buyers-guide"
+      }
+    ]
+  },
+  {
+    "id": "herkimer_quartz",
+    "name": "赫基默「钻石」双尖水晶",
+    "name_en": "Herkimer Diamond",
+    "region": "美国 · 纽约 · 赫基默县 · 莫霍克河谷",
+    "region_en": "Herkimer County, Mohawk Valley, NY, USA",
+    "coordinates": [
+      43.0245,
+      -74.9876
+    ],
+    "category": "quartz",
+    "mineral_type": "石英 · 双端晶（doubly-terminated）",
+    "color": "水晶清透、偶含黑沥青/水包",
+    "stories": [
+      {
+        "culture": "莫霍克 / 易洛魁联盟",
+        "title": "「水晶族」",
+        "content": "「赫基默钻石」其实不是钻石——是莫霍克河谷白云岩晶腔里长出的天然双端石英晶体，五亿年前的卡纳乔哈里岩层中孕育，因双端尖晶切面似钻石而得名。\n\n这一带的莫霍克人自称 Kanyenkehaka——长期被译作「燧石族」（People of the Flint），但当代语言学考证后认为更准确的译法是「水晶族」（People of the Crystals）。他们在河床和地表捡到的这些清透晶体被视为「精灵之石」（spirit stones），用作护身符、净化器、随死者入葬。考古发现的莫霍克陪葬品里常见水晶串饰。\n\n易洛魁联盟（Haudenosaunee，含莫霍克 / 奥奈达 / 奥农达加 / 卡尤加 / 塞内卡 / 后加入的图斯卡罗拉六族）把水晶视为通往祖先世界的窗。"
+      },
+      {
+        "culture": "近代",
+        "title": "矿工的「双尖」",
+        "content": "1820 年代赫基默县开始系统开采石英晶，1900 年初已成北美知名标本产地。所谓「双尖」（doubly terminated）是因为晶体在白云岩晶腔里悬浮生长，没有底面接触岩壁，自然两端都长出尖。这种几何完整性极少见——大多数石英晶只有一端尖。"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Herkimer_diamond_quartz_with_dolomite_-_Treasure_Mountain_Diamond_Mine%2C_Little_Falls%2C_Herkimer_County%2C_New_York%2C_USA.jpg/640px-Herkimer_diamond_quartz_with_dolomite_-_Treasure_Mountain_Diamond_Mine%2C_Little_Falls%2C_Herkimer_County%2C_New_York%2C_USA.jpg",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "赫基默水晶为天然石英，合法贸易；当地保留几个对公众开放的「自己挖」矿场。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Tooker, Elisabeth",
+        "title": "The Iroquois Ceremonial of Midwinter",
+        "year": 1970,
+        "locator": "Syracuse University Press"
+      },
+      {
+        "type": "web",
+        "title": "Herkimer diamond – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Herkimer_diamond"
+      },
+      {
+        "type": "web",
+        "title": "Diamond Mountain Mining (Herkimer NY)",
+        "url": "https://www.diamondmountainmining.com/about-the-mine"
+      }
+    ]
+  },
+  {
+    "id": "magatama_jade",
+    "name": "勾玉 · 八尺琼勾玉",
+    "name_en": "Magatama · Yasakani no Magatama",
+    "region": "日本 · 新潟 · 糸魚川",
+    "region_en": "Itoigawa, Niigata, Japan",
+    "coordinates": [
+      37.0333,
+      137.8667
+    ],
+    "category": "jade",
+    "mineral_type": "硬玉 / 翡翠岩（糸魚川产）",
+    "color": "翠绿、苹果绿、薰衣紫（极稀）",
+    "stories": [
+      {
+        "culture": "绳文-古坟时代",
+        "title": "弯月形的玉",
+        "content": "勾玉（まがたま）是日本列岛特有的弯月形珠饰，从绳文时代晚期（约公元前 1000 年）一直延续到古坟时代（6 世纪）。早期用各种石头甚至陶土做，到了古坟时代材料几乎统一为糸魚川产的硬玉翡翠——这是东亚唯一的硬玉翡翠产地（缅甸翡翠是另一脉源）。「マガ」意为弯曲、「タマ」意为玉珠。\n\n勾玉的形状被解释为：胎儿、月、动物獠牙、灵魂的化身。考古学没有定论，但确定的是它在弥生-古坟时代成为身份和神圣的标志，常见于豪族墓葬。"
+      },
+      {
+        "culture": "神道 · 古事记",
+        "title": "天岩戸前的五百颗勾玉",
+        "content": "《古事记》（712 年）与《日本书纪》（720 年）都记下了这则神话：太阳女神天照大神被弟弟须佐之男的暴行激怒，躲进天岩戸（天石窟），世界陷入黑暗。诸神在洞口设法把她引出——女神天宇受卖命跳秽舞引爆笑声，玉祖命（Tamanooya no Mikoto）则串了五百颗勾玉挂在 Sakaki 树上，同时挂上一面八咫镜。天照伸头看自己的倒影，被诱出洞口，光明复还。\n\n那串勾玉名 Yasakani no Magatama（八尺琼勾玉），与八咫镜、草薙剑一起，是日本皇室世代传承的「三神器」，象征仁、智、勇。三神器至今仍参与天皇即位仪式——但据说从未对外公开，外人也从未亲眼见过。"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Magatama_Tokyo_National_Museum.jpg/640px-Magatama_Tokyo_National_Museum.jpg",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "糸魚川硬玉为日本国石（2016 年由日本矿物学会指定）；糸魚川海岸 / 河床为天然纪念物，禁止采集，市售料来自历史矿区库存与商业开采点。古坟出土文物为日本「文化财」，禁止出境。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "太安万侶",
+        "title": "古事記",
+        "year": 712,
+        "locator": "上巻 · 天岩戸段"
+      },
+      {
+        "type": "primary",
+        "author": "舎人親王 等",
+        "title": "日本書紀",
+        "year": 720,
+        "locator": "巻一 · 神代上"
+      },
+      {
+        "type": "museum",
+        "title": "Tokyo National Museum · Magatama collection",
+        "url": "https://www.tnm.jp/"
+      },
+      {
+        "type": "web",
+        "title": "Magatama – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Magatama"
+      },
+      {
+        "type": "secondary",
+        "title": "The Three Imperial Regalia (Sanshu no Jingi) – Green Shinto",
+        "url": "https://www.greenshinto.com/2011/07/09/the-three-imperial-regalia/"
+      }
     ]
   }
 ]
