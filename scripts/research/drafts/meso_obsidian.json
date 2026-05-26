@@ -1,0 +1,56 @@
+{
+  "id": "meso_obsidian",
+  "name": "中美洲黑曜石",
+  "name_en": "Mesoamerican Obsidian",
+  "region": "墨西哥 · 帕丘卡（普埃布拉山脉）",
+  "region_en": "Pachuca, Hidalgo, Mexico",
+  "coordinates": [20.1011, -98.7591],
+  "category": "other",
+  "mineral_type": "火山玻璃 / 黑曜石",
+  "color": "纯黑、雪花斑、彩虹光泽、金曜石（Sierra de Pachuca 特产金绿色）",
+  "stories": [
+    {
+      "culture": "阿兹特克",
+      "title": "Tezcatlipoca 的烟镜",
+      "content": "阿兹特克最强大的神之一 Tezcatlipoca，名字在纳瓦特尔语里直译就是「烟雾的镜子」（Smoking Mirror）。他的标志是一面黑曜石抛光镜——通常画在他的头饰里、或者替代了他的一只脚（神话中他在与冥界搏斗时失去一足，神匠用一面烟镜补上）。\n\n方济会修士 Bernardino de Sahagún 在 1569-82 年间编纂的《新西班牙诸物志》（即《佛罗伦萨手抄本》）卷二记录：在 Toxcatl 节祭祀来临前整整一年，Tezcatlipoca 的「神身」——一位被挑中的年轻男子——会在特诺奇蒂特兰享受最高规格的待遇，然后在节日上被献祭。Sahagún 在卷六还列出了 Tezcatlipoca 的 360 个名号，足见其复杂。"
+    },
+    {
+      "culture": "都铎英国 · 16 世纪",
+      "title": "John Dee 的「通灵镜」",
+      "content": "伊丽莎白一世的宫廷占星师、神秘主义者 John Dee 在 1580 年代拥有一面直径 19 厘米的黑曜石圆镜，传说能与天使和魔鬼对话。他和助手 Edward Kelley 用它"凝视"（scrying）十年。这面镜现藏大英博物馆。\n\n2021 年剑桥大学团队用便携式 X 射线荧光分析了镜中的钛、铁、锶比例，确认它来自——帕丘卡（Pachuca）的黑曜石矿。也就是阿兹特克 Tezcatlipoca 信仰的同一源头。一面神镜跨越大西洋、跨越两个文明、跨越四百年，最终落在伦敦的玻璃柜里。"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Aztec_obsidian_mirror.jpg/640px-Aztec_obsidian_mirror.jpg",
+  "image_credit": "Wikimedia Commons / British Museum – CC-BY-SA",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "现代黑曜石原石与饰品合法贸易（墨西哥、亚美尼亚、冰岛、美国俄勒冈州皆有产）。但前哥伦布时期文物受墨西哥《国家历史与文物联邦法》（1972）保护，不得出境——市面上「阿兹特克黑曜石手工艺品」要确认是现代复刻还是文物。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Sahagún, Bernardino de",
+      "title": "Historia general de las cosas de Nueva España (Florentine Codex)",
+      "year": 1582,
+      "locator": "Books II & VI"
+    },
+    {
+      "type": "secondary",
+      "author": "Thibodeau, Alyson M. et al.",
+      "title": "The mirror, the magus and more: reflections on John Dee's obsidian mirror",
+      "year": 2021,
+      "locator": "Antiquity, Vol. 95, Issue 384",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/mirror-the-magus-and-more-reflections-on-john-dees-obsidian-mirror/38D4BFEA2CB9766973791029C2EE1289"
+    },
+    {
+      "type": "museum",
+      "title": "British Museum · Obsidian mirror (John Dee)",
+      "url": "https://www.britishmuseum.org/collection/object/H_1966-1001-1"
+    },
+    {
+      "type": "web",
+      "title": "Tezcatlipoca – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tezcatlipoca"
+    }
+  ]
+}

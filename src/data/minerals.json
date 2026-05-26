@@ -335,5 +335,108 @@
       "notes": "玉龙喀什河 2011 起禁止机械采挖，2023 年和田所有矿口停业；市场货源真假混杂、俄料 / 青海料冒充时有发生。电商须强制 NGTC 证书并注明产地。",
       "required_cert": ["NGTC"]
     }
+  },
+  {
+    "id": "ural_malachite",
+    "name": "乌拉尔孔雀石",
+    "name_en": "Ural Malachite",
+    "region": "俄罗斯 · 乌拉尔 · 波列夫斯科伊",
+    "region_en": "Polevskoy, Ural, Russia",
+    "coordinates": [56.4422, 60.1939],
+    "category": "malachite",
+    "mineral_type": "碳酸盐 / 孔雀石",
+    "color": "孔雀绿、深翠、丝纹纹理",
+    "stories": [
+      {
+        "culture": "乌拉尔 · 俄罗斯民间",
+        "title": "铜山女主人",
+        "content": "乌拉尔最古老的矿——古缪绍夫斯基铜矿（Gumyoshevsky），矿工世代叫它「铜山」。山里据说住着一位女主人：身着孔雀石长袍、绿眼睛，时而化作蜥蜴。她是矿藏的守护者，能允许或拒绝凡人开采。1936-1939 年间作家帕维尔·巴佐夫从一位绰号「斯雷什科爷爷」的矿区故事老人 Vasily Khmelinin 那里记录下这些口传，编成《孔雀石匣》——书在苏联时代成了乌拉尔的文化符号。\n\n民俗学家 Sagalayev 后来指出，这位女主人很可能源自更古老的曼西-汉特族母神 Umay 和 Kaltes-Ekwa——会变小成石头、又能膨胀成整座山。"
+      },
+      {
+        "culture": "罗曼诺夫王朝",
+        "title": "孔雀石殿与「俄国马赛克」",
+        "content": "19 世纪上半叶，叶卡捷琳堡的工匠开发出一种独门工艺：把孔雀石锯成纸薄的片，再按花纹拼成大型饰面——这便是「俄国马赛克」（Russian mosaic）。圣彼得堡冬宫的孔雀石厅、伊萨基耶夫大教堂的孔雀石柱、梵蒂冈圣彼得大教堂里几尊镶嵌花瓶，材料全部来自乌拉尔。沙皇尼古拉一世把孔雀石作为外交礼物送给欧洲各国宫廷，让欧洲贵族短暂地为之疯狂。"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Malachite-271575.jpg/640px-Malachite-271575.jpg",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "乌拉尔大型矿脉 19 世纪末基本枯竭；现代市售孔雀石主要来自刚果、赞比亚、纳米比亚、亚利桑那。乌拉尔老料件多为古董流通。"
+    },
+    "sources": [
+      { "type": "primary", "author": "Бажов, Павел Петрович", "title": "Малахитовая шкатулка (The Malachite Casket)", "year": 1939, "locator": "首篇〈Хозяйка Медной горы / 铜山女主人〉，1936 年发表" },
+      { "type": "secondary", "author": "Sagalayev, A.", "title": "曼西-汉特族母神原型考", "year": 1991 },
+      { "type": "web", "title": "The Malachite Box", "url": "https://en.wikipedia.org/wiki/The_Malachite_Box" },
+      { "type": "web", "title": "Mindat: Malachite", "url": "https://www.mindat.org/min-2550.html" }
+    ]
+  },
+  {
+    "id": "tibetan_dzi",
+    "name": "西藏天珠 · gzi",
+    "name_en": "Tibetan Dzi Bead",
+    "region": "藏地 · 喜马拉雅 / 喀喇昆仑",
+    "region_en": "Tibet & Himalayan Plateau",
+    "coordinates": [29.6500, 91.1000],
+    "category": "agate",
+    "mineral_type": "玛瑙 / 蚀花玛瑙",
+    "color": "黑底白纹、天珠眼",
+    "stories": [
+      {
+        "culture": "藏地 · 苯教",
+        "title": "迦楼罗的羽落",
+        "content": "藏地民间相信天珠（gzi）非人工所造——是金翅大鹏迦楼罗（Khyung）从天空飞过时撒落的「精华」，凝在地上变成石。所以汉语意译为「天降石」。捡到一颗 gzi 是天意所赐，不是人为之事。藏密在密续传统里把迦楼罗解释为莲花生大士（Padmasambhava）的化身，于是天珠也被纳入佛教法器的来源谱系。\n\n另一脉说法源自观世音菩萨——他为众生之苦哭泣，泪滴落地，凝成珠串。所以九眼天珠的「眼」便是菩萨的视线。"
+      },
+      {
+        "culture": "汉地史籍",
+        "title": "瑟瑟·一珠易一骏马",
+        "content": "天珠在唐代汉文文献里叫「瑟瑟」。德裔汉学家 Berthold Laufer 1913 年发表的研究里引《新唐书》：吐蕃官员品阶最高者佩瑟瑟，其次才佩金银；藏族妇女把瑟瑟系在发辫上，品质上乘者「一珠易一骏马」。\n\n贞观十五年（641 年）文成公主入藏，嫁妆里有一尊从印度请回的佛像，藏人后来在佛身上镶了上百颗各式天珠——这件事成为天珠进入藏地皇室与佛教供养的最早历史定位。"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dzi_3_eye.jpg/640px-Dzi_3_eye.jpg",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "古天珠（指公元前 2000-前 1 世纪克什米尔 / 巴尔蒂斯坦地区蚀花玛瑙）极稀，市售 99% 为现代仿制——蚀花工艺、染色玛瑙皆有。商业流通须明确标注是「老料」还是「新工」，价差千倍。文物级别老天珠涉及文物出境法规。",
+      "required_cert": []
+    },
+    "sources": [
+      { "type": "primary", "author": "欧阳修 等", "title": "新唐书 · 吐蕃传", "year": 1060, "locator": "卷二一六" },
+      { "type": "secondary", "author": "Laufer, Berthold", "title": "Notes on Turquoise in the East", "year": 1913, "locator": "Field Museum of Natural History, Publication 169" },
+      { "type": "web", "title": "Dzi bead – Wikipedia", "url": "https://en.wikipedia.org/wiki/Dzi_bead" },
+      { "type": "secondary", "author": "Ebbinghouse, David & Winsten, Michael", "title": "Tibetan dZi (gZi) Beads", "year": 1988, "locator": "The Tibet Journal, Vol. 13, No. 1" }
+    ]
+  },
+  {
+    "id": "meso_obsidian",
+    "name": "中美洲黑曜石",
+    "name_en": "Mesoamerican Obsidian",
+    "region": "墨西哥 · 帕丘卡（普埃布拉山脉）",
+    "region_en": "Pachuca, Hidalgo, Mexico",
+    "coordinates": [20.1011, -98.7591],
+    "category": "other",
+    "mineral_type": "火山玻璃 / 黑曜石",
+    "color": "纯黑、雪花斑、彩虹光泽、金曜石（Sierra de Pachuca 特产金绿色）",
+    "stories": [
+      {
+        "culture": "阿兹特克",
+        "title": "Tezcatlipoca 的烟镜",
+        "content": "阿兹特克最强大的神之一 Tezcatlipoca，名字在纳瓦特尔语里直译就是「烟雾的镜子」（Smoking Mirror）。他的标志是一面黑曜石抛光镜——通常画在他的头饰里、或者替代了他的一只脚（神话中他在与冥界搏斗时失去一足，神匠用一面烟镜补上）。\n\n方济会修士 Bernardino de Sahagún 在 1569-82 年间编纂的《新西班牙诸物志》（即《佛罗伦萨手抄本》）卷二记录：在 Toxcatl 节祭祀来临前整整一年，Tezcatlipoca 的「神身」——一位被挑中的年轻男子——会在特诺奇蒂特兰享受最高规格的待遇，然后在节日上被献祭。Sahagún 在卷六还列出了 Tezcatlipoca 的 360 个名号，足见其复杂。"
+      },
+      {
+        "culture": "都铎英国 · 16 世纪",
+        "title": "John Dee 的「通灵镜」",
+        "content": "伊丽莎白一世的宫廷占星师、神秘主义者 John Dee 在 1580 年代拥有一面直径 19 厘米的黑曜石圆镜，传说能与天使和魔鬼对话。他和助手 Edward Kelley 用它「凝视」（scrying）十年。这面镜现藏大英博物馆。\n\n2021 年剑桥大学团队用便携式 X 射线荧光分析了镜中的钛、铁、锶比例，确认它来自——帕丘卡（Pachuca）的黑曜石矿。也就是阿兹特克 Tezcatlipoca 信仰的同一源头。一面神镜跨越大西洋、跨越两个文明、跨越四百年，最终落在伦敦的玻璃柜里。"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Aztec_obsidian_mirror.jpg/640px-Aztec_obsidian_mirror.jpg",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "现代黑曜石原石与饰品合法贸易（墨西哥、亚美尼亚、冰岛、美国俄勒冈州皆有产）。但前哥伦布时期文物受墨西哥《国家历史与文物联邦法》（1972）保护，不得出境——市面上「阿兹特克黑曜石手工艺品」要确认是现代复刻还是文物。"
+    },
+    "sources": [
+      { "type": "primary", "author": "Sahagún, Bernardino de", "title": "Historia general de las cosas de Nueva España (Florentine Codex)", "year": 1582, "locator": "Books II & VI" },
+      { "type": "secondary", "author": "Thibodeau, Alyson M. et al.", "title": "The mirror, the magus and more: reflections on John Dee's obsidian mirror", "year": 2021, "locator": "Antiquity, Vol. 95, Issue 384", "url": "https://www.cambridge.org/core/journals/antiquity/article/mirror-the-magus-and-more-reflections-on-john-dees-obsidian-mirror/38D4BFEA2CB9766973791029C2EE1289" },
+      { "type": "museum", "title": "British Museum · Obsidian mirror (John Dee)", "url": "https://www.britishmuseum.org/collection/object/H_1966-1001-1" },
+      { "type": "web", "title": "Tezcatlipoca – Wikipedia", "url": "https://en.wikipedia.org/wiki/Tezcatlipoca" }
+    ]
   }
 ]

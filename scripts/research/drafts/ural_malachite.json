@@ -1,0 +1,59 @@
+{
+  "id": "ural_malachite",
+  "name": "乌拉尔孔雀石",
+  "name_en": "Ural Malachite",
+  "region": "俄罗斯 · 乌拉尔 · 波列夫斯科伊",
+  "region_en": "Polevskoy, Ural, Russia",
+  "coordinates": [56.4422, 60.1939],
+  "category": "malachite",
+  "mineral_type": "碳酸盐 / 孔雀石",
+  "color": "孔雀绿、深翠、丝纹纹理",
+  "stories": [
+    {
+      "culture": "乌拉尔 · 俄罗斯民间",
+      "title": "铜山女主人",
+      "content": "乌拉尔最古老的矿——古缪绍夫斯基铜矿（Gumyoshevsky），矿工世代叫它「铜山」。山里据说住着一位女主人：身着孔雀石长袍、绿眼睛，时而化作蜥蜴。她是矿藏的守护者，能允许或拒绝凡人开采。1936-1939 年间作家帕维尔·巴佐夫从一位绰号「斯雷什科爷爷」的矿区故事老人 Vasily Khmelinin 那里记录下这些口传，编成《孔雀石匣》——书在苏联时代成了乌拉尔的文化符号。\n\n民俗学家 Sagalayev 后来指出，这位女主人很可能源自更古老的曼西-汉特族母神 Umay 和 Kaltes-Ekwa——会变小成石头、又能膨胀成整座山。"
+    },
+    {
+      "culture": "罗曼诺夫王朝",
+      "title": "孔雀石殿与「俄国马赛克」",
+      "content": "19 世纪上半叶，叶卡捷琳堡的工匠开发出一种独门工艺：把孔雀石锯成纸薄的片，再按花纹拼成大型饰面——这便是「俄国马赛克」（Russian mosaic）。圣彼得堡冬宫的孔雀石厅、伊萨基耶夫大教堂的孔雀石柱、梵蒂冈圣彼得大教堂里几尊镶嵌花瓶，材料全部来自乌拉尔。沙皇尼古拉一世把孔雀石作为外交礼物送给欧洲各国宫廷，让欧洲贵族短暂地为之疯狂。"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Malachite-271575.jpg/640px-Malachite-271575.jpg",
+  "image_credit": "Wikimedia Commons / Rob Lavinsky, iRocks.com – CC-BY-SA-3.0",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "乌拉尔大型矿脉 19 世纪末基本枯竭；现代市售孔雀石主要来自刚果、赞比亚、纳米比亚、亚利桑那。乌拉尔老料件多为古董流通。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Бажов, Павел Петрович",
+      "title": "Малахитовая шкатулка (The Malachite Casket)",
+      "year": 1939,
+      "locator": "首篇〈Хозяйка Медной горы / 铜山女主人〉，1936 年发表"
+    },
+    {
+      "type": "secondary",
+      "author": "Sagalayev, A.",
+      "title": "曼西-汉特族母神原型考",
+      "year": 1991
+    },
+    {
+      "type": "web",
+      "title": "The Malachite Box",
+      "url": "https://en.wikipedia.org/wiki/The_Malachite_Box"
+    },
+    {
+      "type": "web",
+      "title": "Mindat: Malachite",
+      "url": "https://www.mindat.org/min-2550.html"
+    },
+    {
+      "type": "museum",
+      "title": "State Hermitage Museum · Malachite Hall",
+      "url": "https://www.hermitagemuseum.org/wps/portal/hermitage/explore/buildings/locations/room/B7_F2_H189/"
+    }
+  ]
+}

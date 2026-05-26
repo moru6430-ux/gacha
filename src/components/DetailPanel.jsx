@@ -1,5 +1,6 @@
 import LegalStatusCard from './LegalStatusCard.jsx'
 import FavoriteButton from './FavoriteButton.jsx'
+import SourcesList from './SourcesList.jsx'
 import { categoryColor, categoryLabel } from '../data/categories.js'
 
 export default function DetailPanel({
@@ -91,6 +92,8 @@ export default function DetailPanel({
             </article>
           ))}
         </div>
+
+        <SourcesList sources={entry.sources} />
       </div>
 
       <footer className="px-5 py-3 border-t border-ink-700 text-xs text-stone-500">

@@ -1,0 +1,58 @@
+{
+  "id": "tibetan_dzi",
+  "name": "西藏天珠 · gzi",
+  "name_en": "Tibetan Dzi Bead",
+  "region": "藏地 · 喜马拉雅 / 喀喇昆仑",
+  "region_en": "Tibet & Himalayan Plateau",
+  "coordinates": [29.6500, 91.1000],
+  "category": "agate",
+  "mineral_type": "玛瑙 / 蚀花玛瑙",
+  "color": "黑底白纹、天珠眼",
+  "stories": [
+    {
+      "culture": "藏地 · 苯教",
+      "title": "迦楼罗的羽落",
+      "content": "藏地民间相信天珠（gzi）非人工所造——是金翅大鹏迦楼罗（Khyung）从天空飞过时撒落的「精华」，凝在地上变成石。所以汉语意译为「天降石」。捡到一颗 gzi 是天意所赐，不是人为之事。藏密在密续传统里把迦楼罗解释为莲花生大士（Padmasambhava）的化身，于是天珠也被纳入佛教法器的来源谱系。\n\n另一脉说法源自观世音菩萨——他为众生之苦哭泣，泪滴落地，凝成珠串。所以九眼天珠的「眼」便是菩萨的视线。"
+    },
+    {
+      "culture": "汉地史籍",
+      "title": "瑟瑟·一珠易一骏马",
+      "content": "天珠在唐代汉文文献里叫「瑟瑟」。德裔汉学家 Berthold Laufer 1913 年发表的研究里引《新唐书》：吐蕃官员品阶最高者佩瑟瑟，其次才佩金银；藏族妇女把瑟瑟系在发辫上，品质上乘者「一珠易一骏马」。\n\n贞观十五年（641 年）文成公主入藏，嫁妆里有一尊从印度请回的佛像，藏人后来在佛身上镶了上百颗各式天珠——这件事成为天珠进入藏地皇室与佛教供养的最早历史定位。"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dzi_3_eye.jpg/640px-Dzi_3_eye.jpg",
+  "image_credit": "Wikimedia Commons – Public Domain",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "古天珠（指公元前 2000-前 1 世纪克什米尔 / 巴尔蒂斯坦地区蚀花玛瑙）极稀，市售 99% 为现代仿制——蚀花工艺、染色玛瑙皆有。商业流通须明确标注是「老料」还是「新工」，价差千倍。文物级别老天珠涉及文物出境法规。",
+    "required_cert": []
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "欧阳修 等",
+      "title": "新唐书 · 吐蕃传",
+      "year": 1060,
+      "locator": "卷二一六"
+    },
+    {
+      "type": "secondary",
+      "author": "Laufer, Berthold",
+      "title": "Notes on Turquoise in the East",
+      "year": 1913,
+      "locator": "Field Museum of Natural History, Publication 169"
+    },
+    {
+      "type": "web",
+      "title": "Dzi bead – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dzi_bead"
+    },
+    {
+      "type": "secondary",
+      "author": "Ebbinghouse, David & Winsten, Michael",
+      "title": "Tibetan dZi (gZi) Beads",
+      "year": 1988,
+      "locator": "The Tibet Journal, Vol. 13, No. 1"
+    }
+  ]
+}
