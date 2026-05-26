@@ -17,6 +17,9 @@ export const CATEGORIES = [
   { key: 'malachite', label: '孔雀石', color: '#16a34a' },
   { key: 'moonstone', label: '月光石', color: '#bae6fd' },
   { key: 'agate', label: '玛瑙', color: '#c2410c' },
+  { key: 'diamond', label: '钻石', color: '#f0f4ff' },
+  { key: 'amethyst', label: '紫水晶', color: '#a855f7' },
+  { key: 'garnet', label: '石榴石', color: '#dc2626' },
   { key: 'other', label: '其他', color: '#f5c97a' },
 ]
 

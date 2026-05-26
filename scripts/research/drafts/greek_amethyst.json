@@ -1,0 +1,53 @@
+{
+  "id": "greek_amethyst",
+  "name": "希腊紫水晶",
+  "name_en": "Greek Amethyst",
+  "region": "希腊 · 那克索斯岛",
+  "region_en": "Naxos, Cyclades, Greece",
+  "coordinates": [
+    37.1,
+    25.38
+  ],
+  "category": "amethyst",
+  "mineral_type": "石英变种 / Quartz var. amethyst（含铁致色）",
+  "color": "紫罗兰、深酒紫、淡丁香",
+  "marker_color": "#9b4ddb",
+  "stories": [
+    {
+      "culture": "古希腊 · 酒神神话",
+      "title": "不醉之石",
+      "content": "\"Amethystos\"（ἀμέθυστος）在古希腊语里就是\"不醉\"的意思——a 是否定前缀，methystos 是\"醉\"。古希腊人相信用紫水晶杯子盛酒，喝多少都不会醉。雅典考古博物馆藏有几只公元前 4 世纪的紫水晶酒爵。\n\n奥维德《变形记》记载的神话：酒神 Dionysus 被一名凡人冒犯，发怒说要让下一个遇到的人被老虎撕碎。第一个走来的恰是少女 Amethystos。她向月神 Artemis 祈祷，被变成纯白水晶免遭袭击。Dionysus 后悔，把酒洒在水晶上——纯白便染成了紫色。"
+    },
+    {
+      "culture": "中世纪基督教 · 主教之石",
+      "title": "从酒神到主教指环",
+      "content": "中世纪基督教继承了\"紫水晶 = 清醒\"的隐喻，并加以扩展：紫色是主教祭服的颜色，紫水晶因此被指定为主教指环（episcopal ring）的石头，象征清醒、谦逊、领圣体时的克制。教皇本笃十六世 2005 年加冕的渔人戒指就镶有紫水晶。\n\n紫水晶曾是\"五大贵宝石\"之一（与钻石、红蓝绿宝石并列），直到 1727 年巴西米纳斯吉拉斯发现巨型紫晶洞——产量瞬间暴涨千倍，价格跌入百姓家。这是宝石史上最戏剧性的\"贵族跌价\"事件之一。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iziko_Mineral_Amethyst_geode.JPG?width=640",
+  "image_credit": "紫水晶晶洞 / Wikimedia Commons CC-BY",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "紫水晶合法贸易；最大产区为巴西、乌拉圭、赞比亚。那克索斯岛历史矿区已枯竭。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Ovid",
+      "title": "Metamorphoses",
+      "year": 8,
+      "locator": "Book V (Amethystos transformation)"
+    },
+    {
+      "type": "secondary",
+      "author": "Theophrastus",
+      "title": "On Stones (Περὶ λίθων)",
+      "year": -315
+    },
+    {
+      "type": "web",
+      "title": "Amethyst – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amethyst"
+    }
+  ]
+}

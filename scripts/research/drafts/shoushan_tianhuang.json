@@ -1,0 +1,53 @@
+{
+  "id": "shoushan_tianhuang",
+  "name": "寿山田黄石",
+  "name_en": "Shoushan Tianhuang ('Field Yellow')",
+  "region": "中国 · 福建省 · 福州 · 寿山村",
+  "region_en": "Shoushan Village, Fuzhou, Fujian Province, China",
+  "coordinates": [
+    26.1356,
+    119.3186
+  ],
+  "category": "other",
+  "mineral_type": "叶蜡石质 / Pyrophyllite-dickite-nacrite 混合（田黄是寿山石的最名贵亚种）",
+  "color": "黄金黄、橘黄、橙黄、白田、黑田",
+  "marker_color": "#d4a017",
+  "stories": [
+    {
+      "culture": "清宫 · 帝玺",
+      "title": "乾隆的\"三希堂精鉴玺\"",
+      "content": "寿山石用作印章可追溯到南北朝，但真正登顶是清初。康熙、雍正、乾隆三朝痴迷田黄——田黄是寿山石中产于寿山溪两岸稻田下的特殊变种，因长期埋藏在田中受地下水浸润，颜色金黄、温润含蓄、\"无棱角、有皮、有萝卜纹\"。\n\n乾隆收藏的田黄印章数以千计，其中最著名的「三希堂精鉴玺」（现藏台北故宫）就是田黄雕成。慈禧太后也极爱田黄，随葬品里有大批田黄印章和摆件（1928 年东陵被盗后多数流散）。"
+    },
+    {
+      "culture": "福建民间 · 仙人遗珠",
+      "title": "王母娘娘的口袋",
+      "content": "福建寿山当地传说：王母娘娘飞越寿山时，口袋破了，把一袋宝石撒落人间。落在山上的成了田黄，落在溪里的成了水坑石。所以田黄独产于寿山溪两岸一二公里内、稻田一两米深处——\"无脉、无矿、无系统\"，全靠运气挖。\n\n田黄存世稀少与价格惊人到什么程度？2024 年北京保利春拍，一方乾隆田黄\"古希天子之宝\"印章成交价 1.61 亿人民币（约 2200 万美元）——折合每克 16 万美元，远超黄金。寿山原矿在 1990 年代基本采尽，今天市场流通的田黄九成是回流老货或仿制。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoushan_stone_carving.jpg?width=640",
+  "image_credit": "寿山石雕（通用寿山石）/ Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "寿山石合法贸易；但顶级田黄市场以拍卖回流为主、新料几乎绝迹，假货比例极高。福建省地矿局有官方鉴定。古玺类受《文物保护法》管制，珍贵等级以上不得出境。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "高兆",
+      "title": "《观石录》",
+      "year": 1685
+    },
+    {
+      "type": "secondary",
+      "author": "潘主兰",
+      "title": "《寿山石全书》",
+      "year": 2003,
+      "locator": "海风出版社"
+    },
+    {
+      "type": "web",
+      "title": "Shoushan stone – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shoushan_stone_carvings"
+    }
+  ]
+}

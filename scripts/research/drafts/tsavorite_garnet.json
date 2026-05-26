@@ -1,0 +1,54 @@
+{
+  "id": "tsavorite_garnet",
+  "name": "沙弗莱石榴石",
+  "name_en": "Tsavorite Garnet",
+  "region": "肯尼亚 / 坦桑尼亚 · 察沃国家公园",
+  "region_en": "Tsavo National Park, Kenya / Tanzania border",
+  "coordinates": [
+    -3.2,
+    38.3
+  ],
+  "category": "garnet",
+  "mineral_type": "钙铝榴石变种 / Grossular garnet（钒铬致色）",
+  "color": "鲜绿、祖母绿色（高净度，无内含物）",
+  "marker_color": "#00997a",
+  "stories": [
+    {
+      "culture": "1967 · 苏格兰地质学家",
+      "title": "Campbell Bridges 的发现",
+      "content": "1967 年，苏格兰地质学家 Campbell R. Bridges 在坦桑尼亚北部的山区第一次发现绿色钙铝榴石——他原本是去找辉石，结果撞上一种全新的祖母绿色石榴石。坦桑尼亚 1971 年国有化矿业，Bridges 被迫迁到肯尼亚境内继续找——果然在察沃国家公园边缘的 Taita 山找到同样的矿脉。\n\n1974 年 Tiffany & Co. 总裁 Henry Platt 与 Bridges 合作命名这种石头为 \"tsavorite\"（沙弗莱石榴石）——直接取自肯尼亚察沃国家公园（Tsavo East National Park）的名字。Tiffany 的纽约广告把它捧成\"东非翡翠\"，新一代有色宝石就此打开美国市场。"
+    },
+    {
+      "culture": "2009 · 矿主之死",
+      "title": "Bridges 父子与肯尼亚地权",
+      "content": "2009 年 8 月，68 岁的 Campbell Bridges 与儿子 Bruce 在驱车前往自家矿场的路上，被一群手持砍刀的暴徒袭击。Campbell 死于伤势，Bruce 重伤。这群暴徒据称是当地 Kamba 部族村民——他们认为 Bridges 一家占用了部族祖传土地，要求重新分配采矿权。\n\n这起谋杀让国际宝石界震惊，也曝光了东非有色宝石产业更深层的问题：殖民时代签的矿权与独立后部族主张之间的根本冲突。Bruce 接手继续经营，但 Bridges 家族的肯尼亚矿场至今仍在产权争议中。今天市售沙弗莱很大比例来自坦桑尼亚 Merelani 矿（与坦桑石同区），约 70% 出口印度切磨后转销美国。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tsavorite_garnet_crystal.jpg?width=640",
+  "image_credit": "沙弗莱石榴石晶体 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "沙弗莱石榴石合法国际贸易。主要产地肯尼亚（Taita）+ 坦桑尼亚（Merelani / Lelatema）。市面\"东非翡翠\"流通正常，GIA 可出具产地证书。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Bridges, Campbell R.",
+      "title": "Green Grossular Garnets (\"Tsavorites\") in East Africa",
+      "year": 1974,
+      "locator": "Gems & Gemology, Vol. 14"
+    },
+    {
+      "type": "secondary",
+      "author": "Bocchio, R. et al.",
+      "title": "Tsavorite from Kenya: gemmology and geology",
+      "year": 2011,
+      "locator": "European Journal of Mineralogy"
+    },
+    {
+      "type": "web",
+      "title": "Tsavorite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsavorite"
+    }
+  ]
+}

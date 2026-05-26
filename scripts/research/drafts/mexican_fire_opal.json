@@ -1,0 +1,54 @@
+{
+  "id": "mexican_fire_opal",
+  "name": "墨西哥火欧泊",
+  "name_en": "Mexican Fire Opal",
+  "region": "墨西哥 · 克雷塔罗州",
+  "region_en": "Querétaro, Mexico",
+  "coordinates": [
+    20.59,
+    -100.39
+  ],
+  "category": "opal",
+  "mineral_type": "蛋白石 / Opal (SiO₂·nH₂O) · 火欧泊变种",
+  "color": "橙红、火焰红、蜜橙、樱桃红（含或不含变彩 play-of-color）",
+  "marker_color": "#ff5722",
+  "stories": [
+    {
+      "culture": "阿兹特克 · 蜂鸟之石",
+      "title": "vitzitziltecpatl",
+      "content": "阿兹特克纳瓦特尔语称火欧泊为 vitzitziltecpatl——\"蜂鸟之石\"。蜂鸟（uitzilin）是战神 Huitzilopochtli 与羽蛇神 Quetzalcoatl 共有的圣物，火欧泊的橙红色被认为是蜂鸟脖颈的彩虹光辉凝结而成。\n\n阿兹特克祭司用火欧泊镶嵌仪式面具，特别是 Quetzalcoatl 形象——大英博物馆藏有一面 14-16 世纪的绿松石马赛克面具，其中嵌有红色变彩材料。Sahagún 在《新西班牙诸物志》卷十一（1569）记录阿兹特克人将火欧泊埋入祭坛、敬献蜂鸟神。"
+    },
+    {
+      "culture": "近代 · 1835 重新发现",
+      "title": "矿主 Siurob 与\"cantera\"",
+      "content": "西班牙殖民彻底摧毁了阿兹特克的矿场记忆。直到 1835 年，一位名叫 José María Siurob 的墨西哥本地人在克雷塔罗州 Magdalena 镇附近发现一脉橙红色蛋白石——重新打开了被遗忘三百年的火欧泊矿源。\n\nQuerétaro 火欧泊有个独特特点：原石常嵌在乳白色的流纹岩基质中——西班牙文称 cantera（\"采石场\"），意即\"母岩\"。这种 cantera fire opal 不需切磨、保留母岩的款式至今独树一帜。今天 Querétaro 与 Hidalgo 仍是世界主要火欧泊产区。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mexican_Fire_Opal.jpg?width=640",
+  "image_credit": "墨西哥火欧泊 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "墨西哥火欧泊合法贸易，Querétaro、Hidalgo、Jalisco 三州均有产。前哥伦布时期文物受墨西哥《国家历史与文物联邦法》（1972）保护，不得出境。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Sahagún, Bernardino de",
+      "title": "Historia general de las cosas de Nueva España (Florentine Codex)",
+      "year": 1582,
+      "locator": "Book XI"
+    },
+    {
+      "type": "secondary",
+      "author": "Spencer, R.J. et al.",
+      "title": "Opal from Querétaro, Mexico: Occurrence and Inclusions",
+      "year": 1992,
+      "locator": "Gems & Gemology, Vol. 28"
+    },
+    {
+      "type": "web",
+      "title": "Fire opal – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fire_opal"
+    }
+  ]
+}

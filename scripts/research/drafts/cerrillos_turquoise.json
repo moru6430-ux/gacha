@@ -1,0 +1,54 @@
+{
+  "id": "cerrillos_turquoise",
+  "name": "切罗斯绿松石",
+  "name_en": "Cerrillos Turquoise",
+  "region": "美国 · 新墨西哥州 · 切罗斯山",
+  "region_en": "Cerrillos Hills, New Mexico, USA",
+  "coordinates": [
+    35.4,
+    -106.13
+  ],
+  "category": "turquoise",
+  "mineral_type": "含水铜铝磷酸盐 / Turquoise [CuAl₆(PO₄)₄(OH)₈·4H₂O]",
+  "color": "苹果绿、天空蓝、铜绿色（基质常带褐色赭脉）",
+  "marker_color": "#5ec0c9",
+  "stories": [
+    {
+      "culture": "阿纳萨齐 · 普韦布洛 · 阿兹特克贸易",
+      "title": "天空之石的千里网络",
+      "content": "切罗斯山的绿松石开采可追溯到公元 700 年的阿纳萨齐人（Ancestral Puebloans）。考古发现 Chaco Canyon（公元 900-1150 年的普韦布洛文明中心）出土的数万颗绿松石珠中，绝大多数同位素特征指向切罗斯。\n\n更惊人的是：这些绿松石顺着古代「绿松石之路」一路南下，进入墨西哥中部的阿兹特克。阿兹特克语 tlapalteoxihuitl（\"染色的神之绿松石\"）和 turquesa（西班牙人后来的命名）很可能就指向切罗斯货。蒙特苏马二世献给科尔特斯的\"四面绿松石面具\"（现藏大英博物馆），化学成分分析显示部分镶嵌片来自切罗斯。"
+    },
+    {
+      "culture": "普韦布洛起义 · 1680",
+      "title": "矿场上的反殖民",
+      "content": "1598 年西班牙殖民者来到新墨西哥，强迫普韦布洛人在切罗斯矿场服苦役（mita 制度）。1680 年 8 月 10 日的「普韦布洛起义」起因之一就是这些强迫劳动——起义者杀死 400 多名西班牙人，把殖民者赶出新墨西哥长达 12 年。\n\n1692 年西班牙重新占领，但再没敢全面恢复矿场奴役。19 世纪美国接手新墨西哥后，私人公司（如 Tiffany & Co. 1880 年代）短暂开采过切罗斯。今天大多数矿洞在私人手中，普韦布洛部族（Santo Domingo Pueblo 等）仍主张祖先采矿权——一场持续 400 年的产权博弈。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cerrillos_turquoise.jpg?width=640",
+  "image_credit": "切罗斯绿松石 / Wikimedia Commons（通用切罗斯山标本）",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "现代合法贸易；多数大矿在私人手中，限量产出。市售切罗斯货真假混杂，应索要 New Mexico Bureau of Geology 鉴定。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Pogue, Joseph E.",
+      "title": "The Turquoise: A Study of Its History, Mineralogy, Geology, Ethnology, Archaeology, Mythology, Folklore, and Technology",
+      "year": 1915,
+      "locator": "National Academy of Sciences"
+    },
+    {
+      "type": "secondary",
+      "author": "Hull, Sharon et al.",
+      "title": "Provenance of Chaco turquoise via lead and strontium isotopes",
+      "year": 2014,
+      "locator": "Journal of Archaeological Science"
+    },
+    {
+      "type": "web",
+      "title": "Cerrillos Turquoise Mines – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cerrillos_Turquoise_Mines"
+    }
+  ]
+}

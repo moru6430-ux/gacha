@@ -1,0 +1,63 @@
+{
+  "id": "cullinan_diamond",
+  "name": "库利南钻石 · 非洲之星",
+  "name_en": "Cullinan Diamond (Star of Africa)",
+  "region": "南非 · 豪登省 · 库利南镇",
+  "region_en": "Cullinan, Gauteng, South Africa",
+  "coordinates": [
+    -25.6745,
+    28.5189
+  ],
+  "category": "diamond",
+  "mineral_type": "钻石 / Diamond (C, Type IIa)",
+  "color": "无色（原 3106 克拉，切割成 9 大块 + 96 小钻）",
+  "marker_color": "#f5f8ff",
+  "stories": [
+    {
+      "culture": "1905 · 矿井意外",
+      "title": "矿主走廊里的\"玻璃\"",
+      "content": "1905 年 1 月 26 日傍晚，南非 Premier 二号矿井的代理矿长 Frederick Wells 正在 5.5 米深的矿坑巡视，夕阳从地面斜射进矿洞，照亮岩壁上一处反光。他以为是某位前任矿主丢的玻璃残片，用小刀挖了一下——竟挖出一颗 3106.75 克拉（621.35 克）的钻石原石。这是有史以来最大的宝石级钻石原石，至今未被超越。\n\n钻石以矿主 Thomas Cullinan 命名。Wells 因此得到 3500 英镑奖金（相当于今天约 50 万英镑）。当时矿工怀疑这是恶作剧——一颗这么大的钻石不可能孤立存在；后来确认它本是更大原石的一片（推测原始体超 5000 克拉，其他碎片至今未找到）。"
+    },
+    {
+      "culture": "英国王冠",
+      "title": "阿姆斯特丹切割室里的发抖",
+      "content": "1907 年德兰士瓦殖民政府以 15 万英镑买下原石，作为生日礼物献给英王爱德华七世。1908 年送到阿姆斯特丹的 Asscher 家族切割工坊。首席切磨师 Joseph Asscher 研究了 6 个月才下第一刀——传说他用力一劈、钢凿崩断，他当场昏厥，醒来后才发现钻石按预期完美分裂。\n\n最终切成 9 大块：Cullinan I（530.4 克拉，\"非洲之星\"）镶在英国君主权杖；Cullinan II（317.4 克拉）镶在帝国皇冠（最近一次公开使用是 2023 年查尔斯三世加冕）。两颗合计仍是世界最大的两颗已切磨钻石。南非自曼德拉时代起多次提出归还要求，英国王室至今未回应。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cullinan_diamond_rough.jpg?width=640",
+  "image_credit": "库利南原钻 1905 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "钻石本身合法贸易，但此特定文物（库利南 I、II）藏于英国皇室、不可购买。南非多次提出归还诉求。本条目仅做内容展示。"
+  },
+  "provenance_alt": [
+    "俄罗斯雅库特",
+    "博茨瓦纳 Jwaneng",
+    "加拿大 Diavik"
+  ],
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Wells, Frederick George Stanley",
+      "title": "Discovery account (cited in: Cullinan Diamond Mine records)",
+      "year": 1905
+    },
+    {
+      "type": "secondary",
+      "author": "Balfour, Ian",
+      "title": "Famous Diamonds (5th ed.)",
+      "year": 2009,
+      "locator": "Antique Collectors Club"
+    },
+    {
+      "type": "web",
+      "title": "Cullinan Diamond – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cullinan_Diamond"
+    },
+    {
+      "type": "museum",
+      "title": "Royal Collection · Sovereign's Sceptre with Cross",
+      "url": "https://www.rct.uk/collection/31702/the-sovereigns-sceptre-with-cross"
+    }
+  ]
+}

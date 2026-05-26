@@ -1,0 +1,54 @@
+{
+  "id": "kashmir_sapphire",
+  "name": "克什米尔矢车菊蓝宝",
+  "name_en": "Kashmir Sapphire",
+  "region": "印度 · 查谟克什米尔邦 · 帕达尔山谷",
+  "region_en": "Padar Valley, Kishtwar district, Jammu & Kashmir, India",
+  "coordinates": [
+    33.3,
+    75.95
+  ],
+  "category": "sapphire",
+  "mineral_type": "刚玉 / Corundum（Al₂O₃）",
+  "color": "矢车菊蓝 · cornflower blue（带乳光 silky 效应）",
+  "marker_color": "#4a6db5",
+  "stories": [
+    {
+      "culture": "1881 · 山崩里的蓝石",
+      "title": "从打火石到帝国级宝石",
+      "content": "1881 年夏，喜马拉雅山区帕达尔山谷的库迪河谷发生大规模山崩，暴露出一脉深蓝色晶体。当地牧民起初把这些石头当作打火石使用——直到一名旅行商人在拉合尔的市场上认出它们是顶级蓝宝石。消息上报后，1882 年克什米尔大公（Maharaja）派军接管矿场，开始系统开采。"
+    },
+    {
+      "culture": "宝石界 · 旧矿传奇",
+      "title": "六年开尽的山",
+      "content": "克什米尔旧矿（Old Mine）的产出期短到不可思议——1881 到 1887 年六年内挖出了大约几百公斤的顶级矢车菊蓝矿石，之后矿脉迅速枯竭。1888 起的\"新矿\"（New Mine）产出寥寥，颜色与净度都不及。从此每一颗带克什米尔产地证书的蓝宝石都成了历史遗物。\n\n2014 年苏富比拍出一颗 27.68 克拉克什米尔蓝宝戒指，成交价 627 万美元；2021 年佳士得另一颗 35.09 克拉，736 万美元。海拔 4600 米的旧矿矿区今天仍在印度军方控制下，禁止开采。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kashmir_Sapphire_27.68_Carats.jpg?width=640",
+  "image_credit": "克什米尔蓝宝石 / Wikimedia Commons（通用克什米尔标本）",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "克什米尔旧矿区受印度军方管控，禁采。市面流通基本为 1880-1930 年代库存或拍卖回流，需 GIA / SSEF / Gübelin 产地证书。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "La Touche, T.H.D.",
+      "title": "The Sapphire Mines of Kashmir",
+      "year": 1890,
+      "locator": "Geological Survey of India"
+    },
+    {
+      "type": "secondary",
+      "author": "Pardieu, Vincent et al.",
+      "title": "Kashmir Sapphires from the Padar Region",
+      "year": 2015,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Kashmir Sapphire – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kashmir_Sapphire"
+    }
+  ]
+}

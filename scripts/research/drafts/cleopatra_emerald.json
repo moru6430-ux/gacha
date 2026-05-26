@@ -1,0 +1,54 @@
+{
+  "id": "cleopatra_emerald",
+  "name": "克利奥帕特拉祖母绿",
+  "name_en": "Cleopatra's Emerald (Mons Smaragdus)",
+  "region": "埃及 · 东部沙漠 · Wadi Sikait",
+  "region_en": "Wadi Sikait, Eastern Desert, Egypt",
+  "coordinates": [
+    24.6,
+    34.8
+  ],
+  "category": "emerald",
+  "mineral_type": "绿柱石 / Beryl (Be₃Al₂Si₆O₁₈) · 铬致色",
+  "color": "深森林绿、苔绿（含内含物较多，净度低于穆佐）",
+  "marker_color": "#1e8a5d",
+  "stories": [
+    {
+      "culture": "托勒密埃及 · Cleopatra",
+      "title": "法老的「翡翠之山」",
+      "content": "古埃及人从公元前 1500 年起就在东部沙漠的 Mons Smaragdus（拉丁文「翡翠之山」，希腊文 Smaragdus，含义即\"祖母绿\"）开采绿柱石。这是世界最古老的祖母绿矿区，比哥伦比亚穆佐早了 2000 多年。\n\n克利奥帕特拉七世（公元前 69-30 年）把这些矿据为己有，命人将祖母绿雕刻成她的肖像，作为给外国使节的国礼。罗马博物学家 Pliny the Elder 在《博物志》（公元 77 年）卷 37 详细描述了 Sikait 矿区的开采条件——隧道狭窄、深及山腹、矿工要爬行作业。"
+    },
+    {
+      "culture": "近代考古 · 重新被发现",
+      "title": "失落千年的矿",
+      "content": "罗马帝国晚期之后，Mons Smaragdus 被沙漠吞没、记载断绝。1817 年法国探险家 Frédéric Cailliaud（拿破仑时代埃及学黄金期）凭借残存古籍线索重新找到 Wadi Sikait——废弃的矿洞、罗马时代的工人住所、刻有希腊文的墓碑全部完好。\n\n2018 年起，西班牙加泰罗尼亚自治大学的 Joan Oller Guzmán 团队系统发掘 Sikait，挖出公元 1-6 世纪的矿工聚落，包括神庙、宿舍、矿工食堂——证明罗马帝国时期这里有完整的\"祖母绿城\"。今天博物馆里多数标作\"克利奥帕特拉祖母绿\"的宝石其实是 17-19 世纪的哥伦比亚穆佐货；真正的 Sikait 原产品体小、有内含物，不少藏在大英博物馆与开罗博物馆。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wadi_Sikait_-_Emerald_mines.jpg?width=640",
+  "image_credit": "Sikait 古矿区 / Wikimedia Commons（图为矿洞遗址，非原石）",
+  "legal_status": {
+    "commerce": "prohibited",
+    "notes": "Wadi Sikait 现为埃及考古保护区，禁止采矿与取石。市面所谓\"埃及祖母绿\"几乎全为现代赞比亚 / 巴基斯坦产；古文物受埃及《文物保护法》全面禁止出境。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Pliny the Elder",
+      "title": "Naturalis Historia",
+      "year": 77,
+      "locator": "Book XXXVII (gems)"
+    },
+    {
+      "type": "secondary",
+      "author": "Oller Guzmán, Joan et al.",
+      "title": "The Roman emerald mines of Sikait (Egypt): 2018-2022 archaeological campaigns",
+      "year": 2023,
+      "locator": "Journal of Roman Archaeology"
+    },
+    {
+      "type": "web",
+      "title": "Mons Smaragdus – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mons_Smaragdus"
+    }
+  ]
+}

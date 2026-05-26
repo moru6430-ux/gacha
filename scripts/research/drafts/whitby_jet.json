@@ -1,0 +1,59 @@
+{
+  "id": "whitby_jet",
+  "name": "惠特比煤精",
+  "name_en": "Whitby Jet",
+  "region": "英国 · 北约克郡 · 惠特比",
+  "region_en": "Whitby, North Yorkshire, England, UK",
+  "coordinates": [
+    54.49,
+    -0.613
+  ],
+  "category": "other",
+  "mineral_type": "煤精 / Jet（化石化的南洋杉科木质，1.81 亿年托阿尔阶）",
+  "color": "深黑、墨亮、可抛光至镜面",
+  "marker_color": "#1a1a1a",
+  "stories": [
+    {
+      "culture": "罗马时代 · 护身符",
+      "title": "\"gagates\"",
+      "content": "罗马博物学家 Pliny the Elder（公元 77）记载来自不列颠的黑色矿物 gagates——他写道：\"研磨发热可生静电（吸引麦秸），焚之有松脂香，可驱蛇毒。\"古罗马驻不列颠的军团士兵从惠特比矿区收集这种\"魔石\"做护身符，遗物在不列颠诸郡考古中出土甚多。\n\n盎格鲁-撒克逊时期延续这种信仰，Whitby Abbey（657 年圣 Hilda 创建）周边的修士墓中常见煤精十字架——既驱魔，又显简朴。"
+    },
+    {
+      "culture": "维多利亚 · 哀悼与吸血鬼",
+      "title": "王后的黑",
+      "content": "1861 年阿尔伯特亲王去世后，维多利亚女王进入毕生哀悼期——王室哀悼期间唯一被允许佩戴的珠宝就是惠特比煤精（其他材料的\"暗淡感\"都不及它）。整个英国上流社会跟随，催生了惠特比煤精产业的鼎盛：1873 年有 1500 工人 + 200 矿工，每年产值 9 万英镑（约今 1500 万英镑）。\n\n1890 年 7-8 月，爱尔兰作家 Bram Stoker 在惠特比避暑，住在 West Cliff。这趟旅行让惠特比港口、Whitby Abbey 废墟、East Cliff 上 199 级台阶成为 1897 年小说《德古拉》中德古拉登陆英国的舞台。今天惠特比每年举办 Goth Weekend（始于 1994），煤精饰品依然是哥特族的\"在地认证\"。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Whitby_jet_jewellery.jpg?width=640",
+  "image_credit": "惠特比煤精首饰 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "现代采集仅限海滩拾捡（保护区内禁挖）。市售\"惠特比煤精\"假货比例高（黑玻璃、酚醛树脂、化石煤），可去 W. Hamond 等当地老字号或 Whitby Museum 认证。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Pliny the Elder",
+      "title": "Naturalis Historia",
+      "year": 77,
+      "locator": "Book XXXVI, on gagates"
+    },
+    {
+      "type": "secondary",
+      "author": "Muller, Helen",
+      "title": "Jet",
+      "year": 1987,
+      "locator": "Butterworths Gem Books"
+    },
+    {
+      "type": "web",
+      "title": "Whitby jet – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)"
+    },
+    {
+      "type": "museum",
+      "title": "Whitby Museum · Jet Collection",
+      "url": "https://whitbymuseum.org.uk/collection/jet-and-jet-jewellery/"
+    }
+  ]
+}

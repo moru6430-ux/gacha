@@ -1,0 +1,54 @@
+{
+  "id": "burmese_jadeite",
+  "name": "缅甸帕敢翡翠",
+  "name_en": "Burmese Hpakant Jadeite",
+  "region": "缅甸 · 克钦邦 · 帕敢矿区",
+  "region_en": "Hpakant, Kachin State, Myanmar",
+  "coordinates": [
+    25.6228,
+    96.3036
+  ],
+  "category": "jade",
+  "mineral_type": "硬玉 / Jadeite-jade（NaAlSi₂O₆）",
+  "color": "帝王绿、苹果绿、紫罗兰、冰种透白",
+  "marker_color": "#00b04f",
+  "stories": [
+    {
+      "culture": "清宫 · 乾隆到慈禧",
+      "title": "从软玉到硬玉的口味转向",
+      "content": "在缅甸翡翠进入中国之前，中国「玉」三千年来指的都是新疆和田软玉。帕敢硬玉大约 1784 年才经云南腾冲商人传入北京——比和田玉晚了至少 3000 年。乾隆皇帝起初不喜欢这种\"颜色太艳、质地太脆\"的新石头，但到他晚年时，宫廷已对翡翠帝王绿上瘾。慈禧太后把这种偏好推到极致：她的随葬品里有翡翠西瓜、翡翠白菜、翡翠手镯，估值在 1908 年已超 800 万两白银。1928 年孙殿英盗掘东陵，这批翡翠流散，许多至今下落不明。"
+    },
+    {
+      "culture": "当代克钦 · 血玉",
+      "title": "2020 年帕敢矿难",
+      "content": "帕敢矿区位于克钦独立军（KIA）与缅甸军政府长期冲突的灰区。控制权、税收、童工与吸毒问题让国际社会称其矿石为\"血玉\"（blood jade）。Global Witness 2015 年报告估计帕敢年产值 310 亿美元，相当于缅甸 GDP 的近一半，绝大多数没进入官方账目。\n\n2020 年 7 月 2 日，一处尾矿堆坍塌，约 200 名「拾荒矿工」（jade pickers——在大公司挖掘后翻拣废石的散户）遇难。2025 年起，缅甸军政府宣布部分矿区禁采，但执行情况不明。市售缅甸翡翠需谨慎核查来源。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jadeite.jpg?width=640",
+  "image_credit": "翡翠 / Wikimedia Commons（通用硬玉标本，非帕敢专属）",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "缅甸翡翠合法国际贸易；但美国 2008-2016 实施过《缅甸玉法》全面禁运。2021 政变后欧美对部分缅甸珠宝公司有制裁。市售货建议看 NGTC 或 GRS 证书 + 进口报关单。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Hughes, Richard W. & Pardieu, Vincent",
+      "title": "Burmese Jade: The Inscrutable Gem",
+      "year": 2000,
+      "locator": "Lotus Gemology"
+    },
+    {
+      "type": "secondary",
+      "author": "Global Witness",
+      "title": "Jade: Myanmar's \"Big State Secret\"",
+      "year": 2015,
+      "url": "https://www.globalwitness.org/en/campaigns/oil-gas-and-mining/myanmarjade/"
+    },
+    {
+      "type": "web",
+      "title": "Jade trade in Myanmar – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jade_trade_in_Myanmar"
+    }
+  ]
+}

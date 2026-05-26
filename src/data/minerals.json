@@ -648,7 +648,7 @@
       17.3833,
       78.4011
     ],
-    "category": "other",
+    "category": "diamond",
     "mineral_type": "钻石（Type IIa）",
     "color": "无色（原 186 克拉，1852 年重切至 105.6 克拉）",
     "stories": [
@@ -937,5 +937,668 @@
       }
     ],
     "marker_color": "#00d4dc"
+  },
+  {
+    "id": "burmese_jadeite",
+    "name": "缅甸帕敢翡翠",
+    "name_en": "Burmese Hpakant Jadeite",
+    "region": "缅甸 · 克钦邦 · 帕敢矿区",
+    "region_en": "Hpakant, Kachin State, Myanmar",
+    "coordinates": [
+      25.6228,
+      96.3036
+    ],
+    "category": "jade",
+    "mineral_type": "硬玉 / Jadeite-jade（NaAlSi₂O₆）",
+    "color": "帝王绿、苹果绿、紫罗兰、冰种透白",
+    "marker_color": "#00b04f",
+    "stories": [
+      {
+        "culture": "清宫 · 乾隆到慈禧",
+        "title": "从软玉到硬玉的口味转向",
+        "content": "在缅甸翡翠进入中国之前，中国「玉」三千年来指的都是新疆和田软玉。帕敢硬玉大约 1784 年才经云南腾冲商人传入北京——比和田玉晚了至少 3000 年。乾隆皇帝起初不喜欢这种\"颜色太艳、质地太脆\"的新石头，但到他晚年时，宫廷已对翡翠帝王绿上瘾。慈禧太后把这种偏好推到极致：她的随葬品里有翡翠西瓜、翡翠白菜、翡翠手镯，估值在 1908 年已超 800 万两白银。1928 年孙殿英盗掘东陵，这批翡翠流散，许多至今下落不明。"
+      },
+      {
+        "culture": "当代克钦 · 血玉",
+        "title": "2020 年帕敢矿难",
+        "content": "帕敢矿区位于克钦独立军（KIA）与缅甸军政府长期冲突的灰区。控制权、税收、童工与吸毒问题让国际社会称其矿石为\"血玉\"（blood jade）。Global Witness 2015 年报告估计帕敢年产值 310 亿美元，相当于缅甸 GDP 的近一半，绝大多数没进入官方账目。\n\n2020 年 7 月 2 日，一处尾矿堆坍塌，约 200 名「拾荒矿工」（jade pickers——在大公司挖掘后翻拣废石的散户）遇难。2025 年起，缅甸军政府宣布部分矿区禁采，但执行情况不明。市售缅甸翡翠需谨慎核查来源。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jadeite.jpg?width=640",
+    "image_credit": "翡翠 / Wikimedia Commons（通用硬玉标本，非帕敢专属）",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "缅甸翡翠合法国际贸易；但美国 2008-2016 实施过《缅甸玉法》全面禁运。2021 政变后欧美对部分缅甸珠宝公司有制裁。市售货建议看 NGTC 或 GRS 证书 + 进口报关单。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Hughes, Richard W. & Pardieu, Vincent",
+        "title": "Burmese Jade: The Inscrutable Gem",
+        "year": 2000,
+        "locator": "Lotus Gemology"
+      },
+      {
+        "type": "secondary",
+        "author": "Global Witness",
+        "title": "Jade: Myanmar's \"Big State Secret\"",
+        "year": 2015,
+        "url": "https://www.globalwitness.org/en/campaigns/oil-gas-and-mining/myanmarjade/"
+      },
+      {
+        "type": "web",
+        "title": "Jade trade in Myanmar – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jade_trade_in_Myanmar"
+      }
+    ]
+  },
+  {
+    "id": "kashmir_sapphire",
+    "name": "克什米尔矢车菊蓝宝",
+    "name_en": "Kashmir Sapphire",
+    "region": "印度 · 查谟克什米尔邦 · 帕达尔山谷",
+    "region_en": "Padar Valley, Kishtwar district, Jammu & Kashmir, India",
+    "coordinates": [
+      33.3,
+      75.95
+    ],
+    "category": "sapphire",
+    "mineral_type": "刚玉 / Corundum（Al₂O₃）",
+    "color": "矢车菊蓝 · cornflower blue（带乳光 silky 效应）",
+    "marker_color": "#4a6db5",
+    "stories": [
+      {
+        "culture": "1881 · 山崩里的蓝石",
+        "title": "从打火石到帝国级宝石",
+        "content": "1881 年夏，喜马拉雅山区帕达尔山谷的库迪河谷发生大规模山崩，暴露出一脉深蓝色晶体。当地牧民起初把这些石头当作打火石使用——直到一名旅行商人在拉合尔的市场上认出它们是顶级蓝宝石。消息上报后，1882 年克什米尔大公（Maharaja）派军接管矿场，开始系统开采。"
+      },
+      {
+        "culture": "宝石界 · 旧矿传奇",
+        "title": "六年开尽的山",
+        "content": "克什米尔旧矿（Old Mine）的产出期短到不可思议——1881 到 1887 年六年内挖出了大约几百公斤的顶级矢车菊蓝矿石，之后矿脉迅速枯竭。1888 起的\"新矿\"（New Mine）产出寥寥，颜色与净度都不及。从此每一颗带克什米尔产地证书的蓝宝石都成了历史遗物。\n\n2014 年苏富比拍出一颗 27.68 克拉克什米尔蓝宝戒指，成交价 627 万美元；2021 年佳士得另一颗 35.09 克拉，736 万美元。海拔 4600 米的旧矿矿区今天仍在印度军方控制下，禁止开采。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kashmir_Sapphire_27.68_Carats.jpg?width=640",
+    "image_credit": "克什米尔蓝宝石 / Wikimedia Commons（通用克什米尔标本）",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "克什米尔旧矿区受印度军方管控，禁采。市面流通基本为 1880-1930 年代库存或拍卖回流，需 GIA / SSEF / Gübelin 产地证书。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "La Touche, T.H.D.",
+        "title": "The Sapphire Mines of Kashmir",
+        "year": 1890,
+        "locator": "Geological Survey of India"
+      },
+      {
+        "type": "secondary",
+        "author": "Pardieu, Vincent et al.",
+        "title": "Kashmir Sapphires from the Padar Region",
+        "year": 2015,
+        "locator": "Gems & Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Kashmir Sapphire – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kashmir_Sapphire"
+      }
+    ]
+  },
+  {
+    "id": "russian_alexandrite",
+    "name": "乌拉尔亚历山大变石",
+    "name_en": "Ural Alexandrite",
+    "region": "俄罗斯 · 斯维尔德洛夫斯克州 · 托科瓦亚河流域",
+    "region_en": "Tokovaya River, Sverdlovsk Oblast, Russia",
+    "coordinates": [
+      57.0,
+      60.5
+    ],
+    "category": "other",
+    "mineral_type": "金绿宝石变种 / Chrysoberyl (BeAl₂O₄)",
+    "color": "日光下祖母绿 · 烛光下覆盆子红（color-change phenomenon）",
+    "marker_color": "#6b9a5c",
+    "continent": [
+      "europe",
+      "asia"
+    ],
+    "border_note": "横跨欧亚边界 · 神话与俄罗斯帝国紧密绑定",
+    "stories": [
+      {
+        "culture": "1834 · 沙皇之石",
+        "title": "亚历山大的十六岁生日",
+        "content": "1834 年 4 月 17 日，芬兰矿物学家 Nils Nordenskjöld 在乌拉尔山的祖母绿矿区发现一种古怪的金绿宝石变种——白天看是祖母绿色，蜡烛下竟变成覆盆子红。\n\n这一天正好是俄国皇储亚历山大（即未来的沙皇 Alexander II）的十六岁生日。Nordenskjöld 把这块石头献给皇室，命名为「亚历山大石」（Alexandrite）。红与绿同时也是俄罗斯帝国陆军军服的颜色——这个巧合让此石被尊为\"沙皇之石\"，整个 19 世纪后期成为彼得堡贵族首饰的标配。"
+      },
+      {
+        "culture": "近代 · 矿脉枯竭",
+        "title": "革命与变色",
+        "content": "亚历山大二世 1881 年遇刺。坊间开始传\"沙皇之石的双色暗示俄国的两面\"——绿是太平、红是革命。1917 年布尔什维克革命后，亚历山大石被官方贬为\"沙皇遗物\"，从宫廷珠宝清单消失。\n\n乌拉尔原矿在 1920 年代基本采尽。今天市售的\"亚历山大石\"九成来自巴西米纳斯吉拉斯、斯里兰卡、东非。但宝石学家公认：变色幅度最大、最戏剧性的，还是乌拉尔老矿的存货。一颗 3 克拉以上、变色完美的乌拉尔老料，每克拉拍卖价超过 7 万美元（2020 苏富比记录）。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aleksandryt_w_świetle_dziennym_-_Ural,_Rosja.jpg?width=640",
+    "image_credit": "乌拉尔亚历山大石（日光下）/ Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "亚历山大石合法国际贸易；乌拉尔原矿基本枯竭，市售货大量来自巴西、东非、斯里兰卡。变色合成石泛滥，需 GIA 鉴定。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Nordenskjöld, Nils Gustaf",
+        "title": "\"Über den Chrysoberyll\" (in German Mineralogie)",
+        "year": 1842
+      },
+      {
+        "type": "secondary",
+        "author": "Schmetzer, Karl",
+        "title": "Russian Alexandrites",
+        "year": 2010,
+        "locator": "Schweizerbart Science Publishers"
+      },
+      {
+        "type": "web",
+        "title": "Alexandrite – GIA",
+        "url": "https://www.gia.edu/alexandrite"
+      }
+    ]
+  },
+  {
+    "id": "greek_amethyst",
+    "name": "希腊紫水晶",
+    "name_en": "Greek Amethyst",
+    "region": "希腊 · 那克索斯岛",
+    "region_en": "Naxos, Cyclades, Greece",
+    "coordinates": [
+      37.1,
+      25.38
+    ],
+    "category": "amethyst",
+    "mineral_type": "石英变种 / Quartz var. amethyst（含铁致色）",
+    "color": "紫罗兰、深酒紫、淡丁香",
+    "marker_color": "#9b4ddb",
+    "stories": [
+      {
+        "culture": "古希腊 · 酒神神话",
+        "title": "不醉之石",
+        "content": "\"Amethystos\"（ἀμέθυστος）在古希腊语里就是\"不醉\"的意思——a 是否定前缀，methystos 是\"醉\"。古希腊人相信用紫水晶杯子盛酒，喝多少都不会醉。雅典考古博物馆藏有几只公元前 4 世纪的紫水晶酒爵。\n\n奥维德《变形记》记载的神话：酒神 Dionysus 被一名凡人冒犯，发怒说要让下一个遇到的人被老虎撕碎。第一个走来的恰是少女 Amethystos。她向月神 Artemis 祈祷，被变成纯白水晶免遭袭击。Dionysus 后悔，把酒洒在水晶上——纯白便染成了紫色。"
+      },
+      {
+        "culture": "中世纪基督教 · 主教之石",
+        "title": "从酒神到主教指环",
+        "content": "中世纪基督教继承了\"紫水晶 = 清醒\"的隐喻，并加以扩展：紫色是主教祭服的颜色，紫水晶因此被指定为主教指环（episcopal ring）的石头，象征清醒、谦逊、领圣体时的克制。教皇本笃十六世 2005 年加冕的渔人戒指就镶有紫水晶。\n\n紫水晶曾是\"五大贵宝石\"之一（与钻石、红蓝绿宝石并列），直到 1727 年巴西米纳斯吉拉斯发现巨型紫晶洞——产量瞬间暴涨千倍，价格跌入百姓家。这是宝石史上最戏剧性的\"贵族跌价\"事件之一。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iziko_Mineral_Amethyst_geode.JPG?width=640",
+    "image_credit": "紫水晶晶洞 / Wikimedia Commons CC-BY",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "紫水晶合法贸易；最大产区为巴西、乌拉圭、赞比亚。那克索斯岛历史矿区已枯竭。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Ovid",
+        "title": "Metamorphoses",
+        "year": 8,
+        "locator": "Book V (Amethystos transformation)"
+      },
+      {
+        "type": "secondary",
+        "author": "Theophrastus",
+        "title": "On Stones (Περὶ λίθων)",
+        "year": -315
+      },
+      {
+        "type": "web",
+        "title": "Amethyst – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amethyst"
+      }
+    ]
+  },
+  {
+    "id": "cleopatra_emerald",
+    "name": "克利奥帕特拉祖母绿",
+    "name_en": "Cleopatra's Emerald (Mons Smaragdus)",
+    "region": "埃及 · 东部沙漠 · Wadi Sikait",
+    "region_en": "Wadi Sikait, Eastern Desert, Egypt",
+    "coordinates": [
+      24.6,
+      34.8
+    ],
+    "category": "emerald",
+    "mineral_type": "绿柱石 / Beryl (Be₃Al₂Si₆O₁₈) · 铬致色",
+    "color": "深森林绿、苔绿（含内含物较多，净度低于穆佐）",
+    "marker_color": "#1e8a5d",
+    "stories": [
+      {
+        "culture": "托勒密埃及 · Cleopatra",
+        "title": "法老的「翡翠之山」",
+        "content": "古埃及人从公元前 1500 年起就在东部沙漠的 Mons Smaragdus（拉丁文「翡翠之山」，希腊文 Smaragdus，含义即\"祖母绿\"）开采绿柱石。这是世界最古老的祖母绿矿区，比哥伦比亚穆佐早了 2000 多年。\n\n克利奥帕特拉七世（公元前 69-30 年）把这些矿据为己有，命人将祖母绿雕刻成她的肖像，作为给外国使节的国礼。罗马博物学家 Pliny the Elder 在《博物志》（公元 77 年）卷 37 详细描述了 Sikait 矿区的开采条件——隧道狭窄、深及山腹、矿工要爬行作业。"
+      },
+      {
+        "culture": "近代考古 · 重新被发现",
+        "title": "失落千年的矿",
+        "content": "罗马帝国晚期之后，Mons Smaragdus 被沙漠吞没、记载断绝。1817 年法国探险家 Frédéric Cailliaud（拿破仑时代埃及学黄金期）凭借残存古籍线索重新找到 Wadi Sikait——废弃的矿洞、罗马时代的工人住所、刻有希腊文的墓碑全部完好。\n\n2018 年起，西班牙加泰罗尼亚自治大学的 Joan Oller Guzmán 团队系统发掘 Sikait，挖出公元 1-6 世纪的矿工聚落，包括神庙、宿舍、矿工食堂——证明罗马帝国时期这里有完整的\"祖母绿城\"。今天博物馆里多数标作\"克利奥帕特拉祖母绿\"的宝石其实是 17-19 世纪的哥伦比亚穆佐货；真正的 Sikait 原产品体小、有内含物，不少藏在大英博物馆与开罗博物馆。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wadi_Sikait_-_Emerald_mines.jpg?width=640",
+    "image_credit": "Sikait 古矿区 / Wikimedia Commons（图为矿洞遗址，非原石）",
+    "legal_status": {
+      "commerce": "prohibited",
+      "notes": "Wadi Sikait 现为埃及考古保护区，禁止采矿与取石。市面所谓\"埃及祖母绿\"几乎全为现代赞比亚 / 巴基斯坦产；古文物受埃及《文物保护法》全面禁止出境。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Pliny the Elder",
+        "title": "Naturalis Historia",
+        "year": 77,
+        "locator": "Book XXXVII (gems)"
+      },
+      {
+        "type": "secondary",
+        "author": "Oller Guzmán, Joan et al.",
+        "title": "The Roman emerald mines of Sikait (Egypt): 2018-2022 archaeological campaigns",
+        "year": 2023,
+        "locator": "Journal of Roman Archaeology"
+      },
+      {
+        "type": "web",
+        "title": "Mons Smaragdus – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mons_Smaragdus"
+      }
+    ]
+  },
+  {
+    "id": "cerrillos_turquoise",
+    "name": "切罗斯绿松石",
+    "name_en": "Cerrillos Turquoise",
+    "region": "美国 · 新墨西哥州 · 切罗斯山",
+    "region_en": "Cerrillos Hills, New Mexico, USA",
+    "coordinates": [
+      35.4,
+      -106.13
+    ],
+    "category": "turquoise",
+    "mineral_type": "含水铜铝磷酸盐 / Turquoise [CuAl₆(PO₄)₄(OH)₈·4H₂O]",
+    "color": "苹果绿、天空蓝、铜绿色（基质常带褐色赭脉）",
+    "marker_color": "#5ec0c9",
+    "stories": [
+      {
+        "culture": "阿纳萨齐 · 普韦布洛 · 阿兹特克贸易",
+        "title": "天空之石的千里网络",
+        "content": "切罗斯山的绿松石开采可追溯到公元 700 年的阿纳萨齐人（Ancestral Puebloans）。考古发现 Chaco Canyon（公元 900-1150 年的普韦布洛文明中心）出土的数万颗绿松石珠中，绝大多数同位素特征指向切罗斯。\n\n更惊人的是：这些绿松石顺着古代「绿松石之路」一路南下，进入墨西哥中部的阿兹特克。阿兹特克语 tlapalteoxihuitl（\"染色的神之绿松石\"）和 turquesa（西班牙人后来的命名）很可能就指向切罗斯货。蒙特苏马二世献给科尔特斯的\"四面绿松石面具\"（现藏大英博物馆），化学成分分析显示部分镶嵌片来自切罗斯。"
+      },
+      {
+        "culture": "普韦布洛起义 · 1680",
+        "title": "矿场上的反殖民",
+        "content": "1598 年西班牙殖民者来到新墨西哥，强迫普韦布洛人在切罗斯矿场服苦役（mita 制度）。1680 年 8 月 10 日的「普韦布洛起义」起因之一就是这些强迫劳动——起义者杀死 400 多名西班牙人，把殖民者赶出新墨西哥长达 12 年。\n\n1692 年西班牙重新占领，但再没敢全面恢复矿场奴役。19 世纪美国接手新墨西哥后，私人公司（如 Tiffany & Co. 1880 年代）短暂开采过切罗斯。今天大多数矿洞在私人手中，普韦布洛部族（Santo Domingo Pueblo 等）仍主张祖先采矿权——一场持续 400 年的产权博弈。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cerrillos_turquoise.jpg?width=640",
+    "image_credit": "切罗斯绿松石 / Wikimedia Commons（通用切罗斯山标本）",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "现代合法贸易；多数大矿在私人手中，限量产出。市售切罗斯货真假混杂，应索要 New Mexico Bureau of Geology 鉴定。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Pogue, Joseph E.",
+        "title": "The Turquoise: A Study of Its History, Mineralogy, Geology, Ethnology, Archaeology, Mythology, Folklore, and Technology",
+        "year": 1915,
+        "locator": "National Academy of Sciences"
+      },
+      {
+        "type": "secondary",
+        "author": "Hull, Sharon et al.",
+        "title": "Provenance of Chaco turquoise via lead and strontium isotopes",
+        "year": 2014,
+        "locator": "Journal of Archaeological Science"
+      },
+      {
+        "type": "web",
+        "title": "Cerrillos Turquoise Mines – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cerrillos_Turquoise_Mines"
+      }
+    ]
+  },
+  {
+    "id": "nz_pounamu",
+    "name": "毛利绿玉 · Pounamu",
+    "name_en": "New Zealand Pounamu (Greenstone)",
+    "region": "新西兰 · 南岛 · 阿拉胡拉河流域",
+    "region_en": "Arahura River, West Coast, South Island, New Zealand",
+    "coordinates": [
+      -42.62,
+      171.07
+    ],
+    "category": "jade",
+    "mineral_type": "软玉 / Nephrite（多数）· 鲍文石 Tangiwai（少数）",
+    "color": "kawakawa 深绿、kahurangi 蓝绿、īnanga 灰绿、tangiwai 半透绿",
+    "marker_color": "#4a7c2a",
+    "stories": [
+      {
+        "culture": "毛利 · 圣物 taonga",
+        "title": "Poutini 与 Waitaiki 的传说",
+        "content": "在 Ngāi Tahu（南岛毛利主要部族）的口传中，pounamu 是 Poutini 这位守护神变身的鱼形精灵。一日 Poutini 偷走了一名男子 Tama-āhua 的妻子 Waitaiki，逃到南岛西岸。Tama-āhua 追到 Arahura 河边时，Poutini 将 Waitaiki 变成 pounamu 留在河中，自己游入太平洋。\n\nPounamu 在毛利文化里是最神圣的 taonga（传家宝）——做成 hei-tiki（颈饰）、mere（短刀）、adze（凿斧）。代代相传，沾染祖先 mana（灵力）。送给外族人是最高规格的友谊礼。Captain Cook 1770 年航海日志记录，毛利酋长曾送他一块 pounamu，他不识其重，回礼一颗玻璃珠子。"
+      },
+      {
+        "culture": "1997 · Ngāi Tahu Settlement",
+        "title": "一个部族买回所有绿玉的故事",
+        "content": "英国殖民下的《怀唐伊条约》（1840）许诺保护毛利土地与资源，但实际上 19-20 世纪 pounamu 矿被欧裔个人随意开采贩卖。Ngāi Tahu 部族 1980 年代发起法律诉讼。\n\n1997 年新西兰《Ngāi Tahu (Pounamu Vesting) Act》通过——把全国所有未开采的 pounamu 资源完全归还 Ngāi Tahu 部族所有。今天采集、出口 pounamu 必须经部族许可。Hokitika 与 Greymouth 街边礼品店卖的\"greenstone\"多数是进口加拿大 BC 玉冒充——买真 pounamu 要找 Ngāi Tahu 认证标识。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pounamu_(New_Zealand_nephrite_jade).jpg?width=640",
+    "image_credit": "毛利绿玉 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "1997 年新西兰《Ngāi Tahu (Pounamu Vesting) Act》：所有 pounamu 矿权归 Ngāi Tahu 部族。商业开采、出口需经部族许可。游客可在 West Coast 河滩拾捡少量个人持有用（限 30 公斤），不可外卖。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Ngāi Tahu Iwi",
+        "title": "Pounamu, Pounamu - Ngāi Tahu Pūtaiao",
+        "url": "https://ngaitahu.iwi.nz/our_stories/pounamu/"
+      },
+      {
+        "type": "secondary",
+        "author": "Beck, Russell J.",
+        "title": "Pounamu: The Jade of New Zealand",
+        "year": 2010,
+        "locator": "Penguin Random House NZ"
+      },
+      {
+        "type": "web",
+        "title": "Pounamu – Te Ara Encyclopedia of NZ",
+        "url": "https://teara.govt.nz/en/pounamu-jade-or-greenstone"
+      }
+    ]
+  },
+  {
+    "id": "mexican_fire_opal",
+    "name": "墨西哥火欧泊",
+    "name_en": "Mexican Fire Opal",
+    "region": "墨西哥 · 克雷塔罗州",
+    "region_en": "Querétaro, Mexico",
+    "coordinates": [
+      20.59,
+      -100.39
+    ],
+    "category": "opal",
+    "mineral_type": "蛋白石 / Opal (SiO₂·nH₂O) · 火欧泊变种",
+    "color": "橙红、火焰红、蜜橙、樱桃红（含或不含变彩 play-of-color）",
+    "marker_color": "#ff5722",
+    "stories": [
+      {
+        "culture": "阿兹特克 · 蜂鸟之石",
+        "title": "vitzitziltecpatl",
+        "content": "阿兹特克纳瓦特尔语称火欧泊为 vitzitziltecpatl——\"蜂鸟之石\"。蜂鸟（uitzilin）是战神 Huitzilopochtli 与羽蛇神 Quetzalcoatl 共有的圣物，火欧泊的橙红色被认为是蜂鸟脖颈的彩虹光辉凝结而成。\n\n阿兹特克祭司用火欧泊镶嵌仪式面具，特别是 Quetzalcoatl 形象——大英博物馆藏有一面 14-16 世纪的绿松石马赛克面具，其中嵌有红色变彩材料。Sahagún 在《新西班牙诸物志》卷十一（1569）记录阿兹特克人将火欧泊埋入祭坛、敬献蜂鸟神。"
+      },
+      {
+        "culture": "近代 · 1835 重新发现",
+        "title": "矿主 Siurob 与\"cantera\"",
+        "content": "西班牙殖民彻底摧毁了阿兹特克的矿场记忆。直到 1835 年，一位名叫 José María Siurob 的墨西哥本地人在克雷塔罗州 Magdalena 镇附近发现一脉橙红色蛋白石——重新打开了被遗忘三百年的火欧泊矿源。\n\nQuerétaro 火欧泊有个独特特点：原石常嵌在乳白色的流纹岩基质中——西班牙文称 cantera（\"采石场\"），意即\"母岩\"。这种 cantera fire opal 不需切磨、保留母岩的款式至今独树一帜。今天 Querétaro 与 Hidalgo 仍是世界主要火欧泊产区。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mexican_Fire_Opal.jpg?width=640",
+    "image_credit": "墨西哥火欧泊 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "墨西哥火欧泊合法贸易，Querétaro、Hidalgo、Jalisco 三州均有产。前哥伦布时期文物受墨西哥《国家历史与文物联邦法》（1972）保护，不得出境。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Sahagún, Bernardino de",
+        "title": "Historia general de las cosas de Nueva España (Florentine Codex)",
+        "year": 1582,
+        "locator": "Book XI"
+      },
+      {
+        "type": "secondary",
+        "author": "Spencer, R.J. et al.",
+        "title": "Opal from Querétaro, Mexico: Occurrence and Inclusions",
+        "year": 1992,
+        "locator": "Gems & Gemology, Vol. 28"
+      },
+      {
+        "type": "web",
+        "title": "Fire opal – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fire_opal"
+      }
+    ]
+  },
+  {
+    "id": "whitby_jet",
+    "name": "惠特比煤精",
+    "name_en": "Whitby Jet",
+    "region": "英国 · 北约克郡 · 惠特比",
+    "region_en": "Whitby, North Yorkshire, England, UK",
+    "coordinates": [
+      54.49,
+      -0.613
+    ],
+    "category": "other",
+    "mineral_type": "煤精 / Jet（化石化的南洋杉科木质，1.81 亿年托阿尔阶）",
+    "color": "深黑、墨亮、可抛光至镜面",
+    "marker_color": "#1a1a1a",
+    "stories": [
+      {
+        "culture": "罗马时代 · 护身符",
+        "title": "\"gagates\"",
+        "content": "罗马博物学家 Pliny the Elder（公元 77）记载来自不列颠的黑色矿物 gagates——他写道：\"研磨发热可生静电（吸引麦秸），焚之有松脂香，可驱蛇毒。\"古罗马驻不列颠的军团士兵从惠特比矿区收集这种\"魔石\"做护身符，遗物在不列颠诸郡考古中出土甚多。\n\n盎格鲁-撒克逊时期延续这种信仰，Whitby Abbey（657 年圣 Hilda 创建）周边的修士墓中常见煤精十字架——既驱魔，又显简朴。"
+      },
+      {
+        "culture": "维多利亚 · 哀悼与吸血鬼",
+        "title": "王后的黑",
+        "content": "1861 年阿尔伯特亲王去世后，维多利亚女王进入毕生哀悼期——王室哀悼期间唯一被允许佩戴的珠宝就是惠特比煤精（其他材料的\"暗淡感\"都不及它）。整个英国上流社会跟随，催生了惠特比煤精产业的鼎盛：1873 年有 1500 工人 + 200 矿工，每年产值 9 万英镑（约今 1500 万英镑）。\n\n1890 年 7-8 月，爱尔兰作家 Bram Stoker 在惠特比避暑，住在 West Cliff。这趟旅行让惠特比港口、Whitby Abbey 废墟、East Cliff 上 199 级台阶成为 1897 年小说《德古拉》中德古拉登陆英国的舞台。今天惠特比每年举办 Goth Weekend（始于 1994），煤精饰品依然是哥特族的\"在地认证\"。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Whitby_jet_jewellery.jpg?width=640",
+    "image_credit": "惠特比煤精首饰 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "现代采集仅限海滩拾捡（保护区内禁挖）。市售\"惠特比煤精\"假货比例高（黑玻璃、酚醛树脂、化石煤），可去 W. Hamond 等当地老字号或 Whitby Museum 认证。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Pliny the Elder",
+        "title": "Naturalis Historia",
+        "year": 77,
+        "locator": "Book XXXVI, on gagates"
+      },
+      {
+        "type": "secondary",
+        "author": "Muller, Helen",
+        "title": "Jet",
+        "year": 1987,
+        "locator": "Butterworths Gem Books"
+      },
+      {
+        "type": "web",
+        "title": "Whitby jet – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)"
+      },
+      {
+        "type": "museum",
+        "title": "Whitby Museum · Jet Collection",
+        "url": "https://whitbymuseum.org.uk/collection/jet-and-jet-jewellery/"
+      }
+    ]
+  },
+  {
+    "id": "shoushan_tianhuang",
+    "name": "寿山田黄石",
+    "name_en": "Shoushan Tianhuang ('Field Yellow')",
+    "region": "中国 · 福建省 · 福州 · 寿山村",
+    "region_en": "Shoushan Village, Fuzhou, Fujian Province, China",
+    "coordinates": [
+      26.1356,
+      119.3186
+    ],
+    "category": "other",
+    "mineral_type": "叶蜡石质 / Pyrophyllite-dickite-nacrite 混合（田黄是寿山石的最名贵亚种）",
+    "color": "黄金黄、橘黄、橙黄、白田、黑田",
+    "marker_color": "#d4a017",
+    "stories": [
+      {
+        "culture": "清宫 · 帝玺",
+        "title": "乾隆的\"三希堂精鉴玺\"",
+        "content": "寿山石用作印章可追溯到南北朝，但真正登顶是清初。康熙、雍正、乾隆三朝痴迷田黄——田黄是寿山石中产于寿山溪两岸稻田下的特殊变种，因长期埋藏在田中受地下水浸润，颜色金黄、温润含蓄、\"无棱角、有皮、有萝卜纹\"。\n\n乾隆收藏的田黄印章数以千计，其中最著名的「三希堂精鉴玺」（现藏台北故宫）就是田黄雕成。慈禧太后也极爱田黄，随葬品里有大批田黄印章和摆件（1928 年东陵被盗后多数流散）。"
+      },
+      {
+        "culture": "福建民间 · 仙人遗珠",
+        "title": "王母娘娘的口袋",
+        "content": "福建寿山当地传说：王母娘娘飞越寿山时，口袋破了，把一袋宝石撒落人间。落在山上的成了田黄，落在溪里的成了水坑石。所以田黄独产于寿山溪两岸一二公里内、稻田一两米深处——\"无脉、无矿、无系统\"，全靠运气挖。\n\n田黄存世稀少与价格惊人到什么程度？2024 年北京保利春拍，一方乾隆田黄\"古希天子之宝\"印章成交价 1.61 亿人民币（约 2200 万美元）——折合每克 16 万美元，远超黄金。寿山原矿在 1990 年代基本采尽，今天市场流通的田黄九成是回流老货或仿制。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoushan_stone_carving.jpg?width=640",
+    "image_credit": "寿山石雕（通用寿山石）/ Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "寿山石合法贸易；但顶级田黄市场以拍卖回流为主、新料几乎绝迹，假货比例极高。福建省地矿局有官方鉴定。古玺类受《文物保护法》管制，珍贵等级以上不得出境。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "高兆",
+        "title": "《观石录》",
+        "year": 1685
+      },
+      {
+        "type": "secondary",
+        "author": "潘主兰",
+        "title": "《寿山石全书》",
+        "year": 2003,
+        "locator": "海风出版社"
+      },
+      {
+        "type": "web",
+        "title": "Shoushan stone – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shoushan_stone_carvings"
+      }
+    ]
+  },
+  {
+    "id": "cullinan_diamond",
+    "name": "库利南钻石 · 非洲之星",
+    "name_en": "Cullinan Diamond (Star of Africa)",
+    "region": "南非 · 豪登省 · 库利南镇",
+    "region_en": "Cullinan, Gauteng, South Africa",
+    "coordinates": [
+      -25.6745,
+      28.5189
+    ],
+    "category": "diamond",
+    "mineral_type": "钻石 / Diamond (C, Type IIa)",
+    "color": "无色（原 3106 克拉，切割成 9 大块 + 96 小钻）",
+    "marker_color": "#f5f8ff",
+    "stories": [
+      {
+        "culture": "1905 · 矿井意外",
+        "title": "矿主走廊里的\"玻璃\"",
+        "content": "1905 年 1 月 26 日傍晚，南非 Premier 二号矿井的代理矿长 Frederick Wells 正在 5.5 米深的矿坑巡视，夕阳从地面斜射进矿洞，照亮岩壁上一处反光。他以为是某位前任矿主丢的玻璃残片，用小刀挖了一下——竟挖出一颗 3106.75 克拉（621.35 克）的钻石原石。这是有史以来最大的宝石级钻石原石，至今未被超越。\n\n钻石以矿主 Thomas Cullinan 命名。Wells 因此得到 3500 英镑奖金（相当于今天约 50 万英镑）。当时矿工怀疑这是恶作剧——一颗这么大的钻石不可能孤立存在；后来确认它本是更大原石的一片（推测原始体超 5000 克拉，其他碎片至今未找到）。"
+      },
+      {
+        "culture": "英国王冠",
+        "title": "阿姆斯特丹切割室里的发抖",
+        "content": "1907 年德兰士瓦殖民政府以 15 万英镑买下原石，作为生日礼物献给英王爱德华七世。1908 年送到阿姆斯特丹的 Asscher 家族切割工坊。首席切磨师 Joseph Asscher 研究了 6 个月才下第一刀——传说他用力一劈、钢凿崩断，他当场昏厥，醒来后才发现钻石按预期完美分裂。\n\n最终切成 9 大块：Cullinan I（530.4 克拉，\"非洲之星\"）镶在英国君主权杖；Cullinan II（317.4 克拉）镶在帝国皇冠（最近一次公开使用是 2023 年查尔斯三世加冕）。两颗合计仍是世界最大的两颗已切磨钻石。南非自曼德拉时代起多次提出归还要求，英国王室至今未回应。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cullinan_diamond_rough.jpg?width=640",
+    "image_credit": "库利南原钻 1905 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "钻石本身合法贸易，但此特定文物（库利南 I、II）藏于英国皇室、不可购买。南非多次提出归还诉求。本条目仅做内容展示。"
+    },
+    "provenance_alt": [
+      "俄罗斯雅库特",
+      "博茨瓦纳 Jwaneng",
+      "加拿大 Diavik"
+    ],
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Wells, Frederick George Stanley",
+        "title": "Discovery account (cited in: Cullinan Diamond Mine records)",
+        "year": 1905
+      },
+      {
+        "type": "secondary",
+        "author": "Balfour, Ian",
+        "title": "Famous Diamonds (5th ed.)",
+        "year": 2009,
+        "locator": "Antique Collectors Club"
+      },
+      {
+        "type": "web",
+        "title": "Cullinan Diamond – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cullinan_Diamond"
+      },
+      {
+        "type": "museum",
+        "title": "Royal Collection · Sovereign's Sceptre with Cross",
+        "url": "https://www.rct.uk/collection/31702/the-sovereigns-sceptre-with-cross"
+      }
+    ]
+  },
+  {
+    "id": "tsavorite_garnet",
+    "name": "沙弗莱石榴石",
+    "name_en": "Tsavorite Garnet",
+    "region": "肯尼亚 / 坦桑尼亚 · 察沃国家公园",
+    "region_en": "Tsavo National Park, Kenya / Tanzania border",
+    "coordinates": [
+      -3.2,
+      38.3
+    ],
+    "category": "garnet",
+    "mineral_type": "钙铝榴石变种 / Grossular garnet（钒铬致色）",
+    "color": "鲜绿、祖母绿色（高净度，无内含物）",
+    "marker_color": "#00997a",
+    "stories": [
+      {
+        "culture": "1967 · 苏格兰地质学家",
+        "title": "Campbell Bridges 的发现",
+        "content": "1967 年，苏格兰地质学家 Campbell R. Bridges 在坦桑尼亚北部的山区第一次发现绿色钙铝榴石——他原本是去找辉石，结果撞上一种全新的祖母绿色石榴石。坦桑尼亚 1971 年国有化矿业，Bridges 被迫迁到肯尼亚境内继续找——果然在察沃国家公园边缘的 Taita 山找到同样的矿脉。\n\n1974 年 Tiffany & Co. 总裁 Henry Platt 与 Bridges 合作命名这种石头为 \"tsavorite\"（沙弗莱石榴石）——直接取自肯尼亚察沃国家公园（Tsavo East National Park）的名字。Tiffany 的纽约广告把它捧成\"东非翡翠\"，新一代有色宝石就此打开美国市场。"
+      },
+      {
+        "culture": "2009 · 矿主之死",
+        "title": "Bridges 父子与肯尼亚地权",
+        "content": "2009 年 8 月，68 岁的 Campbell Bridges 与儿子 Bruce 在驱车前往自家矿场的路上，被一群手持砍刀的暴徒袭击。Campbell 死于伤势，Bruce 重伤。这群暴徒据称是当地 Kamba 部族村民——他们认为 Bridges 一家占用了部族祖传土地，要求重新分配采矿权。\n\n这起谋杀让国际宝石界震惊，也曝光了东非有色宝石产业更深层的问题：殖民时代签的矿权与独立后部族主张之间的根本冲突。Bruce 接手继续经营，但 Bridges 家族的肯尼亚矿场至今仍在产权争议中。今天市售沙弗莱很大比例来自坦桑尼亚 Merelani 矿（与坦桑石同区），约 70% 出口印度切磨后转销美国。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tsavorite_garnet_crystal.jpg?width=640",
+    "image_credit": "沙弗莱石榴石晶体 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "沙弗莱石榴石合法国际贸易。主要产地肯尼亚（Taita）+ 坦桑尼亚（Merelani / Lelatema）。市面\"东非翡翠\"流通正常，GIA 可出具产地证书。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Bridges, Campbell R.",
+        "title": "Green Grossular Garnets (\"Tsavorites\") in East Africa",
+        "year": 1974,
+        "locator": "Gems & Gemology, Vol. 14"
+      },
+      {
+        "type": "secondary",
+        "author": "Bocchio, R. et al.",
+        "title": "Tsavorite from Kenya: gemmology and geology",
+        "year": 2011,
+        "locator": "European Journal of Mineralogy"
+      },
+      {
+        "type": "web",
+        "title": "Tsavorite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tsavorite"
+      }
+    ]
   }
 ]

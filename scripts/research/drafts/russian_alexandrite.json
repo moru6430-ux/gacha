@@ -1,0 +1,58 @@
+{
+  "id": "russian_alexandrite",
+  "name": "乌拉尔亚历山大变石",
+  "name_en": "Ural Alexandrite",
+  "region": "俄罗斯 · 斯维尔德洛夫斯克州 · 托科瓦亚河流域",
+  "region_en": "Tokovaya River, Sverdlovsk Oblast, Russia",
+  "coordinates": [
+    57.0,
+    60.5
+  ],
+  "category": "other",
+  "mineral_type": "金绿宝石变种 / Chrysoberyl (BeAl₂O₄)",
+  "color": "日光下祖母绿 · 烛光下覆盆子红（color-change phenomenon）",
+  "marker_color": "#6b9a5c",
+  "continent": [
+    "europe",
+    "asia"
+  ],
+  "border_note": "横跨欧亚边界 · 神话与俄罗斯帝国紧密绑定",
+  "stories": [
+    {
+      "culture": "1834 · 沙皇之石",
+      "title": "亚历山大的十六岁生日",
+      "content": "1834 年 4 月 17 日，芬兰矿物学家 Nils Nordenskjöld 在乌拉尔山的祖母绿矿区发现一种古怪的金绿宝石变种——白天看是祖母绿色，蜡烛下竟变成覆盆子红。\n\n这一天正好是俄国皇储亚历山大（即未来的沙皇 Alexander II）的十六岁生日。Nordenskjöld 把这块石头献给皇室，命名为「亚历山大石」（Alexandrite）。红与绿同时也是俄罗斯帝国陆军军服的颜色——这个巧合让此石被尊为\"沙皇之石\"，整个 19 世纪后期成为彼得堡贵族首饰的标配。"
+    },
+    {
+      "culture": "近代 · 矿脉枯竭",
+      "title": "革命与变色",
+      "content": "亚历山大二世 1881 年遇刺。坊间开始传\"沙皇之石的双色暗示俄国的两面\"——绿是太平、红是革命。1917 年布尔什维克革命后，亚历山大石被官方贬为\"沙皇遗物\"，从宫廷珠宝清单消失。\n\n乌拉尔原矿在 1920 年代基本采尽。今天市售的\"亚历山大石\"九成来自巴西米纳斯吉拉斯、斯里兰卡、东非。但宝石学家公认：变色幅度最大、最戏剧性的，还是乌拉尔老矿的存货。一颗 3 克拉以上、变色完美的乌拉尔老料，每克拉拍卖价超过 7 万美元（2020 苏富比记录）。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aleksandryt_w_świetle_dziennym_-_Ural,_Rosja.jpg?width=640",
+  "image_credit": "乌拉尔亚历山大石（日光下）/ Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "亚历山大石合法国际贸易；乌拉尔原矿基本枯竭，市售货大量来自巴西、东非、斯里兰卡。变色合成石泛滥，需 GIA 鉴定。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Nordenskjöld, Nils Gustaf",
+      "title": "\"Über den Chrysoberyll\" (in German Mineralogie)",
+      "year": 1842
+    },
+    {
+      "type": "secondary",
+      "author": "Schmetzer, Karl",
+      "title": "Russian Alexandrites",
+      "year": 2010,
+      "locator": "Schweizerbart Science Publishers"
+    },
+    {
+      "type": "web",
+      "title": "Alexandrite – GIA",
+      "url": "https://www.gia.edu/alexandrite"
+    }
+  ]
+}

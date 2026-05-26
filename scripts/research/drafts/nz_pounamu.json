@@ -1,0 +1,53 @@
+{
+  "id": "nz_pounamu",
+  "name": "毛利绿玉 · Pounamu",
+  "name_en": "New Zealand Pounamu (Greenstone)",
+  "region": "新西兰 · 南岛 · 阿拉胡拉河流域",
+  "region_en": "Arahura River, West Coast, South Island, New Zealand",
+  "coordinates": [
+    -42.62,
+    171.07
+  ],
+  "category": "jade",
+  "mineral_type": "软玉 / Nephrite（多数）· 鲍文石 Tangiwai（少数）",
+  "color": "kawakawa 深绿、kahurangi 蓝绿、īnanga 灰绿、tangiwai 半透绿",
+  "marker_color": "#4a7c2a",
+  "stories": [
+    {
+      "culture": "毛利 · 圣物 taonga",
+      "title": "Poutini 与 Waitaiki 的传说",
+      "content": "在 Ngāi Tahu（南岛毛利主要部族）的口传中，pounamu 是 Poutini 这位守护神变身的鱼形精灵。一日 Poutini 偷走了一名男子 Tama-āhua 的妻子 Waitaiki，逃到南岛西岸。Tama-āhua 追到 Arahura 河边时，Poutini 将 Waitaiki 变成 pounamu 留在河中，自己游入太平洋。\n\nPounamu 在毛利文化里是最神圣的 taonga（传家宝）——做成 hei-tiki（颈饰）、mere（短刀）、adze（凿斧）。代代相传，沾染祖先 mana（灵力）。送给外族人是最高规格的友谊礼。Captain Cook 1770 年航海日志记录，毛利酋长曾送他一块 pounamu，他不识其重，回礼一颗玻璃珠子。"
+    },
+    {
+      "culture": "1997 · Ngāi Tahu Settlement",
+      "title": "一个部族买回所有绿玉的故事",
+      "content": "英国殖民下的《怀唐伊条约》（1840）许诺保护毛利土地与资源，但实际上 19-20 世纪 pounamu 矿被欧裔个人随意开采贩卖。Ngāi Tahu 部族 1980 年代发起法律诉讼。\n\n1997 年新西兰《Ngāi Tahu (Pounamu Vesting) Act》通过——把全国所有未开采的 pounamu 资源完全归还 Ngāi Tahu 部族所有。今天采集、出口 pounamu 必须经部族许可。Hokitika 与 Greymouth 街边礼品店卖的\"greenstone\"多数是进口加拿大 BC 玉冒充——买真 pounamu 要找 Ngāi Tahu 认证标识。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pounamu_(New_Zealand_nephrite_jade).jpg?width=640",
+  "image_credit": "毛利绿玉 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "1997 年新西兰《Ngāi Tahu (Pounamu Vesting) Act》：所有 pounamu 矿权归 Ngāi Tahu 部族。商业开采、出口需经部族许可。游客可在 West Coast 河滩拾捡少量个人持有用（限 30 公斤），不可外卖。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Ngāi Tahu Iwi",
+      "title": "Pounamu, Pounamu - Ngāi Tahu Pūtaiao",
+      "url": "https://ngaitahu.iwi.nz/our_stories/pounamu/"
+    },
+    {
+      "type": "secondary",
+      "author": "Beck, Russell J.",
+      "title": "Pounamu: The Jade of New Zealand",
+      "year": 2010,
+      "locator": "Penguin Random House NZ"
+    },
+    {
+      "type": "web",
+      "title": "Pounamu – Te Ara Encyclopedia of NZ",
+      "url": "https://teara.govt.nz/en/pounamu-jade-or-greenstone"
+    }
+  ]
+}
