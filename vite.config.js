@@ -11,10 +11,25 @@ export default defineConfig({
   build: {
     rollupOptions: {
       output: {
-        manualChunks: {
-          'vendor-react': ['react', 'react-dom'],
-          'vendor-leaflet': ['leaflet', 'react-leaflet'],
-          'vendor-supabase': ['@supabase/supabase-js'],
+        manualChunks(id) {
+          if (!id.includes('node_modules')) return
+          if (
+            id.includes('/react/') ||
+            id.includes('/react-dom/') ||
+            id.includes('/scheduler/')
+          ) {
+            return 'vendor-react'
+          }
+          if (
+            id.includes('/leaflet/') ||
+            id.includes('/react-leaflet/') ||
+            id.includes('/@react-leaflet/')
+          ) {
+            return 'vendor-leaflet'
+          }
+          if (id.includes('/@supabase/')) {
+            return 'vendor-supabase'
+          }
         },
       },
     },
