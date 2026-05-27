@@ -7,6 +7,8 @@ export default function ListingsByMineral({
   canSell,
   cartIds,
   onToggleCart,
+  favoriteListingIds,
+  onToggleListingFavorite,
   onRequireAuth,
   canCart,
 }) {
@@ -41,6 +43,8 @@ export default function ListingsByMineral({
               listing={l}
               inCart={cartIds?.has(l.id) || false}
               onToggleCart={onToggleCart}
+              favorited={favoriteListingIds?.has(l.id) || false}
+              onToggleFavorite={onToggleListingFavorite}
               onRequireAuth={onRequireAuth}
               canCart={canCart}
             />

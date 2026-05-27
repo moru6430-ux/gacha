@@ -7,6 +7,7 @@ import UserMenu from './components/UserMenu.jsx'
 import { useMinerals } from './hooks/useMinerals.js'
 import { useFavorites } from './hooks/useFavorites.jsx'
 import { useCart } from './hooks/useCart.js'
+import { useListingFavorites } from './hooks/useListingFavorites.js'
 import { useAuth } from './hooks/useAuth.jsx'
 import {
   getContinents,
@@ -17,11 +18,17 @@ const AuthModal = lazy(() => import('./components/AuthModal.jsx'))
 const SellModal = lazy(() => import('./components/SellModal.jsx'))
 const MyListingsModal = lazy(() => import('./components/MyListingsModal.jsx'))
 const CartModal = lazy(() => import('./components/CartModal.jsx'))
+const FavoriteListingsModal = lazy(() => import('./components/FavoriteListingsModal.jsx'))
+const TimelineModal = lazy(() => import('./components/TimelineModal.jsx'))
 
 export default function App() {
   const { minerals, source } = useMinerals()
   const { favoriteIds, toggle } = useFavorites()
   const { cartIds, count: cartCount, toggle: toggleCart, clear: clearCart } = useCart()
+  const {
+    favoriteListingIds,
+    toggle: toggleListingFavorite,
+  } = useListingFavorites()
   const { user } = useAuth()
 
   const [query, setQuery] = useState('')
@@ -31,7 +38,9 @@ export default function App() {
   const [authOpen, setAuthOpen] = useState(false)
   const [sellOpen, setSellOpen] = useState(false)
   const [myListingsOpen, setMyListingsOpen] = useState(false)
+  const [favListingsOpen, setFavListingsOpen] = useState(false)
   const [cartOpen, setCartOpen] = useState(false)
+  const [timelineOpen, setTimelineOpen] = useState(false)
   const [listingsRefreshKey, setListingsRefreshKey] = useState(0)
 
   // 类别计数（用于 CategoryFilter）
@@ -135,9 +144,23 @@ export default function App() {
             : `${filtered.length} / ${minerals.length}`}
           <span className="ml-1 text-stone-600">{source === 'supabase' ? '· 云端' : '· 本地'}</span>
         </div>
+        <button
+          onClick={() => setTimelineOpen(true)}
+          className="text-stone-300 hover:text-amber-glow transition-colors"
+          aria-label="时间线"
+          title="矿物时间线"
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6">
+            <path d="M3 12h18" strokeLinecap="round" />
+            <circle cx="6" cy="12" r="1.5" />
+            <circle cx="12" cy="12" r="1.5" />
+            <circle cx="18" cy="12" r="1.5" />
+          </svg>
+        </button>
         <UserMenu
           onSignInClick={() => setAuthOpen(true)}
           onMyListingsClick={() => setMyListingsOpen(true)}
+          onFavoriteListingsClick={() => setFavListingsOpen(true)}
         />
         {user && (
           <button
@@ -213,6 +236,8 @@ export default function App() {
           listingsRefreshKey={listingsRefreshKey}
           cartIds={cartIds}
           onToggleCart={toggleCart}
+          favoriteListingIds={favoriteListingIds}
+          onToggleListingFavorite={toggleListingFavorite}
           canCart={!!user}
         />
       </main>
@@ -255,6 +280,39 @@ export default function App() {
             cartIds={cartIds}
             onRemove={(id) => toggleCart(id)}
             onClear={clearCart}
+          />
+        </Suspense>
+      )}
+
+      {favListingsOpen && (
+        <Suspense fallback={null}>
+          <FavoriteListingsModal
+            open
+            onClose={() => setFavListingsOpen(false)}
+            favoriteListingIds={favoriteListingIds}
+            onToggleFavorite={toggleListingFavorite}
+            cartIds={cartIds}
+            onToggleCart={toggleCart}
+            canCart={!!user}
+          />
+        </Suspense>
+      )}
+
+      {timelineOpen && (
+        <Suspense fallback={null}>
+          <TimelineModal
+            open
+            onClose={() => setTimelineOpen(false)}
+            minerals={minerals}
+            onSelectMineral={(id) => {
+              setSelectedId(id)
+              // 时间线在世界视图下点矿物，先进它所属大洲
+              const m = minerals.find((x) => x.id === id)
+              if (m && viewMode === 'world') {
+                const cs = getContinents(m.coordinates, m.continent)
+                if (cs[0]) setSelectedContinent(cs[0])
+              }
+            }}
           />
         </Suspense>
       )}

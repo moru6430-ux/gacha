@@ -7,7 +7,7 @@ function initial(user) {
   return name.charAt(0).toUpperCase()
 }
 
-export default function UserMenu({ onSignInClick, onMyListingsClick }) {
+export default function UserMenu({ onSignInClick, onMyListingsClick, onFavoriteListingsClick }) {
   const { user, signOut } = useAuth()
   const [open, setOpen] = useState(false)
 
@@ -51,6 +51,16 @@ export default function UserMenu({ onSignInClick, onMyListingsClick }) {
             className="w-full text-left px-3 py-2 text-xs text-stone-300 hover:bg-ink-700 transition-colors"
           >
             我的发布
+          </button>
+          <button
+            onMouseDown={(e) => e.preventDefault()}
+            onClick={() => {
+              onFavoriteListingsClick?.()
+              setOpen(false)
+            }}
+            className="w-full text-left px-3 py-2 text-xs text-stone-300 hover:bg-ink-700 transition-colors"
+          >
+            收藏的商品
           </button>
           <button
             onMouseDown={(e) => e.preventDefault()}

@@ -19,7 +19,15 @@ function contactHref(method, value) {
   return null
 }
 
-export default function ListingCard({ listing, inCart, onToggleCart, onRequireAuth, canCart }) {
+export default function ListingCard({
+  listing,
+  inCart,
+  onToggleCart,
+  favorited,
+  onToggleFavorite,
+  onRequireAuth,
+  canCart,
+}) {
   const cert = listing.listing_certificates?.[0]
   const sellerName = listing.seller?.display_name || '匿名卖家'
   const firstImage = Array.isArray(listing.images) ? listing.images[0] : null
@@ -31,6 +39,14 @@ export default function ListingCard({ listing, inCart, onToggleCart, onRequireAu
       return
     }
     onToggleCart?.(listing.id)
+  }
+
+  function handleFavorite() {
+    if (!canCart) {
+      onRequireAuth?.()
+      return
+    }
+    onToggleFavorite?.(listing.id)
   }
 
   return (
@@ -68,7 +84,7 @@ export default function ListingCard({ listing, inCart, onToggleCart, onRequireAu
             {listing.description}
           </p>
         )}
-        <div className="mt-2 flex items-center gap-3">
+        <div className="mt-2 flex items-center gap-3 flex-wrap">
           {href ? (
             <a
               href={href}
@@ -82,6 +98,20 @@ export default function ListingCard({ listing, inCart, onToggleCart, onRequireAu
             <span className="text-[11px] text-stone-500">
               {listing.contact_method}: {listing.contact_value}
             </span>
+          )}
+          {onToggleFavorite && (
+            <button
+              onClick={handleFavorite}
+              className={
+                'text-[13px] leading-none transition-colors ' +
+                (favorited ? 'text-rose-400' : 'text-stone-500 hover:text-rose-300')
+              }
+              aria-label={favorited ? '已收藏' : '收藏'}
+              aria-pressed={favorited}
+              title={favorited ? '已收藏' : '收藏'}
+            >
+              {favorited ? '♥' : '♡'}
+            </button>
           )}
           {onToggleCart && (
             <button

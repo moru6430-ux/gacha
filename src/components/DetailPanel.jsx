@@ -16,6 +16,8 @@ export default function DetailPanel({
   listingsRefreshKey,
   cartIds,
   onToggleCart,
+  favoriteListingIds,
+  onToggleListingFavorite,
   canCart,
 }) {
   if (!entry) return null
@@ -123,6 +125,8 @@ export default function DetailPanel({
           onSellClick={onSellClick}
           cartIds={cartIds}
           onToggleCart={onToggleCart}
+          favoriteListingIds={favoriteListingIds}
+          onToggleListingFavorite={onToggleListingFavorite}
           onRequireAuth={onRequireAuth}
           canCart={canCart}
         />

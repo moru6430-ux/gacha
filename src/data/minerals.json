@@ -29,7 +29,8 @@
       "commerce": "safe",
       "notes": "黑唇牡蛎养殖珍珠合法流通；法属波利尼西亚已建立珍珠分级与原产地标识体系。"
     },
-    "marker_color": "#2a3b3a"
+    "marker_color": "#2a3b3a",
+    "earliest_year": 1840
   },
   {
     "id": "mediterranean_pearl",
@@ -62,7 +63,8 @@
       "notes": "现代地中海珍珠以养殖为主；天然野生珍珠极稀少且不参与商业交易。"
     },
     "marker_color": "#f0d8c4",
-    "image_credit": "Akoya 珍珠（Wikimedia Commons）— 暂代地中海珍珠"
+    "image_credit": "Akoya 珍珠（Wikimedia Commons）— 暂代地中海珍珠",
+    "earliest_year": -500
   },
   {
     "id": "hepu_pearl",
@@ -95,7 +97,8 @@
       "notes": "国家地理标志产品，合法养殖；天然南珠存量极少，市售以养殖为主。"
     },
     "marker_color": "#e9e2d0",
-    "image_credit": "Akoya 珍珠（Wikimedia Commons）— 暂代南珠"
+    "image_credit": "Akoya 珍珠（Wikimedia Commons）— 暂代南珠",
+    "earliest_year": -300
   },
   {
     "id": "mogok_ruby",
@@ -132,7 +135,8 @@
       ]
     },
     "marker_color": "#c1132c",
-    "image_credit": "红宝石晶体（Wikimedia Commons）"
+    "image_credit": "红宝石晶体（Wikimedia Commons）",
+    "earliest_year": 100
   },
   {
     "id": "badakhshan_lapis",
@@ -171,7 +175,8 @@
       "美国 · 加州"
     ],
     "marker_color": "#1d3b8e",
-    "image_credit": "巴达赫尚 Sar-e-Sang 矿区青金石原石 / James St. John CC-BY"
+    "image_credit": "巴达赫尚 Sar-e-Sang 矿区青金石原石 / James St. John CC-BY",
+    "earliest_year": -3000
   },
   {
     "id": "muzo_emerald",
@@ -208,7 +213,8 @@
       ]
     },
     "marker_color": "#0a8056",
-    "image_credit": "穆佐矿区祖母绿原石 / James St. John CC-BY"
+    "image_credit": "穆佐矿区祖母绿原石 / James St. John CC-BY",
+    "earliest_year": 1545
   },
   {
     "id": "ceylon_sapphire",
@@ -243,7 +249,8 @@
         "NGTC"
       ]
     },
-    "marker_color": "#2e5cb8"
+    "marker_color": "#2e5cb8",
+    "earliest_year": 400
   },
   {
     "id": "merelani_tanzanite",
@@ -271,7 +278,8 @@
       "notes": "全球唯一产地坦桑尼亚梅雷拉尼山，合法贸易；建议关注 TanzaniteOne 等正规来源。"
     },
     "marker_color": "#6452c8",
-    "image_credit": "梅雷拉尼矿区坦桑石 / Wikimedia Commons CC-BY-SA"
+    "image_credit": "梅雷拉尼矿区坦桑石 / Wikimedia Commons CC-BY-SA",
+    "earliest_year": 1967
   },
   {
     "id": "baltic_amber",
@@ -304,7 +312,8 @@
       "notes": "波罗的海琥珀合法贸易。注意：缅甸虫珀涉及战乱冲突资源与化石保护双重风险，不可上架。"
     },
     "marker_color": "#c97f1a",
-    "image_credit": "波罗的海琥珀原石 / Wikimedia Commons"
+    "image_credit": "波罗的海琥珀原石 / Wikimedia Commons",
+    "earliest_year": -3000
   },
   {
     "id": "cooberpedy_opal",
@@ -337,7 +346,8 @@
       "notes": "澳洲欧泊合法贸易；注意「Triplet」「Doublet」拼合欧泊须如实标注，不可冒充实心欧泊。"
     },
     "marker_color": "#4dcae2",
-    "image_credit": "澳洲黑欧泊（来自 Lightning Ridge，非库柏佩迪本矿）"
+    "image_credit": "澳洲黑欧泊（来自 Lightning Ridge，非库柏佩迪本矿）",
+    "earliest_year": 1915
   },
   {
     "id": "neyshabur_turquoise",
@@ -369,7 +379,8 @@
       "commerce": "safe",
       "notes": "伊朗绿松石合法贸易；注意优化处理（注胶、染色）须如实标注。"
     },
-    "marker_color": "#4ab1b6"
+    "marker_color": "#4ab1b6",
+    "earliest_year": -2000
   },
   {
     "id": "hetian_nephrite",
@@ -404,7 +415,8 @@
         "NGTC"
       ]
     },
-    "marker_color": "#e5dec5"
+    "marker_color": "#e5dec5",
+    "earliest_year": -3000
   },
   {
     "id": "ural_malachite",
@@ -466,7 +478,8 @@
       "asia"
     ],
     "border_note": "横跨欧亚边界 · 已知神话来自俄罗斯一侧",
-    "marker_color": "#0b7a5a"
+    "marker_color": "#0b7a5a",
+    "earliest_year": 1635
   },
   {
     "id": "tibetan_dzi",
@@ -527,7 +540,8 @@
         "locator": "The Tibet Journal, Vol. 13, No. 1"
       }
     ],
-    "marker_color": "#3a2a1c"
+    "marker_color": "#3a2a1c",
+    "earliest_year": -1500
   },
   {
     "id": "meso_obsidian",
@@ -586,7 +600,8 @@
         "url": "https://en.wikipedia.org/wiki/Tezcatlipoca"
       }
     ],
-    "marker_color": "#1c2820"
+    "marker_color": "#1c2820",
+    "earliest_year": -1200
   },
   {
     "id": "sri_moonstone",
@@ -636,7 +651,8 @@
         "url": "https://www.iafaforallergy.com/semi-precious-stones-upratnas/chandramani-stone-moonstone-hecatolite/"
       }
     ],
-    "marker_color": "#c9d8eb"
+    "marker_color": "#c9d8eb",
+    "earliest_year": -1500
   },
   {
     "id": "koh_i_noor_diamond",
@@ -707,7 +723,8 @@
         "url": "https://www.hrp.org.uk/tower-of-london/whats-on/the-crown-jewels/"
       }
     ],
-    "marker_color": "#eef2ff"
+    "marker_color": "#eef2ff",
+    "earliest_year": 1304
   },
   {
     "id": "imperial_topaz",
@@ -759,7 +776,8 @@
         "url": "http://www.palagems.com/topaz-buyers-guide"
       }
     ],
-    "marker_color": "#d97c2d"
+    "marker_color": "#d97c2d",
+    "earliest_year": 1735
   },
   {
     "id": "herkimer_quartz",
@@ -810,7 +828,8 @@
         "url": "https://www.diamondmountainmining.com/about-the-mine"
       }
     ],
-    "marker_color": "#e8e9eb"
+    "marker_color": "#e8e9eb",
+    "earliest_year": 1820
   },
   {
     "id": "magatama_jade",
@@ -873,7 +892,8 @@
         "url": "https://www.greenshinto.com/2011/07/09/the-three-imperial-regalia/"
       }
     ],
-    "marker_color": "#00a86b"
+    "marker_color": "#00a86b",
+    "earliest_year": -1000
   },
   {
     "id": "paraiba_tourmaline",
@@ -936,7 +956,8 @@
         "url": "https://en.wikipedia.org/wiki/Para%C3%ADba_tourmaline"
       }
     ],
-    "marker_color": "#00d4dc"
+    "marker_color": "#00d4dc",
+    "earliest_year": 1989
   },
   {
     "id": "burmese_jadeite",
@@ -990,7 +1011,8 @@
         "title": "Jade trade in Myanmar – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Jade_trade_in_Myanmar"
       }
-    ]
+    ],
+    "earliest_year": 1784
   },
   {
     "id": "kashmir_sapphire",
@@ -1044,7 +1066,8 @@
         "title": "Kashmir Sapphire – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Kashmir_Sapphire"
       }
-    ]
+    ],
+    "earliest_year": 1881
   },
   {
     "id": "russian_alexandrite",
@@ -1102,7 +1125,8 @@
         "title": "Alexandrite – GIA",
         "url": "https://www.gia.edu/alexandrite"
       }
-    ]
+    ],
+    "earliest_year": 1834
   },
   {
     "id": "greek_amethyst",
@@ -1155,7 +1179,8 @@
         "title": "Amethyst – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Amethyst"
       }
-    ]
+    ],
+    "earliest_year": -700
   },
   {
     "id": "cleopatra_emerald",
@@ -1209,7 +1234,8 @@
         "title": "Mons Smaragdus – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Mons_Smaragdus"
       }
-    ]
+    ],
+    "earliest_year": -1500
   },
   {
     "id": "cerrillos_turquoise",
@@ -1263,7 +1289,8 @@
         "title": "Cerrillos Turquoise Mines – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Cerrillos_Turquoise_Mines"
       }
-    ]
+    ],
+    "earliest_year": 700
   },
   {
     "id": "nz_pounamu",
@@ -1316,7 +1343,8 @@
         "title": "Pounamu – Te Ara Encyclopedia of NZ",
         "url": "https://teara.govt.nz/en/pounamu-jade-or-greenstone"
       }
-    ]
+    ],
+    "earliest_year": 1300
   },
   {
     "id": "mexican_fire_opal",
@@ -1370,7 +1398,8 @@
         "title": "Fire opal – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Fire_opal"
       }
-    ]
+    ],
+    "earliest_year": 1300
   },
   {
     "id": "whitby_jet",
@@ -1429,7 +1458,8 @@
         "title": "Whitby Museum · Jet Collection",
         "url": "https://whitbymuseum.org.uk/collection/jet-and-jet-jewellery/"
       }
-    ]
+    ],
+    "earliest_year": 77
   },
   {
     "id": "shoushan_tianhuang",
@@ -1482,7 +1512,8 @@
         "title": "Shoushan stone – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Shoushan_stone_carvings"
       }
-    ]
+    ],
+    "earliest_year": 420
   },
   {
     "id": "cullinan_diamond",
@@ -1545,7 +1576,8 @@
         "title": "Royal Collection · Sovereign's Sceptre with Cross",
         "url": "https://www.rct.uk/collection/31702/the-sovereigns-sceptre-with-cross"
       }
-    ]
+    ],
+    "earliest_year": 1905
   },
   {
     "id": "tsavorite_garnet",
@@ -1599,6 +1631,7 @@
         "title": "Tsavorite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Tsavorite"
       }
-    ]
+    ],
+    "earliest_year": 1967
   }
 ]
