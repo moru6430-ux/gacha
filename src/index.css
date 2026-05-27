@@ -36,20 +36,6 @@ body {
   color: #a8a29e !important;
 }
 
-/* 高德底图艺术化处理：反相 + 调色让浅色变深色，并向琥珀基调偏一点
-   这一层只影响底图瓦片，边界 / 文字仍来自高德（合规），但视觉是暗色调 */
-.amap-stylized {
-  filter: invert(0.92) hue-rotate(195deg) saturate(0.35) brightness(0.88) contrast(0.95);
-}
-
-/* 标记图层不要被滤镜影响，确保点点颜色保持原本 */
-.leaflet-marker-pane,
-.leaflet-shadow-pane,
-.leaflet-tooltip-pane,
-.leaflet-popup-pane {
-  filter: none !important;
-}
-
 .leaflet-control-attribution {
   background: rgba(11, 13, 18, 0.7) !important;
   color: #78716c !important;

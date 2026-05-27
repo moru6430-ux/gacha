@@ -2,7 +2,6 @@ import { useMemo } from 'react'
 import { Marker } from 'react-leaflet'
 import L from 'leaflet'
 import { CONTINENTS } from '../data/continents.js'
-import { toAMapCoords } from '../lib/coords.js'
 
 function buildBadge(continent, count) {
   return L.divIcon({
@@ -33,7 +32,7 @@ export default function ContinentLayer({ counts, onPick }) {
       {icons.map(({ continent, icon }) => (
         <Marker
           key={continent.id}
-          position={toAMapCoords(continent.center)}
+          position={continent.center}
           icon={icon}
           eventHandlers={{ click: () => onPick(continent.id) }}
         />

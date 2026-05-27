@@ -3,7 +3,6 @@ import { MapContainer, TileLayer, Marker, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { categoryColor } from '../data/categories.js'
 import { CONTINENT_MAP } from '../data/continents.js'
-import { toAMapCoords, toAMapBounds } from '../lib/coords.js'
 import ContinentLayer from './ContinentLayer.jsx'
 
 function hexToRgba(hex, alpha) {
@@ -32,18 +31,23 @@ function FlyTo({ coordinates }) {
   const map = useMap()
   useEffect(() => {
     if (!coordinates) return
-    map.flyTo(toAMapCoords(coordinates), Math.max(map.getZoom(), 5), { duration: 1.2 })
+    map.flyTo(coordinates, Math.max(map.getZoom(), 5), { duration: 1.2 })
   }, [coordinates, map])
   return null
 }
 
-function ViewTransition({ viewMode, continentId }) {
+// 切换视图层级时的过场。
+// continent 模式优先用「实际矿物的外接框」(dynamicBounds)，
+// 没有的话退回到 continents.js 里写死的 bounds——这样像大溪地这种
+// 在 oceania 框外的远岛也能被纳入视野。
+function ViewTransition({ viewMode, continentId, dynamicBounds }) {
   const map = useMap()
   useEffect(() => {
     if (viewMode === 'continent' && continentId) {
-      const c = CONTINENT_MAP[continentId]
-      if (c) {
-        map.flyToBounds(toAMapBounds(c.bounds), {
+      const bounds =
+        dynamicBounds || (CONTINENT_MAP[continentId] && CONTINENT_MAP[continentId].bounds)
+      if (bounds) {
+        map.flyToBounds(bounds, {
           duration: 1.6,
           easeLinearity: 0.25,
           padding: [40, 40],
@@ -52,7 +56,7 @@ function ViewTransition({ viewMode, continentId }) {
     } else if (viewMode === 'world') {
       map.flyTo([20, 30], 2, { duration: 1.6, easeLinearity: 0.25 })
     }
-  }, [viewMode, continentId, map])
+  }, [viewMode, continentId, dynamicBounds, map])
   return null
 }
 
@@ -85,6 +89,24 @@ export default function MapView({
   const showContinents = viewMode === 'world'
   const showMarkers = !showContinents
 
+  // 进入大洲后，按当前可见的矿物动态算外接框，这样像大溪地这种远岛也能
+  // 入镜。Leaflet 不知道地球是圆的，所以横跨 180° 经线的大洋洲（澳洲
+  // lng 130 + 大溪地 lng -149）要先把负经度 +360 偏移到 211，外接框才会
+  // 收紧在太平洋这一段，而不是把整个地球都框进来。
+  const dynamicBounds = useMemo(() => {
+    if (viewMode !== 'continent' || !selectedContinent || entries.length === 0) {
+      return null
+    }
+    const coords = entries.map((e) => e.coordinates)
+    const lngs = coords.map(([, lng]) => lng)
+    const span = Math.max(...lngs) - Math.min(...lngs)
+    const shifted =
+      span > 180
+        ? coords.map(([lat, lng]) => [lat, lng < 0 ? lng + 360 : lng])
+        : coords
+    return L.latLngBounds(shifted).pad(0.25)
+  }, [viewMode, selectedContinent, entries])
+
   return (
     <MapContainer
       center={[20, 30]}
@@ -94,12 +116,10 @@ export default function MapView({
       worldCopyJump
       className="h-full w-full"
     >
-      {/* 高德地图瓦片（国内合规底图）+ CSS 滤镜做暗色艺术化处理 */}
       <TileLayer
-        attribution='&copy; <a href="https://amap.com/">高德 AMap</a>'
-        url="https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}"
-        subdomains="1234"
-        className="amap-stylized"
+        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+        url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+        subdomains="abcd"
       />
 
       {showContinents && (
@@ -110,7 +130,7 @@ export default function MapView({
         entries.map((entry) => (
           <Marker
             key={entry.id}
-            position={toAMapCoords(entry.coordinates)}
+            position={entry.coordinates}
             icon={icons(entry)}
             eventHandlers={{
               click: () => onSelect(entry.id),
@@ -118,7 +138,11 @@ export default function MapView({
           />
         ))}
 
-      <ViewTransition viewMode={viewMode} continentId={selectedContinent} />
+      <ViewTransition
+        viewMode={viewMode}
+        continentId={selectedContinent}
+        dynamicBounds={dynamicBounds}
+      />
       {selected && <FlyTo coordinates={selected.coordinates} />}
     </MapContainer>
   )
