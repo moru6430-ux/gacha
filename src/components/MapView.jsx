@@ -3,6 +3,7 @@ import { MapContainer, TileLayer, Marker, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { categoryColor } from '../data/categories.js'
 import { CONTINENT_MAP } from '../data/continents.js'
+import { toAMapCoords, toAMapBounds } from '../lib/coords.js'
 import ContinentLayer from './ContinentLayer.jsx'
 
 function hexToRgba(hex, alpha) {
@@ -31,19 +32,18 @@ function FlyTo({ coordinates }) {
   const map = useMap()
   useEffect(() => {
     if (!coordinates) return
-    map.flyTo(coordinates, Math.max(map.getZoom(), 5), { duration: 1.2 })
+    map.flyTo(toAMapCoords(coordinates), Math.max(map.getZoom(), 5), { duration: 1.2 })
   }, [coordinates, map])
   return null
 }
 
-// 切换视图层级时的过场：进入大洲 → flyToBounds；回到世界 → flyTo 默认中心
 function ViewTransition({ viewMode, continentId }) {
   const map = useMap()
   useEffect(() => {
     if (viewMode === 'continent' && continentId) {
       const c = CONTINENT_MAP[continentId]
       if (c) {
-        map.flyToBounds(c.bounds, {
+        map.flyToBounds(toAMapBounds(c.bounds), {
           duration: 1.6,
           easeLinearity: 0.25,
           padding: [40, 40],
@@ -74,10 +74,7 @@ export default function MapView({
       const isSelected = entry.id === selectedId
       const isFavorited = favoriteIds?.has(entry.id) || false
       const color = entry.marker_color || categoryColor(entry.category)
-      const key =
-        color +
-        (isSelected ? ':sel' : '') +
-        (isFavorited ? ':fav' : '')
+      const key = color + (isSelected ? ':sel' : '') + (isFavorited ? ':fav' : '')
       if (!cache.has(key)) {
         cache.set(key, buildIcon(color, isSelected, isFavorited))
       }
@@ -97,10 +94,12 @@ export default function MapView({
       worldCopyJump
       className="h-full w-full"
     >
+      {/* 高德地图瓦片（国内合规底图）+ CSS 滤镜做暗色艺术化处理 */}
       <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-        url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
-        subdomains="abcd"
+        attribution='&copy; <a href="https://amap.com/">高德 AMap</a>'
+        url="https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}"
+        subdomains="1234"
+        className="amap-stylized"
       />
 
       {showContinents && (
@@ -111,7 +110,7 @@ export default function MapView({
         entries.map((entry) => (
           <Marker
             key={entry.id}
-            position={entry.coordinates}
+            position={toAMapCoords(entry.coordinates)}
             icon={icons(entry)}
             eventHandlers={{
               click: () => onSelect(entry.id),
