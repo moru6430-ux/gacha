@@ -6,6 +6,7 @@ import CategoryFilter from './components/CategoryFilter.jsx'
 import UserMenu from './components/UserMenu.jsx'
 import { useMinerals } from './hooks/useMinerals.js'
 import { useFavorites } from './hooks/useFavorites.jsx'
+import { useCart } from './hooks/useCart.js'
 import { useAuth } from './hooks/useAuth.jsx'
 import {
   getContinents,
@@ -15,10 +16,12 @@ import {
 const AuthModal = lazy(() => import('./components/AuthModal.jsx'))
 const SellModal = lazy(() => import('./components/SellModal.jsx'))
 const MyListingsModal = lazy(() => import('./components/MyListingsModal.jsx'))
+const CartModal = lazy(() => import('./components/CartModal.jsx'))
 
 export default function App() {
   const { minerals, source } = useMinerals()
   const { favoriteIds, toggle } = useFavorites()
+  const { cartIds, count: cartCount, toggle: toggleCart } = useCart()
   const { user } = useAuth()
 
   const [query, setQuery] = useState('')
@@ -28,6 +31,7 @@ export default function App() {
   const [authOpen, setAuthOpen] = useState(false)
   const [sellOpen, setSellOpen] = useState(false)
   const [myListingsOpen, setMyListingsOpen] = useState(false)
+  const [cartOpen, setCartOpen] = useState(false)
   const [listingsRefreshKey, setListingsRefreshKey] = useState(0)
 
   // 类别计数（用于 CategoryFilter）
@@ -137,6 +141,25 @@ export default function App() {
         />
         {user && (
           <button
+            onClick={() => setCartOpen(true)}
+            className="relative text-stone-300 hover:text-amber-glow transition-colors"
+            aria-label="购物车"
+          >
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6">
+              <path d="M3 3h2l.6 3M7 13h10l3-8H6" strokeLinecap="round" strokeLinejoin="round" />
+              <circle cx="9" cy="20" r="1.4" />
+              <circle cx="17" cy="20" r="1.4" />
+              <path d="M7 13l-1.4-7" strokeLinecap="round" />
+            </svg>
+            {cartCount > 0 && (
+              <span className="absolute -top-1.5 -right-2 bg-amber-glow text-ink-950 text-[10px] font-medium rounded-full px-1.5 min-w-[18px] h-[18px] flex items-center justify-center">
+                {cartCount}
+              </span>
+            )}
+          </button>
+        )}
+        {user && (
+          <button
             onClick={() => setSellOpen(true)}
             className="hidden sm:inline text-xs px-3 py-1.5 rounded-full bg-amber-glow/15 text-amber-glow border border-amber-glow/40 hover:bg-amber-glow/25 transition-colors"
           >
@@ -188,6 +211,9 @@ export default function App() {
           canSell={!!user}
           onSellClick={() => setSellOpen(true)}
           listingsRefreshKey={listingsRefreshKey}
+          cartIds={cartIds}
+          onToggleCart={toggleCart}
+          canCart={!!user}
         />
       </main>
 
@@ -217,6 +243,17 @@ export default function App() {
               setMyListingsOpen(false)
               setListingsRefreshKey((k) => k + 1)
             }}
+          />
+        </Suspense>
+      )}
+
+      {cartOpen && (
+        <Suspense fallback={null}>
+          <CartModal
+            open
+            onClose={() => setCartOpen(false)}
+            cartIds={cartIds}
+            onRemove={(id) => toggleCart(id)}
           />
         </Suspense>
       )}

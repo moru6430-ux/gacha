@@ -19,11 +19,19 @@ function contactHref(method, value) {
   return null
 }
 
-export default function ListingCard({ listing }) {
+export default function ListingCard({ listing, inCart, onToggleCart, onRequireAuth, canCart }) {
   const cert = listing.listing_certificates?.[0]
   const sellerName = listing.seller?.display_name || '匿名卖家'
   const firstImage = Array.isArray(listing.images) ? listing.images[0] : null
   const href = contactHref(listing.contact_method, listing.contact_value)
+
+  function handleCart() {
+    if (!canCart) {
+      onRequireAuth?.()
+      return
+    }
+    onToggleCart?.(listing.id)
+  }
 
   return (
     <article className="bg-ink-800/60 border border-ink-700 rounded-md p-3 flex gap-3">
@@ -60,13 +68,13 @@ export default function ListingCard({ listing }) {
             {listing.description}
           </p>
         )}
-        <div className="mt-2">
+        <div className="mt-2 flex items-center gap-3">
           {href ? (
             <a
               href={href}
               target="_blank"
               rel="noreferrer"
-              className="inline-block text-[11px] text-amber-glow hover:underline"
+              className="text-[11px] text-amber-glow hover:underline"
             >
               联系卖家 →
             </a>
@@ -74,6 +82,20 @@ export default function ListingCard({ listing }) {
             <span className="text-[11px] text-stone-500">
               {listing.contact_method}: {listing.contact_value}
             </span>
+          )}
+          {onToggleCart && (
+            <button
+              onClick={handleCart}
+              className={
+                'text-[11px] px-2 py-0.5 rounded-full border transition-colors ' +
+                (inCart
+                  ? 'border-amber-glow/60 text-amber-glow bg-amber-glow/10'
+                  : 'border-ink-600 text-stone-400 hover:border-amber-glow/40 hover:text-amber-glow')
+              }
+              aria-pressed={inCart}
+            >
+              {inCart ? '✓ 已在购物车' : '+ 加入购物车'}
+            </button>
           )}
         </div>
       </div>

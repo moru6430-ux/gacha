@@ -13,6 +13,9 @@ export default function DetailPanel({
   canSell,
   onSellClick,
   listingsRefreshKey,
+  cartIds,
+  onToggleCart,
+  canCart,
 }) {
   if (!entry) return null
 
@@ -117,6 +120,10 @@ export default function DetailPanel({
           mineralId={entry.id}
           canSell={canSell}
           onSellClick={onSellClick}
+          cartIds={cartIds}
+          onToggleCart={onToggleCart}
+          onRequireAuth={onRequireAuth}
+          canCart={canCart}
         />
       </div>
 

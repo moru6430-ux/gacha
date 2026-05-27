@@ -1,7 +1,15 @@
 import { useListings } from '../hooks/useListings.js'
 import ListingCard from './ListingCard.jsx'
 
-export default function ListingsByMineral({ mineralId, onSellClick, canSell }) {
+export default function ListingsByMineral({
+  mineralId,
+  onSellClick,
+  canSell,
+  cartIds,
+  onToggleCart,
+  onRequireAuth,
+  canCart,
+}) {
   const { listings, loading } = useListings(mineralId)
 
   return (
@@ -28,7 +36,14 @@ export default function ListingsByMineral({ mineralId, onSellClick, canSell }) {
       ) : (
         <div className="space-y-2">
           {listings.map((l) => (
-            <ListingCard key={l.id} listing={l} />
+            <ListingCard
+              key={l.id}
+              listing={l}
+              inCart={cartIds?.has(l.id) || false}
+              onToggleCart={onToggleCart}
+              onRequireAuth={onRequireAuth}
+              canCart={canCart}
+            />
           ))}
         </div>
       )}
