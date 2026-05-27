@@ -100,6 +100,22 @@ export function useCart() {
     [items, add, remove],
   )
 
+  const clear = useCallback(async () => {
+    if (!user || items.size === 0) return false
+    const snapshot = new Map(items)
+    setItems(new Map())
+    const { error } = await supabase
+      .from('cart_items')
+      .delete()
+      .eq('user_id', user.id)
+    if (error) {
+      setItems(snapshot)
+      console.warn('[cart] clear failed', error.message)
+      return false
+    }
+    return true
+  }, [user, items])
+
   return {
     cartIds: items,
     count: items.size,
@@ -107,6 +123,7 @@ export function useCart() {
     add,
     remove,
     toggle,
+    clear,
     isInCart: (id) => items.has(id),
   }
 }

@@ -38,10 +38,11 @@ function groupBySeller(listings) {
   return Array.from(map.values())
 }
 
-export default function CartModal({ open, onClose, cartIds, onRemove }) {
+export default function CartModal({ open, onClose, cartIds, onRemove, onClear }) {
   const [listings, setListings] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
+  const [query, setQuery] = useState('')
 
   useEffect(() => {
     if (!open) return
@@ -95,11 +96,28 @@ export default function CartModal({ open, onClose, cartIds, onRemove }) {
 
   if (!open) return null
 
-  const groups = groupBySeller(listings)
-  const total = listings
+  const q = query.trim().toLowerCase()
+  const filtered = q
+    ? listings.filter((l) => {
+        const sellerName = (l.seller?.display_name || '').toLowerCase()
+        return (
+          l.title.toLowerCase().includes(q) ||
+          sellerName.includes(q) ||
+          (l.description || '').toLowerCase().includes(q)
+        )
+      })
+    : listings
+  const groups = groupBySeller(filtered)
+  const total = filtered
     .filter((l) => l.status === 'active')
     .reduce((sum, l) => sum + (l.price_cents || 0), 0)
   const currency = listings[0]?.currency || 'CNY'
+
+  async function handleClear() {
+    if (!onClear) return
+    if (!confirm(`确认清空购物车里全部 ${listings.length} 件？`)) return
+    await onClear()
+  }
 
   return (
     <div
@@ -110,22 +128,54 @@ export default function CartModal({ open, onClose, cartIds, onRemove }) {
         className="bg-ink-900 border border-ink-700 rounded-lg shadow-2xl w-full max-w-2xl max-h-[88vh] flex flex-col"
         onClick={(e) => e.stopPropagation()}
       >
-        <header className="px-6 py-4 border-b border-ink-700 flex items-center justify-between">
-          <div>
-            <h2 className="text-lg font-serif text-amber-glow">购物车</h2>
-            <p className="text-[11px] text-stone-500 mt-0.5">
-              {listings.length} 件 · 此处仅汇总待联系，付款 / 邮寄请直接和卖家沟通
-            </p>
+        <header className="px-6 pt-4 pb-3 border-b border-ink-700">
+          <div className="flex items-start justify-between">
+            <div>
+              <h2 className="text-lg font-serif text-amber-glow">购物车</h2>
+              <p className="text-[11px] text-stone-500 mt-0.5">
+                {listings.length} 件 · 此处仅汇总待联系，付款 / 邮寄请直接和卖家沟通
+              </p>
+            </div>
+            <div className="flex items-center gap-3">
+              {listings.length > 0 && (
+                <button
+                  onClick={handleClear}
+                  className="text-[11px] text-stone-500 hover:text-rose-400 transition-colors"
+                >
+                  清空
+                </button>
+              )}
+              <button
+                onClick={onClose}
+                className="text-stone-500 hover:text-stone-200"
+                aria-label="关闭"
+              >
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <path d="M6 6l12 12M18 6L6 18" strokeLinecap="round" />
+                </svg>
+              </button>
+            </div>
           </div>
-          <button
-            onClick={onClose}
-            className="text-stone-500 hover:text-stone-200"
-            aria-label="关闭"
-          >
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M6 6l12 12M18 6L6 18" strokeLinecap="round" />
-            </svg>
-          </button>
+          {listings.length > 0 && (
+            <div className="mt-3 relative">
+              <input
+                type="text"
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+                placeholder="在购物车里搜：标题 · 卖家 · 描述"
+                className="w-full bg-ink-800/60 border border-ink-700 rounded-md px-3 py-1.5 pr-8 text-xs text-stone-200 placeholder:text-stone-600 focus:outline-none focus:border-amber-glow/60"
+              />
+              {query && (
+                <button
+                  onClick={() => setQuery('')}
+                  className="absolute right-2 top-1/2 -translate-y-1/2 text-stone-500 hover:text-stone-200 text-xs"
+                  aria-label="清除搜索"
+                >
+                  ×
+                </button>
+              )}
+            </div>
+          )}
         </header>
 
         <div className="flex-1 overflow-y-auto thin-scroll px-6 py-5">
@@ -135,10 +185,21 @@ export default function CartModal({ open, onClose, cartIds, onRemove }) {
             <p className="text-sm text-rose-400">读取失败：{error}</p>
           ) : groups.length === 0 ? (
             <div className="text-center py-12 text-stone-500">
-              <p className="text-sm">购物车空空的</p>
-              <p className="text-xs mt-2 text-stone-600">
-                去矿物详情页 · 市集区，看到喜欢的点「+ 加入购物车」
-              </p>
+              {q ? (
+                <>
+                  <p className="text-sm">没搜到「{query}」相关</p>
+                  <p className="text-xs mt-2 text-stone-600">
+                    清空搜索词看全部 {listings.length} 件
+                  </p>
+                </>
+              ) : (
+                <>
+                  <p className="text-sm">购物车空空的</p>
+                  <p className="text-xs mt-2 text-stone-600">
+                    去矿物详情页 · 市集区，看到喜欢的点「+ 加入购物车」
+                  </p>
+                </>
+              )}
             </div>
           ) : (
             <div className="space-y-5">

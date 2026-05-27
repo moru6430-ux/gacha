@@ -21,7 +21,7 @@ const CartModal = lazy(() => import('./components/CartModal.jsx'))
 export default function App() {
   const { minerals, source } = useMinerals()
   const { favoriteIds, toggle } = useFavorites()
-  const { cartIds, count: cartCount, toggle: toggleCart } = useCart()
+  const { cartIds, count: cartCount, toggle: toggleCart, clear: clearCart } = useCart()
   const { user } = useAuth()
 
   const [query, setQuery] = useState('')
@@ -254,6 +254,7 @@ export default function App() {
             onClose={() => setCartOpen(false)}
             cartIds={cartIds}
             onRemove={(id) => toggleCart(id)}
+            onClear={clearCart}
           />
         </Suspense>
       )}
