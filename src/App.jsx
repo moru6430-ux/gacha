@@ -20,6 +20,7 @@ const MyListingsModal = lazy(() => import('./components/MyListingsModal.jsx'))
 const CartModal = lazy(() => import('./components/CartModal.jsx'))
 const FavoriteListingsModal = lazy(() => import('./components/FavoriteListingsModal.jsx'))
 const TimelineModal = lazy(() => import('./components/TimelineModal.jsx'))
+const UserProfileModal = lazy(() => import('./components/UserProfileModal.jsx'))
 
 export default function App() {
   const { minerals, source } = useMinerals()
@@ -41,6 +42,7 @@ export default function App() {
   const [favListingsOpen, setFavListingsOpen] = useState(false)
   const [cartOpen, setCartOpen] = useState(false)
   const [timelineOpen, setTimelineOpen] = useState(false)
+  const [profileUserId, setProfileUserId] = useState(null)
   const [listingsRefreshKey, setListingsRefreshKey] = useState(0)
 
   // 类别计数（用于 CategoryFilter）
@@ -161,6 +163,7 @@ export default function App() {
           onSignInClick={() => setAuthOpen(true)}
           onMyListingsClick={() => setMyListingsOpen(true)}
           onFavoriteListingsClick={() => setFavListingsOpen(true)}
+          onMyProfileClick={() => user && setProfileUserId(user.id)}
         />
         {user && (
           <button
@@ -239,6 +242,7 @@ export default function App() {
           favoriteListingIds={favoriteListingIds}
           onToggleListingFavorite={toggleListingFavorite}
           canCart={!!user}
+          onOpenSeller={(sid) => setProfileUserId(sid)}
         />
       </main>
 
@@ -280,6 +284,7 @@ export default function App() {
             cartIds={cartIds}
             onRemove={(id) => toggleCart(id)}
             onClear={clearCart}
+            onOpenSeller={(sid) => setProfileUserId(sid)}
           />
         </Suspense>
       )}
@@ -294,6 +299,7 @@ export default function App() {
             cartIds={cartIds}
             onToggleCart={toggleCart}
             canCart={!!user}
+            onOpenSeller={(sid) => setProfileUserId(sid)}
           />
         </Suspense>
       )}
@@ -306,13 +312,36 @@ export default function App() {
             minerals={minerals}
             onSelectMineral={(id) => {
               setSelectedId(id)
-              // 时间线在世界视图下点矿物，先进它所属大洲
               const m = minerals.find((x) => x.id === id)
               if (m && viewMode === 'world') {
                 const cs = getContinents(m.coordinates, m.continent)
                 if (cs[0]) setSelectedContinent(cs[0])
               }
             }}
+          />
+        </Suspense>
+      )}
+
+      {profileUserId && (
+        <Suspense fallback={null}>
+          <UserProfileModal
+            open
+            onClose={() => setProfileUserId(null)}
+            userId={profileUserId}
+            minerals={minerals}
+            onSelectMineral={(id) => {
+              setSelectedId(id)
+              const m = minerals.find((x) => x.id === id)
+              if (m && viewMode === 'world') {
+                const cs = getContinents(m.coordinates, m.continent)
+                if (cs[0]) setSelectedContinent(cs[0])
+              }
+            }}
+            cartIds={cartIds}
+            onToggleCart={toggleCart}
+            favoriteListingIds={favoriteListingIds}
+            onToggleListingFavorite={toggleListingFavorite}
+            canCart={!!user}
           />
         </Suspense>
       )}

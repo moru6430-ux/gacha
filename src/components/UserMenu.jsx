@@ -7,7 +7,12 @@ function initial(user) {
   return name.charAt(0).toUpperCase()
 }
 
-export default function UserMenu({ onSignInClick, onMyListingsClick, onFavoriteListingsClick }) {
+export default function UserMenu({
+  onSignInClick,
+  onMyListingsClick,
+  onFavoriteListingsClick,
+  onMyProfileClick,
+}) {
   const { user, signOut } = useAuth()
   const [open, setOpen] = useState(false)
 
@@ -42,6 +47,16 @@ export default function UserMenu({ onSignInClick, onMyListingsClick, onFavoriteL
           <div className="px-3 py-2 text-[11px] text-stone-500 border-b border-ink-700">
             {user.email}
           </div>
+          <button
+            onMouseDown={(e) => e.preventDefault()}
+            onClick={() => {
+              onMyProfileClick?.()
+              setOpen(false)
+            }}
+            className="w-full text-left px-3 py-2 text-xs text-stone-300 hover:bg-ink-700 transition-colors"
+          >
+            我的主页
+          </button>
           <button
             onMouseDown={(e) => e.preventDefault()}
             onClick={() => {

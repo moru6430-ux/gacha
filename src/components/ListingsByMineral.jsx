@@ -11,6 +11,7 @@ export default function ListingsByMineral({
   onToggleListingFavorite,
   onRequireAuth,
   canCart,
+  onOpenSeller,
 }) {
   const { listings, loading } = useListings(mineralId)
 
@@ -47,6 +48,7 @@ export default function ListingsByMineral({
               onToggleFavorite={onToggleListingFavorite}
               onRequireAuth={onRequireAuth}
               canCart={canCart}
+              onOpenSeller={onOpenSeller}
             />
           ))}
         </div>

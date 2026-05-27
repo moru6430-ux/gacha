@@ -10,6 +10,7 @@ export default function FavoriteListingsModal({
   cartIds,
   onToggleCart,
   canCart,
+  onOpenSeller,
 }) {
   const [listings, setListings] = useState([])
   const [loading, setLoading] = useState(true)
@@ -32,7 +33,7 @@ export default function FavoriteListingsModal({
       .select(
         `id, mineral_id, title, description, price_cents, currency, condition,
          images, contact_method, contact_value, status, seller_id,
-         seller:profiles(display_name),
+         seller:profiles(id, display_name),
          listing_certificates(cert_org, cert_number)`,
       )
       .in('id', ids)
@@ -158,6 +159,7 @@ export default function FavoriteListingsModal({
                   favorited={true}
                   onToggleFavorite={onToggleFavorite}
                   canCart={canCart}
+                  onOpenSeller={onOpenSeller}
                 />
               ))}
             </div>

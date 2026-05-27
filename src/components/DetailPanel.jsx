@@ -19,6 +19,7 @@ export default function DetailPanel({
   favoriteListingIds,
   onToggleListingFavorite,
   canCart,
+  onOpenSeller,
 }) {
   if (!entry) return null
 
@@ -129,6 +130,7 @@ export default function DetailPanel({
           onToggleListingFavorite={onToggleListingFavorite}
           onRequireAuth={onRequireAuth}
           canCart={canCart}
+          onOpenSeller={onOpenSeller}
         />
 
         <ExternalReferences mineral={entry} />

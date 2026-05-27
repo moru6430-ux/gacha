@@ -27,8 +27,10 @@ export default function ListingCard({
   onToggleFavorite,
   onRequireAuth,
   canCart,
+  onOpenSeller,
 }) {
   const cert = listing.listing_certificates?.[0]
+  const sellerId = listing.seller?.id || listing.seller_id
   const sellerName = listing.seller?.display_name || '匿名卖家'
   const firstImage = Array.isArray(listing.images) ? listing.images[0] : null
   const href = contactHref(listing.contact_method, listing.contact_value)
@@ -70,7 +72,16 @@ export default function ListingCard({
           </span>
         </div>
         <div className="text-[11px] text-stone-500 mt-1 flex flex-wrap items-center gap-1.5">
-          <span>{sellerName}</span>
+          {onOpenSeller && sellerId ? (
+            <button
+              onClick={() => onOpenSeller(sellerId)}
+              className="hover:text-amber-glow transition-colors underline-offset-2 hover:underline"
+            >
+              {sellerName}
+            </button>
+          ) : (
+            <span>{sellerName}</span>
+          )}
           <span className="text-stone-600">·</span>
           <span>{CONDITION_LABEL[listing.condition] || listing.condition}</span>
           {cert && (

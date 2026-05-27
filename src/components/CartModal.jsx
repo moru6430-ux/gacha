@@ -38,7 +38,7 @@ function groupBySeller(listings) {
   return Array.from(map.values())
 }
 
-export default function CartModal({ open, onClose, cartIds, onRemove, onClear }) {
+export default function CartModal({ open, onClose, cartIds, onRemove, onClear, onOpenSeller }) {
   const [listings, setListings] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
@@ -60,7 +60,7 @@ export default function CartModal({ open, onClose, cartIds, onRemove, onClear })
       .select(
         `id, mineral_id, title, description, price_cents, currency, condition,
          images, contact_method, contact_value, status, seller_id,
-         seller:profiles(display_name),
+         seller:profiles(id, display_name),
          listing_certificates(cert_org, cert_number)`,
       )
       .in('id', ids)
@@ -212,7 +212,17 @@ export default function CartModal({ open, onClose, cartIds, onRemove, onClear })
                   <div key={g.sellerId} className="border border-ink-700 rounded-md">
                     <div className="px-4 py-2.5 border-b border-ink-700 flex items-center justify-between bg-ink-800/40">
                       <div className="text-xs text-stone-300">
-                        卖家：{g.sellerName}
+                        卖家：
+                        {onOpenSeller && g.sellerId !== 'anon' ? (
+                          <button
+                            onClick={() => onOpenSeller(g.sellerId)}
+                            className="hover:text-amber-glow transition-colors underline-offset-2 hover:underline"
+                          >
+                            {g.sellerName}
+                          </button>
+                        ) : (
+                          <span>{g.sellerName}</span>
+                        )}
                         <span className="text-stone-600 ml-2">· {g.items.length} 件</span>
                       </div>
                       {href ? (

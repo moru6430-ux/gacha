@@ -16,7 +16,7 @@ export function useListings(mineralId) {
     setLoading(true)
     supabase
       .from('listings')
-      .select('*, listing_certificates(*), seller:profiles(display_name)')
+      .select('*, listing_certificates(*), seller:profiles(id, display_name)')
       .eq('mineral_id', mineralId)
       .eq('status', 'active')
       .order('created_at', { ascending: false })
