@@ -66,6 +66,12 @@ export default function App() {
     return acc
   }, [minerals])
 
+  // 横跨大洲的矿物数量（信息提示用）
+  const borderCount = useMemo(
+    () => minerals.filter((m) => getContinents(m.coordinates, m.continent).length > 1).length,
+    [minerals],
+  )
+
   const hasFilter = !!query.trim() || category !== 'all'
   // 世界视图 = 没选大洲、没搜、没分类筛选。其他情况都是「展开看点」。
   const viewMode =
@@ -142,7 +148,7 @@ export default function App() {
         </div>
         <div className="text-xs text-stone-500 hidden sm:block">
           {viewMode === 'world'
-            ? `${minerals.length} 条 · 选一片大洲`
+            ? `${minerals.length} 条 · 选一片大洲${borderCount > 0 ? `（${borderCount} 条跨边界两边都出现）` : ''}`
             : `${filtered.length} / ${minerals.length}`}
           <span className="ml-1 text-stone-600">{source === 'supabase' ? '· 云端' : '· 本地'}</span>
         </div>
