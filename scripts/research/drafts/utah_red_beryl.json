@@ -1,0 +1,48 @@
+{
+  "id": "utah_red_beryl",
+  "name": "犹他红色绿柱石",
+  "name_en": "Utah Red Beryl (Bixbite)",
+  "region": "美国 · 犹他 · Wah Wah 山",
+  "region_en": "Wah Wah Mountains, Utah, USA",
+  "coordinates": [
+    38.42,
+    -113.6
+  ],
+  "category": "other",
+  "mineral_type": "绿柱石 / Beryl var. red（锰致红，与祖母绿同矿物种）",
+  "color": "覆盆子红、草莓红（极罕见的红色绿柱石）",
+  "marker_color": "#c41e3a",
+  "earliest_year": 1904,
+  "stories": [
+    {
+      "culture": "1904 · Maynard Bixby 的发现",
+      "title": "比钻石稀有一万倍",
+      "content": "红色绿柱石（red beryl，旧称 bixbite，纪念发现者 Maynard Bixby）是绿柱石家族里**最稀有的成员**——同一种矿物（beryl），含铬 / 钒呈绿色就是祖母绿、含铁呈蓝是海蓝宝、含锰呈粉是摩根石、含锰呈红就是红色绿柱石。但红色那种极难形成：需要锰 + 特殊的火山流纹岩环境。据估算，每开采约 15 万颗钻石才有 1 颗宝石级红色绿柱石。"
+    },
+    {
+      "culture": "产地 · 几乎只有一座山",
+      "title": "犹他 Wah Wah 山的独占",
+      "content": "宝石级红色绿柱石**几乎只产自美国犹他州 Wah Wah 山的一处矿**（Ruby-Violet Claim）。该矿产量极小，超过 1 克拉的干净红色绿柱石属世界级珍品，单克拉价可超过顶级祖母绿。它太稀有，连很多资深宝石商一辈子都没亲手摸过。市面上叫\"红色绿宝石\"（red emerald）的营销名其实不规范——GIA 坚持称 red beryl。它是矿物收藏与顶级珠宝交界处的\"圣杯\"宝石之一。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_beryl.jpg?width=640",
+  "image_credit": "红色绿柱石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "红色绿柱石合法贸易；犹他 Wah Wah 山几乎唯一宝石级产地，极稀、极贵。注意合成红色绿柱石（俄罗斯产）已出现。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Red beryl – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Red_beryl"
+    },
+    {
+      "type": "secondary",
+      "author": "Shigley, J.E. et al.",
+      "title": "Red beryl from Utah",
+      "year": 2003,
+      "locator": "Gems & Gemology"
+    }
+  ]
+}

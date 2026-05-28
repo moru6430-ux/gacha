@@ -1,0 +1,51 @@
+{
+  "id": "uvarovite_garnet",
+  "name": "钙铬榴石",
+  "name_en": "Uvarovite Garnet",
+  "region": "俄罗斯 · 乌拉尔 · 萨拉诺夫斯克",
+  "region_en": "Saranovskii Mine, Urals, Russia",
+  "coordinates": [
+    58.4,
+    58.5
+  ],
+  "category": "garnet",
+  "mineral_type": "钙铬榴石 / Uvarovite garnet（铬致祖母绿色）",
+  "color": "祖母绿色、亮绿（晶体极小，多成晶簇 druzy）",
+  "marker_color": "#0a6a3a",
+  "earliest_year": 1832,
+  "continent": [
+    "europe",
+    "asia"
+  ],
+  "border_note": "横跨欧亚边界（乌拉尔山脉）",
+  "stories": [
+    {
+      "culture": "1832 · 沙俄部长的名字",
+      "title": "唯一永远是绿色的石榴石",
+      "content": "钙铬榴石 1832 年在乌拉尔被发现，以沙俄教育部长、俄罗斯科学院院长 Count Sergei Uvarov 命名。它是石榴石大家族里**唯一一种永远呈祖母绿色的成员**——铬致色，颜色饱和而稳定。其他绿色石榴石（沙弗莱、翠榴石）的颜色会因产地波动，钙铬榴石的绿则是化学本色。"
+    },
+    {
+      "culture": "收藏 · 太小不能切",
+      "title": "只能看不能戴",
+      "content": "钙铬榴石有个无法克服的缺陷：它的晶体**几乎永远只有 1-2 毫米大**，全球极少发现能切磨成宝石的单晶。所以它几乎只以\"晶簇\"（druzy）形态被收藏——无数微小的亮绿晶体密布在铬铁矿母岩表面，像撒了一层祖母绿色的糖霜。矿物收藏家追逐乌拉尔 Saranovskii 矿和芬兰 Outokumpu 的钙铬榴石晶簇标本，但珠宝商基本用不上它。这是\"美得耀眼却没法做首饰\"的典型。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uvarovite.jpg?width=640",
+  "image_credit": "钙铬榴石晶簇 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "钙铬榴石合法贸易；晶体太小几乎只作晶簇标本，珠宝罕用。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Uvarovite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uvarovite"
+    },
+    {
+      "type": "web",
+      "title": "Uvarovite – Mindat",
+      "url": "https://www.mindat.org/min-4125.html"
+    }
+  ]
+}

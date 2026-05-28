@@ -1,0 +1,48 @@
+{
+  "id": "cobalt_spinel",
+  "name": "越南钴蓝尖晶石",
+  "name_en": "Vietnamese Cobalt Spinel",
+  "region": "越南 · 安沛省 · 陆安",
+  "region_en": "Lục Yên, Yên Bái, Vietnam",
+  "coordinates": [
+    22.1,
+    104.72
+  ],
+  "category": "other",
+  "mineral_type": "尖晶石变种 / Spinel（钴致电光蓝，区别于普通铁致蓝）",
+  "color": "电光蓝、霓虹蓝（钴致色，尖晶石最稀有的颜色）",
+  "marker_color": "#2a4ad0",
+  "earliest_year": 1987,
+  "stories": [
+    {
+      "culture": "陆安 · 尖晶石的最高色",
+      "title": "钴的电光蓝",
+      "content": "尖晶石以红色 / 粉色最有名（前面做过缅甸抹谷尖晶石），但它最稀有、最贵的颜色其实是**钴致色的电光蓝**。普通蓝尖晶石靠铁致色，偏灰暗；而越南陆安（Lục Yên）和坦桑尼亚 Mahenge 产的钴蓝尖晶石靠微量钴致色，蓝得像霓虹灯、像帕拉伊巴碧玺。越南陆安 1987 年起开采，是世界顶级钴蓝尖晶石产地。一颗 2 克拉的越南钴蓝尖晶石单克拉价可达数万美元，远超同重量的蓝宝石。"
+    },
+    {
+      "culture": "陆安 · \"石头市场\"的女人们",
+      "title": "河滩上的宝石集市",
+      "content": "陆安是越南北部的宝石小城，以独特的\"露天宝石市场\"闻名——每天清晨，几百名当地（多为女性）摊主在镇中心的广场上摆开塑料布，把从红河支流河滩、稻田里淘洗出的红宝石、尖晶石、电气石原石摊在阳光下交易。陆安也是著名的\"宝石画\"产地：当地艺人用天然彩色宝石碎屑拼贴成画。这种由本地小农户主导、低度工业化的开采模式，与缅甸抹谷的军方垄断形成鲜明对比。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cobalt_spinel.jpg?width=640",
+  "image_credit": "钴蓝尖晶石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "越南钴蓝尖晶石合法贸易；陆安、坦桑尼亚 Mahenge 为顶级产地。颜色顶级者极贵，需 GRS / GIA 鉴定钴致色。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Spinel – GIA",
+      "url": "https://www.gia.edu/spinel"
+    },
+    {
+      "type": "secondary",
+      "author": "Senoble, J.B.",
+      "title": "Cobalt-blue spinel from Vietnam",
+      "year": 2010,
+      "locator": "InColor"
+    }
+  ]
+}

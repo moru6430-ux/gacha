@@ -1,0 +1,47 @@
+{
+  "id": "amazonite",
+  "name": "天河石",
+  "name_en": "Amazonite",
+  "region": "美国 · 科罗拉多 · 派克峰 / 俄罗斯",
+  "region_en": "Pikes Peak, Colorado, USA",
+  "coordinates": [
+    38.84,
+    -105.04
+  ],
+  "category": "other",
+  "mineral_type": "微斜长石 / Microcline feldspar（含铅致蓝绿）",
+  "color": "蓝绿、青绿、天河蓝（常带白色网格纹）",
+  "marker_color": "#3acab0",
+  "earliest_year": -1300,
+  "stories": [
+    {
+      "culture": "古埃及 · 图坦卡蒙的蓝绿",
+      "title": "法老面具上的天河石",
+      "content": "天河石的蓝绿色在古埃及极受珍视——图坦卡蒙（约公元前 1323 年）的黄金面具、随葬首饰里大量使用天河石作镶嵌，与青金石、绿松石、红玉髓并列法老最爱的四种彩石。《亡灵书》的部分章节据说曾刻在天河石板上。古埃及人相信它的蓝绿是尼罗河与天空的颜色，象征生命与重生。"
+    },
+    {
+      "culture": "命名 · 一个地理错误",
+      "title": "亚马逊河其实不产",
+      "content": "\"Amazonite\"（天河石 / 亚马逊石）的名字来自南美亚马逊河——但这是个**将错就错的误会**：18 世纪欧洲人以为这种绿石头产自亚马逊雨林（可能与亚马逊女战士传说混在一起），其实亚马逊河流域根本不产宝石级天河石。真正的主产地是美国科罗拉多派克峰（与烟晶共生的经典组合：\"蓝绿天河石 + 茶色烟晶\"标本是矿物界名品）和俄罗斯。天河石的蓝绿色 2010 年才被确认来自微量的铅 + 水——之前长期以为是铜。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazonite.jpg?width=640",
+  "image_credit": "天河石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "天河石合法贸易、平价。科罗拉多派克峰\"天河石+烟晶\"共生标本是收藏名品。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Amazonite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amazonite"
+    },
+    {
+      "type": "secondary",
+      "author": "Hofmeister, A.M. & Rossman, G.R.",
+      "title": "Color in feldspars",
+      "year": 1985
+    }
+  ]
+}

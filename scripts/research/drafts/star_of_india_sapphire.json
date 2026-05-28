@@ -1,0 +1,46 @@
+{
+  "id": "star_of_india_sapphire",
+  "name": "星光蓝宝石",
+  "name_en": "Star Sapphire",
+  "region": "斯里兰卡 · 拉特纳普勒",
+  "region_en": "Ratnapura, Sri Lanka",
+  "coordinates": [
+    6.72,
+    80.38
+  ],
+  "category": "sapphire",
+  "mineral_type": "刚玉 / Corundum（含金红石针，弧面切磨显六道星光 asterism）",
+  "color": "灰蓝、乳蓝，浮一道六射银白星",
+  "marker_color": "#3a5a9a",
+  "earliest_year": 1880,
+  "stories": [
+    {
+      "culture": "信仰 · 三道交叉光 = 信 / 望 / 命运",
+      "title": "\"命运三女神\"之石",
+      "content": "星光蓝宝石的\"星\"是六道交叉的银白光带，由晶体内三组平行排列的金红石针在弧面切磨下反射形成（asterism 星彩效应）。19 世纪美国宝石商 / 探险家把这三道交叉的光解释为\"信仰、希望、命运\"（faith, hope, destiny）——三条光带护佑佩戴者，被称为\"命运三女神之石\"。这个浪漫诠释让星光蓝宝在维多利亚 - 爱德华时代风靡。"
+    },
+    {
+      "culture": "1964 · 大都会博物馆劫案",
+      "title": "\"印度之星\"被偷",
+      "content": "世界最著名的星光蓝宝石是\"印度之星\"（Star of India）——一颗 563 克拉的灰蓝色星光蓝宝，斯里兰卡产，由金融家摩根（J.P. Morgan）捐给纽约美国自然历史博物馆。1964 年它在一桩著名劫案中被三名窃贼（包括\"杰克兔\"Murph the Surf）从博物馆偷走——因为展柜的报警器电池没换。两个月后赃物在迈阿密一个公交车站储物柜被找回。这桩劫案成为美国犯罪史经典，多次被拍成电影。\"印度之星\"今天仍在该馆展出。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_of_India_sapphire.jpg?width=640",
+  "image_credit": "星光蓝宝石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "星光蓝宝石合法贸易；斯里兰卡为经典产地。市售大量合成星光蓝宝（Linde star），需鉴定。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Star of India (gem) – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Star_of_India_(gem)"
+    },
+    {
+      "type": "web",
+      "title": "Asterism – GIA",
+      "url": "https://www.gia.edu/sapphire"
+    }
+  ]
+}

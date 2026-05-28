@@ -1,0 +1,47 @@
+{
+  "id": "cairngorm_smoky_quartz",
+  "name": "苏格兰凯恩戈姆烟晶",
+  "name_en": "Cairngorm Smoky Quartz",
+  "region": "英国 · 苏格兰 · 凯恩戈姆山",
+  "region_en": "Cairngorm Mountains, Scotland",
+  "coordinates": [
+    57.12,
+    -3.64
+  ],
+  "category": "quartz",
+  "mineral_type": "石英 / Quartz var. smoky（天然辐照致烟褐 / 茶色）",
+  "color": "烟褐、茶色、深棕（天然伽马辐照致色）",
+  "marker_color": "#6a5040",
+  "earliest_year": 1300,
+  "stories": [
+    {
+      "culture": "苏格兰 · 高地服饰的灵魂",
+      "title": "短剑柄上的茶晶",
+      "content": "烟晶是苏格兰的国石。凯恩戈姆山产的烟晶（苏格兰盖尔语就叫 \"cairngorm\"）几百年来镶在苏格兰高地服饰的核心配件上：短剑（sgian-dubh，藏在长袜里的小刀）的柄头、胸针（brooch）、风笛、氏族徽章。一块大的金棕色凯恩戈姆烟晶是身份象征。维多利亚女王 1852 年买下巴尔莫勒尔城堡后大力推崇苏格兰风，凯恩戈姆烟晶首饰风靡整个维多利亚英国。"
+    },
+    {
+      "culture": "物理 · 大地的天然辐照",
+      "title": "颜色来自放射性",
+      "content": "烟晶的烟褐色成因很特别：它是石英晶体中微量的铝杂质，在地下经过**天然的伽马射线辐照**（来自周围花岗岩里的微量放射性钾、铀、钍）数百万年后形成的色心。加热到 300-400°C 烟色会褪去变回无色——这也是市售很多\"无色水晶\"其实是烤过的烟晶。反过来，商业上也用人工辐照把无色石英做成烟晶。凯恩戈姆原矿如今基本禁采（属苏格兰国家公园），市售\"cairngorm\"多为巴西烟晶冒名。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Smoky_quartz.jpg?width=640",
+  "image_credit": "烟晶 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "烟晶合法贸易；凯恩戈姆原矿区属苏格兰国家公园禁采，市售\"cairngorm\"多为巴西货。注意辐照处理品。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Smoky quartz – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smoky_quartz"
+    },
+    {
+      "type": "secondary",
+      "author": "Macpherson, H.G.",
+      "title": "Scottish gemstones",
+      "year": 1989
+    }
+  ]
+}

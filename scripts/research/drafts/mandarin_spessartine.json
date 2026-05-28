@@ -1,0 +1,48 @@
+{
+  "id": "mandarin_spessartine",
+  "name": "芬达石（橘榴石）",
+  "name_en": "Mandarin Spessartine",
+  "region": "纳米比亚 · 库内内",
+  "region_en": "Kunene, Namibia",
+  "coordinates": [
+    -17.5,
+    13.0
+  ],
+  "category": "garnet",
+  "mineral_type": "锰铝榴石 / Spessartine garnet（锰致橙）",
+  "color": "芬达橙、火焰橙、橘红（饱和度极高）",
+  "marker_color": "#f06a1a",
+  "earliest_year": 1991,
+  "stories": [
+    {
+      "culture": "1991 · \"芬达汽水石\"",
+      "title": "一个汽水品牌的命名",
+      "content": "1991 年纳米比亚库内内河地区发现一种饱和度极高的橙色锰铝榴石——颜色鲜艳得像芬达橙味汽水。宝石商直接借用了 \"Fanta\"（芬达）这个名字营销，\"芬达石\"（Mandarin garnet / Fanta stone）一炮而红。这是宝石史上罕见的\"以快消品牌命名\"案例。1999 年尼日利亚 Edukko 又发现了更大产量的同类，让芬达石从奢侈品走向中端市场。"
+    },
+    {
+      "culture": "矿物学 · 锰的橙",
+      "title": "同族不同色",
+      "content": "芬达石是石榴石大家族里的锰铝榴石（spessartine，得名德国 Spessart 山）。石榴石家族成员化学成分不同、颜色各异：镁铝榴石（红）、铁铝榴石（暗红）、锰铝榴石（橙）、钙铝榴石（绿 / 棕）、钙铁榴石（黄绿 / 黑）、钙铬榴石（祖母绿色）。它们常在自然界互相混溶形成\"过渡品\"——所以乌姆巴河石榴石（前面做过）才会色彩斑斓。纯净的芬达石（接近 100% 锰铝榴石端元）反而稀少，多数市售货是锰铝-镁铝过渡品。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spessartine.jpg?width=640",
+  "image_credit": "锰铝榴石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "芬达石合法贸易；纳米比亚、尼日利亚、莫桑比克为主产地。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Spessartine – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spessartine"
+    },
+    {
+      "type": "secondary",
+      "author": "Johnson, M.L. et al.",
+      "title": "Spessartine garnet from Namibia",
+      "year": 1995,
+      "locator": "Gems & Gemology"
+    }
+  ]
+}

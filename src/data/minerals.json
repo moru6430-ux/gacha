@@ -4369,5 +4369,711 @@
         "url": "https://cites.org/"
       }
     ]
+  },
+  {
+    "id": "bohemian_garnet",
+    "name": "波希米亚石榴石",
+    "name_en": "Bohemian Garnet (Pyrope)",
+    "region": "捷克 · 波希米亚 · 特热别尼采",
+    "region_en": "Třebenice, Bohemia, Czech Republic",
+    "coordinates": [
+      50.48,
+      13.99
+    ],
+    "category": "garnet",
+    "mineral_type": "镁铝榴石 / Pyrope garnet（深红，火山玄武岩中）",
+    "color": "深血红、酒红（小颗粒、火彩强）",
+    "marker_color": "#8a1a1a",
+    "earliest_year": 1500,
+    "stories": [
+      {
+        "culture": "波希米亚 · 维多利亚哀悼首饰",
+        "title": "一片\"石榴籽\"的海",
+        "content": "波希米亚（今捷克）的镁铝榴石颗粒小、颜色深如血、火彩强，16 世纪起被大量开采。维多利亚时代它成为欧洲最流行的\"丧悼 + 日常\"两用首饰——一件波希米亚石榴石胸针上常密镶几百颗小石榴石，像一捧石榴籽。鲁道夫二世（16 世纪末布拉格的\"炼金术皇帝\"）大力推广，让波希米亚石榴石成为欧洲宫廷标志。"
+      },
+      {
+        "culture": "歌德 · 文学里的石榴石",
+        "title": "《亲和力》的定情物",
+        "content": "波希米亚石榴石与德国文豪歌德（Goethe）有段轶事：晚年的歌德爱上了年轻的 Ulrike von Levetzow，传说他送给她的定情物就是一套波希米亚石榴石首饰；这段无果的恋情催生了他的《玛丽恩巴德哀歌》。今天捷克把波希米亚石榴石定为国石，特热别尼采有专门的石榴石博物馆。市售要小心——很多\"波希米亚石榴石\"是印度 / 非洲铁铝榴石冒充，真品颗粒细小、颜色统一。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrope_garnet.jpg?width=640",
+    "image_credit": "镁铝榴石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "波希米亚石榴石合法贸易；捷克国石。市售多印度 / 非洲货冒充，真品颗粒小色深。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Pyrope – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pyrope"
+      },
+      {
+        "type": "secondary",
+        "author": "Bauer, Max",
+        "title": "Precious Stones",
+        "year": 1904
+      }
+    ]
+  },
+  {
+    "id": "hessonite_garnet",
+    "name": "锡兰桂榴石（肉桂石）",
+    "name_en": "Ceylon Hessonite",
+    "region": "斯里兰卡 · 拉特纳普勒（宝石砂矿）",
+    "region_en": "Ratnapura gem gravels, Sri Lanka",
+    "coordinates": [
+      6.95,
+      80.62
+    ],
+    "category": "garnet",
+    "mineral_type": "钙铝榴石变种 / Grossular var. hessonite（铁致蜜橙）",
+    "color": "蜜橙、肉桂棕、蜂蜜色（内含物如\"糖浆漩涡\"）",
+    "marker_color": "#c8682a",
+    "earliest_year": -500,
+    "stories": [
+      {
+        "culture": "印度占星 · 罗睺之石",
+        "title": "吞日月的蛇魔",
+        "content": "在印度吠陀占星术里，桂榴石（梵语 Gomeda）对应\"九曜\"（Navagraha）中的罗睺（Rahu）——那条吞食太阳和月亮造成日月食的无身蛇魔。佩戴桂榴石被认为能安抚罗睺、化解日月食带来的厄运、消除\"卡拉萨帕\"（蛇之业障）。至今印度占星师仍按命盘给人开桂榴石作\"罗睺宝石\"，是印度宝石需求量最大的品类之一。"
+      },
+      {
+        "culture": "矿物学 · 糖浆里的漩涡",
+        "title": "蜂蜜色与热浪纹",
+        "content": "桂榴石是钙铝榴石（与沙弗莱同种）的橙棕色变种，因含铁而呈蜜橙到肉桂色。它最经典的鉴定特征是内部的\"糖浆漩涡\"——大量微小的磷灰石 / 锆石包体造成的热浪状纹理（roiled / treacle effect），像搅动的蜂蜜。这种内含物反而成了天然桂榴石的身份证。斯里兰卡 Ratnapura 的宝石砂矿是历史最著名产地，与蓝宝石、月光石、猫眼同坑而出。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hessonite.jpg?width=640",
+    "image_credit": "桂榴石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "桂榴石合法贸易；斯里兰卡 / 印度为主产地，印度占星市场需求巨大。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Hessonite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hessonite"
+      },
+      {
+        "type": "web",
+        "title": "Grossular – GIA",
+        "url": "https://www.gia.edu/grossularite-tsavorite"
+      }
+    ]
+  },
+  {
+    "id": "mandarin_spessartine",
+    "name": "芬达石（橘榴石）",
+    "name_en": "Mandarin Spessartine",
+    "region": "纳米比亚 · 库内内",
+    "region_en": "Kunene, Namibia",
+    "coordinates": [
+      -17.5,
+      13.0
+    ],
+    "category": "garnet",
+    "mineral_type": "锰铝榴石 / Spessartine garnet（锰致橙）",
+    "color": "芬达橙、火焰橙、橘红（饱和度极高）",
+    "marker_color": "#f06a1a",
+    "earliest_year": 1991,
+    "stories": [
+      {
+        "culture": "1991 · \"芬达汽水石\"",
+        "title": "一个汽水品牌的命名",
+        "content": "1991 年纳米比亚库内内河地区发现一种饱和度极高的橙色锰铝榴石——颜色鲜艳得像芬达橙味汽水。宝石商直接借用了 \"Fanta\"（芬达）这个名字营销，\"芬达石\"（Mandarin garnet / Fanta stone）一炮而红。这是宝石史上罕见的\"以快消品牌命名\"案例。1999 年尼日利亚 Edukko 又发现了更大产量的同类，让芬达石从奢侈品走向中端市场。"
+      },
+      {
+        "culture": "矿物学 · 锰的橙",
+        "title": "同族不同色",
+        "content": "芬达石是石榴石大家族里的锰铝榴石（spessartine，得名德国 Spessart 山）。石榴石家族成员化学成分不同、颜色各异：镁铝榴石（红）、铁铝榴石（暗红）、锰铝榴石（橙）、钙铝榴石（绿 / 棕）、钙铁榴石（黄绿 / 黑）、钙铬榴石（祖母绿色）。它们常在自然界互相混溶形成\"过渡品\"——所以乌姆巴河石榴石（前面做过）才会色彩斑斓。纯净的芬达石（接近 100% 锰铝榴石端元）反而稀少，多数市售货是锰铝-镁铝过渡品。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spessartine.jpg?width=640",
+    "image_credit": "锰铝榴石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "芬达石合法贸易；纳米比亚、尼日利亚、莫桑比克为主产地。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Spessartine – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Spessartine"
+      },
+      {
+        "type": "secondary",
+        "author": "Johnson, M.L. et al.",
+        "title": "Spessartine garnet from Namibia",
+        "year": 1995,
+        "locator": "Gems & Gemology"
+      }
+    ]
+  },
+  {
+    "id": "uvarovite_garnet",
+    "name": "钙铬榴石",
+    "name_en": "Uvarovite Garnet",
+    "region": "俄罗斯 · 乌拉尔 · 萨拉诺夫斯克",
+    "region_en": "Saranovskii Mine, Urals, Russia",
+    "coordinates": [
+      58.4,
+      58.5
+    ],
+    "category": "garnet",
+    "mineral_type": "钙铬榴石 / Uvarovite garnet（铬致祖母绿色）",
+    "color": "祖母绿色、亮绿（晶体极小，多成晶簇 druzy）",
+    "marker_color": "#0a6a3a",
+    "earliest_year": 1832,
+    "continent": [
+      "europe",
+      "asia"
+    ],
+    "border_note": "横跨欧亚边界（乌拉尔山脉）",
+    "stories": [
+      {
+        "culture": "1832 · 沙俄部长的名字",
+        "title": "唯一永远是绿色的石榴石",
+        "content": "钙铬榴石 1832 年在乌拉尔被发现，以沙俄教育部长、俄罗斯科学院院长 Count Sergei Uvarov 命名。它是石榴石大家族里**唯一一种永远呈祖母绿色的成员**——铬致色，颜色饱和而稳定。其他绿色石榴石（沙弗莱、翠榴石）的颜色会因产地波动，钙铬榴石的绿则是化学本色。"
+      },
+      {
+        "culture": "收藏 · 太小不能切",
+        "title": "只能看不能戴",
+        "content": "钙铬榴石有个无法克服的缺陷：它的晶体**几乎永远只有 1-2 毫米大**，全球极少发现能切磨成宝石的单晶。所以它几乎只以\"晶簇\"（druzy）形态被收藏——无数微小的亮绿晶体密布在铬铁矿母岩表面，像撒了一层祖母绿色的糖霜。矿物收藏家追逐乌拉尔 Saranovskii 矿和芬兰 Outokumpu 的钙铬榴石晶簇标本，但珠宝商基本用不上它。这是\"美得耀眼却没法做首饰\"的典型。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uvarovite.jpg?width=640",
+    "image_credit": "钙铬榴石晶簇 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "钙铬榴石合法贸易；晶体太小几乎只作晶簇标本，珠宝罕用。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Uvarovite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Uvarovite"
+      },
+      {
+        "type": "web",
+        "title": "Uvarovite – Mindat",
+        "url": "https://www.mindat.org/min-4125.html"
+      }
+    ]
+  },
+  {
+    "id": "rose_quartz",
+    "name": "粉晶（蔷薇石英）",
+    "name_en": "Rose Quartz",
+    "region": "马达加斯加 · 安齐拉贝 / 巴西",
+    "region_en": "Antsirabe, Madagascar / Brazil",
+    "coordinates": [
+      -19.87,
+      47.03
+    ],
+    "category": "quartz",
+    "mineral_type": "石英 / Quartz var. rose（微量钛 / 锰 / 铁致粉，常含针状包体显星光）",
+    "color": "樱花粉、藕粉、玫瑰粉（多半透明，偶有星光）",
+    "marker_color": "#f0a8c0",
+    "earliest_year": -800,
+    "stories": [
+      {
+        "culture": "希腊神话 · 阿芙洛狄忒与阿多尼斯",
+        "title": "爱与血染粉的石英",
+        "content": "希腊神话有两个版本把粉晶与爱神联系：一说爱神阿芙洛狄忒（维纳斯）冲去救她受伤的爱人阿多尼斯（被野猪所伤），被荆棘划破，两人的血滴在白石英上，把它染成粉色，从此粉晶象征不灭的爱；另一说是丘比特把粉晶带给人间，作为爱与和解的礼物。粉晶因此成为西方最经典的\"爱情之石\"。"
+      },
+      {
+        "culture": "美索不达米亚 · 最古老的护身符之一",
+        "title": "七千年前的粉色",
+        "content": "粉晶的使用极其古老——美索不达米亚（约公元前 7000 年）和古埃及（公元前 3000 年）都出土过粉晶珠子和印章。古埃及人和古罗马人相信粉晶能防衰老、保青春——罗马人把粉晶磨成粉敷面（最早的\"美容石\"之一）。粉晶的粉色长期成因不明，2001 年才确认主要来自晶体内极细的硼硅酸盐（dumortierite 杜莫蒂尔石）纤维包体——这些纤维也让某些粉晶产生六道星光。马达加斯加和巴西是现代主产地。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose_quartz.jpg?width=640",
+    "image_credit": "粉晶 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "粉晶合法贸易、平价广布。市售大量\"超级粉晶 / 星光粉晶\"需注意染色 / 辐照处理。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Rose quartz – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rose_quartz"
+      },
+      {
+        "type": "secondary",
+        "author": "Goreva, J.S. et al.",
+        "title": "Fibrous nanoinclusions in massive rose quartz",
+        "year": 2001,
+        "locator": "American Mineralogist"
+      }
+    ]
+  },
+  {
+    "id": "cairngorm_smoky_quartz",
+    "name": "苏格兰凯恩戈姆烟晶",
+    "name_en": "Cairngorm Smoky Quartz",
+    "region": "英国 · 苏格兰 · 凯恩戈姆山",
+    "region_en": "Cairngorm Mountains, Scotland",
+    "coordinates": [
+      57.12,
+      -3.64
+    ],
+    "category": "quartz",
+    "mineral_type": "石英 / Quartz var. smoky（天然辐照致烟褐 / 茶色）",
+    "color": "烟褐、茶色、深棕（天然伽马辐照致色）",
+    "marker_color": "#6a5040",
+    "earliest_year": 1300,
+    "stories": [
+      {
+        "culture": "苏格兰 · 高地服饰的灵魂",
+        "title": "短剑柄上的茶晶",
+        "content": "烟晶是苏格兰的国石。凯恩戈姆山产的烟晶（苏格兰盖尔语就叫 \"cairngorm\"）几百年来镶在苏格兰高地服饰的核心配件上：短剑（sgian-dubh，藏在长袜里的小刀）的柄头、胸针（brooch）、风笛、氏族徽章。一块大的金棕色凯恩戈姆烟晶是身份象征。维多利亚女王 1852 年买下巴尔莫勒尔城堡后大力推崇苏格兰风，凯恩戈姆烟晶首饰风靡整个维多利亚英国。"
+      },
+      {
+        "culture": "物理 · 大地的天然辐照",
+        "title": "颜色来自放射性",
+        "content": "烟晶的烟褐色成因很特别：它是石英晶体中微量的铝杂质，在地下经过**天然的伽马射线辐照**（来自周围花岗岩里的微量放射性钾、铀、钍）数百万年后形成的色心。加热到 300-400°C 烟色会褪去变回无色——这也是市售很多\"无色水晶\"其实是烤过的烟晶。反过来，商业上也用人工辐照把无色石英做成烟晶。凯恩戈姆原矿如今基本禁采（属苏格兰国家公园），市售\"cairngorm\"多为巴西烟晶冒名。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Smoky_quartz.jpg?width=640",
+    "image_credit": "烟晶 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "烟晶合法贸易；凯恩戈姆原矿区属苏格兰国家公园禁采，市售\"cairngorm\"多为巴西货。注意辐照处理品。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Smoky quartz – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Smoky_quartz"
+      },
+      {
+        "type": "secondary",
+        "author": "Macpherson, H.G.",
+        "title": "Scottish gemstones",
+        "year": 1989
+      }
+    ]
+  },
+  {
+    "id": "rutilated_quartz",
+    "name": "发晶（金红石钛晶）",
+    "name_en": "Rutilated Quartz",
+    "region": "巴西 · 米纳斯吉拉斯 · Novo Horizonte",
+    "region_en": "Novo Horizonte, Bahia, Brazil",
+    "coordinates": [
+      -10.42,
+      -42.17
+    ],
+    "category": "quartz",
+    "mineral_type": "石英 / Quartz 内含金红石（TiO₂）针状包体",
+    "color": "无色 / 茶色透底 + 金 / 红 / 银色发丝状金红石针",
+    "marker_color": "#d4b87a",
+    "earliest_year": 1500,
+    "stories": [
+      {
+        "culture": "文艺复兴 · \"维纳斯的发丝\"",
+        "title": "爱神的金发",
+        "content": "发晶——水晶里穿插着金色 / 红色的金红石（rutile）细针——在文艺复兴的欧洲被诗意地称为 \"Venus hair stone\"（维纳斯发丝石）或法语 \"fléches d'amour\"（爱神之箭 / 丘比特之网）。人们相信这些金色细丝是爱神维纳斯遗落在石头里的头发，佩戴它能带来爱情和\"被爱神的网捕获\"的好运。这个浪漫的名字至今仍是发晶的别称。"
+      },
+      {
+        "culture": "矿物学 · 晶中之晶",
+        "title": "两种矿物的共生",
+        "content": "发晶是\"内含物宝石\"的代表——透明石英晶体在生长时把先结晶的金红石（二氧化钛）针包裹进去，形成晶体里穿插金属细针的奇观。金红石针随含铁量不同呈金色、铜红或银色，有时密集到呈放射状的\"太阳花\"。中文圈把它叫\"钛晶\"（粗金针）或\"发晶\"（细金针），近年在风水市场被炒成\"招财\"顶级水晶，粗壮金针的\"钛晶\"价格可达普通水晶的百倍。巴西巴伊亚州 Novo Horizonte 是顶级发晶产地。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rutilated_quartz.jpg?width=640",
+    "image_credit": "发晶 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "发晶合法贸易；巴西为顶级产地。风水市场溢价高，金针粗密者贵。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Rutilated quartz – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rutilated_quartz"
+      },
+      {
+        "type": "web",
+        "title": "Rutile – Mindat",
+        "url": "https://www.mindat.org/min-3486.html"
+      }
+    ]
+  },
+  {
+    "id": "watermelon_tourmaline",
+    "name": "西瓜碧玺",
+    "name_en": "Watermelon Tourmaline",
+    "region": "巴西 · 米纳斯吉拉斯 / 美国缅因",
+    "region_en": "Minas Gerais, Brazil / Maine, USA",
+    "coordinates": [
+      -17.2,
+      -42.8
+    ],
+    "category": "tourmaline",
+    "mineral_type": "电气石 / Elbaite（单晶内粉红芯 + 绿边的同心分色）",
+    "color": "粉红芯 + 绿色皮（横切像西瓜片）",
+    "marker_color": "#d44a7a",
+    "earliest_year": 1820,
+    "stories": [
+      {
+        "culture": "1820 美国缅因 · 碧玺的\"美国首发\"",
+        "title": "两个学生的发现",
+        "content": "1820 年两名学生 Elijah Hamlin 和 Ezekiel Holmes 在美国缅因州 Mount Mica 发现了北美第一处碧玺矿——其中就有粉绿分色的电气石。碧玺（tourmaline）名字来自僧伽罗语 \"turmali\"（混合宝石），因为它颜色变化太多、古人常把不同颜色的碧玺当成不同宝石。西瓜碧玺是其中最讨喜的——一根晶体里粉红的芯被绿色的皮包裹，横切开就像一片西瓜。"
+      },
+      {
+        "culture": "矿物学 · 一根晶体记录化学变化",
+        "title": "为什么会分色",
+        "content": "西瓜碧玺的分色记录了晶体生长时周围溶液化学成分的变化：碧玺晶体从中心向外生长，早期富锰（致粉红），后期富铁 / 富锂（致绿色），于是形成粉芯绿皮的同心结构。有些碧玺甚至沿长轴方向分段变色（一端粉一端绿，\"双色碧玺\"）。这让碧玺成为地质学家研究\"晶体生长史\"的天然记录仪。优质西瓜碧玺被切成薄片展示横截面，是收藏与首饰两栖的明星。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Watermelon_tourmaline.jpg?width=640",
+    "image_credit": "西瓜碧玺 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "西瓜碧玺合法贸易；巴西、尼日利亚、阿富汗、美国缅因均产。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Tourmaline – GIA",
+        "url": "https://www.gia.edu/tourmaline"
+      },
+      {
+        "type": "web",
+        "title": "Elbaite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elbaite"
+      }
+    ]
+  },
+  {
+    "id": "star_of_india_sapphire",
+    "name": "星光蓝宝石",
+    "name_en": "Star Sapphire",
+    "region": "斯里兰卡 · 拉特纳普勒",
+    "region_en": "Ratnapura, Sri Lanka",
+    "coordinates": [
+      6.72,
+      80.38
+    ],
+    "category": "sapphire",
+    "mineral_type": "刚玉 / Corundum（含金红石针，弧面切磨显六道星光 asterism）",
+    "color": "灰蓝、乳蓝，浮一道六射银白星",
+    "marker_color": "#3a5a9a",
+    "earliest_year": 1880,
+    "stories": [
+      {
+        "culture": "信仰 · 三道交叉光 = 信 / 望 / 命运",
+        "title": "\"命运三女神\"之石",
+        "content": "星光蓝宝石的\"星\"是六道交叉的银白光带，由晶体内三组平行排列的金红石针在弧面切磨下反射形成（asterism 星彩效应）。19 世纪美国宝石商 / 探险家把这三道交叉的光解释为\"信仰、希望、命运\"（faith, hope, destiny）——三条光带护佑佩戴者，被称为\"命运三女神之石\"。这个浪漫诠释让星光蓝宝在维多利亚 - 爱德华时代风靡。"
+      },
+      {
+        "culture": "1964 · 大都会博物馆劫案",
+        "title": "\"印度之星\"被偷",
+        "content": "世界最著名的星光蓝宝石是\"印度之星\"（Star of India）——一颗 563 克拉的灰蓝色星光蓝宝，斯里兰卡产，由金融家摩根（J.P. Morgan）捐给纽约美国自然历史博物馆。1964 年它在一桩著名劫案中被三名窃贼（包括\"杰克兔\"Murph the Surf）从博物馆偷走——因为展柜的报警器电池没换。两个月后赃物在迈阿密一个公交车站储物柜被找回。这桩劫案成为美国犯罪史经典，多次被拍成电影。\"印度之星\"今天仍在该馆展出。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_of_India_sapphire.jpg?width=640",
+    "image_credit": "星光蓝宝石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "星光蓝宝石合法贸易；斯里兰卡为经典产地。市售大量合成星光蓝宝（Linde star），需鉴定。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Star of India (gem) – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Star_of_India_(gem)"
+      },
+      {
+        "type": "web",
+        "title": "Asterism – GIA",
+        "url": "https://www.gia.edu/sapphire"
+      }
+    ]
+  },
+  {
+    "id": "utah_red_beryl",
+    "name": "犹他红色绿柱石",
+    "name_en": "Utah Red Beryl (Bixbite)",
+    "region": "美国 · 犹他 · Wah Wah 山",
+    "region_en": "Wah Wah Mountains, Utah, USA",
+    "coordinates": [
+      38.42,
+      -113.6
+    ],
+    "category": "other",
+    "mineral_type": "绿柱石 / Beryl var. red（锰致红，与祖母绿同矿物种）",
+    "color": "覆盆子红、草莓红（极罕见的红色绿柱石）",
+    "marker_color": "#c41e3a",
+    "earliest_year": 1904,
+    "stories": [
+      {
+        "culture": "1904 · Maynard Bixby 的发现",
+        "title": "比钻石稀有一万倍",
+        "content": "红色绿柱石（red beryl，旧称 bixbite，纪念发现者 Maynard Bixby）是绿柱石家族里**最稀有的成员**——同一种矿物（beryl），含铬 / 钒呈绿色就是祖母绿、含铁呈蓝是海蓝宝、含锰呈粉是摩根石、含锰呈红就是红色绿柱石。但红色那种极难形成：需要锰 + 特殊的火山流纹岩环境。据估算，每开采约 15 万颗钻石才有 1 颗宝石级红色绿柱石。"
+      },
+      {
+        "culture": "产地 · 几乎只有一座山",
+        "title": "犹他 Wah Wah 山的独占",
+        "content": "宝石级红色绿柱石**几乎只产自美国犹他州 Wah Wah 山的一处矿**（Ruby-Violet Claim）。该矿产量极小，超过 1 克拉的干净红色绿柱石属世界级珍品，单克拉价可超过顶级祖母绿。它太稀有，连很多资深宝石商一辈子都没亲手摸过。市面上叫\"红色绿宝石\"（red emerald）的营销名其实不规范——GIA 坚持称 red beryl。它是矿物收藏与顶级珠宝交界处的\"圣杯\"宝石之一。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_beryl.jpg?width=640",
+    "image_credit": "红色绿柱石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "红色绿柱石合法贸易；犹他 Wah Wah 山几乎唯一宝石级产地，极稀、极贵。注意合成红色绿柱石（俄罗斯产）已出现。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Red beryl – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Red_beryl"
+      },
+      {
+        "type": "secondary",
+        "author": "Shigley, J.E. et al.",
+        "title": "Red beryl from Utah",
+        "year": 2003,
+        "locator": "Gems & Gemology"
+      }
+    ]
+  },
+  {
+    "id": "golden_heliodor",
+    "name": "金色绿柱石（太阳石）",
+    "name_en": "Golden Heliodor",
+    "region": "乌克兰 · 沃伦 / 纳米比亚 · Rössing",
+    "region_en": "Volyn, Ukraine / Rössing, Namibia",
+    "coordinates": [
+      50.7,
+      27.3
+    ],
+    "category": "other",
+    "mineral_type": "绿柱石 / Beryl var. heliodor（铁致金黄）",
+    "color": "金黄、柠檬黄、蜜黄（与海蓝宝同矿物种）",
+    "marker_color": "#e0b830",
+    "earliest_year": 1910,
+    "stories": [
+      {
+        "culture": "命名 · 太阳的礼物",
+        "title": "Helios + doron",
+        "content": "金色绿柱石的名字 heliodor 来自希腊语 helios（太阳）+ doron（礼物）——\"太阳的礼物\"。它 1910 年在纳米比亚（当时德属西南非洲）的 Rössing 矿区被发现并命名，金黄的颜色让德国矿物学家联想到阳光。它和海蓝宝是同一种矿物（绿柱石），只是致色元素从二价铁（蓝）变成三价铁（黄）——加热金色绿柱石常能变成海蓝宝色，所以市售很多\"海蓝宝\"其实是烤过的 heliodor。"
+      },
+      {
+        "culture": "乌克兰 · 沃伦的伟晶岩洞",
+        "title": "世界级巨晶产地",
+        "content": "乌克兰西北的沃伦（Volyn）伟晶岩区是世界最著名的金色绿柱石产地之一——这里的伟晶岩晶洞产出过几十厘米长、完美透明的金黄色绿柱石巨晶，是世界各大博物馆争抢的标本。这片矿区在苏联时代是重要的稀有金属（铍）来源，宝石级绿柱石只是副产品。heliodor 硬度 7.5-8、耐磨，是适合日常佩戴的黄色宝石，但知名度远低于黄水晶 / 黄托帕石，属于\"小众但高质\"的选择。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heliodor.jpg?width=640",
+    "image_credit": "金色绿柱石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "金色绿柱石合法贸易；乌克兰、纳米比亚、巴西产。市售常被加热成海蓝宝色出售。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Heliodor – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Beryl#Heliodor"
+      },
+      {
+        "type": "web",
+        "title": "Beryl – Mindat",
+        "url": "https://www.mindat.org/min-819.html"
+      }
+    ]
+  },
+  {
+    "id": "amazonite",
+    "name": "天河石",
+    "name_en": "Amazonite",
+    "region": "美国 · 科罗拉多 · 派克峰 / 俄罗斯",
+    "region_en": "Pikes Peak, Colorado, USA",
+    "coordinates": [
+      38.84,
+      -105.04
+    ],
+    "category": "other",
+    "mineral_type": "微斜长石 / Microcline feldspar（含铅致蓝绿）",
+    "color": "蓝绿、青绿、天河蓝（常带白色网格纹）",
+    "marker_color": "#3acab0",
+    "earliest_year": -1300,
+    "stories": [
+      {
+        "culture": "古埃及 · 图坦卡蒙的蓝绿",
+        "title": "法老面具上的天河石",
+        "content": "天河石的蓝绿色在古埃及极受珍视——图坦卡蒙（约公元前 1323 年）的黄金面具、随葬首饰里大量使用天河石作镶嵌，与青金石、绿松石、红玉髓并列法老最爱的四种彩石。《亡灵书》的部分章节据说曾刻在天河石板上。古埃及人相信它的蓝绿是尼罗河与天空的颜色，象征生命与重生。"
+      },
+      {
+        "culture": "命名 · 一个地理错误",
+        "title": "亚马逊河其实不产",
+        "content": "\"Amazonite\"（天河石 / 亚马逊石）的名字来自南美亚马逊河——但这是个**将错就错的误会**：18 世纪欧洲人以为这种绿石头产自亚马逊雨林（可能与亚马逊女战士传说混在一起），其实亚马逊河流域根本不产宝石级天河石。真正的主产地是美国科罗拉多派克峰（与烟晶共生的经典组合：\"蓝绿天河石 + 茶色烟晶\"标本是矿物界名品）和俄罗斯。天河石的蓝绿色 2010 年才被确认来自微量的铅 + 水——之前长期以为是铜。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazonite.jpg?width=640",
+    "image_credit": "天河石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "天河石合法贸易、平价。科罗拉多派克峰\"天河石+烟晶\"共生标本是收藏名品。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Amazonite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amazonite"
+      },
+      {
+        "type": "secondary",
+        "author": "Hofmeister, A.M. & Rossman, G.R.",
+        "title": "Color in feldspars",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "id": "cobalt_spinel",
+    "name": "越南钴蓝尖晶石",
+    "name_en": "Vietnamese Cobalt Spinel",
+    "region": "越南 · 安沛省 · 陆安",
+    "region_en": "Lục Yên, Yên Bái, Vietnam",
+    "coordinates": [
+      22.1,
+      104.72
+    ],
+    "category": "other",
+    "mineral_type": "尖晶石变种 / Spinel（钴致电光蓝，区别于普通铁致蓝）",
+    "color": "电光蓝、霓虹蓝（钴致色，尖晶石最稀有的颜色）",
+    "marker_color": "#2a4ad0",
+    "earliest_year": 1987,
+    "stories": [
+      {
+        "culture": "陆安 · 尖晶石的最高色",
+        "title": "钴的电光蓝",
+        "content": "尖晶石以红色 / 粉色最有名（前面做过缅甸抹谷尖晶石），但它最稀有、最贵的颜色其实是**钴致色的电光蓝**。普通蓝尖晶石靠铁致色，偏灰暗；而越南陆安（Lục Yên）和坦桑尼亚 Mahenge 产的钴蓝尖晶石靠微量钴致色，蓝得像霓虹灯、像帕拉伊巴碧玺。越南陆安 1987 年起开采，是世界顶级钴蓝尖晶石产地。一颗 2 克拉的越南钴蓝尖晶石单克拉价可达数万美元，远超同重量的蓝宝石。"
+      },
+      {
+        "culture": "陆安 · \"石头市场\"的女人们",
+        "title": "河滩上的宝石集市",
+        "content": "陆安是越南北部的宝石小城，以独特的\"露天宝石市场\"闻名——每天清晨，几百名当地（多为女性）摊主在镇中心的广场上摆开塑料布，把从红河支流河滩、稻田里淘洗出的红宝石、尖晶石、电气石原石摊在阳光下交易。陆安也是著名的\"宝石画\"产地：当地艺人用天然彩色宝石碎屑拼贴成画。这种由本地小农户主导、低度工业化的开采模式，与缅甸抹谷的军方垄断形成鲜明对比。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cobalt_spinel.jpg?width=640",
+    "image_credit": "钴蓝尖晶石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "越南钴蓝尖晶石合法贸易；陆安、坦桑尼亚 Mahenge 为顶级产地。颜色顶级者极贵，需 GRS / GIA 鉴定钴致色。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Spinel – GIA",
+        "url": "https://www.gia.edu/spinel"
+      },
+      {
+        "type": "secondary",
+        "author": "Senoble, J.B.",
+        "title": "Cobalt-blue spinel from Vietnam",
+        "year": 2010,
+        "locator": "InColor"
+      }
+    ]
+  },
+  {
+    "id": "moss_agate",
+    "name": "苔藓玛瑙",
+    "name_en": "Moss Agate",
+    "region": "印度 · 德干高原",
+    "region_en": "Deccan Plateau, India",
+    "coordinates": [
+      19.0,
+      75.0
+    ],
+    "category": "agate",
+    "mineral_type": "玉髓 / Chalcedony（含绿泥石 / 锰铁氧化物的苔藓状包体）",
+    "color": "半透明无色 / 乳白底 + 绿 / 黑苔藓状纹",
+    "marker_color": "#4a7a4a",
+    "earliest_year": -300,
+    "stories": [
+      {
+        "culture": "园丁之石 · \"石头里的花园\"",
+        "title": "会\"长草\"的玛瑙",
+        "content": "苔藓玛瑙的内部布满绿色 / 黑色的苔藓、蕨叶、树枝状纹路——看起来像石头里封印了一座微缩花园。但这些\"苔藓\"其实不是植物化石，而是铁 / 锰的氧化物或绿泥石在玉髓凝固时形成的\"假化石\"枝晶（dendrite）。因为这层\"植物\"意象，欧洲农业社会把苔藓玛瑙奉为\"园丁之石 / 农夫之石\"（gardener's stone）——相信它能带来丰收，农民播种时随身携带，挂在农具上祈求作物茂盛。"
+      },
+      {
+        "culture": "矿物学 · 它其实不是\"玛瑙\"",
+        "title": "名不副实的命名",
+        "content": "严格来说苔藓玛瑙**不是真正的玛瑙**——玛瑙（agate）的定义是有同心环带状纹理的玉髓，而苔藓玛瑙没有环带，只有分散的枝晶状包体，所以矿物学上它应归\"含包体玉髓\"（included chalcedony）。但\"苔藓玛瑙\"这个名字约定俗成、改不掉了。它和\"树枝玛瑙\"（dendritic agate）是近亲。印度德干高原的玄武岩区是历史最重要的苔藓玛瑙产地，从古希腊罗马时代就经印度洋贸易输往地中海。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moss_agate.jpg?width=640",
+    "image_credit": "苔藓玛瑙 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "苔藓玛瑙合法贸易、平价广布；印度为主产地。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Moss agate – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Agate#Moss_agate"
+      },
+      {
+        "type": "web",
+        "title": "Dendrite – Mindat",
+        "url": "https://www.mindat.org/min-48587.html"
+      }
+    ]
+  },
+  {
+    "id": "star_ruby",
+    "name": "星光红宝石",
+    "name_en": "Star Ruby",
+    "region": "斯里兰卡 · 拉特纳普勒 / 缅甸抹谷",
+    "region_en": "Ratnapura, Sri Lanka",
+    "coordinates": [
+      6.88,
+      80.78
+    ],
+    "category": "ruby",
+    "mineral_type": "刚玉 / Corundum（含金红石针，弧面切磨显六道红星光）",
+    "color": "深红、玫红，浮一道六射银白 / 金星",
+    "marker_color": "#c81a3a",
+    "earliest_year": 1000,
+    "stories": [
+      {
+        "culture": "亚洲 · 三位守护神的光",
+        "title": "会动的星",
+        "content": "星光红宝石和星光蓝宝同理——晶体内三组金红石针在弧面切磨下反射出六道交叉的星光，但底色是红宝石的红。在亚洲传统里，红宝石星光的三道光带被赋予不同含义：印度传说里它们是过去、现在、未来；东南亚佛教文化里则是佛、法、僧三宝的化现。佩戴者转动手腕，星光随之游移——像有一个守护的灵在石头里注视。"
+      },
+      {
+        "culture": "传说 · \"罗斯福之星\"与诅咒",
+        "title": "名星光红宝的故事",
+        "content": "历史上几颗著名星光红宝石都带传奇色彩。\"罗斯福之星\"（Rosser Reeves Star Ruby，138.7 克拉，斯里兰卡产）是世界最大最完美的星光红宝之一，现藏华盛顿史密森尼博物馆——它的六道星光异常居中、清晰。广告大亨 Rosser Reeves 一直把它当幸运符随身带，称它为\"我的宝贝\"。星光红宝石历史上常与\"护身 / 挡灾\"的信仰绑定，缅甸古代武士相信把红宝石植入皮肤下能刀枪不入——星光红宝则是其中最高级的护身石。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_ruby.jpg?width=640",
+    "image_credit": "星光红宝石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "星光红宝石合法贸易；斯里兰卡、缅甸为主产地（缅甸货受制裁影响）。市售大量合成星光红宝，需鉴定。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Star ruby – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ruby#Star_ruby"
+      },
+      {
+        "type": "museum",
+        "title": "Smithsonian · Rosser Reeves Star Ruby",
+        "url": "https://www.si.edu/"
+      }
+    ]
   }
 ]

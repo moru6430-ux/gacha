@@ -1,0 +1,46 @@
+{
+  "id": "watermelon_tourmaline",
+  "name": "西瓜碧玺",
+  "name_en": "Watermelon Tourmaline",
+  "region": "巴西 · 米纳斯吉拉斯 / 美国缅因",
+  "region_en": "Minas Gerais, Brazil / Maine, USA",
+  "coordinates": [
+    -17.2,
+    -42.8
+  ],
+  "category": "tourmaline",
+  "mineral_type": "电气石 / Elbaite（单晶内粉红芯 + 绿边的同心分色）",
+  "color": "粉红芯 + 绿色皮（横切像西瓜片）",
+  "marker_color": "#d44a7a",
+  "earliest_year": 1820,
+  "stories": [
+    {
+      "culture": "1820 美国缅因 · 碧玺的\"美国首发\"",
+      "title": "两个学生的发现",
+      "content": "1820 年两名学生 Elijah Hamlin 和 Ezekiel Holmes 在美国缅因州 Mount Mica 发现了北美第一处碧玺矿——其中就有粉绿分色的电气石。碧玺（tourmaline）名字来自僧伽罗语 \"turmali\"（混合宝石），因为它颜色变化太多、古人常把不同颜色的碧玺当成不同宝石。西瓜碧玺是其中最讨喜的——一根晶体里粉红的芯被绿色的皮包裹，横切开就像一片西瓜。"
+    },
+    {
+      "culture": "矿物学 · 一根晶体记录化学变化",
+      "title": "为什么会分色",
+      "content": "西瓜碧玺的分色记录了晶体生长时周围溶液化学成分的变化：碧玺晶体从中心向外生长，早期富锰（致粉红），后期富铁 / 富锂（致绿色），于是形成粉芯绿皮的同心结构。有些碧玺甚至沿长轴方向分段变色（一端粉一端绿，\"双色碧玺\"）。这让碧玺成为地质学家研究\"晶体生长史\"的天然记录仪。优质西瓜碧玺被切成薄片展示横截面，是收藏与首饰两栖的明星。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Watermelon_tourmaline.jpg?width=640",
+  "image_credit": "西瓜碧玺 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "西瓜碧玺合法贸易；巴西、尼日利亚、阿富汗、美国缅因均产。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Tourmaline – GIA",
+      "url": "https://www.gia.edu/tourmaline"
+    },
+    {
+      "type": "web",
+      "title": "Elbaite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elbaite"
+    }
+  ]
+}

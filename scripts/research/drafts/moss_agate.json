@@ -1,0 +1,46 @@
+{
+  "id": "moss_agate",
+  "name": "苔藓玛瑙",
+  "name_en": "Moss Agate",
+  "region": "印度 · 德干高原",
+  "region_en": "Deccan Plateau, India",
+  "coordinates": [
+    19.0,
+    75.0
+  ],
+  "category": "agate",
+  "mineral_type": "玉髓 / Chalcedony（含绿泥石 / 锰铁氧化物的苔藓状包体）",
+  "color": "半透明无色 / 乳白底 + 绿 / 黑苔藓状纹",
+  "marker_color": "#4a7a4a",
+  "earliest_year": -300,
+  "stories": [
+    {
+      "culture": "园丁之石 · \"石头里的花园\"",
+      "title": "会\"长草\"的玛瑙",
+      "content": "苔藓玛瑙的内部布满绿色 / 黑色的苔藓、蕨叶、树枝状纹路——看起来像石头里封印了一座微缩花园。但这些\"苔藓\"其实不是植物化石，而是铁 / 锰的氧化物或绿泥石在玉髓凝固时形成的\"假化石\"枝晶（dendrite）。因为这层\"植物\"意象，欧洲农业社会把苔藓玛瑙奉为\"园丁之石 / 农夫之石\"（gardener's stone）——相信它能带来丰收，农民播种时随身携带，挂在农具上祈求作物茂盛。"
+    },
+    {
+      "culture": "矿物学 · 它其实不是\"玛瑙\"",
+      "title": "名不副实的命名",
+      "content": "严格来说苔藓玛瑙**不是真正的玛瑙**——玛瑙（agate）的定义是有同心环带状纹理的玉髓，而苔藓玛瑙没有环带，只有分散的枝晶状包体，所以矿物学上它应归\"含包体玉髓\"（included chalcedony）。但\"苔藓玛瑙\"这个名字约定俗成、改不掉了。它和\"树枝玛瑙\"（dendritic agate）是近亲。印度德干高原的玄武岩区是历史最重要的苔藓玛瑙产地，从古希腊罗马时代就经印度洋贸易输往地中海。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moss_agate.jpg?width=640",
+  "image_credit": "苔藓玛瑙 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "苔藓玛瑙合法贸易、平价广布；印度为主产地。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Moss agate – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agate#Moss_agate"
+    },
+    {
+      "type": "web",
+      "title": "Dendrite – Mindat",
+      "url": "https://www.mindat.org/min-48587.html"
+    }
+  ]
+}

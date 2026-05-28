@@ -1,0 +1,46 @@
+{
+  "id": "star_ruby",
+  "name": "星光红宝石",
+  "name_en": "Star Ruby",
+  "region": "斯里兰卡 · 拉特纳普勒 / 缅甸抹谷",
+  "region_en": "Ratnapura, Sri Lanka",
+  "coordinates": [
+    6.88,
+    80.78
+  ],
+  "category": "ruby",
+  "mineral_type": "刚玉 / Corundum（含金红石针，弧面切磨显六道红星光）",
+  "color": "深红、玫红，浮一道六射银白 / 金星",
+  "marker_color": "#c81a3a",
+  "earliest_year": 1000,
+  "stories": [
+    {
+      "culture": "亚洲 · 三位守护神的光",
+      "title": "会动的星",
+      "content": "星光红宝石和星光蓝宝同理——晶体内三组金红石针在弧面切磨下反射出六道交叉的星光，但底色是红宝石的红。在亚洲传统里，红宝石星光的三道光带被赋予不同含义：印度传说里它们是过去、现在、未来；东南亚佛教文化里则是佛、法、僧三宝的化现。佩戴者转动手腕，星光随之游移——像有一个守护的灵在石头里注视。"
+    },
+    {
+      "culture": "传说 · \"罗斯福之星\"与诅咒",
+      "title": "名星光红宝的故事",
+      "content": "历史上几颗著名星光红宝石都带传奇色彩。\"罗斯福之星\"（Rosser Reeves Star Ruby，138.7 克拉，斯里兰卡产）是世界最大最完美的星光红宝之一，现藏华盛顿史密森尼博物馆——它的六道星光异常居中、清晰。广告大亨 Rosser Reeves 一直把它当幸运符随身带，称它为\"我的宝贝\"。星光红宝石历史上常与\"护身 / 挡灾\"的信仰绑定，缅甸古代武士相信把红宝石植入皮肤下能刀枪不入——星光红宝则是其中最高级的护身石。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_ruby.jpg?width=640",
+  "image_credit": "星光红宝石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "星光红宝石合法贸易；斯里兰卡、缅甸为主产地（缅甸货受制裁影响）。市售大量合成星光红宝，需鉴定。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Star ruby – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ruby#Star_ruby"
+    },
+    {
+      "type": "museum",
+      "title": "Smithsonian · Rosser Reeves Star Ruby",
+      "url": "https://www.si.edu/"
+    }
+  ]
+}

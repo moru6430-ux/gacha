@@ -1,0 +1,46 @@
+{
+  "id": "rutilated_quartz",
+  "name": "发晶（金红石钛晶）",
+  "name_en": "Rutilated Quartz",
+  "region": "巴西 · 米纳斯吉拉斯 · Novo Horizonte",
+  "region_en": "Novo Horizonte, Bahia, Brazil",
+  "coordinates": [
+    -10.42,
+    -42.17
+  ],
+  "category": "quartz",
+  "mineral_type": "石英 / Quartz 内含金红石（TiO₂）针状包体",
+  "color": "无色 / 茶色透底 + 金 / 红 / 银色发丝状金红石针",
+  "marker_color": "#d4b87a",
+  "earliest_year": 1500,
+  "stories": [
+    {
+      "culture": "文艺复兴 · \"维纳斯的发丝\"",
+      "title": "爱神的金发",
+      "content": "发晶——水晶里穿插着金色 / 红色的金红石（rutile）细针——在文艺复兴的欧洲被诗意地称为 \"Venus hair stone\"（维纳斯发丝石）或法语 \"fléches d'amour\"（爱神之箭 / 丘比特之网）。人们相信这些金色细丝是爱神维纳斯遗落在石头里的头发，佩戴它能带来爱情和\"被爱神的网捕获\"的好运。这个浪漫的名字至今仍是发晶的别称。"
+    },
+    {
+      "culture": "矿物学 · 晶中之晶",
+      "title": "两种矿物的共生",
+      "content": "发晶是\"内含物宝石\"的代表——透明石英晶体在生长时把先结晶的金红石（二氧化钛）针包裹进去，形成晶体里穿插金属细针的奇观。金红石针随含铁量不同呈金色、铜红或银色，有时密集到呈放射状的\"太阳花\"。中文圈把它叫\"钛晶\"（粗金针）或\"发晶\"（细金针），近年在风水市场被炒成\"招财\"顶级水晶，粗壮金针的\"钛晶\"价格可达普通水晶的百倍。巴西巴伊亚州 Novo Horizonte 是顶级发晶产地。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rutilated_quartz.jpg?width=640",
+  "image_credit": "发晶 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "发晶合法贸易；巴西为顶级产地。风水市场溢价高，金针粗密者贵。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Rutilated quartz – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rutilated_quartz"
+    },
+    {
+      "type": "web",
+      "title": "Rutile – Mindat",
+      "url": "https://www.mindat.org/min-3486.html"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "rose_quartz",
+  "name": "粉晶（蔷薇石英）",
+  "name_en": "Rose Quartz",
+  "region": "马达加斯加 · 安齐拉贝 / 巴西",
+  "region_en": "Antsirabe, Madagascar / Brazil",
+  "coordinates": [
+    -19.87,
+    47.03
+  ],
+  "category": "quartz",
+  "mineral_type": "石英 / Quartz var. rose（微量钛 / 锰 / 铁致粉，常含针状包体显星光）",
+  "color": "樱花粉、藕粉、玫瑰粉（多半透明，偶有星光）",
+  "marker_color": "#f0a8c0",
+  "earliest_year": -800,
+  "stories": [
+    {
+      "culture": "希腊神话 · 阿芙洛狄忒与阿多尼斯",
+      "title": "爱与血染粉的石英",
+      "content": "希腊神话有两个版本把粉晶与爱神联系：一说爱神阿芙洛狄忒（维纳斯）冲去救她受伤的爱人阿多尼斯（被野猪所伤），被荆棘划破，两人的血滴在白石英上，把它染成粉色，从此粉晶象征不灭的爱；另一说是丘比特把粉晶带给人间，作为爱与和解的礼物。粉晶因此成为西方最经典的\"爱情之石\"。"
+    },
+    {
+      "culture": "美索不达米亚 · 最古老的护身符之一",
+      "title": "七千年前的粉色",
+      "content": "粉晶的使用极其古老——美索不达米亚（约公元前 7000 年）和古埃及（公元前 3000 年）都出土过粉晶珠子和印章。古埃及人和古罗马人相信粉晶能防衰老、保青春——罗马人把粉晶磨成粉敷面（最早的\"美容石\"之一）。粉晶的粉色长期成因不明，2001 年才确认主要来自晶体内极细的硼硅酸盐（dumortierite 杜莫蒂尔石）纤维包体——这些纤维也让某些粉晶产生六道星光。马达加斯加和巴西是现代主产地。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose_quartz.jpg?width=640",
+  "image_credit": "粉晶 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "粉晶合法贸易、平价广布。市售大量\"超级粉晶 / 星光粉晶\"需注意染色 / 辐照处理。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Rose quartz – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rose_quartz"
+    },
+    {
+      "type": "secondary",
+      "author": "Goreva, J.S. et al.",
+      "title": "Fibrous nanoinclusions in massive rose quartz",
+      "year": 2001,
+      "locator": "American Mineralogist"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "golden_heliodor",
+  "name": "金色绿柱石（太阳石）",
+  "name_en": "Golden Heliodor",
+  "region": "乌克兰 · 沃伦 / 纳米比亚 · Rössing",
+  "region_en": "Volyn, Ukraine / Rössing, Namibia",
+  "coordinates": [
+    50.7,
+    27.3
+  ],
+  "category": "other",
+  "mineral_type": "绿柱石 / Beryl var. heliodor（铁致金黄）",
+  "color": "金黄、柠檬黄、蜜黄（与海蓝宝同矿物种）",
+  "marker_color": "#e0b830",
+  "earliest_year": 1910,
+  "stories": [
+    {
+      "culture": "命名 · 太阳的礼物",
+      "title": "Helios + doron",
+      "content": "金色绿柱石的名字 heliodor 来自希腊语 helios（太阳）+ doron（礼物）——\"太阳的礼物\"。它 1910 年在纳米比亚（当时德属西南非洲）的 Rössing 矿区被发现并命名，金黄的颜色让德国矿物学家联想到阳光。它和海蓝宝是同一种矿物（绿柱石），只是致色元素从二价铁（蓝）变成三价铁（黄）——加热金色绿柱石常能变成海蓝宝色，所以市售很多\"海蓝宝\"其实是烤过的 heliodor。"
+    },
+    {
+      "culture": "乌克兰 · 沃伦的伟晶岩洞",
+      "title": "世界级巨晶产地",
+      "content": "乌克兰西北的沃伦（Volyn）伟晶岩区是世界最著名的金色绿柱石产地之一——这里的伟晶岩晶洞产出过几十厘米长、完美透明的金黄色绿柱石巨晶，是世界各大博物馆争抢的标本。这片矿区在苏联时代是重要的稀有金属（铍）来源，宝石级绿柱石只是副产品。heliodor 硬度 7.5-8、耐磨，是适合日常佩戴的黄色宝石，但知名度远低于黄水晶 / 黄托帕石，属于\"小众但高质\"的选择。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heliodor.jpg?width=640",
+  "image_credit": "金色绿柱石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "金色绿柱石合法贸易；乌克兰、纳米比亚、巴西产。市售常被加热成海蓝宝色出售。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Heliodor – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beryl#Heliodor"
+    },
+    {
+      "type": "web",
+      "title": "Beryl – Mindat",
+      "url": "https://www.mindat.org/min-819.html"
+    }
+  ]
+}

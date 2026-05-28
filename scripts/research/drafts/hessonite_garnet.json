@@ -1,0 +1,46 @@
+{
+  "id": "hessonite_garnet",
+  "name": "锡兰桂榴石（肉桂石）",
+  "name_en": "Ceylon Hessonite",
+  "region": "斯里兰卡 · 拉特纳普勒（宝石砂矿）",
+  "region_en": "Ratnapura gem gravels, Sri Lanka",
+  "coordinates": [
+    6.95,
+    80.62
+  ],
+  "category": "garnet",
+  "mineral_type": "钙铝榴石变种 / Grossular var. hessonite（铁致蜜橙）",
+  "color": "蜜橙、肉桂棕、蜂蜜色（内含物如\"糖浆漩涡\"）",
+  "marker_color": "#c8682a",
+  "earliest_year": -500,
+  "stories": [
+    {
+      "culture": "印度占星 · 罗睺之石",
+      "title": "吞日月的蛇魔",
+      "content": "在印度吠陀占星术里，桂榴石（梵语 Gomeda）对应\"九曜\"（Navagraha）中的罗睺（Rahu）——那条吞食太阳和月亮造成日月食的无身蛇魔。佩戴桂榴石被认为能安抚罗睺、化解日月食带来的厄运、消除\"卡拉萨帕\"（蛇之业障）。至今印度占星师仍按命盘给人开桂榴石作\"罗睺宝石\"，是印度宝石需求量最大的品类之一。"
+    },
+    {
+      "culture": "矿物学 · 糖浆里的漩涡",
+      "title": "蜂蜜色与热浪纹",
+      "content": "桂榴石是钙铝榴石（与沙弗莱同种）的橙棕色变种，因含铁而呈蜜橙到肉桂色。它最经典的鉴定特征是内部的\"糖浆漩涡\"——大量微小的磷灰石 / 锆石包体造成的热浪状纹理（roiled / treacle effect），像搅动的蜂蜜。这种内含物反而成了天然桂榴石的身份证。斯里兰卡 Ratnapura 的宝石砂矿是历史最著名产地，与蓝宝石、月光石、猫眼同坑而出。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hessonite.jpg?width=640",
+  "image_credit": "桂榴石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "桂榴石合法贸易；斯里兰卡 / 印度为主产地，印度占星市场需求巨大。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Hessonite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hessonite"
+    },
+    {
+      "type": "web",
+      "title": "Grossular – GIA",
+      "url": "https://www.gia.edu/grossularite-tsavorite"
+    }
+  ]
+}
