@@ -1,0 +1,52 @@
+{
+  "id": "ural_rhodonite",
+  "name": "乌拉尔蔷薇辉石",
+  "name_en": "Ural Rhodonite",
+  "region": "俄罗斯 · 中乌拉尔 · Maloye Sedelnikovo",
+  "region_en": "Maloye Sedelnikovo, Central Urals, Russia",
+  "coordinates": [
+    56.5,
+    60.7
+  ],
+  "category": "other",
+  "mineral_type": "蔷薇辉石 / Rhodonite (MnSiO₃，常带黑色锰氧化物脉)",
+  "color": "玫瑰红、粉红带黑色网纹",
+  "marker_color": "#c0506a",
+  "earliest_year": 1780,
+  "continent": [
+    "europe",
+    "asia"
+  ],
+  "border_note": "横跨欧亚边界（乌拉尔山脉）",
+  "stories": [
+    {
+      "culture": "沙俄 · \"Orletz\"鹰石",
+      "title": "皇室的丧葬之石",
+      "content": "乌拉尔蔷薇辉石在俄语里叫 \"orletz\"（орлец，鹰石）——传说乌拉尔山的鹰会把这种粉红石头叼到巢里，所以找到鹰巢就能找到矿。沙俄把它视为国家级宝石：圣彼得堡圣以撒大教堂的柱子、冬宫的巨型花瓶都用乌拉尔蔷薇辉石。最著名的是 1906 年为亚历山大二世皇后玛丽亚雕的**整块 7 吨重蔷薇辉石石棺**——历时 17 年雕成，至今在圣彼得保罗大教堂。"
+    },
+    {
+      "culture": "现代 · 马萨诸塞州石",
+      "title": "跨洋的\"州石\"",
+      "content": "蔷薇辉石的玫瑰红来自锰，常伴生黑色锰氧化物脉络（形成独特的粉黑网纹）。它硬度只有 5.5-6.5、解理明显，多做雕件、摆件、平板饰面，少做戒面。有趣的是它 1979 年被定为美国**马萨诸塞州**的州石（因为当地 Plainwell 有矿）——一种俄罗斯帝国象征同时成为美国一个州的标志。乌拉尔老矿基本枯竭，现代主产地为澳大利亚、秘鲁、马达加斯加。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodonite.jpg?width=640",
+  "image_credit": "蔷薇辉石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "蔷薇辉石合法贸易；乌拉尔老料珍稀。市售多为澳洲 / 秘鲁产，做雕件摆件为主。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Fersman, A.E.",
+      "title": "Precious and Coloured Stones of Russia",
+      "year": 1925
+    },
+    {
+      "type": "web",
+      "title": "Rhodonite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rhodonite"
+    }
+  ]
+}

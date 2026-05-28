@@ -1,0 +1,48 @@
+{
+  "id": "oregon_sunstone",
+  "name": "俄勒冈日长石",
+  "name_en": "Oregon Sunstone",
+  "region": "美国 · 俄勒冈 · Plush",
+  "region_en": "Plush, Lake County, Oregon, USA",
+  "coordinates": [
+    42.41,
+    -119.91
+  ],
+  "category": "moonstone",
+  "mineral_type": "长石 / Plagioclase feldspar（含铜片致砂金效应 schiller）",
+  "color": "桃红、橙红、香槟、绿（含铜片闪烁 aventurescence）",
+  "marker_color": "#e8915c",
+  "earliest_year": 1800,
+  "stories": [
+    {
+      "culture": "北美原住民 · 战士之血",
+      "title": "Lakota 的\"血染石\"",
+      "content": "俄勒冈日长石的红橙色与内部闪烁的铜片，被北美原住民解释为\"战士的血\"。一则广传的传说（多归于 Lakota / 北美平原部族）：一位伟大的战士被箭射伤，他的血滴落在地上的石头里，把石头染成红色，铜片的闪光就是他不灭的灵魂。原住民用日长石做交易护符，相信它能赋予持有者勇气和大地之力。"
+    },
+    {
+      "culture": "现代 · 含天然铜的唯一长石",
+      "title": "俄勒冈州石",
+      "content": "俄勒冈日长石（1987 年成为俄勒冈州石）在矿物学上特殊：它是世界上极少数**含天然金属铜片**的长石。岩浆冷却时铜以微小薄片析出晶体内部，光线照到铜片产生方向性闪烁——叫\"砂金效应\"（aventurescence / schiller）。它和印度产的普通日长石不同，俄勒冈日长石的红 / 绿色直接来自铜，且不经任何处理。Plush 镇周边有对公众开放的\"自己挖\"矿场。注意它与\"维京太阳石\"（实为冰岛石 / 堇青石，是导航工具）名同实异。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oregon_sunstone.jpg?width=640",
+  "image_credit": "俄勒冈日长石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "俄勒冈日长石合法贸易，天然色不需处理。市售\"日长石\"很多是印度普通长石或扩散处理货，俄勒冈含铜料需 GIA 鉴定。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Johnston, C.L. et al.",
+      "title": "Sunstone Labradorite from Oregon",
+      "year": 1991,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Sunstone – GIA",
+      "url": "https://www.gia.edu/sunstone"
+    }
+  ]
+}

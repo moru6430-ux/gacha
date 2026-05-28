@@ -1,0 +1,48 @@
+{
+  "id": "ammolite",
+  "name": "加拿大斑彩石",
+  "name_en": "Canadian Ammolite",
+  "region": "加拿大 · 阿尔伯塔 · Bearpaw 地层",
+  "region_en": "Bearpaw Formation, Alberta, Canada",
+  "coordinates": [
+    49.7,
+    -112.8
+  ],
+  "category": "other",
+  "mineral_type": "菊石化石壳 / Fossilized ammonite shell（文石质，有机宝石）",
+  "color": "红、绿、蓝、紫全光谱晕彩（fossil opal-like）",
+  "marker_color": "#c44e2a",
+  "earliest_year": 1900,
+  "stories": [
+    {
+      "culture": "黑脚部族 · 野牛石 iniskim",
+      "title": "召唤野牛的圣物",
+      "content": "加拿大阿尔伯塔的黑脚部族（Blackfoot / Niitsitapi）把斑彩石碎片称为 \"iniskim\"（野牛石）。传说一名挨饿的部族女子在河边听到石头唱歌，石头告诉她一首召唤野牛的歌；她带回部族唱诵，野牛群随之归来，救了部族。从此 iniskim 是黑脚\"野牛召唤仪式\"的核心圣物，代代相传，至今仍用于部族仪式。"
+    },
+    {
+      "culture": "矿物学 · 它是化石",
+      "title": "7000 万年前的彩虹",
+      "content": "斑彩石不是矿物，而是**菊石（ammonite，白垩纪头足类）的化石壳**——7000 万年前的海洋生物，壳由文石（aragonite）构成，在阿尔伯塔特殊的埋藏条件下保留了壳的微层结构，光线干涉产生全光谱晕彩。1981 年 CIBJO（国际珠宝联盟）正式承认它为有机宝石。\n\n⚠️ 注意：作为化石，斑彩石在很多国家受古生物 / 文物保护法约束。加拿大允许 Bearpaw 地层的商业开采（有许可制度），但**化石本身在中国等地交易属灰色地带**——本平台仅作内容展示，斑彩石饰品交易需确认合法来源与进口手续。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ammolite.jpg?width=640",
+  "image_credit": "斑彩石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "⚠️ 斑彩石是菊石化石。加拿大有合法商业开采许可，但化石在中国等多国交易受古生物 / 文物法约束。需确认来源 + 进口手续，不建议无证交易。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Mychaluk, K.A. et al.",
+      "title": "Ammolite: Iridescent fossilized ammonite from Alberta",
+      "year": 2001,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Ammolite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ammolite"
+    }
+  ]
+}

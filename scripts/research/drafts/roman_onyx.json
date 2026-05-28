@@ -1,0 +1,47 @@
+{
+  "id": "roman_onyx",
+  "name": "罗马缟玛瑙浮雕",
+  "name_en": "Roman Onyx Cameo",
+  "region": "德国 · 伊达尔-奥伯施泰因（雕刻中心）",
+  "region_en": "Idar-Oberstein, Germany (carving center)",
+  "coordinates": [
+    49.71,
+    7.31
+  ],
+  "category": "agate",
+  "mineral_type": "玉髓 / Chalcedony（黑白分层带状，sardonyx 为红白）",
+  "color": "黑白分层（onyx）/ 红白分层（sardonyx）",
+  "marker_color": "#3a3a42",
+  "earliest_year": -700,
+  "stories": [
+    {
+      "culture": "希腊神话 · 丘比特的剪刀",
+      "title": "onyx = 指甲",
+      "content": "\"Onyx\" 在希腊语里就是\"指甲 / 爪\"的意思。神话说：爱神维纳斯（阿芙洛狄忒）在河边睡着了，调皮的丘比特用箭头把她的指甲修剪下来，碎屑落入河中。命运三女神不愿神圣身体的任何部分消失，便把指甲碎屑变成了石头——黑白分层的缟玛瑙，颜色正像指甲根部的月牙白与甲面。"
+    },
+    {
+      "culture": "罗马 · 浮雕宝石的巅峰",
+      "title": "Gemma Augustea",
+      "content": "缟玛瑙的黑白（或红白 sardonyx）分层是雕刻\"浮雕宝石\"（cameo）的完美材料——工匠把上层白色雕成人像凸起，露出下层黑色作背景。罗马帝国的国宝级作品 \"Gemma Augustea\"（奥古斯都浮雕，公元 1 世纪，现藏维也纳）就是双层缟玛瑙雕成，描绘奥古斯都封神。这门工艺在德国 Idar-Oberstein 延续至今——该镇 16 世纪起靠本地玛瑙矿成为欧洲玉髓雕刻中心，矿枯竭后转而进口巴西玛瑙，至今仍是世界宝石雕刻之都。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gemma_Augustea.jpg?width=640",
+  "image_credit": "奥古斯都缟玛瑙浮雕 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "缟玛瑙合法贸易；市售黑缟玛瑙绝大多数是灰玛瑙染黑（自古即如此，老普林尼已记载染色法）。古罗马浮雕宝石属文物。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Ovid",
+      "title": "Metamorphoses",
+      "year": 8
+    },
+    {
+      "type": "museum",
+      "title": "Kunsthistorisches Museum · Gemma Augustea",
+      "url": "https://www.khm.at/en/"
+    }
+  ]
+}

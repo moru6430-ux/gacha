@@ -1,0 +1,47 @@
+{
+  "id": "egyptian_jasper",
+  "name": "埃及碧玉",
+  "name_en": "Egyptian Jasper",
+  "region": "埃及 · 东部沙漠",
+  "region_en": "Eastern Desert, Egypt",
+  "coordinates": [
+    26.0,
+    33.5
+  ],
+  "category": "agate",
+  "mineral_type": "碧玉 / Jasper（不透明微晶石英，含铁致红黄褐）",
+  "color": "红、黄、棕、绿（不透明，常带条带或斑纹）",
+  "marker_color": "#a0341e",
+  "earliest_year": -3000,
+  "stories": [
+    {
+      "culture": "古埃及 · 圣甲虫与 Isis 之结",
+      "title": "生命之血",
+      "content": "古埃及人把红碧玉视为女神 Isis 的经血、生命与重生之血。《亡灵书》第 156 章规定：要用红碧玉雕一个\"Isis 之结\"（tyet / 提耶特护符）放在木乃伊喉部，护佑死者在冥界获得 Isis 的庇护。红碧玉也是雕刻圣甲虫（scarab，象征太阳神 Khepri 与重生）的常用石材。东部沙漠的碧玉矿从公元前 3000 年就在供应法老工坊。"
+    },
+    {
+      "culture": "圣经 · 新耶路撒冷的基石",
+      "title": "十二基石之首",
+      "content": "碧玉在圣经里地位极高。《启示录》21:19 描述天国\"新耶路撒冷\"的城墙以十二种宝石为基，**第一块基石就是碧玉**（jasper）。《出埃及记》里大祭司的胸牌十二宝石也含碧玉。这种跨越埃及多神教与犹太-基督教一神教的连续崇拜，让碧玉成为地中海世界最古老的\"神圣之石\"之一。\"Jasper\" 一词经希腊语 iaspis、波斯语、最终可追溯到阿卡德语 yashupu。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jasper.jpg?width=640",
+  "image_credit": "碧玉 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "碧玉合法贸易，全球广布、价格低廉。古埃及护符 / 圣甲虫属文物，受埃及文物法保护。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "title": "Book of the Dead",
+      "year": -1550,
+      "locator": "Spell 156 (tyet amulet)"
+    },
+    {
+      "type": "web",
+      "title": "Jasper – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jasper"
+    }
+  ]
+}

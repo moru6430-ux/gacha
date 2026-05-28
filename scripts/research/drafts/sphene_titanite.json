@@ -1,0 +1,47 @@
+{
+  "id": "sphene_titanite",
+  "name": "榍石",
+  "name_en": "Sphene (Titanite)",
+  "region": "巴西 · 米纳斯吉拉斯 / 马达加斯加",
+  "region_en": "Minas Gerais, Brazil / Madagascar",
+  "coordinates": [
+    -17.7,
+    -42.5
+  ],
+  "category": "other",
+  "mineral_type": "榍石 / Titanite (CaTiSiO₅)",
+  "color": "黄绿、蜜黄、棕（火彩 / 色散超过钻石）",
+  "marker_color": "#c4b020",
+  "earliest_year": 1795,
+  "stories": [
+    {
+      "culture": "光学 · 比钻石还\"火\"",
+      "title": "色散冠军",
+      "content": "榍石（sphene，矿物学正名 titanite 钛矿石）有一项压倒钻石的本事：**色散（火彩）**。色散是宝石把白光分解成彩虹光的能力——钻石色散值 0.044，已经够耀眼，而榍石高达 0.051，是天然宝石里的色散冠军之一。所以一颗切磨好的榍石在光下会迸发出比钻石更狂野的彩虹闪光。可惜它硬度只有 5-5.5，戒指容易磨损，所以这种\"火彩之王\"反而冷门。"
+    },
+    {
+      "culture": "命名 · 楔形的石头",
+      "title": "sphenos = 楔子",
+      "content": "\"Sphene\" 来自希腊语 sphenos（楔子），因为它的晶体常呈扁平的楔形 / 信封形。1795 年由德国矿物学家 Klaproth（发现铀、铈、锆的那位化学家）命名为 titanite——因为它含钛（titanium，刚被发现不久的新元素）。所以这种矿物有两个名字：宝石界爱用 sphene（听起来像宝石），矿物学界用 titanite（说明成分）。优质黄绿色榍石主产马达加斯加和巴西，是收藏家追逐的\"火彩标本\"。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sphene.jpg?width=640",
+  "image_credit": "榍石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "榍石合法贸易；硬度低不耐磨，多作收藏 / 吊坠。火彩极强是其最大卖点。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Klaproth, Martin Heinrich",
+      "title": "Titanite naming",
+      "year": 1795
+    },
+    {
+      "type": "web",
+      "title": "Titanite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Titanite"
+    }
+  ]
+}

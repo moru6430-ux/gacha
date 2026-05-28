@@ -1,0 +1,46 @@
+{
+  "id": "siberian_chrome_diopside",
+  "name": "西伯利亚铬透辉石",
+  "name_en": "Siberian Chrome Diopside",
+  "region": "俄罗斯 · 萨哈 · Inagli",
+  "region_en": "Inagli Massif, Sakha Republic, Russia",
+  "coordinates": [
+    58.0,
+    125.0
+  ],
+  "category": "other",
+  "mineral_type": "透辉石变种 / Diopside var. chrome diopside（铬致绿）",
+  "color": "深森林绿、祖母绿色（铬致色，颜色深到近黑）",
+  "marker_color": "#2a7a3a",
+  "earliest_year": 1988,
+  "stories": [
+    {
+      "culture": "苏联 · \"西伯利亚祖母绿\"",
+      "title": "冷战后才出世的宝石",
+      "content": "铬透辉石作为宝石的历史极短——1988 年才在西伯利亚雅库特地区 Inagli 的金刚石伴生矿被作为宝石商业化。苏联解体后 1990 年代它才进入西方市场，被营销成廉价的\"西伯利亚祖母绿\"。它的深绿色来自铬（和祖母绿、沙弗莱同一致色元素），单克拉价只有祖母绿的几十分之一，是\"平价绿宝石\"代表。"
+    },
+    {
+      "culture": "局限 · 太软 + 极地开采",
+      "title": "只能冬天挖的矿",
+      "content": "铬透辉石有两个硬伤：莫氏硬度只有 5.5-6（戒指几年就磨花），且颜色太深——超过 2 克拉的几乎黑得看不出绿，所以宝石级以小颗粒为主。更特别的是它的开采：Inagli 矿在西伯利亚极地，**只能在冬天开采**——因为夏天冻土融化变成沼泽，机械无法进场，反而是零下 40°C 的严冬地面冻硬了才能作业。这是世界上少数\"越冷越能挖\"的宝石矿。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrome_diopside.jpg?width=640",
+  "image_credit": "铬透辉石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "铬透辉石合法贸易、平价；硬度低不耐磨。主产俄罗斯西伯利亚，冬季开采。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Diopside – GIA",
+      "url": "https://www.gia.edu/diopside"
+    },
+    {
+      "type": "web",
+      "title": "Diopside – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diopside"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "durango_apatite",
+  "name": "杜兰戈磷灰石",
+  "name_en": "Durango Apatite",
+  "region": "墨西哥 · 杜兰戈 · Cerro de Mercado",
+  "region_en": "Cerro de Mercado, Durango, Mexico",
+  "coordinates": [
+    24.05,
+    -104.7
+  ],
+  "category": "other",
+  "mineral_type": "磷灰石 / Apatite (Ca₅(PO₄)₃(F,Cl,OH))",
+  "color": "霓虹蓝绿（\"帕拉伊巴色\"）、黄、紫",
+  "marker_color": "#3fb5a0",
+  "earliest_year": 1788,
+  "stories": [
+    {
+      "culture": "命名 · \"欺骗\"之石",
+      "title": "apatē 的诡计",
+      "content": "磷灰石的名字 apatite 来自希腊语 apatē（ἀπάτη，欺骗）——1786 年德国矿物学家 Werner 命名时，意指这种矿物\"太会骗人\"：它的颜色和外形能像海蓝宝、橄榄石、碧玺、紫水晶等多种宝石，矿工和宝石商屡屡看走眼。所以它的名字本身就是一句矿物学的自嘲——\"会骗你的石头\"。"
+    },
+    {
+      "culture": "生物学 · 你的牙齿和骨头",
+      "title": "体内的磷灰石",
+      "content": "磷灰石最不为人知的身份：它是**构成人和动物牙齿、骨骼的主要矿物**（羟基磷灰石 hydroxyapatite）。换句话说，每个人体内都长着磷灰石。墨西哥杜兰戈 Cerro de Mercado 是巨大的磷灰石-铁矿，自西班牙殖民起开采至今，是世界最著名的宝石级黄磷灰石产地。霓虹蓝绿色的\"帕拉伊巴色磷灰石\"则主产马达加斯加，颜色能与昂贵的帕拉伊巴碧玺乱真——又一次印证了它\"欺骗之石\"的名号。磷灰石硬度只有 5，不耐磨，多做收藏。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Apatite.jpg?width=640",
+  "image_credit": "磷灰石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "磷灰石合法贸易；硬度低（5），不适合日戴戒指，多作收藏 / 吊坠。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Werner, Abraham Gottlob",
+      "title": "Apatit naming",
+      "year": 1786
+    },
+    {
+      "type": "web",
+      "title": "Apatite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apatite"
+    }
+  ]
+}

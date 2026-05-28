@@ -1,0 +1,46 @@
+{
+  "id": "andalusite_chiastolite",
+  "name": "空晶石（十字石）",
+  "name_en": "Chiastolite (Cross Stone)",
+  "region": "西班牙 · 安达卢西亚",
+  "region_en": "Andalusia, Spain",
+  "coordinates": [
+    37.4,
+    -5.0
+  ],
+  "category": "other",
+  "mineral_type": "红柱石变种 / Andalusite var. chiastolite（含碳质十字包体）",
+  "color": "灰褐底 + 黑色十字截面（横切呈完美十字）",
+  "marker_color": "#8a6a3a",
+  "earliest_year": 1500,
+  "stories": [
+    {
+      "culture": "天主教 · 朝圣者的十字",
+      "title": "天然的圣十字",
+      "content": "空晶石（chiastolite）是红柱石的一个变种——晶体生长时碳质杂质沿对角线规则排列，横切晶体会露出一个**天然的黑色十字**。在天主教西班牙，这被视为神迹：上帝在石头里刻下了十字架。中世纪到大航海时代，西班牙朝圣者和水手把空晶石截片当作护身符（\"cruz de piedra\" 石十字），相信它能辟邪、护航。名字 chiastolite 来自希腊字母 χ（chi，X 形）。"
+    },
+    {
+      "culture": "矿物学 · 同质多象",
+      "title": "一种成分三种矿物",
+      "content": "红柱石（andalusite，得名西班牙安达卢西亚）在地质上很特别：它和蓝晶石（kyanite）、矽线石（sillimanite）化学成分完全相同（都是 Al₂SiO₅），只是结晶结构不同——三者是经典的\"同质多象\"（polymorphism）案例，地质学家用它们来判断岩石形成的温度压力条件（红柱石=低压、蓝晶石=高压、矽线石=高温）。所以红柱石不只是宝石，还是地质学家读取地球历史的\"温度计\"。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiastolite.jpg?width=640",
+  "image_credit": "空晶石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "空晶石 / 红柱石合法贸易，廉价广布。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Andalusite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andalusite"
+    },
+    {
+      "type": "web",
+      "title": "Chiastolite – Mindat",
+      "url": "https://www.mindat.org/min-987.html"
+    }
+  ]
+}

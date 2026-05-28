@@ -3091,5 +3091,1283 @@
         "url": "https://www.mindat.org/min-961.html"
       }
     ]
+  },
+  {
+    "id": "bolivian_ametrine",
+    "name": "玻利维亚紫黄晶",
+    "name_en": "Bolivian Ametrine",
+    "region": "玻利维亚 · 圣克鲁斯 · Anahí 矿",
+    "region_en": "Anahí Mine, Santa Cruz, Bolivia",
+    "coordinates": [
+      -18.0,
+      -58.5
+    ],
+    "category": "amethyst",
+    "mineral_type": "石英 / Quartz（紫晶 + 黄晶共生于同一晶体）",
+    "color": "一半紫罗兰、一半金黄（天然双色，分界清晰）",
+    "marker_color": "#9b6dc4",
+    "earliest_year": 1600,
+    "stories": [
+      {
+        "culture": "西班牙征服 · Anahí 公主",
+        "title": "撕裂的忠诚",
+        "content": "17 世纪一名西班牙征服者娶了玻利维亚 Ayoreo 部族的公主 Anahí，作为联姻得到了她部族的紫黄晶矿作嫁妆。当他要带 Anahí 回西班牙时，她在部族与爱人之间被撕裂——临终时她把一块紫黄双色的石头交给丈夫，紫色代表她对部族的忠诚，黄色代表对他的爱。这就是 Anahí 矿名字的由来，也是紫黄晶\"双色=两难抉择\"象征的源头。"
+      },
+      {
+        "culture": "矿物学 · 一块晶体里的两个温度",
+        "title": "天然双色的稀有",
+        "content": "紫黄晶（ametrine = amethyst + citrine）是紫水晶与黄水晶在同一块石英晶体里共生——成因是晶体不同区域所受的温度 / 辐照不同：受热区铁离子转为黄色，未受热区保持紫色。全球商业级紫黄晶**几乎只产自玻利维亚 Anahí 一矿**。市面大量\"紫黄晶\"是普通紫晶局部加热伪造的，分界会模糊；天然的分界锐利如刀切。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ametrine.jpg?width=640",
+    "image_credit": "紫黄晶 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "紫黄晶合法贸易；天然双色几乎只产玻利维亚 Anahí 矿。市售大量加热伪造，需看分界是否锐利 + GIA 鉴定。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Vasconcelos, Paulo M. et al.",
+        "title": "Bolivian ametrine",
+        "year": 1994,
+        "locator": "Gems & Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Ametrine – GIA",
+        "url": "https://www.gia.edu/ametrine"
+      }
+    ]
+  },
+  {
+    "id": "inca_rhodochrosite",
+    "name": "印加玫瑰菱锰矿",
+    "name_en": "Inca Rose Rhodochrosite",
+    "region": "阿根廷 · 卡塔马卡 · Capillitas 矿",
+    "region_en": "Capillitas Mine, Catamarca, Argentina",
+    "coordinates": [
+      -27.35,
+      -66.4
+    ],
+    "category": "other",
+    "mineral_type": "菱锰矿 / Rhodochrosite (MnCO₃)",
+    "color": "玫瑰红、樱桃粉带白色同心环纹（钟乳石截面）",
+    "marker_color": "#d44a6a",
+    "earliest_year": 1200,
+    "stories": [
+      {
+        "culture": "印加 · \"Rosa del Inca\"",
+        "title": "国王之血凝成的钟乳石",
+        "content": "阿根廷西北安第斯山的 Capillitas 银矿在印加时代（13 世纪）就被开采。矿洞里垂下粉红色的菱锰矿钟乳石——印加人称它 \"Rosa del Inca\"（印加玫瑰），传说是历代印加王死后，他们的血渗入山中，年复一年凝结成的玫瑰色石钟乳。截开钟乳石，里面是一圈圈同心的玫瑰红与乳白环纹，像树木年轮。"
+      },
+      {
+        "culture": "现代 · 阿根廷国石",
+        "title": "从矿渣到国家象征",
+        "content": "西班牙殖民时期 Capillitas 主要采银，菱锰矿被当作废石。直到 20 世纪宝石市场才重视它的玫瑰色环纹。1939 年它被命名为阿根廷\"国石\"。菱锰矿莫氏硬度只有 3.5-4（很软），且解理完全，几乎不能做戒指——主要做摆件、雕件、项链珠。最好的钟乳石截面标本来自 Capillitas，现代主产地则是南非 N'Chwaning 矿（出透明红宝石级菱锰矿单晶，那是另一个故事）。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodochrosite.jpg?width=640",
+    "image_credit": "菱锰矿 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "菱锰矿合法贸易。硬度低、易碎，多做摆件。阿根廷 Capillitas 钟乳石标本与南非透明单晶是两种不同收藏方向。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Sweet, William E.",
+        "title": "Rhodochrosite from Argentina",
+        "year": 2003
+      },
+      {
+        "type": "web",
+        "title": "Rhodochrosite – Mindat",
+        "url": "https://www.mindat.org/min-3406.html"
+      }
+    ]
+  },
+  {
+    "id": "tigers_eye",
+    "name": "南非虎睛石",
+    "name_en": "South African Tiger's Eye",
+    "region": "南非 · 北开普 · Griqualand West",
+    "region_en": "Griqualand West, Northern Cape, South Africa",
+    "coordinates": [
+      -28.5,
+      23.5
+    ],
+    "category": "quartz",
+    "mineral_type": "石英假晶 / Silicified crocidolite（石英交代青石棉）",
+    "color": "金棕、蜜黄、红棕，带丝绢猫眼光（chatoyancy）",
+    "marker_color": "#b8860b",
+    "earliest_year": 100,
+    "stories": [
+      {
+        "culture": "古罗马 · 全视之眼",
+        "title": "士兵的护身符",
+        "content": "虎睛石的\"猫眼效应\"——一道随光移动的亮带——让古人相信它是\"睁着的眼睛\"，能看穿一切、洞察危险。古罗马士兵把虎睛石刻成护身符带上战场，相信它既能让自己勇猛如虎、又能在战场上\"看见\"敌人的暗箭。古埃及人则用虎睛石做神像的眼睛，认为它有 Ra（太阳神）和 Geb（大地神）的双重力量。"
+      },
+      {
+        "culture": "矿物学 · 一场\"假晶\"的误会",
+        "title": "不是纤维，是石英",
+        "content": "长期以来教科书说虎睛石是石英\"交代\"了青石棉纤维（pseudomorph）——石棉溶解、石英逐层填充，保留了纤维结构形成猫眼光。但 2003 年一项研究提出新机制：\"裂隙同步生长\"（crack-seal），即石英和青石棉是同时反复生长充填裂隙的。无论哪种，虎睛石都含微量石棉成分——所以**打磨虎睛石原石时要戴口罩**（吸入石棉粉尘有害），但成品抛光后封闭稳定，佩戴无害。南非 Griqualand West 是全球主产地。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiger's_eye.jpg?width=640",
+    "image_credit": "虎睛石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "虎睛石合法贸易；成品佩戴无害，但原石打磨需防石棉粉尘。市售大量染色（红虎睛石多为加热/染色）。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Heaney, Peter J. & Fisher, Donald M.",
+        "title": "New interpretation of the origin of tiger's-eye",
+        "year": 2003,
+        "locator": "Geology"
+      },
+      {
+        "type": "web",
+        "title": "Tiger's eye – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tiger%27s_eye"
+      }
+    ]
+  },
+  {
+    "id": "bloodstone_heliotrope",
+    "name": "血石（鸡血玉髓）",
+    "name_en": "Bloodstone (Heliotrope)",
+    "region": "印度 · 古吉拉特 / 卡提阿瓦半岛",
+    "region_en": "Kathiawar, Gujarat, India",
+    "coordinates": [
+      22.0,
+      71.0
+    ],
+    "category": "agate",
+    "mineral_type": "玉髓 / Chalcedony（深绿底 + 氧化铁红斑）",
+    "color": "墨绿底 + 鲜红血点（heliotrope 直译\"向日\"）",
+    "marker_color": "#2a5a3a",
+    "earliest_year": 200,
+    "stories": [
+      {
+        "culture": "基督教 · 殉道者之石",
+        "title": "基督的血",
+        "content": "中世纪基督教传说：耶稣受难被钉十字架时，他脚下正好有一块深绿色的碧玉，鲜血滴落其上、永远凝固成红斑——这就是血石的由来。因此血石在中世纪被称为\"殉道者之石\"（martyr's stone），是雕刻基督受难像（特别是\"鞭笞像\"）的首选材料。文艺复兴时期意大利工匠把血石的红斑巧妙安排在伤口位置，做成圣物。"
+      },
+      {
+        "culture": "古希腊罗马 · \"向日石\"",
+        "title": "能让太阳变红的石头",
+        "content": "更早的希腊罗马传统称它 heliotrope（向日石）。老普林尼《博物志》记载：把血石浸在水里、放到阳光下，水面会映出血红色的太阳倒影——古人认为这是石头\"捕获太阳\"的魔力，巴比伦占星师用它预言、求雨。3 世纪一本希腊魔法莎草纸甚至记载血石能让佩戴者\"隐形\"。今天血石是 3 月生辰石之一，主产地是印度卡提阿瓦半岛的玄武岩区。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bloodstone.jpg?width=640",
+    "image_credit": "血石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "血石合法贸易；主产印度。市售\"血点\"过于规则的可能是染色仿品。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Pliny the Elder",
+        "title": "Naturalis Historia",
+        "year": 77,
+        "locator": "Book XXXVII (heliotropium)"
+      },
+      {
+        "type": "web",
+        "title": "Bloodstone – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Heliotrope_(mineral)"
+      }
+    ]
+  },
+  {
+    "id": "roman_onyx",
+    "name": "罗马缟玛瑙浮雕",
+    "name_en": "Roman Onyx Cameo",
+    "region": "德国 · 伊达尔-奥伯施泰因（雕刻中心）",
+    "region_en": "Idar-Oberstein, Germany (carving center)",
+    "coordinates": [
+      49.71,
+      7.31
+    ],
+    "category": "agate",
+    "mineral_type": "玉髓 / Chalcedony（黑白分层带状，sardonyx 为红白）",
+    "color": "黑白分层（onyx）/ 红白分层（sardonyx）",
+    "marker_color": "#3a3a42",
+    "earliest_year": -700,
+    "stories": [
+      {
+        "culture": "希腊神话 · 丘比特的剪刀",
+        "title": "onyx = 指甲",
+        "content": "\"Onyx\" 在希腊语里就是\"指甲 / 爪\"的意思。神话说：爱神维纳斯（阿芙洛狄忒）在河边睡着了，调皮的丘比特用箭头把她的指甲修剪下来，碎屑落入河中。命运三女神不愿神圣身体的任何部分消失，便把指甲碎屑变成了石头——黑白分层的缟玛瑙，颜色正像指甲根部的月牙白与甲面。"
+      },
+      {
+        "culture": "罗马 · 浮雕宝石的巅峰",
+        "title": "Gemma Augustea",
+        "content": "缟玛瑙的黑白（或红白 sardonyx）分层是雕刻\"浮雕宝石\"（cameo）的完美材料——工匠把上层白色雕成人像凸起，露出下层黑色作背景。罗马帝国的国宝级作品 \"Gemma Augustea\"（奥古斯都浮雕，公元 1 世纪，现藏维也纳）就是双层缟玛瑙雕成，描绘奥古斯都封神。这门工艺在德国 Idar-Oberstein 延续至今——该镇 16 世纪起靠本地玛瑙矿成为欧洲玉髓雕刻中心，矿枯竭后转而进口巴西玛瑙，至今仍是世界宝石雕刻之都。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gemma_Augustea.jpg?width=640",
+    "image_credit": "奥古斯都缟玛瑙浮雕 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "缟玛瑙合法贸易；市售黑缟玛瑙绝大多数是灰玛瑙染黑（自古即如此，老普林尼已记载染色法）。古罗马浮雕宝石属文物。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Ovid",
+        "title": "Metamorphoses",
+        "year": 8
+      },
+      {
+        "type": "museum",
+        "title": "Kunsthistorisches Museum · Gemma Augustea",
+        "url": "https://www.khm.at/en/"
+      }
+    ]
+  },
+  {
+    "id": "egyptian_jasper",
+    "name": "埃及碧玉",
+    "name_en": "Egyptian Jasper",
+    "region": "埃及 · 东部沙漠",
+    "region_en": "Eastern Desert, Egypt",
+    "coordinates": [
+      26.0,
+      33.5
+    ],
+    "category": "agate",
+    "mineral_type": "碧玉 / Jasper（不透明微晶石英，含铁致红黄褐）",
+    "color": "红、黄、棕、绿（不透明，常带条带或斑纹）",
+    "marker_color": "#a0341e",
+    "earliest_year": -3000,
+    "stories": [
+      {
+        "culture": "古埃及 · 圣甲虫与 Isis 之结",
+        "title": "生命之血",
+        "content": "古埃及人把红碧玉视为女神 Isis 的经血、生命与重生之血。《亡灵书》第 156 章规定：要用红碧玉雕一个\"Isis 之结\"（tyet / 提耶特护符）放在木乃伊喉部，护佑死者在冥界获得 Isis 的庇护。红碧玉也是雕刻圣甲虫（scarab，象征太阳神 Khepri 与重生）的常用石材。东部沙漠的碧玉矿从公元前 3000 年就在供应法老工坊。"
+      },
+      {
+        "culture": "圣经 · 新耶路撒冷的基石",
+        "title": "十二基石之首",
+        "content": "碧玉在圣经里地位极高。《启示录》21:19 描述天国\"新耶路撒冷\"的城墙以十二种宝石为基，**第一块基石就是碧玉**（jasper）。《出埃及记》里大祭司的胸牌十二宝石也含碧玉。这种跨越埃及多神教与犹太-基督教一神教的连续崇拜，让碧玉成为地中海世界最古老的\"神圣之石\"之一。\"Jasper\" 一词经希腊语 iaspis、波斯语、最终可追溯到阿卡德语 yashupu。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jasper.jpg?width=640",
+    "image_credit": "碧玉 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "碧玉合法贸易，全球广布、价格低廉。古埃及护符 / 圣甲虫属文物，受埃及文物法保护。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "title": "Book of the Dead",
+        "year": -1550,
+        "locator": "Spell 156 (tyet amulet)"
+      },
+      {
+        "type": "web",
+        "title": "Jasper – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jasper"
+      }
+    ]
+  },
+  {
+    "id": "renaissance_azurite",
+    "name": "文艺复兴蓝铜矿",
+    "name_en": "Renaissance Azurite",
+    "region": "法国 · 谢西矿（颜料史中心）",
+    "region_en": "Chessy-les-Mines, France",
+    "coordinates": [
+      45.88,
+      4.62
+    ],
+    "category": "other",
+    "mineral_type": "蓝铜矿 / Azurite (Cu₃(CO₃)₂(OH)₂)",
+    "color": "深蔚蓝、靛蓝（会随湿度 / 时间逐渐变绿成孔雀石）",
+    "marker_color": "#1c4fa0",
+    "earliest_year": -2500,
+    "stories": [
+      {
+        "culture": "文艺复兴 · 平民版\"圣母蓝\"",
+        "title": "青金石买不起时",
+        "content": "文艺复兴绘画里圣母玛利亚的蓝袍，最贵的用青金石磨的\"群青\"（ultramarine，比黄金还贵）。但大多数画家买不起——他们用蓝铜矿磨的\"石青\"（azurite blue）替代，价格只有群青的几十分之一。所以同一幅画里，圣母正面袍子可能用群青，背面 / 次要人物用蓝铜矿。提香、拉斐尔、丢勒的作品中都大量使用蓝铜矿蓝。"
+      },
+      {
+        "culture": "化学 · 会变绿的蓝",
+        "title": "名画里悄悄发生的反应",
+        "content": "蓝铜矿是碱式碳酸铜——它在潮湿空气中**会缓慢转化成孔雀石**（同样是碱式碳酸铜，但含水比例不同，呈绿色）。这意味着文艺复兴时期用蓝铜矿画的蓝天、蓝袍，几百年后很多已经悄悄变成了绿色。今天美术馆里某些\"绿色天空\"的古画，原本画的是蓝天——这是文物修复界著名的\"azurite 绿化\"难题。蓝铜矿与孔雀石常共生于同一块铜矿氧化带，所以乌拉尔孔雀石矿里也能挖到蓝铜矿。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Azurite.jpg?width=640",
+    "image_credit": "蓝铜矿 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "蓝铜矿合法贸易；硬度低（3.5-4）多作标本 / 颜料 / 雕件。会随时间变绿，需干燥避光保存。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Gettens, R.J. & Fitzhugh, E.W.",
+        "title": "Azurite and Blue Verditer",
+        "year": 1966,
+        "locator": "Studies in Conservation"
+      },
+      {
+        "type": "web",
+        "title": "Azurite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Azurite"
+      }
+    ]
+  },
+  {
+    "id": "frederick_chrysoprase",
+    "name": "西里西亚绿玉髓",
+    "name_en": "Silesian Chrysoprase",
+    "region": "波兰 · 下西里西亚 · Szklary",
+    "region_en": "Szklary, Lower Silesia, Poland",
+    "coordinates": [
+      50.62,
+      16.83
+    ],
+    "category": "agate",
+    "mineral_type": "玉髓 / Chalcedony（镍致苹果绿，nickel-bearing）",
+    "color": "苹果绿、葱绿（半透明，镍致色）",
+    "marker_color": "#7fc452",
+    "earliest_year": -300,
+    "stories": [
+      {
+        "culture": "普鲁士 · 腓特烈大帝的痴迷",
+        "title": "无忧宫的绿",
+        "content": "绿玉髓的颜色来自微量镍。波兰下西里西亚 Szklary 矿是欧洲历史最重要的绿玉髓产地。普鲁士国王腓特烈大帝（Frederick the Great，1712-1786）对它痴迷——他下令把波茨坦无忧宫（Sanssouci）的多个房间用绿玉髓镶嵌，自己的鼻烟壶、戒指、家具镶嵌都用它。他甚至两次亲自视察 Szklary 矿。"
+      },
+      {
+        "culture": "古典 · 亚历山大的护身石",
+        "title": "\"胜利之石\"传说",
+        "content": "更古的传说把绿玉髓与亚历山大大帝绑定：据说他征战时腰带上镶着一块绿玉髓，战无不胜；直到一天他在幼发拉底河洗澡时，一条蛇把石头叼走丢进河里，从此他再没打过胜仗、不久病逝。这个\"胜利之石\"传说让绿玉髓在中世纪欧洲被视为护佑成功的护符。19 世纪 Szklary 矿枯竭后，主产地转到澳大利亚昆士兰（\"澳洲玉\"实为绿玉髓）和坦桑尼亚。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysoprase.jpg?width=640",
+    "image_credit": "绿玉髓 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "绿玉髓合法贸易；澳洲昆士兰为现代主产地（常被称\"澳洲玉\"）。市售染色绿玉髓需鉴别。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Sachanbinski, M. et al.",
+        "title": "Chrysoprase from Szklary (Poland)",
+        "year": 2001
+      },
+      {
+        "type": "web",
+        "title": "Chrysoprase – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chrysoprase"
+      }
+    ]
+  },
+  {
+    "id": "oregon_sunstone",
+    "name": "俄勒冈日长石",
+    "name_en": "Oregon Sunstone",
+    "region": "美国 · 俄勒冈 · Plush",
+    "region_en": "Plush, Lake County, Oregon, USA",
+    "coordinates": [
+      42.41,
+      -119.91
+    ],
+    "category": "moonstone",
+    "mineral_type": "长石 / Plagioclase feldspar（含铜片致砂金效应 schiller）",
+    "color": "桃红、橙红、香槟、绿（含铜片闪烁 aventurescence）",
+    "marker_color": "#e8915c",
+    "earliest_year": 1800,
+    "stories": [
+      {
+        "culture": "北美原住民 · 战士之血",
+        "title": "Lakota 的\"血染石\"",
+        "content": "俄勒冈日长石的红橙色与内部闪烁的铜片，被北美原住民解释为\"战士的血\"。一则广传的传说（多归于 Lakota / 北美平原部族）：一位伟大的战士被箭射伤，他的血滴落在地上的石头里，把石头染成红色，铜片的闪光就是他不灭的灵魂。原住民用日长石做交易护符，相信它能赋予持有者勇气和大地之力。"
+      },
+      {
+        "culture": "现代 · 含天然铜的唯一长石",
+        "title": "俄勒冈州石",
+        "content": "俄勒冈日长石（1987 年成为俄勒冈州石）在矿物学上特殊：它是世界上极少数**含天然金属铜片**的长石。岩浆冷却时铜以微小薄片析出晶体内部，光线照到铜片产生方向性闪烁——叫\"砂金效应\"（aventurescence / schiller）。它和印度产的普通日长石不同，俄勒冈日长石的红 / 绿色直接来自铜，且不经任何处理。Plush 镇周边有对公众开放的\"自己挖\"矿场。注意它与\"维京太阳石\"（实为冰岛石 / 堇青石，是导航工具）名同实异。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oregon_sunstone.jpg?width=640",
+    "image_credit": "俄勒冈日长石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "俄勒冈日长石合法贸易，天然色不需处理。市售\"日长石\"很多是印度普通长石或扩散处理货，俄勒冈含铜料需 GIA 鉴定。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Johnston, C.L. et al.",
+        "title": "Sunstone Labradorite from Oregon",
+        "year": 1991,
+        "locator": "Gems & Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Sunstone – GIA",
+        "url": "https://www.gia.edu/sunstone"
+      }
+    ]
+  },
+  {
+    "id": "citrine",
+    "name": "黄水晶",
+    "name_en": "Citrine",
+    "region": "巴西 · 南里奥格兰德 / 西班牙（历史名）",
+    "region_en": "Rio Grande do Sul, Brazil",
+    "coordinates": [
+      -29.5,
+      -51.5
+    ],
+    "category": "quartz",
+    "mineral_type": "石英 / Quartz var. citrine（铁致黄色）",
+    "color": "柠檬黄、金黄、马德拉酒红（多为紫晶加热）",
+    "marker_color": "#e0a022",
+    "earliest_year": -300,
+    "stories": [
+      {
+        "culture": "古希腊罗马 · \"假托帕石\"",
+        "title": "名字里的柑橘",
+        "content": "\"Citrine\" 来自拉丁 / 法语 citron（柠檬）。古希腊罗马时期黄水晶常被与黄色托帕石、橄榄石混为一谈——三者都是\"黄色透明宝石\"。古希腊从公元前 3 世纪就用黄水晶做雕刻凹版印章。因为颜色像太阳和黄金，它在很多文化里象征繁荣财富，今天中文圈把它叫\"招财石\"也是这条线的延续。"
+      },
+      {
+        "culture": "现代 · 90% 是烤出来的",
+        "title": "紫晶的另一种命运",
+        "content": "天然黄水晶其实**很稀有**——市面上 90% 以上的\"黄水晶\"是紫水晶或烟晶加热到 400-500°C 烤出来的（紫晶里的铁离子受热变色）。这个工艺 18 世纪起在欧洲成熟。深橙红色的\"马德拉黄水晶\"（Madeira citrine，得名葡萄牙马德拉酒色）几乎全是加热货。天然黄水晶颜色偏淡柠檬色、分布均匀；加热货颜色偏橙红、常在晶尖更深。最大产地是巴西南里奥格兰德州——和紫水晶同矿，因为本就是同一种石英。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Citrine.jpg?width=640",
+    "image_credit": "黄水晶 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "黄水晶合法贸易；90%+ 为紫晶加热，按行规属可接受处理但应披露。天然黄水晶稀少、价高。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Citrine – GIA",
+        "url": "https://www.gia.edu/citrine"
+      },
+      {
+        "type": "web",
+        "title": "Citrine – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Citrine_(quartz)"
+      }
+    ]
+  },
+  {
+    "id": "morganite",
+    "name": "摩根石",
+    "name_en": "Morganite",
+    "region": "美国 · 加州 · Pala / 马达加斯加",
+    "region_en": "Pala, California, USA",
+    "coordinates": [
+      33.36,
+      -116.87
+    ],
+    "category": "other",
+    "mineral_type": "绿柱石 / Beryl var. morganite（锰致粉色）",
+    "color": "樱花粉、桃粉、橙粉（与祖母绿 / 海蓝宝同矿物种）",
+    "marker_color": "#e8a8c0",
+    "earliest_year": 1910,
+    "stories": [
+      {
+        "culture": "1910 · 又是 Kunz",
+        "title": "以银行家命名",
+        "content": "1910 年加州 Pala 矿区发现一种粉色绿柱石。Tiffany 首席宝石学家 George Kunz（命名孔赛石的那位）建议以他的大客户、金融巨头 J.P. Morgan（摩根大通创始人）的名字命名为 \"morganite\"——Morgan 不仅是 Tiffany 的大主顾，还是美国自然历史博物馆、大都会博物馆宝石收藏的主要捐助人。这是一桩典型的\"宝石商人讨好金主\"的命名。"
+      },
+      {
+        "culture": "当代 · 婚戒新宠",
+        "title": "玫瑰金 + 摩根石的营销奇迹",
+        "content": "摩根石长期是冷门——直到 2010 年代社交媒体兴起。它柔和的桃粉色配玫瑰金底座，在 Instagram / Pinterest 上极上镜，被营销成\"钻石的平价浪漫替代\"婚戒。2015-2020 摩根石订婚戒搜索量暴涨数十倍。这是一个\"老矿物靠新媒体翻红\"的标准案例。主产地现为巴西米纳斯吉拉斯和马达加斯加；加州 Pala 原矿基本枯竭。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Morganite.jpg?width=640",
+    "image_credit": "摩根石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "摩根石合法贸易；常经加热去除橙黄调以增强粉色（行业可接受、应披露）。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Kunz, George F.",
+        "title": "Morganite naming – Academy of Sciences",
+        "year": 1911
+      },
+      {
+        "type": "web",
+        "title": "Morganite – GIA",
+        "url": "https://www.gia.edu/morganite"
+      }
+    ]
+  },
+  {
+    "id": "sugilite",
+    "name": "杉石",
+    "name_en": "Sugilite",
+    "region": "南非 · 北开普 · Wessels 矿",
+    "region_en": "Wessels Mine, Northern Cape, South Africa",
+    "coordinates": [
+      -27.1,
+      23.0
+    ],
+    "category": "other",
+    "mineral_type": "杉石 / Sugilite (复杂硅酸盐，锂铁锰致紫)",
+    "color": "皇家紫、玫红紫、深紫（不透明，蜡质光泽）",
+    "marker_color": "#8e3fb0",
+    "earliest_year": 1944,
+    "stories": [
+      {
+        "culture": "1944 · 日本命名",
+        "title": "杉健一的发现",
+        "content": "杉石 1944 年由日本岩石学家 杉健一（Ken-ichi Sugi）在日本濑户内海的岩城岛（Iwagi）首次发现——但当时只找到极小的黄绿色颗粒，没人在意。1976 年它被正式命名为 \"sugilite\" 纪念杉健一。直到 1979 年南非 Wessels 锰矿在地下 1000 米深处挖出大量**鲜紫色**的杉石，它才一跃成为宝石——这是矿物学史上\"命名 35 年后才变珍贵\"的罕见案例。"
+      },
+      {
+        "culture": "新世纪 · \"千禧之石\"",
+        "title": "疗愈圈的紫色明星",
+        "content": "杉石的浓郁皇家紫色配上不透明的蜡质光泽，在 1980-90 年代被新世纪（New Age）水晶疗愈圈热捧，称作\"千禧之石\"（stone of the millennium）、\"紫色力量石\"，声称能开启顶轮、连接精神世界。这种营销让它价格在 1990 年代飙升。它的主要、几乎唯一的商业产地仍是南非 Wessels 矿——产量稀少，顶级\"宝石级\"（半透明深紫）的杉石单价可超过部分翡翠。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sugilite.jpg?width=640",
+    "image_credit": "杉石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "杉石合法贸易；几乎唯一产地南非 Wessels 矿，产量稀少。市售有染色 / 注胶处理需鉴别。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Murakami, N. et al.",
+        "title": "Sugilite, a new mineral",
+        "year": 1976,
+        "locator": "Mineralogical Journal (Japan)"
+      },
+      {
+        "type": "web",
+        "title": "Sugilite – Mindat",
+        "url": "https://www.mindat.org/min-3829.html"
+      }
+    ]
+  },
+  {
+    "id": "ural_rhodonite",
+    "name": "乌拉尔蔷薇辉石",
+    "name_en": "Ural Rhodonite",
+    "region": "俄罗斯 · 中乌拉尔 · Maloye Sedelnikovo",
+    "region_en": "Maloye Sedelnikovo, Central Urals, Russia",
+    "coordinates": [
+      56.5,
+      60.7
+    ],
+    "category": "other",
+    "mineral_type": "蔷薇辉石 / Rhodonite (MnSiO₃，常带黑色锰氧化物脉)",
+    "color": "玫瑰红、粉红带黑色网纹",
+    "marker_color": "#c0506a",
+    "earliest_year": 1780,
+    "continent": [
+      "europe",
+      "asia"
+    ],
+    "border_note": "横跨欧亚边界（乌拉尔山脉）",
+    "stories": [
+      {
+        "culture": "沙俄 · \"Orletz\"鹰石",
+        "title": "皇室的丧葬之石",
+        "content": "乌拉尔蔷薇辉石在俄语里叫 \"orletz\"（орлец，鹰石）——传说乌拉尔山的鹰会把这种粉红石头叼到巢里，所以找到鹰巢就能找到矿。沙俄把它视为国家级宝石：圣彼得堡圣以撒大教堂的柱子、冬宫的巨型花瓶都用乌拉尔蔷薇辉石。最著名的是 1906 年为亚历山大二世皇后玛丽亚雕的**整块 7 吨重蔷薇辉石石棺**——历时 17 年雕成，至今在圣彼得保罗大教堂。"
+      },
+      {
+        "culture": "现代 · 马萨诸塞州石",
+        "title": "跨洋的\"州石\"",
+        "content": "蔷薇辉石的玫瑰红来自锰，常伴生黑色锰氧化物脉络（形成独特的粉黑网纹）。它硬度只有 5.5-6.5、解理明显，多做雕件、摆件、平板饰面，少做戒面。有趣的是它 1979 年被定为美国**马萨诸塞州**的州石（因为当地 Plainwell 有矿）——一种俄罗斯帝国象征同时成为美国一个州的标志。乌拉尔老矿基本枯竭，现代主产地为澳大利亚、秘鲁、马达加斯加。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodonite.jpg?width=640",
+    "image_credit": "蔷薇辉石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "蔷薇辉石合法贸易；乌拉尔老料珍稀。市售多为澳洲 / 秘鲁产，做雕件摆件为主。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Fersman, A.E.",
+        "title": "Precious and Coloured Stones of Russia",
+        "year": 1925
+      },
+      {
+        "type": "web",
+        "title": "Rhodonite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rhodonite"
+      }
+    ]
+  },
+  {
+    "id": "hematite",
+    "name": "赤铁矿（赭石）",
+    "name_en": "Hematite (Ochre)",
+    "region": "西班牙 · 力拓 / 法国 · 拉斯科洞穴",
+    "region_en": "Rio Tinto, Spain / Lascaux, France",
+    "coordinates": [
+      37.69,
+      -6.59
+    ],
+    "category": "other",
+    "mineral_type": "赤铁矿 / Hematite (Fe₂O₃)",
+    "color": "金属灰黑（抛光）/ 血红（粉末，即赭石红）",
+    "marker_color": "#6a4a48",
+    "earliest_year": -40000,
+    "stories": [
+      {
+        "culture": "史前 · 人类最早的颜料",
+        "title": "拉斯科洞穴的红",
+        "content": "赤铁矿磨成粉就是\"赭石红\"（red ochre）——这是人类使用历史最久的颜料，没有之一。法国拉斯科、西班牙阿尔塔米拉的洞穴壁画（约 1.7-4 万年前）的红色都来自赤铁矿。更早：南非 Blombos 洞穴出土过 10 万年前的赭石加工\"工具包\"。全球几乎所有旧石器时代葬礼都用赭石撒在遗体上——红色象征血与生命，是人类最早的\"来世\"信仰物证。\"Hematite\" 来自希腊语 haima（血）。"
+      },
+      {
+        "culture": "近代 · \"血石\"与抛光镜",
+        "title": "会出血的石头",
+        "content": "赤铁矿抛光后呈银灰金属光泽，但用它在粗陶上划过会留下**血红色**的条痕（这是矿物学鉴定赤铁矿的标准方法——\"条痕红\"）。古罗马士兵相信赤铁矿能止血、给战士力量，把它磨成护身符。文艺复兴时期抛光的赤铁矿被当作镜子和印章石。现代市售大量\"磁性赤铁矿\"手串其实是人造材料 hematine（赤铁矿本身几乎无磁性），是常见的市场误导。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hematite.jpg?width=640",
+    "image_credit": "赤铁矿 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "赤铁矿合法贸易、廉价广布。市售\"磁性赤铁矿\"多为人造 hematine，并非天然赤铁矿。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Henshilwood, C.S. et al.",
+        "title": "A 100,000-year-old ochre-processing workshop at Blombos Cave",
+        "year": 2011,
+        "locator": "Science"
+      },
+      {
+        "type": "web",
+        "title": "Hematite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hematite"
+      }
+    ]
+  },
+  {
+    "id": "ammolite",
+    "name": "加拿大斑彩石",
+    "name_en": "Canadian Ammolite",
+    "region": "加拿大 · 阿尔伯塔 · Bearpaw 地层",
+    "region_en": "Bearpaw Formation, Alberta, Canada",
+    "coordinates": [
+      49.7,
+      -112.8
+    ],
+    "category": "other",
+    "mineral_type": "菊石化石壳 / Fossilized ammonite shell（文石质，有机宝石）",
+    "color": "红、绿、蓝、紫全光谱晕彩（fossil opal-like）",
+    "marker_color": "#c44e2a",
+    "earliest_year": 1900,
+    "stories": [
+      {
+        "culture": "黑脚部族 · 野牛石 iniskim",
+        "title": "召唤野牛的圣物",
+        "content": "加拿大阿尔伯塔的黑脚部族（Blackfoot / Niitsitapi）把斑彩石碎片称为 \"iniskim\"（野牛石）。传说一名挨饿的部族女子在河边听到石头唱歌，石头告诉她一首召唤野牛的歌；她带回部族唱诵，野牛群随之归来，救了部族。从此 iniskim 是黑脚\"野牛召唤仪式\"的核心圣物，代代相传，至今仍用于部族仪式。"
+      },
+      {
+        "culture": "矿物学 · 它是化石",
+        "title": "7000 万年前的彩虹",
+        "content": "斑彩石不是矿物，而是**菊石（ammonite，白垩纪头足类）的化石壳**——7000 万年前的海洋生物，壳由文石（aragonite）构成，在阿尔伯塔特殊的埋藏条件下保留了壳的微层结构，光线干涉产生全光谱晕彩。1981 年 CIBJO（国际珠宝联盟）正式承认它为有机宝石。\n\n⚠️ 注意：作为化石，斑彩石在很多国家受古生物 / 文物保护法约束。加拿大允许 Bearpaw 地层的商业开采（有许可制度），但**化石本身在中国等地交易属灰色地带**——本平台仅作内容展示，斑彩石饰品交易需确认合法来源与进口手续。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ammolite.jpg?width=640",
+    "image_credit": "斑彩石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "⚠️ 斑彩石是菊石化石。加拿大有合法商业开采许可，但化石在中国等多国交易受古生物 / 文物法约束。需确认来源 + 进口手续，不建议无证交易。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Mychaluk, K.A. et al.",
+        "title": "Ammolite: Iridescent fossilized ammonite from Alberta",
+        "year": 2001,
+        "locator": "Gems & Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Ammolite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ammolite"
+      }
+    ]
+  },
+  {
+    "id": "california_benitoite",
+    "name": "加州蓝锥矿",
+    "name_en": "California Benitoite",
+    "region": "美国 · 加州 · 圣贝尼托县",
+    "region_en": "San Benito County, California, USA",
+    "coordinates": [
+      36.6,
+      -120.6
+    ],
+    "category": "other",
+    "mineral_type": "蓝锥矿 / Benitoite (BaTiSi₃O₉)",
+    "color": "蓝宝石蓝、靛蓝（紫外灯下发亮蓝色荧光）",
+    "marker_color": "#2a6fc5",
+    "earliest_year": 1907,
+    "stories": [
+      {
+        "culture": "1907 · 被误认的蓝宝石",
+        "title": "加州州宝石",
+        "content": "1907 年探矿人 James Couch 在加州圣贝尼托河源头发现一批蓝色晶体，以为是蓝宝石。送到加州大学伯克利分校鉴定后，1909 年地质学家 George Louderback 确认它是一种**全新的矿物物种**——以发现地命名为 benitoite（蓝锥矿）。1985 年它成为加州官方\"州宝石\"。"
+      },
+      {
+        "culture": "矿物学 · 全球唯一",
+        "title": "一处矿的宝石",
+        "content": "蓝锥矿的稀有度极端：宝石级的蓝锥矿**全球只有加州圣贝尼托一处矿**（Gem Mine）产出过。它在紫外灯下发出强烈的亮蓝色荧光，像一小块发光的天空。该矿 2006 年商业开采停止，现在只允许付费\"自己挖\"。一颗超过 1 克拉的干净蓝锥矿就属罕见，超过 2 克拉的属博物馆级。它是矿物收藏界的\"圣杯\"之一——稀有度远超多数主流宝石，但因为产量太小、知名度反而不如蓝宝石。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Benitoite.jpg?width=640",
+    "image_credit": "蓝锥矿 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "蓝锥矿合法贸易；全球唯一宝石级产地加州，商业开采已停，存量极少、价格高。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Louderback, George D.",
+        "title": "Benitoite, a new California gem mineral",
+        "year": 1909,
+        "locator": "UC Berkeley"
+      },
+      {
+        "type": "web",
+        "title": "Benitoite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benitoite"
+      }
+    ]
+  },
+  {
+    "id": "utah_variscite",
+    "name": "犹他磷铝石",
+    "name_en": "Utah Variscite",
+    "region": "美国 · 犹他 · Fairfield",
+    "region_en": "Fairfield (Clay Canyon), Utah, USA",
+    "coordinates": [
+      40.27,
+      -112.1
+    ],
+    "category": "other",
+    "mineral_type": "磷铝石 / Variscite (AlPO₄·2H₂O)",
+    "color": "苹果绿、青绿（常被当绿松石替代，带褐色蛛网纹）",
+    "marker_color": "#5ca870",
+    "earliest_year": 1900,
+    "stories": [
+      {
+        "culture": "北美原住民 · 绿松石的\"近亲\"",
+        "title": "难分的两种绿",
+        "content": "磷铝石的青绿色与绿松石极其相似，常被当作绿松石的替代品甚至冒充。北美西南原住民（普韦布洛、纳瓦霍）在绿松石稀缺时也用磷铝石做装饰。犹他 Clay Canyon 的\"Lucin variscite\"以质地致密、蛛网纹漂亮著称，19 世纪末被发现后成为标本界名品。鉴别：磷铝石偏黄绿，绿松石偏蓝绿；化学上磷铝石是磷酸铝、绿松石是磷酸铜铝。"
+      },
+      {
+        "culture": "欧洲史前 · 巨石墓的陪葬",
+        "title": "比想象更古老的崇拜",
+        "content": "磷铝石的使用其实比北美早得多。欧洲新石器时代（公元前 5000-3000 年）伊比利亚半岛的巨石墓里出土过大量磷铝石珠子——西班牙 Gavà 的\"史前磷铝石矿\"是欧洲已知最古老的地下矿之一，矿工用鹿角镐在地下挖磷铝石做绿色珠饰，随死者下葬。所以磷铝石是欧洲史前最早被系统开采的\"宝石\"之一，比金属冶炼还早。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Variscite.jpg?width=640",
+    "image_credit": "磷铝石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "磷铝石合法贸易；常与绿松石混淆 / 冒充。Gavà 史前矿区为西班牙文物保护地。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Villalba, M.J. et al.",
+        "title": "Variscite mines of Gavà",
+        "year": 1986
+      },
+      {
+        "type": "web",
+        "title": "Variscite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Variscite"
+      }
+    ]
+  },
+  {
+    "id": "andalusite_chiastolite",
+    "name": "空晶石（十字石）",
+    "name_en": "Chiastolite (Cross Stone)",
+    "region": "西班牙 · 安达卢西亚",
+    "region_en": "Andalusia, Spain",
+    "coordinates": [
+      37.4,
+      -5.0
+    ],
+    "category": "other",
+    "mineral_type": "红柱石变种 / Andalusite var. chiastolite（含碳质十字包体）",
+    "color": "灰褐底 + 黑色十字截面（横切呈完美十字）",
+    "marker_color": "#8a6a3a",
+    "earliest_year": 1500,
+    "stories": [
+      {
+        "culture": "天主教 · 朝圣者的十字",
+        "title": "天然的圣十字",
+        "content": "空晶石（chiastolite）是红柱石的一个变种——晶体生长时碳质杂质沿对角线规则排列，横切晶体会露出一个**天然的黑色十字**。在天主教西班牙，这被视为神迹：上帝在石头里刻下了十字架。中世纪到大航海时代，西班牙朝圣者和水手把空晶石截片当作护身符（\"cruz de piedra\" 石十字），相信它能辟邪、护航。名字 chiastolite 来自希腊字母 χ（chi，X 形）。"
+      },
+      {
+        "culture": "矿物学 · 同质多象",
+        "title": "一种成分三种矿物",
+        "content": "红柱石（andalusite，得名西班牙安达卢西亚）在地质上很特别：它和蓝晶石（kyanite）、矽线石（sillimanite）化学成分完全相同（都是 Al₂SiO₅），只是结晶结构不同——三者是经典的\"同质多象\"（polymorphism）案例，地质学家用它们来判断岩石形成的温度压力条件（红柱石=低压、蓝晶石=高压、矽线石=高温）。所以红柱石不只是宝石，还是地质学家读取地球历史的\"温度计\"。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiastolite.jpg?width=640",
+    "image_credit": "空晶石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "空晶石 / 红柱石合法贸易，廉价广布。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Andalusite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andalusite"
+      },
+      {
+        "type": "web",
+        "title": "Chiastolite – Mindat",
+        "url": "https://www.mindat.org/min-987.html"
+      }
+    ]
+  },
+  {
+    "id": "durango_apatite",
+    "name": "杜兰戈磷灰石",
+    "name_en": "Durango Apatite",
+    "region": "墨西哥 · 杜兰戈 · Cerro de Mercado",
+    "region_en": "Cerro de Mercado, Durango, Mexico",
+    "coordinates": [
+      24.05,
+      -104.7
+    ],
+    "category": "other",
+    "mineral_type": "磷灰石 / Apatite (Ca₅(PO₄)₃(F,Cl,OH))",
+    "color": "霓虹蓝绿（\"帕拉伊巴色\"）、黄、紫",
+    "marker_color": "#3fb5a0",
+    "earliest_year": 1788,
+    "stories": [
+      {
+        "culture": "命名 · \"欺骗\"之石",
+        "title": "apatē 的诡计",
+        "content": "磷灰石的名字 apatite 来自希腊语 apatē（ἀπάτη，欺骗）——1786 年德国矿物学家 Werner 命名时，意指这种矿物\"太会骗人\"：它的颜色和外形能像海蓝宝、橄榄石、碧玺、紫水晶等多种宝石，矿工和宝石商屡屡看走眼。所以它的名字本身就是一句矿物学的自嘲——\"会骗你的石头\"。"
+      },
+      {
+        "culture": "生物学 · 你的牙齿和骨头",
+        "title": "体内的磷灰石",
+        "content": "磷灰石最不为人知的身份：它是**构成人和动物牙齿、骨骼的主要矿物**（羟基磷灰石 hydroxyapatite）。换句话说，每个人体内都长着磷灰石。墨西哥杜兰戈 Cerro de Mercado 是巨大的磷灰石-铁矿，自西班牙殖民起开采至今，是世界最著名的宝石级黄磷灰石产地。霓虹蓝绿色的\"帕拉伊巴色磷灰石\"则主产马达加斯加，颜色能与昂贵的帕拉伊巴碧玺乱真——又一次印证了它\"欺骗之石\"的名号。磷灰石硬度只有 5，不耐磨，多做收藏。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Apatite.jpg?width=640",
+    "image_credit": "磷灰石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "磷灰石合法贸易；硬度低（5），不适合日戴戒指，多作收藏 / 吊坠。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Werner, Abraham Gottlob",
+        "title": "Apatit naming",
+        "year": 1786
+      },
+      {
+        "type": "web",
+        "title": "Apatite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Apatite"
+      }
+    ]
+  },
+  {
+    "id": "kyanite",
+    "name": "蓝晶石",
+    "name_en": "Kyanite",
+    "region": "巴西 · 米纳斯吉拉斯 / 尼泊尔",
+    "region_en": "Minas Gerais, Brazil / Nepal",
+    "coordinates": [
+      -18.0,
+      -43.0
+    ],
+    "category": "other",
+    "mineral_type": "蓝晶石 / Kyanite (Al₂SiO₅) · 又名 disthene（\"双硬度\"）",
+    "color": "靛蓝、天蓝带白条（蓝宝石替代）",
+    "marker_color": "#3a6ec0",
+    "earliest_year": 1789,
+    "stories": [
+      {
+        "culture": "命名 · 蓝色与\"两种硬度\"",
+        "title": "一块石头两个硬度",
+        "content": "蓝晶石有两个名字：kyanite（来自希腊 kyanos = 深蓝）和 disthene（希腊 di-sthenos = \"两种力量\"）。后者揭示它最奇特的性质——**同一块晶体在不同方向上硬度完全不同**：沿晶体长轴方向莫氏硬度只有 4.5（指甲刀都难划但钢针能划），垂直方向却达到 7（能划玻璃）。世界上几乎没有第二种矿物有这么大的方向性硬度差。这让蓝晶石极难切磨——工匠必须精确判断方向。"
+      },
+      {
+        "culture": "工业 · 喷气发动机里的蓝晶石",
+        "title": "从宝石到耐火材料",
+        "content": "蓝晶石和红柱石、矽线石是\"同质多象\"三兄弟（成分都是 Al₂SiO₅）。蓝晶石加热到 1100°C 以上会转变成莫来石（mullite）——一种极耐高温的陶瓷。所以全球绝大部分开采的蓝晶石不是做宝石，而是做**耐火材料**：钢铁冶炼的炉衬、火花塞绝缘体、喷气发动机的高温部件。宝石级蓝色蓝晶石只是副产品。尼泊尔喜马拉雅产的靛蓝色蓝晶石是宝石市场新宠，颜色能媲美克什米尔蓝宝石。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyanite.jpg?width=640",
+    "image_credit": "蓝晶石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "蓝晶石合法贸易；方向性硬度差异大、难切磨。多数产量用于工业耐火材料。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Kyanite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kyanite"
+      },
+      {
+        "type": "web",
+        "title": "Kyanite – Mindat",
+        "url": "https://www.mindat.org/min-2303.html"
+      }
+    ]
+  },
+  {
+    "id": "siberian_chrome_diopside",
+    "name": "西伯利亚铬透辉石",
+    "name_en": "Siberian Chrome Diopside",
+    "region": "俄罗斯 · 萨哈 · Inagli",
+    "region_en": "Inagli Massif, Sakha Republic, Russia",
+    "coordinates": [
+      58.0,
+      125.0
+    ],
+    "category": "other",
+    "mineral_type": "透辉石变种 / Diopside var. chrome diopside（铬致绿）",
+    "color": "深森林绿、祖母绿色（铬致色，颜色深到近黑）",
+    "marker_color": "#2a7a3a",
+    "earliest_year": 1988,
+    "stories": [
+      {
+        "culture": "苏联 · \"西伯利亚祖母绿\"",
+        "title": "冷战后才出世的宝石",
+        "content": "铬透辉石作为宝石的历史极短——1988 年才在西伯利亚雅库特地区 Inagli 的金刚石伴生矿被作为宝石商业化。苏联解体后 1990 年代它才进入西方市场，被营销成廉价的\"西伯利亚祖母绿\"。它的深绿色来自铬（和祖母绿、沙弗莱同一致色元素），单克拉价只有祖母绿的几十分之一，是\"平价绿宝石\"代表。"
+      },
+      {
+        "culture": "局限 · 太软 + 极地开采",
+        "title": "只能冬天挖的矿",
+        "content": "铬透辉石有两个硬伤：莫氏硬度只有 5.5-6（戒指几年就磨花），且颜色太深——超过 2 克拉的几乎黑得看不出绿，所以宝石级以小颗粒为主。更特别的是它的开采：Inagli 矿在西伯利亚极地，**只能在冬天开采**——因为夏天冻土融化变成沼泽，机械无法进场，反而是零下 40°C 的严冬地面冻硬了才能作业。这是世界上少数\"越冷越能挖\"的宝石矿。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrome_diopside.jpg?width=640",
+    "image_credit": "铬透辉石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "铬透辉石合法贸易、平价；硬度低不耐磨。主产俄罗斯西伯利亚，冬季开采。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Diopside – GIA",
+        "url": "https://www.gia.edu/diopside"
+      },
+      {
+        "type": "web",
+        "title": "Diopside – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diopside"
+      }
+    ]
+  },
+  {
+    "id": "prehnite",
+    "name": "葡萄石",
+    "name_en": "Prehnite",
+    "region": "南非 · 好望角（首发地）",
+    "region_en": "Cape of Good Hope, South Africa",
+    "coordinates": [
+      -34.21,
+      18.4
+    ],
+    "category": "other",
+    "mineral_type": "葡萄石 / Prehnite (Ca₂Al₂Si₃O₁₀(OH)₂)",
+    "color": "葡萄绿、柠檬黄绿（半透明，葡萄串状集合体）",
+    "marker_color": "#a0c47a",
+    "earliest_year": 1788,
+    "stories": [
+      {
+        "culture": "矿物学史 · 第一个\"以人命名\"的矿物",
+        "title": "von Prehn 上校",
+        "content": "葡萄石（prehnite）在矿物学史上有个特殊地位：它是**历史上第一个以人名命名的矿物**。1788 年荷兰东印度公司的军官 Hendrik von Prehn 上校从南非好望角带回一批绿色矿物标本，德国地质学家 Werner 用他的名字命名。在此之前矿物都按颜色 / 产地 / 性质命名——葡萄石开创了\"以发现者命名\"的传统，后来的孔赛石、摩根石、查罗石都是沿这条路。"
+      },
+      {
+        "culture": "当代 · \"希望之石\"与冒充葡萄",
+        "title": "半透明的禅意",
+        "content": "葡萄石半透明的黄绿色配上葡萄串般的结核形态，近年在水晶疗愈圈被叫\"希望之石\"\"预言之石\"。它常与绿色的鱼眼石、辉沸石伴生，做成原矿摆件很受欢迎。市场上有时被叫\"绿碧榴\"\"好望角祖母绿\"等误导名。葡萄石硬度 6-6.5，比多数\"软宝石\"耐用些，可做吊坠。主产地现在是马里、澳大利亚、中国四川。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prehnite.jpg?width=640",
+    "image_credit": "葡萄石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "葡萄石合法贸易、平价。市售有误导命名（\"好望角祖母绿\"等），认准 prehnite。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Werner, A.G.",
+        "title": "Prehnit naming",
+        "year": 1788
+      },
+      {
+        "type": "web",
+        "title": "Prehnite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prehnite"
+      }
+    ]
+  },
+  {
+    "id": "mogok_scapolite",
+    "name": "抹谷方柱石猫眼",
+    "name_en": "Mogok Scapolite Cat's Eye",
+    "region": "缅甸 · 抹谷",
+    "region_en": "Mogok, Myanmar",
+    "coordinates": [
+      22.92,
+      96.52
+    ],
+    "category": "other",
+    "mineral_type": "方柱石 / Scapolite（钠钙硅酸盐系列，含管状包体显猫眼）",
+    "color": "粉紫、蜜黄、紫罗兰（部分有猫眼，部分有变色 tenebrescence）",
+    "marker_color": "#c4a850",
+    "earliest_year": 1913,
+    "stories": [
+      {
+        "culture": "宝石学 · 长得像一切",
+        "title": "又一个\"伪装大师\"",
+        "content": "方柱石（scapolite）是宝石界另一个\"伪装者\"——粉紫色的像紫锂辉石、蜜黄色的像黄水晶 / 金绿柱石、有猫眼的像金绿猫眼。它 1913 年才在缅甸抹谷被确认为宝石。名字 scapolite 来自希腊 skapos（杆 / 柱），因为晶体常呈细长柱状。抹谷的粉紫色方柱石猫眼是收藏家眼中的精品——一道清晰的银白猫眼光浮在粉紫色上。"
+      },
+      {
+        "culture": "物理 · 会\"晒黑\"又\"褪色\"的石头",
+        "title": "tenebrescence 变色现象",
+        "content": "某些方柱石有一种罕见的光学性质叫 \"tenebrescence\"（晒变色 / 可逆光致变色）——在紫外光 / 阳光照射下颜色会**加深变暗**，放在黑暗中又慢慢**褪回浅色**，可反复。这和方钠石（hackmanite，方钠石的一种）共有的特性，源于晶格中硫原子的电子被光激发。极少数矿物有这种\"会晒黑也会褪色\"的本事。这让方柱石成为矿物物理课的明星教具，但也意味着佩戴时颜色会随光线变化、不稳定。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scapolite.jpg?width=640",
+    "image_credit": "方柱石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "方柱石本身合法；缅甸抹谷产货受 2021 政变后部分制裁影响。其他产地（马达加斯加、坦桑尼亚、巴西）合法流通。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Scapolite – GIA",
+        "url": "https://www.gia.edu/scapolite"
+      },
+      {
+        "type": "web",
+        "title": "Scapolite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Scapolite"
+      }
+    ]
+  },
+  {
+    "id": "venetian_aventurine",
+    "name": "东陵石 / 金星石",
+    "name_en": "Aventurine",
+    "region": "意大利 · 威尼斯 · 穆拉诺岛（命名地）",
+    "region_en": "Murano, Venice, Italy (etymology)",
+    "coordinates": [
+      45.46,
+      12.35
+    ],
+    "category": "quartz",
+    "mineral_type": "石英岩 / Quartzite（含云母 / 铬云母片显砂金效应）",
+    "color": "绿（铬云母）、橙棕（赤铁矿），带闪烁金点",
+    "marker_color": "#4a9a5a",
+    "earliest_year": 1700,
+    "stories": [
+      {
+        "culture": "威尼斯 · 一场玻璃作坊的意外",
+        "title": "\"a ventura\"——碰运气",
+        "content": "\"Aventurine\"（东陵石 / 砂金石）的名字其实来自一种**玻璃**，而非天然石头。约 17-18 世纪威尼斯穆拉诺岛的玻璃工匠在熔制玻璃时，不小心把铜屑掉进熔炉，冷却后玻璃里布满闪烁的金色铜点——意外做出了\"金星玻璃\"（aventurine glass），意大利语 \"a ventura\" 意思是\"碰运气 / 偶然\"。后来人们发现天然界也有类似闪光的石英岩，就反过来借用这个玻璃的名字称呼天然石头。这是少见的\"人造材料命名天然矿物\"的案例。"
+      },
+      {
+        "culture": "东方 · \"东陵玉\"与印度",
+        "title": "冒充翡翠的绿",
+        "content": "绿色东陵石的闪光来自内部的铬云母（fuchsite）薄片。它质地致密、价格低廉，在中国常被叫\"东陵玉\"（得名印度产地 + 玉石质感），是翡翠最常见的廉价冒充品之一——但东陵石的绿偏暗、带明显金属闪点，翡翠是温润无闪点的。印度是绿色东陵石的主产地。今天东陵石主要做平价手串、摆件，水晶圈称它\"机遇之石\"（呼应那个\"碰运气\"的词源）。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aventurine.jpg?width=640",
+    "image_credit": "东陵石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "东陵石合法贸易、平价；常冒充翡翠（\"东陵玉\"），认准闪烁金点 + 偏暗绿色。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Aventurine – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aventurine"
+      },
+      {
+        "type": "secondary",
+        "author": "Moretti & Hreglich",
+        "title": "Aventurine glass of Murano",
+        "year": 1984
+      }
+    ]
+  },
+  {
+    "id": "sphene_titanite",
+    "name": "榍石",
+    "name_en": "Sphene (Titanite)",
+    "region": "巴西 · 米纳斯吉拉斯 / 马达加斯加",
+    "region_en": "Minas Gerais, Brazil / Madagascar",
+    "coordinates": [
+      -17.7,
+      -42.5
+    ],
+    "category": "other",
+    "mineral_type": "榍石 / Titanite (CaTiSiO₅)",
+    "color": "黄绿、蜜黄、棕（火彩 / 色散超过钻石）",
+    "marker_color": "#c4b020",
+    "earliest_year": 1795,
+    "stories": [
+      {
+        "culture": "光学 · 比钻石还\"火\"",
+        "title": "色散冠军",
+        "content": "榍石（sphene，矿物学正名 titanite 钛矿石）有一项压倒钻石的本事：**色散（火彩）**。色散是宝石把白光分解成彩虹光的能力——钻石色散值 0.044，已经够耀眼，而榍石高达 0.051，是天然宝石里的色散冠军之一。所以一颗切磨好的榍石在光下会迸发出比钻石更狂野的彩虹闪光。可惜它硬度只有 5-5.5，戒指容易磨损，所以这种\"火彩之王\"反而冷门。"
+      },
+      {
+        "culture": "命名 · 楔形的石头",
+        "title": "sphenos = 楔子",
+        "content": "\"Sphene\" 来自希腊语 sphenos（楔子），因为它的晶体常呈扁平的楔形 / 信封形。1795 年由德国矿物学家 Klaproth（发现铀、铈、锆的那位化学家）命名为 titanite——因为它含钛（titanium，刚被发现不久的新元素）。所以这种矿物有两个名字：宝石界爱用 sphene（听起来像宝石），矿物学界用 titanite（说明成分）。优质黄绿色榍石主产马达加斯加和巴西，是收藏家追逐的\"火彩标本\"。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sphene.jpg?width=640",
+    "image_credit": "榍石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "榍石合法贸易；硬度低不耐磨，多作收藏 / 吊坠。火彩极强是其最大卖点。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Klaproth, Martin Heinrich",
+        "title": "Titanite naming",
+        "year": 1795
+      },
+      {
+        "type": "web",
+        "title": "Titanite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Titanite"
+      }
+    ]
+  },
+  {
+    "id": "ceylon_catseye",
+    "name": "锡兰金绿猫眼",
+    "name_en": "Ceylon Chrysoberyl Cat's Eye",
+    "region": "斯里兰卡 · 拉特纳普勒",
+    "region_en": "Ratnapura, Sri Lanka",
+    "coordinates": [
+      6.68,
+      80.41
+    ],
+    "category": "other",
+    "mineral_type": "金绿宝石 / Chrysoberyl（含金红石管显猫眼，与亚历山大石同种）",
+    "color": "蜜黄、苹果绿、灰绿，一道锐利的银白猫眼光",
+    "marker_color": "#b0902a",
+    "earliest_year": 1000,
+    "stories": [
+      {
+        "culture": "亚洲 · \"守护之眼\"",
+        "title": "能闭合的眼睛",
+        "content": "金绿猫眼（cymophane）是猫眼效应最完美的宝石——一道锐利的银白光带浮在蜜黄色弧面上，转动时光带像猫的瞳孔一样开合、游移，称作\"牛奶蜂蜜\"效应（最佳猫眼在斜射光下一半奶白一半蜜黄）。亚洲很多文化（斯里兰卡、印度、中国）相信这只\"眼睛\"能看穿邪恶、守护佩戴者，是辟邪护身的最高级宝石之一。在印度占星术中它对应\"计都\"（Ketu，月球南交点），被认为能挡灾。"
+      },
+      {
+        "culture": "词源 · 唯一独占\"猫眼\"之名",
+        "title": "不加前缀的猫眼",
+        "content": "很多宝石都有猫眼效应（石英猫眼、碧玺猫眼、磷灰石猫眼…），但在宝石行业里有个铁律：**只有金绿宝石的猫眼可以直接叫 \"cat's eye\"（猫眼），不加矿物名前缀**。其他所有猫眼都必须写明矿物（如 \"quartz cat's eye\"）。这是因为金绿猫眼的猫眼效应最锐利、最经典，被公认为\"猫眼\"的标准。它和亚历山大变石是同一种矿物（chrysoberyl 金绿宝石）的不同变种。斯里兰卡 Ratnapura（僧伽罗语\"宝石城\"）是历史最著名的产地。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysoberyl_cat's_eye.jpg?width=640",
+    "image_credit": "金绿猫眼 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "金绿猫眼合法贸易；斯里兰卡为经典产地。市售大量\"猫眼\"是石英 / 玻璃纤维（猫眼玻璃），真金绿猫眼需 GIA 鉴定。"
+    },
+    "sources": [
+      {
+        "type": "web",
+        "title": "Chrysoberyl – GIA",
+        "url": "https://www.gia.edu/chrysoberyl"
+      },
+      {
+        "type": "web",
+        "title": "Cymophane – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chrysoberyl"
+      }
+    ]
+  },
+  {
+    "id": "mediterranean_coral",
+    "name": "地中海红珊瑚",
+    "name_en": "Mediterranean Red Coral",
+    "region": "意大利 · 那不勒斯湾 / 撒丁岛",
+    "region_en": "Bay of Naples / Sardinia, Italy",
+    "coordinates": [
+      40.78,
+      14.3
+    ],
+    "category": "other",
+    "mineral_type": "红珊瑚 / Corallium rubrum（造礁珊瑚虫的钙质骨骼，有机宝石）",
+    "color": "牛血红、桃红、天使肌（angel skin 粉白）",
+    "marker_color": "#e0533a",
+    "earliest_year": -800,
+    "stories": [
+      {
+        "culture": "希腊神话 · 美杜莎之血",
+        "title": "Perseus 与海中的石化",
+        "content": "红珊瑚在希腊神话里有最血腥的起源。奥维德《变形记》记载：英雄珀尔修斯（Perseus）砍下蛇发女妖美杜莎的头后，把头放在海边的海草上。美杜莎的血和\"石化凝视\"渗入海草，海草瞬间变硬、变红——成了红珊瑚。从此海中仙女们把这些\"血红的枝条\"当珍宝采集。希腊语 \"Gorgeia\"（戈耳工之物）就指红珊瑚。古罗马人给婴儿戴红珊瑚辟邪，相信它能挡美杜莎式的\"恶眼\"。"
+      },
+      {
+        "culture": "当代 · 为什么我们不能卖",
+        "title": "从护身符到濒危物种",
+        "content": "地中海红珊瑚（Corallium rubrum）被人类采集了三千年——从腓尼基、罗马、到 19 世纪意大利 Torre del Greco 成为世界珊瑚加工之都。但过度采捕 + 海水升温让它濒临崩溃：地中海红珊瑚群落已减少 90% 以上。\n\n⚠️ **本平台不交易任何珊瑚制品**。红珊瑚（及阿卡珊瑚、深水珊瑚）受 CITES 附录管制，中国《国家重点保护野生动物名录》将红珊瑚列为一级保护，**禁止采集、加工、销售**——闲鱼等平台禁售名录也明确在列。这个条目仅作文化科普：让你知道这块\"血红的石头\"背后是一个真实濒危的物种，市面所谓\"老珊瑚\"绝大多数无合法来源。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Corallium_rubrum.jpg?width=640",
+    "image_credit": "地中海红珊瑚 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "prohibited",
+      "notes": "⚠️ 红珊瑚受 CITES 管制 + 中国国家一级保护，禁止采集 / 加工 / 销售。本条目仅作文化科普，平台绝不交易任何珊瑚制品。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Ovid",
+        "title": "Metamorphoses",
+        "year": 8,
+        "locator": "Book IV (Perseus & coral)"
+      },
+      {
+        "type": "web",
+        "title": "Corallium rubrum – CITES",
+        "url": "https://cites.org/"
+      }
+    ]
   }
 ]

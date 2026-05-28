@@ -1,0 +1,48 @@
+{
+  "id": "sugilite",
+  "name": "杉石",
+  "name_en": "Sugilite",
+  "region": "南非 · 北开普 · Wessels 矿",
+  "region_en": "Wessels Mine, Northern Cape, South Africa",
+  "coordinates": [
+    -27.1,
+    23.0
+  ],
+  "category": "other",
+  "mineral_type": "杉石 / Sugilite (复杂硅酸盐，锂铁锰致紫)",
+  "color": "皇家紫、玫红紫、深紫（不透明，蜡质光泽）",
+  "marker_color": "#8e3fb0",
+  "earliest_year": 1944,
+  "stories": [
+    {
+      "culture": "1944 · 日本命名",
+      "title": "杉健一的发现",
+      "content": "杉石 1944 年由日本岩石学家 杉健一（Ken-ichi Sugi）在日本濑户内海的岩城岛（Iwagi）首次发现——但当时只找到极小的黄绿色颗粒，没人在意。1976 年它被正式命名为 \"sugilite\" 纪念杉健一。直到 1979 年南非 Wessels 锰矿在地下 1000 米深处挖出大量**鲜紫色**的杉石，它才一跃成为宝石——这是矿物学史上\"命名 35 年后才变珍贵\"的罕见案例。"
+    },
+    {
+      "culture": "新世纪 · \"千禧之石\"",
+      "title": "疗愈圈的紫色明星",
+      "content": "杉石的浓郁皇家紫色配上不透明的蜡质光泽，在 1980-90 年代被新世纪（New Age）水晶疗愈圈热捧，称作\"千禧之石\"（stone of the millennium）、\"紫色力量石\"，声称能开启顶轮、连接精神世界。这种营销让它价格在 1990 年代飙升。它的主要、几乎唯一的商业产地仍是南非 Wessels 矿——产量稀少，顶级\"宝石级\"（半透明深紫）的杉石单价可超过部分翡翠。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sugilite.jpg?width=640",
+  "image_credit": "杉石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "杉石合法贸易；几乎唯一产地南非 Wessels 矿，产量稀少。市售有染色 / 注胶处理需鉴别。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Murakami, N. et al.",
+      "title": "Sugilite, a new mineral",
+      "year": 1976,
+      "locator": "Mineralogical Journal (Japan)"
+    },
+    {
+      "type": "web",
+      "title": "Sugilite – Mindat",
+      "url": "https://www.mindat.org/min-3829.html"
+    }
+  ]
+}

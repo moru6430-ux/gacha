@@ -1,0 +1,46 @@
+{
+  "id": "mogok_scapolite",
+  "name": "抹谷方柱石猫眼",
+  "name_en": "Mogok Scapolite Cat's Eye",
+  "region": "缅甸 · 抹谷",
+  "region_en": "Mogok, Myanmar",
+  "coordinates": [
+    22.92,
+    96.52
+  ],
+  "category": "other",
+  "mineral_type": "方柱石 / Scapolite（钠钙硅酸盐系列，含管状包体显猫眼）",
+  "color": "粉紫、蜜黄、紫罗兰（部分有猫眼，部分有变色 tenebrescence）",
+  "marker_color": "#c4a850",
+  "earliest_year": 1913,
+  "stories": [
+    {
+      "culture": "宝石学 · 长得像一切",
+      "title": "又一个\"伪装大师\"",
+      "content": "方柱石（scapolite）是宝石界另一个\"伪装者\"——粉紫色的像紫锂辉石、蜜黄色的像黄水晶 / 金绿柱石、有猫眼的像金绿猫眼。它 1913 年才在缅甸抹谷被确认为宝石。名字 scapolite 来自希腊 skapos（杆 / 柱），因为晶体常呈细长柱状。抹谷的粉紫色方柱石猫眼是收藏家眼中的精品——一道清晰的银白猫眼光浮在粉紫色上。"
+    },
+    {
+      "culture": "物理 · 会\"晒黑\"又\"褪色\"的石头",
+      "title": "tenebrescence 变色现象",
+      "content": "某些方柱石有一种罕见的光学性质叫 \"tenebrescence\"（晒变色 / 可逆光致变色）——在紫外光 / 阳光照射下颜色会**加深变暗**，放在黑暗中又慢慢**褪回浅色**，可反复。这和方钠石（hackmanite，方钠石的一种）共有的特性，源于晶格中硫原子的电子被光激发。极少数矿物有这种\"会晒黑也会褪色\"的本事。这让方柱石成为矿物物理课的明星教具，但也意味着佩戴时颜色会随光线变化、不稳定。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scapolite.jpg?width=640",
+  "image_credit": "方柱石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "方柱石本身合法；缅甸抹谷产货受 2021 政变后部分制裁影响。其他产地（马达加斯加、坦桑尼亚、巴西）合法流通。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Scapolite – GIA",
+      "url": "https://www.gia.edu/scapolite"
+    },
+    {
+      "type": "web",
+      "title": "Scapolite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scapolite"
+    }
+  ]
+}

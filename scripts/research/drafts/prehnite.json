@@ -1,0 +1,47 @@
+{
+  "id": "prehnite",
+  "name": "葡萄石",
+  "name_en": "Prehnite",
+  "region": "南非 · 好望角（首发地）",
+  "region_en": "Cape of Good Hope, South Africa",
+  "coordinates": [
+    -34.21,
+    18.4
+  ],
+  "category": "other",
+  "mineral_type": "葡萄石 / Prehnite (Ca₂Al₂Si₃O₁₀(OH)₂)",
+  "color": "葡萄绿、柠檬黄绿（半透明，葡萄串状集合体）",
+  "marker_color": "#a0c47a",
+  "earliest_year": 1788,
+  "stories": [
+    {
+      "culture": "矿物学史 · 第一个\"以人命名\"的矿物",
+      "title": "von Prehn 上校",
+      "content": "葡萄石（prehnite）在矿物学史上有个特殊地位：它是**历史上第一个以人名命名的矿物**。1788 年荷兰东印度公司的军官 Hendrik von Prehn 上校从南非好望角带回一批绿色矿物标本，德国地质学家 Werner 用他的名字命名。在此之前矿物都按颜色 / 产地 / 性质命名——葡萄石开创了\"以发现者命名\"的传统，后来的孔赛石、摩根石、查罗石都是沿这条路。"
+    },
+    {
+      "culture": "当代 · \"希望之石\"与冒充葡萄",
+      "title": "半透明的禅意",
+      "content": "葡萄石半透明的黄绿色配上葡萄串般的结核形态，近年在水晶疗愈圈被叫\"希望之石\"\"预言之石\"。它常与绿色的鱼眼石、辉沸石伴生，做成原矿摆件很受欢迎。市场上有时被叫\"绿碧榴\"\"好望角祖母绿\"等误导名。葡萄石硬度 6-6.5，比多数\"软宝石\"耐用些，可做吊坠。主产地现在是马里、澳大利亚、中国四川。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prehnite.jpg?width=640",
+  "image_credit": "葡萄石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "葡萄石合法贸易、平价。市售有误导命名（\"好望角祖母绿\"等），认准 prehnite。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Werner, A.G.",
+      "title": "Prehnit naming",
+      "year": 1788
+    },
+    {
+      "type": "web",
+      "title": "Prehnite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prehnite"
+    }
+  ]
+}

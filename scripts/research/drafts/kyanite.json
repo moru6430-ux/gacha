@@ -1,0 +1,46 @@
+{
+  "id": "kyanite",
+  "name": "蓝晶石",
+  "name_en": "Kyanite",
+  "region": "巴西 · 米纳斯吉拉斯 / 尼泊尔",
+  "region_en": "Minas Gerais, Brazil / Nepal",
+  "coordinates": [
+    -18.0,
+    -43.0
+  ],
+  "category": "other",
+  "mineral_type": "蓝晶石 / Kyanite (Al₂SiO₅) · 又名 disthene（\"双硬度\"）",
+  "color": "靛蓝、天蓝带白条（蓝宝石替代）",
+  "marker_color": "#3a6ec0",
+  "earliest_year": 1789,
+  "stories": [
+    {
+      "culture": "命名 · 蓝色与\"两种硬度\"",
+      "title": "一块石头两个硬度",
+      "content": "蓝晶石有两个名字：kyanite（来自希腊 kyanos = 深蓝）和 disthene（希腊 di-sthenos = \"两种力量\"）。后者揭示它最奇特的性质——**同一块晶体在不同方向上硬度完全不同**：沿晶体长轴方向莫氏硬度只有 4.5（指甲刀都难划但钢针能划），垂直方向却达到 7（能划玻璃）。世界上几乎没有第二种矿物有这么大的方向性硬度差。这让蓝晶石极难切磨——工匠必须精确判断方向。"
+    },
+    {
+      "culture": "工业 · 喷气发动机里的蓝晶石",
+      "title": "从宝石到耐火材料",
+      "content": "蓝晶石和红柱石、矽线石是\"同质多象\"三兄弟（成分都是 Al₂SiO₅）。蓝晶石加热到 1100°C 以上会转变成莫来石（mullite）——一种极耐高温的陶瓷。所以全球绝大部分开采的蓝晶石不是做宝石，而是做**耐火材料**：钢铁冶炼的炉衬、火花塞绝缘体、喷气发动机的高温部件。宝石级蓝色蓝晶石只是副产品。尼泊尔喜马拉雅产的靛蓝色蓝晶石是宝石市场新宠，颜色能媲美克什米尔蓝宝石。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyanite.jpg?width=640",
+  "image_credit": "蓝晶石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "蓝晶石合法贸易；方向性硬度差异大、难切磨。多数产量用于工业耐火材料。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Kyanite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyanite"
+    },
+    {
+      "type": "web",
+      "title": "Kyanite – Mindat",
+      "url": "https://www.mindat.org/min-2303.html"
+    }
+  ]
+}

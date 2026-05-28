@@ -1,0 +1,47 @@
+{
+  "id": "venetian_aventurine",
+  "name": "东陵石 / 金星石",
+  "name_en": "Aventurine",
+  "region": "意大利 · 威尼斯 · 穆拉诺岛（命名地）",
+  "region_en": "Murano, Venice, Italy (etymology)",
+  "coordinates": [
+    45.46,
+    12.35
+  ],
+  "category": "quartz",
+  "mineral_type": "石英岩 / Quartzite（含云母 / 铬云母片显砂金效应）",
+  "color": "绿（铬云母）、橙棕（赤铁矿），带闪烁金点",
+  "marker_color": "#4a9a5a",
+  "earliest_year": 1700,
+  "stories": [
+    {
+      "culture": "威尼斯 · 一场玻璃作坊的意外",
+      "title": "\"a ventura\"——碰运气",
+      "content": "\"Aventurine\"（东陵石 / 砂金石）的名字其实来自一种**玻璃**，而非天然石头。约 17-18 世纪威尼斯穆拉诺岛的玻璃工匠在熔制玻璃时，不小心把铜屑掉进熔炉，冷却后玻璃里布满闪烁的金色铜点——意外做出了\"金星玻璃\"（aventurine glass），意大利语 \"a ventura\" 意思是\"碰运气 / 偶然\"。后来人们发现天然界也有类似闪光的石英岩，就反过来借用这个玻璃的名字称呼天然石头。这是少见的\"人造材料命名天然矿物\"的案例。"
+    },
+    {
+      "culture": "东方 · \"东陵玉\"与印度",
+      "title": "冒充翡翠的绿",
+      "content": "绿色东陵石的闪光来自内部的铬云母（fuchsite）薄片。它质地致密、价格低廉，在中国常被叫\"东陵玉\"（得名印度产地 + 玉石质感），是翡翠最常见的廉价冒充品之一——但东陵石的绿偏暗、带明显金属闪点，翡翠是温润无闪点的。印度是绿色东陵石的主产地。今天东陵石主要做平价手串、摆件，水晶圈称它\"机遇之石\"（呼应那个\"碰运气\"的词源）。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aventurine.jpg?width=640",
+  "image_credit": "东陵石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "东陵石合法贸易、平价；常冒充翡翠（\"东陵玉\"），认准闪烁金点 + 偏暗绿色。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Aventurine – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aventurine"
+    },
+    {
+      "type": "secondary",
+      "author": "Moretti & Hreglich",
+      "title": "Aventurine glass of Murano",
+      "year": 1984
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "frederick_chrysoprase",
+  "name": "西里西亚绿玉髓",
+  "name_en": "Silesian Chrysoprase",
+  "region": "波兰 · 下西里西亚 · Szklary",
+  "region_en": "Szklary, Lower Silesia, Poland",
+  "coordinates": [
+    50.62,
+    16.83
+  ],
+  "category": "agate",
+  "mineral_type": "玉髓 / Chalcedony（镍致苹果绿，nickel-bearing）",
+  "color": "苹果绿、葱绿（半透明，镍致色）",
+  "marker_color": "#7fc452",
+  "earliest_year": -300,
+  "stories": [
+    {
+      "culture": "普鲁士 · 腓特烈大帝的痴迷",
+      "title": "无忧宫的绿",
+      "content": "绿玉髓的颜色来自微量镍。波兰下西里西亚 Szklary 矿是欧洲历史最重要的绿玉髓产地。普鲁士国王腓特烈大帝（Frederick the Great，1712-1786）对它痴迷——他下令把波茨坦无忧宫（Sanssouci）的多个房间用绿玉髓镶嵌，自己的鼻烟壶、戒指、家具镶嵌都用它。他甚至两次亲自视察 Szklary 矿。"
+    },
+    {
+      "culture": "古典 · 亚历山大的护身石",
+      "title": "\"胜利之石\"传说",
+      "content": "更古的传说把绿玉髓与亚历山大大帝绑定：据说他征战时腰带上镶着一块绿玉髓，战无不胜；直到一天他在幼发拉底河洗澡时，一条蛇把石头叼走丢进河里，从此他再没打过胜仗、不久病逝。这个\"胜利之石\"传说让绿玉髓在中世纪欧洲被视为护佑成功的护符。19 世纪 Szklary 矿枯竭后，主产地转到澳大利亚昆士兰（\"澳洲玉\"实为绿玉髓）和坦桑尼亚。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysoprase.jpg?width=640",
+  "image_credit": "绿玉髓 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "绿玉髓合法贸易；澳洲昆士兰为现代主产地（常被称\"澳洲玉\"）。市售染色绿玉髓需鉴别。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Sachanbinski, M. et al.",
+      "title": "Chrysoprase from Szklary (Poland)",
+      "year": 2001
+    },
+    {
+      "type": "web",
+      "title": "Chrysoprase – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chrysoprase"
+    }
+  ]
+}

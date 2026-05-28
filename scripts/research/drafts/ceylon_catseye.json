@@ -1,0 +1,46 @@
+{
+  "id": "ceylon_catseye",
+  "name": "锡兰金绿猫眼",
+  "name_en": "Ceylon Chrysoberyl Cat's Eye",
+  "region": "斯里兰卡 · 拉特纳普勒",
+  "region_en": "Ratnapura, Sri Lanka",
+  "coordinates": [
+    6.68,
+    80.41
+  ],
+  "category": "other",
+  "mineral_type": "金绿宝石 / Chrysoberyl（含金红石管显猫眼，与亚历山大石同种）",
+  "color": "蜜黄、苹果绿、灰绿，一道锐利的银白猫眼光",
+  "marker_color": "#b0902a",
+  "earliest_year": 1000,
+  "stories": [
+    {
+      "culture": "亚洲 · \"守护之眼\"",
+      "title": "能闭合的眼睛",
+      "content": "金绿猫眼（cymophane）是猫眼效应最完美的宝石——一道锐利的银白光带浮在蜜黄色弧面上，转动时光带像猫的瞳孔一样开合、游移，称作\"牛奶蜂蜜\"效应（最佳猫眼在斜射光下一半奶白一半蜜黄）。亚洲很多文化（斯里兰卡、印度、中国）相信这只\"眼睛\"能看穿邪恶、守护佩戴者，是辟邪护身的最高级宝石之一。在印度占星术中它对应\"计都\"（Ketu，月球南交点），被认为能挡灾。"
+    },
+    {
+      "culture": "词源 · 唯一独占\"猫眼\"之名",
+      "title": "不加前缀的猫眼",
+      "content": "很多宝石都有猫眼效应（石英猫眼、碧玺猫眼、磷灰石猫眼…），但在宝石行业里有个铁律：**只有金绿宝石的猫眼可以直接叫 \"cat's eye\"（猫眼），不加矿物名前缀**。其他所有猫眼都必须写明矿物（如 \"quartz cat's eye\"）。这是因为金绿猫眼的猫眼效应最锐利、最经典，被公认为\"猫眼\"的标准。它和亚历山大变石是同一种矿物（chrysoberyl 金绿宝石）的不同变种。斯里兰卡 Ratnapura（僧伽罗语\"宝石城\"）是历史最著名的产地。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysoberyl_cat's_eye.jpg?width=640",
+  "image_credit": "金绿猫眼 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "金绿猫眼合法贸易；斯里兰卡为经典产地。市售大量\"猫眼\"是石英 / 玻璃纤维（猫眼玻璃），真金绿猫眼需 GIA 鉴定。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Chrysoberyl – GIA",
+      "url": "https://www.gia.edu/chrysoberyl"
+    },
+    {
+      "type": "web",
+      "title": "Cymophane – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chrysoberyl"
+    }
+  ]
+}

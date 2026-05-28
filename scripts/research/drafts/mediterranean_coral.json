@@ -1,0 +1,48 @@
+{
+  "id": "mediterranean_coral",
+  "name": "地中海红珊瑚",
+  "name_en": "Mediterranean Red Coral",
+  "region": "意大利 · 那不勒斯湾 / 撒丁岛",
+  "region_en": "Bay of Naples / Sardinia, Italy",
+  "coordinates": [
+    40.78,
+    14.3
+  ],
+  "category": "other",
+  "mineral_type": "红珊瑚 / Corallium rubrum（造礁珊瑚虫的钙质骨骼，有机宝石）",
+  "color": "牛血红、桃红、天使肌（angel skin 粉白）",
+  "marker_color": "#e0533a",
+  "earliest_year": -800,
+  "stories": [
+    {
+      "culture": "希腊神话 · 美杜莎之血",
+      "title": "Perseus 与海中的石化",
+      "content": "红珊瑚在希腊神话里有最血腥的起源。奥维德《变形记》记载：英雄珀尔修斯（Perseus）砍下蛇发女妖美杜莎的头后，把头放在海边的海草上。美杜莎的血和\"石化凝视\"渗入海草，海草瞬间变硬、变红——成了红珊瑚。从此海中仙女们把这些\"血红的枝条\"当珍宝采集。希腊语 \"Gorgeia\"（戈耳工之物）就指红珊瑚。古罗马人给婴儿戴红珊瑚辟邪，相信它能挡美杜莎式的\"恶眼\"。"
+    },
+    {
+      "culture": "当代 · 为什么我们不能卖",
+      "title": "从护身符到濒危物种",
+      "content": "地中海红珊瑚（Corallium rubrum）被人类采集了三千年——从腓尼基、罗马、到 19 世纪意大利 Torre del Greco 成为世界珊瑚加工之都。但过度采捕 + 海水升温让它濒临崩溃：地中海红珊瑚群落已减少 90% 以上。\n\n⚠️ **本平台不交易任何珊瑚制品**。红珊瑚（及阿卡珊瑚、深水珊瑚）受 CITES 附录管制，中国《国家重点保护野生动物名录》将红珊瑚列为一级保护，**禁止采集、加工、销售**——闲鱼等平台禁售名录也明确在列。这个条目仅作文化科普：让你知道这块\"血红的石头\"背后是一个真实濒危的物种，市面所谓\"老珊瑚\"绝大多数无合法来源。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Corallium_rubrum.jpg?width=640",
+  "image_credit": "地中海红珊瑚 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "prohibited",
+    "notes": "⚠️ 红珊瑚受 CITES 管制 + 中国国家一级保护，禁止采集 / 加工 / 销售。本条目仅作文化科普，平台绝不交易任何珊瑚制品。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Ovid",
+      "title": "Metamorphoses",
+      "year": 8,
+      "locator": "Book IV (Perseus & coral)"
+    },
+    {
+      "type": "web",
+      "title": "Corallium rubrum – CITES",
+      "url": "https://cites.org/"
+    }
+  ]
+}

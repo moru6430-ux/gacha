@@ -1,0 +1,48 @@
+{
+  "id": "renaissance_azurite",
+  "name": "文艺复兴蓝铜矿",
+  "name_en": "Renaissance Azurite",
+  "region": "法国 · 谢西矿（颜料史中心）",
+  "region_en": "Chessy-les-Mines, France",
+  "coordinates": [
+    45.88,
+    4.62
+  ],
+  "category": "other",
+  "mineral_type": "蓝铜矿 / Azurite (Cu₃(CO₃)₂(OH)₂)",
+  "color": "深蔚蓝、靛蓝（会随湿度 / 时间逐渐变绿成孔雀石）",
+  "marker_color": "#1c4fa0",
+  "earliest_year": -2500,
+  "stories": [
+    {
+      "culture": "文艺复兴 · 平民版\"圣母蓝\"",
+      "title": "青金石买不起时",
+      "content": "文艺复兴绘画里圣母玛利亚的蓝袍，最贵的用青金石磨的\"群青\"（ultramarine，比黄金还贵）。但大多数画家买不起——他们用蓝铜矿磨的\"石青\"（azurite blue）替代，价格只有群青的几十分之一。所以同一幅画里，圣母正面袍子可能用群青，背面 / 次要人物用蓝铜矿。提香、拉斐尔、丢勒的作品中都大量使用蓝铜矿蓝。"
+    },
+    {
+      "culture": "化学 · 会变绿的蓝",
+      "title": "名画里悄悄发生的反应",
+      "content": "蓝铜矿是碱式碳酸铜——它在潮湿空气中**会缓慢转化成孔雀石**（同样是碱式碳酸铜，但含水比例不同，呈绿色）。这意味着文艺复兴时期用蓝铜矿画的蓝天、蓝袍，几百年后很多已经悄悄变成了绿色。今天美术馆里某些\"绿色天空\"的古画，原本画的是蓝天——这是文物修复界著名的\"azurite 绿化\"难题。蓝铜矿与孔雀石常共生于同一块铜矿氧化带，所以乌拉尔孔雀石矿里也能挖到蓝铜矿。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Azurite.jpg?width=640",
+  "image_credit": "蓝铜矿 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "蓝铜矿合法贸易；硬度低（3.5-4）多作标本 / 颜料 / 雕件。会随时间变绿，需干燥避光保存。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Gettens, R.J. & Fitzhugh, E.W.",
+      "title": "Azurite and Blue Verditer",
+      "year": 1966,
+      "locator": "Studies in Conservation"
+    },
+    {
+      "type": "web",
+      "title": "Azurite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Azurite"
+    }
+  ]
+}

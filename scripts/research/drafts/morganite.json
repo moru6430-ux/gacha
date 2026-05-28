@@ -1,0 +1,47 @@
+{
+  "id": "morganite",
+  "name": "摩根石",
+  "name_en": "Morganite",
+  "region": "美国 · 加州 · Pala / 马达加斯加",
+  "region_en": "Pala, California, USA",
+  "coordinates": [
+    33.36,
+    -116.87
+  ],
+  "category": "other",
+  "mineral_type": "绿柱石 / Beryl var. morganite（锰致粉色）",
+  "color": "樱花粉、桃粉、橙粉（与祖母绿 / 海蓝宝同矿物种）",
+  "marker_color": "#e8a8c0",
+  "earliest_year": 1910,
+  "stories": [
+    {
+      "culture": "1910 · 又是 Kunz",
+      "title": "以银行家命名",
+      "content": "1910 年加州 Pala 矿区发现一种粉色绿柱石。Tiffany 首席宝石学家 George Kunz（命名孔赛石的那位）建议以他的大客户、金融巨头 J.P. Morgan（摩根大通创始人）的名字命名为 \"morganite\"——Morgan 不仅是 Tiffany 的大主顾，还是美国自然历史博物馆、大都会博物馆宝石收藏的主要捐助人。这是一桩典型的\"宝石商人讨好金主\"的命名。"
+    },
+    {
+      "culture": "当代 · 婚戒新宠",
+      "title": "玫瑰金 + 摩根石的营销奇迹",
+      "content": "摩根石长期是冷门——直到 2010 年代社交媒体兴起。它柔和的桃粉色配玫瑰金底座，在 Instagram / Pinterest 上极上镜，被营销成\"钻石的平价浪漫替代\"婚戒。2015-2020 摩根石订婚戒搜索量暴涨数十倍。这是一个\"老矿物靠新媒体翻红\"的标准案例。主产地现为巴西米纳斯吉拉斯和马达加斯加；加州 Pala 原矿基本枯竭。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Morganite.jpg?width=640",
+  "image_credit": "摩根石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "摩根石合法贸易；常经加热去除橙黄调以增强粉色（行业可接受、应披露）。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Kunz, George F.",
+      "title": "Morganite naming – Academy of Sciences",
+      "year": 1911
+    },
+    {
+      "type": "web",
+      "title": "Morganite – GIA",
+      "url": "https://www.gia.edu/morganite"
+    }
+  ]
+}

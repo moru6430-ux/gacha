@@ -1,0 +1,48 @@
+{
+  "id": "california_benitoite",
+  "name": "加州蓝锥矿",
+  "name_en": "California Benitoite",
+  "region": "美国 · 加州 · 圣贝尼托县",
+  "region_en": "San Benito County, California, USA",
+  "coordinates": [
+    36.6,
+    -120.6
+  ],
+  "category": "other",
+  "mineral_type": "蓝锥矿 / Benitoite (BaTiSi₃O₉)",
+  "color": "蓝宝石蓝、靛蓝（紫外灯下发亮蓝色荧光）",
+  "marker_color": "#2a6fc5",
+  "earliest_year": 1907,
+  "stories": [
+    {
+      "culture": "1907 · 被误认的蓝宝石",
+      "title": "加州州宝石",
+      "content": "1907 年探矿人 James Couch 在加州圣贝尼托河源头发现一批蓝色晶体，以为是蓝宝石。送到加州大学伯克利分校鉴定后，1909 年地质学家 George Louderback 确认它是一种**全新的矿物物种**——以发现地命名为 benitoite（蓝锥矿）。1985 年它成为加州官方\"州宝石\"。"
+    },
+    {
+      "culture": "矿物学 · 全球唯一",
+      "title": "一处矿的宝石",
+      "content": "蓝锥矿的稀有度极端：宝石级的蓝锥矿**全球只有加州圣贝尼托一处矿**（Gem Mine）产出过。它在紫外灯下发出强烈的亮蓝色荧光，像一小块发光的天空。该矿 2006 年商业开采停止，现在只允许付费\"自己挖\"。一颗超过 1 克拉的干净蓝锥矿就属罕见，超过 2 克拉的属博物馆级。它是矿物收藏界的\"圣杯\"之一——稀有度远超多数主流宝石，但因为产量太小、知名度反而不如蓝宝石。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Benitoite.jpg?width=640",
+  "image_credit": "蓝锥矿 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "蓝锥矿合法贸易；全球唯一宝石级产地加州，商业开采已停，存量极少、价格高。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Louderback, George D.",
+      "title": "Benitoite, a new California gem mineral",
+      "year": 1909,
+      "locator": "UC Berkeley"
+    },
+    {
+      "type": "web",
+      "title": "Benitoite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Benitoite"
+    }
+  ]
+}

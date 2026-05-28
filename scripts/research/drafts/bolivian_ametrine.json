@@ -1,0 +1,48 @@
+{
+  "id": "bolivian_ametrine",
+  "name": "玻利维亚紫黄晶",
+  "name_en": "Bolivian Ametrine",
+  "region": "玻利维亚 · 圣克鲁斯 · Anahí 矿",
+  "region_en": "Anahí Mine, Santa Cruz, Bolivia",
+  "coordinates": [
+    -18.0,
+    -58.5
+  ],
+  "category": "amethyst",
+  "mineral_type": "石英 / Quartz（紫晶 + 黄晶共生于同一晶体）",
+  "color": "一半紫罗兰、一半金黄（天然双色，分界清晰）",
+  "marker_color": "#9b6dc4",
+  "earliest_year": 1600,
+  "stories": [
+    {
+      "culture": "西班牙征服 · Anahí 公主",
+      "title": "撕裂的忠诚",
+      "content": "17 世纪一名西班牙征服者娶了玻利维亚 Ayoreo 部族的公主 Anahí，作为联姻得到了她部族的紫黄晶矿作嫁妆。当他要带 Anahí 回西班牙时，她在部族与爱人之间被撕裂——临终时她把一块紫黄双色的石头交给丈夫，紫色代表她对部族的忠诚，黄色代表对他的爱。这就是 Anahí 矿名字的由来，也是紫黄晶\"双色=两难抉择\"象征的源头。"
+    },
+    {
+      "culture": "矿物学 · 一块晶体里的两个温度",
+      "title": "天然双色的稀有",
+      "content": "紫黄晶（ametrine = amethyst + citrine）是紫水晶与黄水晶在同一块石英晶体里共生——成因是晶体不同区域所受的温度 / 辐照不同：受热区铁离子转为黄色，未受热区保持紫色。全球商业级紫黄晶**几乎只产自玻利维亚 Anahí 一矿**。市面大量\"紫黄晶\"是普通紫晶局部加热伪造的，分界会模糊；天然的分界锐利如刀切。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ametrine.jpg?width=640",
+  "image_credit": "紫黄晶 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "紫黄晶合法贸易；天然双色几乎只产玻利维亚 Anahí 矿。市售大量加热伪造，需看分界是否锐利 + GIA 鉴定。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Vasconcelos, Paulo M. et al.",
+      "title": "Bolivian ametrine",
+      "year": 1994,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Ametrine – GIA",
+      "url": "https://www.gia.edu/ametrine"
+    }
+  ]
+}

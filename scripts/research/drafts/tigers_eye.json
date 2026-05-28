@@ -1,0 +1,48 @@
+{
+  "id": "tigers_eye",
+  "name": "南非虎睛石",
+  "name_en": "South African Tiger's Eye",
+  "region": "南非 · 北开普 · Griqualand West",
+  "region_en": "Griqualand West, Northern Cape, South Africa",
+  "coordinates": [
+    -28.5,
+    23.5
+  ],
+  "category": "quartz",
+  "mineral_type": "石英假晶 / Silicified crocidolite（石英交代青石棉）",
+  "color": "金棕、蜜黄、红棕，带丝绢猫眼光（chatoyancy）",
+  "marker_color": "#b8860b",
+  "earliest_year": 100,
+  "stories": [
+    {
+      "culture": "古罗马 · 全视之眼",
+      "title": "士兵的护身符",
+      "content": "虎睛石的\"猫眼效应\"——一道随光移动的亮带——让古人相信它是\"睁着的眼睛\"，能看穿一切、洞察危险。古罗马士兵把虎睛石刻成护身符带上战场，相信它既能让自己勇猛如虎、又能在战场上\"看见\"敌人的暗箭。古埃及人则用虎睛石做神像的眼睛，认为它有 Ra（太阳神）和 Geb（大地神）的双重力量。"
+    },
+    {
+      "culture": "矿物学 · 一场\"假晶\"的误会",
+      "title": "不是纤维，是石英",
+      "content": "长期以来教科书说虎睛石是石英\"交代\"了青石棉纤维（pseudomorph）——石棉溶解、石英逐层填充，保留了纤维结构形成猫眼光。但 2003 年一项研究提出新机制：\"裂隙同步生长\"（crack-seal），即石英和青石棉是同时反复生长充填裂隙的。无论哪种，虎睛石都含微量石棉成分——所以**打磨虎睛石原石时要戴口罩**（吸入石棉粉尘有害），但成品抛光后封闭稳定，佩戴无害。南非 Griqualand West 是全球主产地。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiger's_eye.jpg?width=640",
+  "image_credit": "虎睛石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "虎睛石合法贸易；成品佩戴无害，但原石打磨需防石棉粉尘。市售大量染色（红虎睛石多为加热/染色）。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Heaney, Peter J. & Fisher, Donald M.",
+      "title": "New interpretation of the origin of tiger's-eye",
+      "year": 2003,
+      "locator": "Geology"
+    },
+    {
+      "type": "web",
+      "title": "Tiger's eye – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tiger%27s_eye"
+    }
+  ]
+}

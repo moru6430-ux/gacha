@@ -1,0 +1,47 @@
+{
+  "id": "utah_variscite",
+  "name": "犹他磷铝石",
+  "name_en": "Utah Variscite",
+  "region": "美国 · 犹他 · Fairfield",
+  "region_en": "Fairfield (Clay Canyon), Utah, USA",
+  "coordinates": [
+    40.27,
+    -112.1
+  ],
+  "category": "other",
+  "mineral_type": "磷铝石 / Variscite (AlPO₄·2H₂O)",
+  "color": "苹果绿、青绿（常被当绿松石替代，带褐色蛛网纹）",
+  "marker_color": "#5ca870",
+  "earliest_year": 1900,
+  "stories": [
+    {
+      "culture": "北美原住民 · 绿松石的\"近亲\"",
+      "title": "难分的两种绿",
+      "content": "磷铝石的青绿色与绿松石极其相似，常被当作绿松石的替代品甚至冒充。北美西南原住民（普韦布洛、纳瓦霍）在绿松石稀缺时也用磷铝石做装饰。犹他 Clay Canyon 的\"Lucin variscite\"以质地致密、蛛网纹漂亮著称，19 世纪末被发现后成为标本界名品。鉴别：磷铝石偏黄绿，绿松石偏蓝绿；化学上磷铝石是磷酸铝、绿松石是磷酸铜铝。"
+    },
+    {
+      "culture": "欧洲史前 · 巨石墓的陪葬",
+      "title": "比想象更古老的崇拜",
+      "content": "磷铝石的使用其实比北美早得多。欧洲新石器时代（公元前 5000-3000 年）伊比利亚半岛的巨石墓里出土过大量磷铝石珠子——西班牙 Gavà 的\"史前磷铝石矿\"是欧洲已知最古老的地下矿之一，矿工用鹿角镐在地下挖磷铝石做绿色珠饰，随死者下葬。所以磷铝石是欧洲史前最早被系统开采的\"宝石\"之一，比金属冶炼还早。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Variscite.jpg?width=640",
+  "image_credit": "磷铝石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "磷铝石合法贸易；常与绿松石混淆 / 冒充。Gavà 史前矿区为西班牙文物保护地。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Villalba, M.J. et al.",
+      "title": "Variscite mines of Gavà",
+      "year": 1986
+    },
+    {
+      "type": "web",
+      "title": "Variscite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Variscite"
+    }
+  ]
+}

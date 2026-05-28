@@ -1,0 +1,46 @@
+{
+  "id": "citrine",
+  "name": "黄水晶",
+  "name_en": "Citrine",
+  "region": "巴西 · 南里奥格兰德 / 西班牙（历史名）",
+  "region_en": "Rio Grande do Sul, Brazil",
+  "coordinates": [
+    -29.5,
+    -51.5
+  ],
+  "category": "quartz",
+  "mineral_type": "石英 / Quartz var. citrine（铁致黄色）",
+  "color": "柠檬黄、金黄、马德拉酒红（多为紫晶加热）",
+  "marker_color": "#e0a022",
+  "earliest_year": -300,
+  "stories": [
+    {
+      "culture": "古希腊罗马 · \"假托帕石\"",
+      "title": "名字里的柑橘",
+      "content": "\"Citrine\" 来自拉丁 / 法语 citron（柠檬）。古希腊罗马时期黄水晶常被与黄色托帕石、橄榄石混为一谈——三者都是\"黄色透明宝石\"。古希腊从公元前 3 世纪就用黄水晶做雕刻凹版印章。因为颜色像太阳和黄金，它在很多文化里象征繁荣财富，今天中文圈把它叫\"招财石\"也是这条线的延续。"
+    },
+    {
+      "culture": "现代 · 90% 是烤出来的",
+      "title": "紫晶的另一种命运",
+      "content": "天然黄水晶其实**很稀有**——市面上 90% 以上的\"黄水晶\"是紫水晶或烟晶加热到 400-500°C 烤出来的（紫晶里的铁离子受热变色）。这个工艺 18 世纪起在欧洲成熟。深橙红色的\"马德拉黄水晶\"（Madeira citrine，得名葡萄牙马德拉酒色）几乎全是加热货。天然黄水晶颜色偏淡柠檬色、分布均匀；加热货颜色偏橙红、常在晶尖更深。最大产地是巴西南里奥格兰德州——和紫水晶同矿，因为本就是同一种石英。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Citrine.jpg?width=640",
+  "image_credit": "黄水晶 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "黄水晶合法贸易；90%+ 为紫晶加热，按行规属可接受处理但应披露。天然黄水晶稀少、价高。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Citrine – GIA",
+      "url": "https://www.gia.edu/citrine"
+    },
+    {
+      "type": "web",
+      "title": "Citrine – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Citrine_(quartz)"
+    }
+  ]
+}

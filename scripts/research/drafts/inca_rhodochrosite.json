@@ -1,0 +1,47 @@
+{
+  "id": "inca_rhodochrosite",
+  "name": "印加玫瑰菱锰矿",
+  "name_en": "Inca Rose Rhodochrosite",
+  "region": "阿根廷 · 卡塔马卡 · Capillitas 矿",
+  "region_en": "Capillitas Mine, Catamarca, Argentina",
+  "coordinates": [
+    -27.35,
+    -66.4
+  ],
+  "category": "other",
+  "mineral_type": "菱锰矿 / Rhodochrosite (MnCO₃)",
+  "color": "玫瑰红、樱桃粉带白色同心环纹（钟乳石截面）",
+  "marker_color": "#d44a6a",
+  "earliest_year": 1200,
+  "stories": [
+    {
+      "culture": "印加 · \"Rosa del Inca\"",
+      "title": "国王之血凝成的钟乳石",
+      "content": "阿根廷西北安第斯山的 Capillitas 银矿在印加时代（13 世纪）就被开采。矿洞里垂下粉红色的菱锰矿钟乳石——印加人称它 \"Rosa del Inca\"（印加玫瑰），传说是历代印加王死后，他们的血渗入山中，年复一年凝结成的玫瑰色石钟乳。截开钟乳石，里面是一圈圈同心的玫瑰红与乳白环纹，像树木年轮。"
+    },
+    {
+      "culture": "现代 · 阿根廷国石",
+      "title": "从矿渣到国家象征",
+      "content": "西班牙殖民时期 Capillitas 主要采银，菱锰矿被当作废石。直到 20 世纪宝石市场才重视它的玫瑰色环纹。1939 年它被命名为阿根廷\"国石\"。菱锰矿莫氏硬度只有 3.5-4（很软），且解理完全，几乎不能做戒指——主要做摆件、雕件、项链珠。最好的钟乳石截面标本来自 Capillitas，现代主产地则是南非 N'Chwaning 矿（出透明红宝石级菱锰矿单晶，那是另一个故事）。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodochrosite.jpg?width=640",
+  "image_credit": "菱锰矿 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "菱锰矿合法贸易。硬度低、易碎，多做摆件。阿根廷 Capillitas 钟乳石标本与南非透明单晶是两种不同收藏方向。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Sweet, William E.",
+      "title": "Rhodochrosite from Argentina",
+      "year": 2003
+    },
+    {
+      "type": "web",
+      "title": "Rhodochrosite – Mindat",
+      "url": "https://www.mindat.org/min-3406.html"
+    }
+  ]
+}

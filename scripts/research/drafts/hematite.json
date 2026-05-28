@@ -1,0 +1,48 @@
+{
+  "id": "hematite",
+  "name": "赤铁矿（赭石）",
+  "name_en": "Hematite (Ochre)",
+  "region": "西班牙 · 力拓 / 法国 · 拉斯科洞穴",
+  "region_en": "Rio Tinto, Spain / Lascaux, France",
+  "coordinates": [
+    37.69,
+    -6.59
+  ],
+  "category": "other",
+  "mineral_type": "赤铁矿 / Hematite (Fe₂O₃)",
+  "color": "金属灰黑（抛光）/ 血红（粉末，即赭石红）",
+  "marker_color": "#6a4a48",
+  "earliest_year": -40000,
+  "stories": [
+    {
+      "culture": "史前 · 人类最早的颜料",
+      "title": "拉斯科洞穴的红",
+      "content": "赤铁矿磨成粉就是\"赭石红\"（red ochre）——这是人类使用历史最久的颜料，没有之一。法国拉斯科、西班牙阿尔塔米拉的洞穴壁画（约 1.7-4 万年前）的红色都来自赤铁矿。更早：南非 Blombos 洞穴出土过 10 万年前的赭石加工\"工具包\"。全球几乎所有旧石器时代葬礼都用赭石撒在遗体上——红色象征血与生命，是人类最早的\"来世\"信仰物证。\"Hematite\" 来自希腊语 haima（血）。"
+    },
+    {
+      "culture": "近代 · \"血石\"与抛光镜",
+      "title": "会出血的石头",
+      "content": "赤铁矿抛光后呈银灰金属光泽，但用它在粗陶上划过会留下**血红色**的条痕（这是矿物学鉴定赤铁矿的标准方法——\"条痕红\"）。古罗马士兵相信赤铁矿能止血、给战士力量，把它磨成护身符。文艺复兴时期抛光的赤铁矿被当作镜子和印章石。现代市售大量\"磁性赤铁矿\"手串其实是人造材料 hematine（赤铁矿本身几乎无磁性），是常见的市场误导。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hematite.jpg?width=640",
+  "image_credit": "赤铁矿 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "赤铁矿合法贸易、廉价广布。市售\"磁性赤铁矿\"多为人造 hematine，并非天然赤铁矿。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Henshilwood, C.S. et al.",
+      "title": "A 100,000-year-old ochre-processing workshop at Blombos Cave",
+      "year": 2011,
+      "locator": "Science"
+    },
+    {
+      "type": "web",
+      "title": "Hematite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hematite"
+    }
+  ]
+}

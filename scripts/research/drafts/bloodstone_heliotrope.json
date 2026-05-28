@@ -1,0 +1,48 @@
+{
+  "id": "bloodstone_heliotrope",
+  "name": "血石（鸡血玉髓）",
+  "name_en": "Bloodstone (Heliotrope)",
+  "region": "印度 · 古吉拉特 / 卡提阿瓦半岛",
+  "region_en": "Kathiawar, Gujarat, India",
+  "coordinates": [
+    22.0,
+    71.0
+  ],
+  "category": "agate",
+  "mineral_type": "玉髓 / Chalcedony（深绿底 + 氧化铁红斑）",
+  "color": "墨绿底 + 鲜红血点（heliotrope 直译\"向日\"）",
+  "marker_color": "#2a5a3a",
+  "earliest_year": 200,
+  "stories": [
+    {
+      "culture": "基督教 · 殉道者之石",
+      "title": "基督的血",
+      "content": "中世纪基督教传说：耶稣受难被钉十字架时，他脚下正好有一块深绿色的碧玉，鲜血滴落其上、永远凝固成红斑——这就是血石的由来。因此血石在中世纪被称为\"殉道者之石\"（martyr's stone），是雕刻基督受难像（特别是\"鞭笞像\"）的首选材料。文艺复兴时期意大利工匠把血石的红斑巧妙安排在伤口位置，做成圣物。"
+    },
+    {
+      "culture": "古希腊罗马 · \"向日石\"",
+      "title": "能让太阳变红的石头",
+      "content": "更早的希腊罗马传统称它 heliotrope（向日石）。老普林尼《博物志》记载：把血石浸在水里、放到阳光下，水面会映出血红色的太阳倒影——古人认为这是石头\"捕获太阳\"的魔力，巴比伦占星师用它预言、求雨。3 世纪一本希腊魔法莎草纸甚至记载血石能让佩戴者\"隐形\"。今天血石是 3 月生辰石之一，主产地是印度卡提阿瓦半岛的玄武岩区。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bloodstone.jpg?width=640",
+  "image_credit": "血石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "血石合法贸易；主产印度。市售\"血点\"过于规则的可能是染色仿品。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Pliny the Elder",
+      "title": "Naturalis Historia",
+      "year": 77,
+      "locator": "Book XXXVII (heliotropium)"
+    },
+    {
+      "type": "web",
+      "title": "Bloodstone – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heliotrope_(mineral)"
+    }
+  ]
+}
