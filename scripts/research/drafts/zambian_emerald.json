@@ -1,0 +1,48 @@
+{
+  "id": "zambian_emerald",
+  "name": "赞比亚卡富布祖母绿",
+  "name_en": "Zambian Kafubu Emerald",
+  "region": "赞比亚 · 卡富布矿区",
+  "region_en": "Kafubu Mining Area, Copperbelt Province, Zambia",
+  "coordinates": [
+    -13.0,
+    28.0
+  ],
+  "category": "emerald",
+  "mineral_type": "绿柱石 / Beryl · 铁致色（vs 哥伦比亚穆佐的铬致色）",
+  "color": "深森林绿带蓝调（\"blue-green\" 比哥伦比亚祖母绿冷）",
+  "marker_color": "#157a4c",
+  "earliest_year": 1928,
+  "stories": [
+    {
+      "culture": "1928 · 殖民地的意外",
+      "title": "寻找翡翠铜矿",
+      "content": "1928 年英国殖民地南罗德西亚的 Miku 矿区一群英国地质学家本来在勘探铜矿——赞比亚铜矿带是世界最大铜矿产区之一。但他们在 Miku 山附近的伟晶岩脉里挖出几颗深绿色晶体——是高品质祖母绿。\n\n这一发现迟到了——20 世纪上半叶哥伦比亚穆佐祖母绿垄断全球市场，赞比亚货被当作\"替代品\"廉价倾销。直到 1976 年赞比亚独立后，国有的 Kagem 矿（卡富布主矿）才系统化生产，引入瑞士 SSEF 的产地鉴定，逐步建立\"赞比亚祖母绿\"的品牌地位。"
+    },
+    {
+      "culture": "赞比亚 vs 哥伦比亚 · 颜色之争",
+      "title": "蓝绿还是黄绿",
+      "content": "哥伦比亚祖母绿是铬致色（chromium）—— 纯绿略带黄。赞比亚祖母绿是铁致色（iron）+ 微量铬—— 绿带蓝调，更冷、更深。\n\n两派宝石爱好者长期对立：\n· 传统派 / 拍卖界：哥伦比亚 = 顶级，赞比亚 = 实用商品\n· 当代设计师 / Chopard / Gemfields：赞比亚 = 更现代的颜色 + 净度通常更好（哥伦比亚祖母绿内含物比赞比亚多得多）\n\nGemfields 公司 2008 年收购 Kagem 矿股份后，推广\"绿宝石 21 世纪应该是赞比亚的\"营销，连续 10 年赞助赞比亚祖母绿专题拍卖。今天赞比亚是全球第二大祖母绿产地（占 20%），价格已与穆佐顶级料缩小到 1.5-2 倍以内。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zambian_emerald.jpg?width=640",
+  "image_credit": "赞比亚祖母绿 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "赞比亚祖母绿合法国际贸易，主矿 Kagem 由英国上市公司 Gemfields 控股，供应链相对透明。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Zwaan, J.C. et al.",
+      "title": "Emeralds from Kafubu, Zambia",
+      "year": 2005,
+      "locator": "Gems & Gemology Vol. 41"
+    },
+    {
+      "type": "web",
+      "title": "Gemfields – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gemfields"
+    }
+  ]
+}

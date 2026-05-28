@@ -1,0 +1,48 @@
+{
+  "id": "cambodian_zircon",
+  "name": "柬埔寨拜林蓝锆石",
+  "name_en": "Cambodian Pailin Blue Zircon",
+  "region": "柬埔寨 · 拜林省",
+  "region_en": "Pailin Province, Cambodia",
+  "coordinates": [
+    12.85,
+    102.61
+  ],
+  "category": "other",
+  "mineral_type": "锆石 / Zircon (ZrSiO₄) · 热处理蓝色变种",
+  "color": "电光蓝、海蓝、薄荷蓝（褐色原石经加热后呈蓝）",
+  "marker_color": "#2dd4e4",
+  "earliest_year": 1900,
+  "stories": [
+    {
+      "culture": "加热工艺 · 1900s 暹罗的发明",
+      "title": "从褐石头到电光蓝",
+      "content": "锆石原矿大多是褐红色或灰色——丑石头。拜林矿区从 19 世纪末就有华人 / 暹罗工匠发现：把这种褐石头埋在木炭里烧到 800-1000°C 几个小时，颜色会戏剧性转为电光蓝。这是宝石学最早被工业化的\"热处理\"工艺之一。\n\n方法在 1920 年代成熟，泰国曼谷成为全球锆石热处理中心。今天市售 99% 的蓝锆石都经过加热——天然蓝色的锆石极罕见。GIA 和 GRS 都把\"加热\"作为标准披露项而非缺陷。"
+    },
+    {
+      "culture": "红色高棉年代 · 矿区与战争",
+      "title": "拜林的灰色历史",
+      "content": "拜林靠近泰柬边境，1979-1998 是红色高棉 (Khmer Rouge) 残余势力的主要避难所。蓝锆石矿、宝石矿、红宝石矿（拜林也产红宝石）成为红色高棉的主要财源——所谓\"血宝石\"（blood gems）概念有一半就来自这片山。\n\n1998 年波尔布特死后，泰国政府禁止从拜林进口未加工宝石。今天合法贸易已经恢复，但市面老料\"拜林血锆\"还在小圈子流通。买方可索要柬埔寨 GIT 或 GRS 出具的\"non-conflict origin\"声明。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_zircon.jpg?width=640",
+  "image_credit": "加热蓝锆石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "今天合法贸易。市售蓝色 99% 经过加热处理，需明示。历史\"血锆\"老料属灰色市场。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Kane, Robert E.",
+      "title": "Gem-quality zircon from the Pailin area",
+      "year": 2005,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Zircon – GIA",
+      "url": "https://www.gia.edu/zircon"
+    }
+  ]
+}

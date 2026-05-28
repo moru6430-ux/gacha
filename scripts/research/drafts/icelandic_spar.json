@@ -1,0 +1,50 @@
+{
+  "id": "icelandic_spar",
+  "name": "冰岛石（光学方解石）",
+  "name_en": "Iceland Spar",
+  "region": "冰岛 · 赫尔古斯塔迪尔",
+  "region_en": "Helgustadir, East Iceland",
+  "coordinates": [
+    65.0,
+    -14.0
+  ],
+  "category": "other",
+  "mineral_type": "方解石 / Calcite (CaCO₃) · 高纯度光学级",
+  "color": "完全无色透明（产生双折射现象 — birefringence）",
+  "marker_color": "#f0f0f0",
+  "earliest_year": 1668,
+  "stories": [
+    {
+      "culture": "1668 · Bartholin 与双折射",
+      "title": "物理学史的转折点",
+      "content": "1668 年丹麦科学家 Erasmus Bartholin 收到一块冰岛 Helgustadir 矿洞产的透明菱形方解石——透过这块石头看一个点，会看到两个像。他在 1669 年的论文里第一次系统描述了\"双折射\"（birefringence）现象，奠定了晶体光学的基础。\n\n这块石头催生了一个世纪的物理学突破：1690 年惠更斯用冰岛石观察到偏振光；1808 年马吕斯定律；1845 年法拉第效应；最终通向 20 世纪的偏光显微镜、3D 电影、LCD 屏幕——所有这些技术都建立在\"光是横波 + 可被偏振\"的认识上，而起点是冰岛 Helgustadir 矿洞里的几公斤透明石头。"
+    },
+    {
+      "culture": "维京导航 · 假说",
+      "title": "\"sólarsteinn\"的另一候选",
+      "content": "挪威堇青石不是唯一被怀疑是维京\"太阳石\"的候选——冰岛方解石也是有力候选，理由有三：\n\n· 产地就在维京活动核心区域（冰岛、法罗群岛、格陵兰）\n· 双折射能让阴天定位太阳的精度达到 ±5°（堇青石只有 ±20°）\n· 1969 年 Helgustadir 矿洞考古发现了一块手掌大小、明显被人工塑形过的冰岛石碎片，旁边是 10 世纪维京时期陶片\n\n但冰岛石易碎、海水蚀刻，水手随身带不实用。学界目前主流观点：维京可能两种都用——堇青石便携做日常导航，冰岛石做精确测量。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iceland_spar.jpg?width=640",
+  "image_credit": "冰岛石（双折射展示）/ Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "冰岛 Helgustadir 矿 1985 年起为自然保护区，禁止开采。市售\"冰岛石\"实为墨西哥、巴西等地光学级方解石，物理性质相同但非冰岛原产。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Bartholin, Erasmus",
+      "title": "Experimenta crystalli Islandici disdiaclastici",
+      "year": 1669,
+      "locator": "Copenhagen"
+    },
+    {
+      "type": "secondary",
+      "author": "Ropars, Guy et al.",
+      "title": "A depolarizer as a possible precise sunstone for Viking navigation",
+      "year": 2012,
+      "locator": "Proceedings of the Royal Society A"
+    }
+  ]
+}

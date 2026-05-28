@@ -1,0 +1,49 @@
+{
+  "id": "brazilian_aquamarine",
+  "name": "巴西海蓝宝",
+  "name_en": "Brazilian Aquamarine",
+  "region": "巴西 · 米纳斯吉拉斯州 · Santa Maria de Itabira",
+  "region_en": "Santa Maria de Itabira, Minas Gerais, Brazil",
+  "coordinates": [
+    -19.43,
+    -43.13
+  ],
+  "category": "other",
+  "mineral_type": "绿柱石 / Beryl var. aquamarine（铁致色，与祖母绿同矿物种）",
+  "color": "海蓝、天空蓝、深海蓝（深色 \"Santa Maria\" 级是最贵 aqua）",
+  "marker_color": "#6ec9d4",
+  "earliest_year": 1700,
+  "stories": [
+    {
+      "culture": "罗马 · 海神之石",
+      "title": "老普林尼的\"波塞冬之眼\"",
+      "content": "海蓝宝（aquamarine）的名字来自拉丁语 \"aqua marina\" = \"海水\"。老普林尼《博物志》卷 37 写：罗马水手出海前会把海蓝宝沉入海中献给波塞冬（罗马名 Neptune），祈求平安归航。中世纪欧洲传承这一信仰——船长室常挂海蓝宝护身符。\n\n但古代欧洲海蓝宝主要来自印度和斯里兰卡。直到 18 世纪初巴西米纳斯吉拉斯州大规模发现海蓝宝矿藏，欧洲海蓝宝市场才被巴西垄断。今天巴西仍占全球海蓝宝产量约 60%。"
+    },
+    {
+      "culture": "1910 · 全球最大单晶",
+      "title": "110 公斤的\"Marambaia\"",
+      "content": "1910 年米纳斯吉拉斯州 Marambaia 矿区挖出一颗 110 公斤、长 48 厘米的海蓝宝单晶——是有史以来最大的宝石级海蓝宝原石。它被切磨成超过 200 块珠宝级宝石，最大的一块 26 公斤蓝色\"Dom Pedro 海蓝宝\"现藏华盛顿史密森尼自然历史博物馆。\n\n更稀有的是\"Santa Maria\" 级——产自 Santa Maria de Itabira 矿的深海蓝色海蓝宝。颜色深到接近蓝宝石。一颗 5 克拉 Santa Maria 级海蓝宝单克拉价超过 2000 美元，是普通海蓝宝的 10 倍。今天 Santa Maria 矿基本枯竭，市售\"Santa Maria 色级\"多来自莫桑比克和马达加斯加。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aquamarine_Santa_Maria.jpg?width=640",
+  "image_credit": "巴西海蓝宝 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "巴西海蓝宝合法国际贸易；Santa Maria 色级珍稀，需 SSEF / GIA 产地证书。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Pliny the Elder",
+      "title": "Naturalis Historia",
+      "year": 77,
+      "locator": "Book XXXVII (beryl)"
+    },
+    {
+      "type": "secondary",
+      "author": "Sinkankas, John",
+      "title": "Emerald and Other Beryls",
+      "year": 1981
+    }
+  ]
+}

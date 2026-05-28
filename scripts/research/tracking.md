@@ -3,11 +3,40 @@
 > 这是图鉴内容的**单一进度看板**。新增矿物前先翻这里，避免重复。
 > 状态标记：✅ 已入库 | 🟡 已写草稿待入库 | 🔵 候选规划 | ⚠️ 待补图 / 占位
 
-最后更新：2026-05
+最后更新：2026-05（第四批 +30 已入库，总计 63 条）
 
 ---
 
-## ✅ 已入库（21 → 持续增加中）
+## 进度概览
+
+| 批次 | 数量 | 状态 |
+|------|------|------|
+| 种子 + 第一批 + 第二批 | 21 | ✅ 已入库 |
+| 第三批（高优 12） | 12 | ✅ 已入库 |
+| 第四批（中优 + 远景 30） | 30 | ✅ 已入库 |
+| **当前总计** | **63** | — |
+
+**各大洲分布**：亚洲 23 · 欧洲 14 · 非洲 12 · 北美 8 · 南美 6 · 大洋洲 3
+（含 3 条横跨欧亚边界：乌拉尔孔雀石 / 乌拉尔变石 / 翠榴石，两边都计数）
+
+**第四批已入库 30 条**（避免重复，下次别再选这些）：
+`burmese_spinel` `burmese_peridot` `cambodian_zircon` `afghan_kunzite`
+`chinese_chicken_blood` `lantian_jade` `siberian_charoite` `spanish_jet`
+`derbyshire_blue_john` `finnish_spectrolite` `russian_demantoid`
+`norwegian_sunstone` `icelandic_spar` `roman_carnelian` `cornish_serpentine`
+`madagascan_sapphire` `tsumeb_dioptase` `ethiopian_opal` `mozambique_paraiba`
+`egyptian_peridot` `umba_garnet` `zambian_emerald` `nigerian_tourmaline`
+`dominican_larimar` `arizona_peridot` `yogo_sapphire` `lake_superior_agate`
+`brazilian_amethyst` `brazilian_aquamarine` `peruvian_chrysocolla`
+
+**下一批候选（还没做）**：大洋洲严重偏少（仅 3），优先补：
+`nz_pounamu` 已有 → `paua_abalone`（鲍贝）· `lightning_ridge_opal`（闪电岭黑欧泊）·
+`queensland_boulder_opal`（昆士兰巨石欧泊）· 斐济/汤加珊瑚替代品 ·
+澳洲 `chrysoprase`（澳洲绿玉髓）· 还有亚洲的 `korean_amethyst` `tibetan_turquoise`
+
+---
+
+## ✅ 已入库（63 条 · 持续增加中）
 
 | # | id | 中文名 | 分类 | 大洲 | 国家 / 产地 | 状态 |
 |---|----|--------|------|------|------------|------|

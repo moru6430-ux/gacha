@@ -1,0 +1,49 @@
+{
+  "id": "chinese_chicken_blood",
+  "name": "巴林鸡血石",
+  "name_en": "Bairin Chicken Blood Stone",
+  "region": "中国 · 内蒙古 · 赤峰巴林右旗",
+  "region_en": "Bairin Right Banner, Chifeng, Inner Mongolia, China",
+  "coordinates": [
+    43.53,
+    118.65
+  ],
+  "category": "other",
+  "mineral_type": "叶蜡石 / Pyrophyllite + 朱砂（汞 HgS）红色脉",
+  "color": "白色叶蜡石底 + 鲜血红朱砂脉（\"鸡血\"）",
+  "marker_color": "#b81d1d",
+  "earliest_year": 1647,
+  "stories": [
+    {
+      "culture": "清宫 · 印石之首",
+      "title": "与寿山田黄的双雄",
+      "content": "\"鸡血石\"得名于叶蜡石基质上鲜红的朱砂脉，远看像凝固在白色羊脂玉上的鸡血。它和福建寿山田黄、浙江昌化鸡血石并列清宫\"印石三宝\"，乾隆、嘉庆都有大量收藏。\n\n中国传统上鸡血石分两大产区：浙江昌化（玉岩山，开采始于元代）和内蒙古巴林（巴林右旗，1973 年发现）。昌化老坑早已枯竭，巴林矿成为现代主要来源。一方\"大红袍\"（红色面积超 70% 的）巴林鸡血印章，2021 北京拍卖会成交价 380 万人民币。"
+    },
+    {
+      "culture": "矿物学 · \"鸡血\"是什么",
+      "title": "汞与皮肤接触的隐忧",
+      "content": "鸡血石的红色就是朱砂——硫化汞（HgS）。朱砂本身是相对稳定的化合物，正常把玩鸡血石不会汞中毒。\n\n但有几个注意点：\n· 鸡血印章不能用酸液、香水反复擦洗——会让汞元素游离\n· 把玩出汗、长期皮肤摩擦的话，朱砂粉可能微量析出，敏感人群可能皮肤过敏\n· 仿制鸡血石（用红颜料 + 树脂染色）则完全不含汞，但失去文物价值\n\n顶级巴林鸡血识别：朱砂脉应该呈丝状 / 网状自然分布，仿制的多是均匀团块。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_blood_stone.jpg?width=640",
+  "image_credit": "巴林鸡血石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "巴林 / 昌化鸡血石合法贸易。仿制（染色叶蜡石）市占率高，需中国地质大学或国检鉴定。古玺类受文物法保护、珍贵级不得出境。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "高兆",
+      "title": "《观石录》",
+      "year": 1685
+    },
+    {
+      "type": "secondary",
+      "author": "王玉成",
+      "title": "《中国鸡血石》",
+      "year": 2008,
+      "locator": "地质出版社"
+    }
+  ]
+}

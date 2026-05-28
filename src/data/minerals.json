@@ -1633,5 +1633,1463 @@
       }
     ],
     "earliest_year": 1967
+  },
+  {
+    "id": "burmese_spinel",
+    "name": "缅甸抹谷尖晶石",
+    "name_en": "Burmese Mogok Spinel",
+    "region": "缅甸 · 抹谷",
+    "region_en": "Mogok, Mandalay Region, Myanmar",
+    "coordinates": [
+      22.93,
+      96.5
+    ],
+    "category": "other",
+    "mineral_type": "尖晶石 / Spinel (MgAl₂O₄)",
+    "color": "鸽血红、霓虹粉、樱桃红（与红宝石难以肉眼区分）",
+    "marker_color": "#c44e6b",
+    "earliest_year": 1200,
+    "stories": [
+      {
+        "culture": "中世纪欧亚 · 错认了 600 年的\"红宝石\"",
+        "title": "黑王子的红宝石其实是尖晶石",
+        "content": "直到 1783 年法国矿物学家 Jean-Baptiste Romé de l'Isle 才用化学手段证明\"尖晶石\"和\"红宝石\"是两种完全不同的矿物——在此之前的六百多年，所有大尺寸\"红宝石\"几乎都是抹谷尖晶石。最著名的两颗：\n\n· \"黑王子红宝石\"（Black Prince's Ruby），1367 年起就镶在英国皇冠正中，现在还在帝国国冠上；2023 年查尔斯三世加冕戴的就是它\n· \"铁木儿红宝石\"（Timur Ruby），1612 年被刻上六位莫卧儿皇帝的名字，1849 年随光之山一起进了英国王室\n\n两颗都是抹谷尖晶石，不是红宝石。"
+      },
+      {
+        "culture": "现代宝石学 · 平反",
+        "title": "产量与稀有度反超红宝石",
+        "content": "抹谷尖晶石和抹谷红宝石产自同一片大理岩矿带，但尖晶石的优质大颗粒比红宝石更稀少——红宝石 5 克拉算大，5 克拉级别的纯净尖晶石属于博物馆藏品。\n\n2010 年代后宝石市场重新认识尖晶石。2017 年 GIA 把红色尖晶石列为 8 月生辰石（与橄榄石并列）。同期苏富比 / 佳士得拍卖里抹谷尖晶石单克拉价已超过部分红宝石。市售要警惕越南陆安（Lục Yên）尖晶石冒充——颜色相似但分子结构与价格差距数倍。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_spinel_crystal.jpg?width=640",
+    "image_credit": "红色尖晶石晶体 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "缅甸尖晶石合法国际贸易；但与缅甸翡翠一样，2021 政变后部分缅甸珠宝公司在欧美制裁名单。市售要看 GRS / SSEF 产地证书。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Romé de l'Isle, Jean-Baptiste",
+        "title": "Cristallographie",
+        "year": 1783
+      },
+      {
+        "type": "secondary",
+        "author": "Hughes, Richard W.",
+        "title": "Ruby & Sapphire: A Gemologist's Guide",
+        "year": 2017,
+        "locator": "Lotus Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Black Prince's Ruby – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Black_Prince%27s_Ruby"
+      }
+    ]
+  },
+  {
+    "id": "burmese_peridot",
+    "name": "缅甸抹谷橄榄石",
+    "name_en": "Burmese Mogok Peridot",
+    "region": "缅甸 · 抹谷 · 派昂矿区",
+    "region_en": "Pyaung-Gaung, Mogok, Myanmar",
+    "coordinates": [
+      23.1,
+      96.43
+    ],
+    "category": "other",
+    "mineral_type": "橄榄石 / Peridot (镁铁橄榄石 Forsterite-Fayalite)",
+    "color": "深森林绿、苹果绿（铁致色，越绿越含铁）",
+    "marker_color": "#94b53d",
+    "earliest_year": 1800,
+    "stories": [
+      {
+        "culture": "夜晚的祖母绿",
+        "title": "橄榄石与人造光",
+        "content": "橄榄石（peridot）的颜色源自晶体内部铁离子，最特殊的光学性质是它在白炽光 / 烛光下不变色——而几乎所有其他绿色宝石（祖母绿、沙弗莱、查罗石）在弱光下会失色变灰。\n\n古罗马人因此称它为 evening emerald（夜晚的祖母绿）：宴会、宫廷、教堂烛光下，橄榄石比任何祖母绿都更明亮。这一光学优势让它在没有电灯的时代尤其珍贵。中世纪欧洲教堂的彩绘玻璃常用橄榄石粉调色。"
+      },
+      {
+        "culture": "抹谷的高山矿",
+        "title": "克什米尔的同款问题",
+        "content": "抹谷派昂矿区位于海拔 1700 米的山中，矿洞与红宝石矿、尖晶石矿、月光石矿交织。最大颗粒抹谷橄榄石超过 100 克拉，1990 年代曾出过一颗 287 克拉的\"月光之翠\"（藏美国自然历史博物馆）。\n\n但与克什米尔蓝宝、缅甸翡翠类似——抹谷地区也长期是军事 / 民族冲突地带。2010 年代后矿区生产严重萎缩，加上 2021 政变和制裁，市售优质抹谷橄榄石越来越多来自巴基斯坦科希斯坦（Kohistan）和美国亚利桑那州圣卡洛斯 Apache 部落矿。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peridot_olivine.jpg?width=640",
+    "image_credit": "橄榄石晶体 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "缅甸橄榄石合法贸易；同样受 2021 政变后欧美制裁的部分影响。替代产地：巴基斯坦科希斯坦、美国 Arizona、埃及 Zabargad 岛（详见埃及橄榄石条目）。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Koivula, John I. et al.",
+        "title": "Peridot from Mogok, Myanmar",
+        "year": 2003,
+        "locator": "Gems & Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Peridot – GIA",
+        "url": "https://www.gia.edu/peridot"
+      }
+    ]
+  },
+  {
+    "id": "cambodian_zircon",
+    "name": "柬埔寨拜林蓝锆石",
+    "name_en": "Cambodian Pailin Blue Zircon",
+    "region": "柬埔寨 · 拜林省",
+    "region_en": "Pailin Province, Cambodia",
+    "coordinates": [
+      12.85,
+      102.61
+    ],
+    "category": "other",
+    "mineral_type": "锆石 / Zircon (ZrSiO₄) · 热处理蓝色变种",
+    "color": "电光蓝、海蓝、薄荷蓝（褐色原石经加热后呈蓝）",
+    "marker_color": "#2dd4e4",
+    "earliest_year": 1900,
+    "stories": [
+      {
+        "culture": "加热工艺 · 1900s 暹罗的发明",
+        "title": "从褐石头到电光蓝",
+        "content": "锆石原矿大多是褐红色或灰色——丑石头。拜林矿区从 19 世纪末就有华人 / 暹罗工匠发现：把这种褐石头埋在木炭里烧到 800-1000°C 几个小时，颜色会戏剧性转为电光蓝。这是宝石学最早被工业化的\"热处理\"工艺之一。\n\n方法在 1920 年代成熟，泰国曼谷成为全球锆石热处理中心。今天市售 99% 的蓝锆石都经过加热——天然蓝色的锆石极罕见。GIA 和 GRS 都把\"加热\"作为标准披露项而非缺陷。"
+      },
+      {
+        "culture": "红色高棉年代 · 矿区与战争",
+        "title": "拜林的灰色历史",
+        "content": "拜林靠近泰柬边境，1979-1998 是红色高棉 (Khmer Rouge) 残余势力的主要避难所。蓝锆石矿、宝石矿、红宝石矿（拜林也产红宝石）成为红色高棉的主要财源——所谓\"血宝石\"（blood gems）概念有一半就来自这片山。\n\n1998 年波尔布特死后，泰国政府禁止从拜林进口未加工宝石。今天合法贸易已经恢复，但市面老料\"拜林血锆\"还在小圈子流通。买方可索要柬埔寨 GIT 或 GRS 出具的\"non-conflict origin\"声明。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_zircon.jpg?width=640",
+    "image_credit": "加热蓝锆石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "今天合法贸易。市售蓝色 99% 经过加热处理，需明示。历史\"血锆\"老料属灰色市场。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Kane, Robert E.",
+        "title": "Gem-quality zircon from the Pailin area",
+        "year": 2005,
+        "locator": "Gems & Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Zircon – GIA",
+        "url": "https://www.gia.edu/zircon"
+      }
+    ]
+  },
+  {
+    "id": "afghan_kunzite",
+    "name": "阿富汗孔赛石",
+    "name_en": "Afghan Kunzite",
+    "region": "阿富汗 · 库纳尔河谷",
+    "region_en": "Kunar Valley, Afghanistan",
+    "coordinates": [
+      34.85,
+      71.15
+    ],
+    "category": "other",
+    "mineral_type": "锂辉石变种 / Spodumene var. kunzite (LiAlSi₂O₆)",
+    "color": "淡粉、紫粉、樱花粉（锰致色，对紫外光敏感会褪色）",
+    "marker_color": "#e88fb0",
+    "earliest_year": 1902,
+    "stories": [
+      {
+        "culture": "1902 · Tiffany 的命名",
+        "title": "George Kunz 的发现",
+        "content": "1902 年美国地质学家、Tiffany & Co. 首席珠宝鉴定师 George Frederick Kunz 在加州 Pala Chief 矿场鉴定一批粉紫色晶体——发现是一种全新的锂辉石变种。Tiffany 把它命名为 \"kunzite\" 纪念他（孔赛石中文译名）。\n\nKunz 是 20 世纪初最重要的宝石学家，Tiffany 的传奇珠宝多由他负责采购。他也是把摩根石（morganite，纪念金融家 J.P. Morgan）命名的人。"
+      },
+      {
+        "culture": "阿富汗 · 苏军占领后的矿藏",
+        "title": "世界最大孔赛石的产地",
+        "content": "加州矿藏迅速枯竭。1970 年代后阿富汗库纳尔河谷的伟晶岩脉成为新主要产地——这里出产了世界最大的几颗孔赛石单晶体，最高的一颗高 47 厘米、重 2 公斤。\n\n苏军 1979-1989 占领期间，矿区开采几乎停滞；塔利班 1996 年掌权后又开始无序开采。今天阿富汗占全球孔赛石产量约 60%，但因为政局动荡，运输基本经巴基斯坦白沙瓦走灰色渠道。市售孔赛石若标\"阿富汗产\"几乎都没合规出口手续。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kunzite_crystal.jpg?width=640",
+    "image_credit": "孔赛石晶体 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "孔赛石本身合法贸易；阿富汗产货源经塔利班 / 走私出口，难以做合规来源认证。佩戴时需避免长时间日晒，会褪色。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Kunz, George F.",
+        "title": "Pala Lithia Pegmatite – California Mineralogist",
+        "year": 1902
+      },
+      {
+        "type": "web",
+        "title": "Kunzite – GIA",
+        "url": "https://www.gia.edu/kunzite"
+      }
+    ]
+  },
+  {
+    "id": "chinese_chicken_blood",
+    "name": "巴林鸡血石",
+    "name_en": "Bairin Chicken Blood Stone",
+    "region": "中国 · 内蒙古 · 赤峰巴林右旗",
+    "region_en": "Bairin Right Banner, Chifeng, Inner Mongolia, China",
+    "coordinates": [
+      43.53,
+      118.65
+    ],
+    "category": "other",
+    "mineral_type": "叶蜡石 / Pyrophyllite + 朱砂（汞 HgS）红色脉",
+    "color": "白色叶蜡石底 + 鲜血红朱砂脉（\"鸡血\"）",
+    "marker_color": "#b81d1d",
+    "earliest_year": 1647,
+    "stories": [
+      {
+        "culture": "清宫 · 印石之首",
+        "title": "与寿山田黄的双雄",
+        "content": "\"鸡血石\"得名于叶蜡石基质上鲜红的朱砂脉，远看像凝固在白色羊脂玉上的鸡血。它和福建寿山田黄、浙江昌化鸡血石并列清宫\"印石三宝\"，乾隆、嘉庆都有大量收藏。\n\n中国传统上鸡血石分两大产区：浙江昌化（玉岩山，开采始于元代）和内蒙古巴林（巴林右旗，1973 年发现）。昌化老坑早已枯竭，巴林矿成为现代主要来源。一方\"大红袍\"（红色面积超 70% 的）巴林鸡血印章，2021 北京拍卖会成交价 380 万人民币。"
+      },
+      {
+        "culture": "矿物学 · \"鸡血\"是什么",
+        "title": "汞与皮肤接触的隐忧",
+        "content": "鸡血石的红色就是朱砂——硫化汞（HgS）。朱砂本身是相对稳定的化合物，正常把玩鸡血石不会汞中毒。\n\n但有几个注意点：\n· 鸡血印章不能用酸液、香水反复擦洗——会让汞元素游离\n· 把玩出汗、长期皮肤摩擦的话，朱砂粉可能微量析出，敏感人群可能皮肤过敏\n· 仿制鸡血石（用红颜料 + 树脂染色）则完全不含汞，但失去文物价值\n\n顶级巴林鸡血识别：朱砂脉应该呈丝状 / 网状自然分布，仿制的多是均匀团块。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_blood_stone.jpg?width=640",
+    "image_credit": "巴林鸡血石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "巴林 / 昌化鸡血石合法贸易。仿制（染色叶蜡石）市占率高，需中国地质大学或国检鉴定。古玺类受文物法保护、珍贵级不得出境。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "高兆",
+        "title": "《观石录》",
+        "year": 1685
+      },
+      {
+        "type": "secondary",
+        "author": "王玉成",
+        "title": "《中国鸡血石》",
+        "year": 2008,
+        "locator": "地质出版社"
+      }
+    ]
+  },
+  {
+    "id": "lantian_jade",
+    "name": "蓝田玉",
+    "name_en": "Lantian Jade",
+    "region": "中国 · 陕西 · 蓝田县",
+    "region_en": "Lantian County, Shaanxi Province, China",
+    "coordinates": [
+      34.13,
+      109.32
+    ],
+    "category": "jade",
+    "mineral_type": "蛇纹石化大理岩 / Serpentinite (与翡翠 / 和田玉化学结构不同)",
+    "color": "苹果绿、米黄、奶白、菠菜绿（多带云絮纹）",
+    "marker_color": "#6c8f3a",
+    "earliest_year": -3000,
+    "stories": [
+      {
+        "culture": "李商隐 · \"蓝田日暖玉生烟\"",
+        "title": "唐诗里的玉",
+        "content": "蓝田玉的开采可追溯到新石器时代仰韶文化（约公元前 3000 年）；秦汉时期它是皇家玉器主料——著名的\"和氏璧\"按部分考据极可能是蓝田玉而非新疆和田玉（地理上和田离中原太远，先秦时期未必能稳定进口）。\n\n蓝田玉的文学地位在唐朝达到顶点。李商隐《锦瑟》\"沧海月明珠有泪，蓝田日暖玉生烟\"——把蓝田玉与晨光下升腾的雾气并列。后世这成为中国诗歌里\"玉\"的标准意象之一。"
+      },
+      {
+        "culture": "现代矿物学 · 三玉之争",
+        "title": "它不是真\"玉\"",
+        "content": "严格矿物学定义里，\"玉\"特指两种：硬玉（jadeite，缅甸翡翠）和软玉（nephrite，和田玉）。蓝田玉的化学成分是蛇纹石化大理岩，硬度 2.5-5.5（明显低于翡翠 6.5-7、和田玉 6-6.5），其实更接近大理石。\n\n这引发持续的\"蓝田玉是不是玉\"争议。中国地质大学 2018 年的鉴定结论：从国标 GB/T16552 看，蓝田玉应归\"玉石\"大类下\"蛇纹石玉\"子类，与岫岩玉同列，与翡翠 / 和田玉不同类。但传统文化和文物界仍承认蓝田玉的\"玉\"地位——历史上它就是\"玉\"，矿物学定义改不了文化定义。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lantian_jade.jpg?width=640",
+    "image_credit": "蓝田玉 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "蓝田玉合法贸易。市售经常被冒充翡翠或和田玉，需国检 / 中国地质大学鉴定标签确认蛇纹石属性。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "李商隐",
+        "title": "《锦瑟》",
+        "year": 858
+      },
+      {
+        "type": "secondary",
+        "author": "韩世国",
+        "title": "《蓝田玉鉴赏与收藏》",
+        "year": 2010,
+        "locator": "中国地质大学出版社"
+      }
+    ]
+  },
+  {
+    "id": "siberian_charoite",
+    "name": "西伯利亚紫龙晶",
+    "name_en": "Siberian Charoite",
+    "region": "俄罗斯 · 萨哈共和国 · 查罗河流域",
+    "region_en": "Murun Massif, Chara River, Sakha Republic, Russia",
+    "coordinates": [
+      56.0,
+      117.0
+    ],
+    "category": "other",
+    "mineral_type": "查罗石 / Charoite (复杂硅酸盐，俄罗斯独有矿物种)",
+    "color": "紫罗兰、薰衣紫、丝绢状光泽（含黑色霓辉石条纹和金色锥辉石点）",
+    "marker_color": "#835ec6",
+    "earliest_year": 1978,
+    "stories": [
+      {
+        "culture": "1978 · 一个矿、一个国、一种矿物",
+        "title": "Vera Rogova 的小矿",
+        "content": "查罗石是世界上极少数\"单一产地\"宝石——全球**只有一处**矿藏：东西伯利亚雅库特地区穆伦山脉（Murun Massif）查罗河（Chara River）边的一个小矿，方圆 10 平方公里。\n\n1978 年由苏联女地质学家 Vera Parfentievna Rogova 团队首次描述并命名。\"Charoite\" 来自查罗河，俄语 чары（charuyushchii）又意为\"魅惑\"——双关。查罗石是 IMA（国际矿物学协会）官方认证的独立矿物物种（许多\"宝石\"其实只是某既有矿物的变种，查罗石是新种）。"
+      },
+      {
+        "culture": "俄国资源管制 · 出口配额",
+        "title": "\"国家战略资源\"",
+        "content": "俄罗斯政府 1990 年代后期把查罗石列入\"国家战略矿产资源\"，开采权属国家垄断。每年出口配额仅几吨，市售优质大块查罗石标价超过钻石每克拉的 1/10。\n\n查罗石的紫色据说能在烛光与日光下呈现微妙的色彩变化——某些品级在日光下偏冷紫、烛光下偏暖紫（类似亚历山大石的弱版本）。中文圈把它译作\"紫龙晶\"是因为暗色霓辉石条纹蜿蜒如龙鳞。它已被市场炒为\"七种最稀有宝石\"之一。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charoite.jpg?width=640",
+    "image_credit": "查罗石标本 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "查罗石为俄罗斯独家产地，出口受配额管制。市售切磨件 1990 年代库存与近年合法出口混合流通；大块原石极稀。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Rogova, V.P. et al.",
+        "title": "Charoite — a new mineral and a new gem",
+        "year": 1978,
+        "locator": "Zapiski Vsesoyuznogo Mineralogicheskogo Obshchestva 107"
+      },
+      {
+        "type": "web",
+        "title": "Charoite – Mindat",
+        "url": "https://www.mindat.org/min-989.html"
+      }
+    ]
+  },
+  {
+    "id": "spanish_jet",
+    "name": "西班牙阿斯图里亚斯煤精",
+    "name_en": "Spanish Asturian Jet",
+    "region": "西班牙 · 阿斯图里亚斯",
+    "region_en": "Asturias, Spain",
+    "coordinates": [
+      43.3,
+      -5.7
+    ],
+    "category": "other",
+    "mineral_type": "煤精 / Jet（化石化木质，与英国 Whitby 同源不同矿）",
+    "color": "深黑、墨亮、可雕刻细腻",
+    "marker_color": "#1a1a1a",
+    "earliest_year": 1000,
+    "stories": [
+      {
+        "culture": "中世纪 · 圣地亚哥朝圣",
+        "title": "朝圣者的护身符",
+        "content": "阿斯图里亚斯的煤精与英国惠特比同期被开采，但走的是完全不同的文化路线。中世纪欧洲三大朝圣地之一是西班牙圣地亚哥-德孔波斯特拉（Santiago de Compostela，使徒雅各墓地）。从 11 世纪开始，朝圣者从欧洲各地步行数千公里到圣地亚哥——煤精护身符是必带物。\n\n阿斯图里亚斯紧邻朝圣路线，当地工匠把煤精雕刻成圣雅各形象（背着拐杖、戴扇贝徽章），称作 \"azabache\"。煤精被认为能防\"恶眼\"（mal de ojo）、防瘟疫、护佑长途旅行。这种煤精朝圣信物今天仍在 Santiago 老城销售，是合法的非物质文化遗产手工艺。"
+      },
+      {
+        "culture": "现代 · 复兴",
+        "title": "\"Higas\" 拳头护符",
+        "content": "阿斯图里亚斯煤精最经典的造型是 \"higa\"（拳头形护符）——握紧的小拳头雕成煤精挂件，拇指夹在食指中指间。这个手势在地中海文化里是辟邪符号（与意大利的 mano fico 同源）。婴儿洗礼后传统上要佩戴 higa de azabache。\n\n1936 西班牙内战时阿斯图里亚斯煤精产业几乎覆灭。1990 年代起欧盟资助 + 阿斯图里亚斯政府支持下逐步恢复，今天 Villaviciosa 镇是主要产地。市售要看 \"Azabache de Asturias\" 地理标志认证——避免买到玻璃 / 树脂仿品。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Azabache_higa_Asturias.jpg?width=640",
+    "image_credit": "阿斯图里亚斯煤精护符 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "欧盟原产地保护标志 PGI \"Azabache de Asturias\"。市面假货比例高（玻璃、酚醛树脂、煤），认明 PGI 标签。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Rodríguez Asensio, J.A.",
+        "title": "El azabache asturiano",
+        "year": 2008
+      },
+      {
+        "type": "web",
+        "title": "Jet (gemstone) – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)"
+      }
+    ]
+  },
+  {
+    "id": "derbyshire_blue_john",
+    "name": "德比郡蓝约翰",
+    "name_en": "Derbyshire Blue John",
+    "region": "英国 · 德比郡 · 卡斯尔顿",
+    "region_en": "Castleton, Derbyshire, England",
+    "coordinates": [
+      53.345,
+      -1.776
+    ],
+    "category": "other",
+    "mineral_type": "萤石变种 / Fluorite var. Blue John (CaF₂，含碳氢化合物致紫色)",
+    "color": "紫蓝、深紫、米黄交错带状（独一无二的\"Blue John\"花纹）",
+    "marker_color": "#6b3a8a",
+    "earliest_year": 50,
+    "stories": [
+      {
+        "culture": "罗马时代 · \"Murrhine\"",
+        "title": "老普林尼的紫色酒杯",
+        "content": "\"Blue John\" 这种紫蓝相间的萤石全球只产于英国德比郡 Castleton 镇附近的两个矿（Blue John Cavern 和 Treak Cliff Cavern）。罗马博物学家老普林尼在《博物志》卷 37 提到一种叫 \"murrhine\"（紫纹石）的器皿——罗马贵族用它做酒杯，认为能\"提升酒香、防中毒\"。\n\n2014 年牛津大学考古团队用 X 射线荧光分析了大英博物馆藏的几件罗马 murrhine 器皿——成分确实是萤石，且杂质模式与德比郡 Blue John 高度吻合。这意味着罗马帝国时期就有从不列颠到罗马的 Blue John 贸易，比此前认为的早了 1700 年。"
+      },
+      {
+        "culture": "乔治时代 · 大教堂级花瓶",
+        "title": "\"Royal Pavilion 风格\"",
+        "content": "18 世纪英国 Matthew Boulton 在伯明翰生产的镀金 Blue John 花瓶成为乔治王朝最贵的家居饰品。乔治三世的 Carlton House、布莱顿 Royal Pavilion 都摆着 Blue John 巨瓶。\n\nBlue John 极难加工——萤石脆而易裂，1 公斤原石经常加工出来只剩 200 克成品。今天 Castleton 还有家族经营的小作坊（Bluejohn Cavern Ltd）继续做。年产量不到 500 公斤——比帝王托帕石、亚历山大变石都稀少。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_john_fluorite.jpg?width=640",
+    "image_credit": "蓝约翰萤石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "英国政府 1990 年起把 Blue John 矿区列入\"特殊科学价值地\"，开采有年度配额。市售真品价格高、假货（合成树脂染色）多。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Pliny the Elder",
+        "title": "Naturalis Historia",
+        "year": 77,
+        "locator": "Book XXXVII (on murrhine)"
+      },
+      {
+        "type": "secondary",
+        "author": "Vout, Caroline et al.",
+        "title": "Murrhine vases reconsidered: XRF analysis",
+        "year": 2014,
+        "locator": "Antiquity"
+      }
+    ]
+  },
+  {
+    "id": "finnish_spectrolite",
+    "name": "芬兰光谱石",
+    "name_en": "Finnish Spectrolite",
+    "region": "芬兰 · 于拉麦",
+    "region_en": "Ylämaa, Finland",
+    "coordinates": [
+      60.7,
+      27.5
+    ],
+    "category": "moonstone",
+    "mineral_type": "拉长石变种 / Labradorite var. Spectrolite",
+    "color": "黑底 + 全光谱彩虹晕彩（红黄绿蓝紫一应俱全）",
+    "marker_color": "#4a6b8a",
+    "earliest_year": 1940,
+    "stories": [
+      {
+        "culture": "1940 · 战争中的发现",
+        "title": "苏芬战争与铁路工程师",
+        "content": "1940 年冬天，苏芬战争（冬季战争）期间，芬兰工程师 Aarne Laitakari 带队在芬兰东南部 Ylämaa 镇附近修筑反坦克防线时，在花岗岩中发现一种带有强烈彩虹晕彩的黑色长石——比加拿大拉长石（labradorite）的晕彩更全、更亮。Laitakari 把它命名为 \"spectrolite\"（光谱石），后被国际矿物学协会确认为拉长石的优质变种。\n\n这个发现颇具戏剧性——战时国家级地质学家被征兵去挖战壕，反而成就了一项矿物学发现。今天 Ylämaa 镇有 \"Spectrolite Festival\"，每年 7 月召开矿物展。"
+      },
+      {
+        "culture": "卡累利阿神话 · \"北极光石\"",
+        "title": "极光在石头里凝固",
+        "content": "芬兰东南卡累利阿地区（Karelia，部分在芬兰部分在俄罗斯）的民间传统把彩虹色光长石与\"极光\"（aurora borealis）联系——卡累利阿萨满相信光谱石是凝固在地底的极光碎片，每年只在冬至那天被允许采挖。\n\n这种神话其实是 1990 年代后被旅游业再发明的——但植根于卡累利阿史诗 Kalevala 里关于\"地下星辰\"的描述。今天芬兰最高规格的国礼之一就是镶嵌光谱石的银饰，2019 年芬兰总统送给习近平的国礼里就有一枚。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spectrolite_Ylamaa.jpg?width=640",
+    "image_credit": "于拉麦光谱石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "光谱石合法贸易，全球唯一商业产地芬兰 Ylämaa。其他地区的\"光谱石\"应为普通拉长石（晕彩较弱）。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Laitakari, Aarne",
+        "title": "Spectrolite – uusi suomalainen jalokivilaji",
+        "year": 1941,
+        "locator": "Suomen Geologinen Seura"
+      },
+      {
+        "type": "web",
+        "title": "Labradorite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Labradorite"
+      }
+    ]
+  },
+  {
+    "id": "russian_demantoid",
+    "name": "俄罗斯翠榴石",
+    "name_en": "Russian Demantoid Garnet",
+    "region": "俄罗斯 · 中乌拉尔 · 博布罗夫卡",
+    "region_en": "Bobrovka, Central Urals, Russia",
+    "coordinates": [
+      57.5,
+      60.3
+    ],
+    "category": "garnet",
+    "mineral_type": "钙铁榴石变种 / Andradite var. demantoid（铬致色，含\"马尾\"内含物）",
+    "color": "黄绿、祖母绿色（火彩高于钻石的极少数有色宝石之一）",
+    "marker_color": "#1c7a3f",
+    "continent": [
+      "europe",
+      "asia"
+    ],
+    "border_note": "横跨欧亚边界（乌拉尔山脉）",
+    "earliest_year": 1853,
+    "stories": [
+      {
+        "culture": "1853 · Bobrovka 河里的金子",
+        "title": "淘金者捡到的\"祖母绿\"",
+        "content": "1853 年乌拉尔山 Bobrovka 河金矿的淘金工人在筛沙时不断挖出一种亮绿色的小晶体——起初以为是祖母绿。送到圣彼得堡矿物学院鉴定后，1854 年俄国矿物学家 Nils Nordenskiöld（同名儿子，他父亲是发现亚历山大石的那位）确认是石榴石的一个新变种，命名 demantoid（\"似钻石\"，因为它的色散和折射率接近钻石）。\n\n翠榴石迅速成为沙俄宫廷新宠。Fabergé 工坊几乎所有顶级作品里都镶有翠榴石——著名的 \"Lily-of-the-Valley Egg\"（铃兰彩蛋，1898 年献给亚历山德拉皇后）就用了大量乌拉尔翠榴石。"
+      },
+      {
+        "culture": "\"马尾\"内含物 · 唯一签名",
+        "title": "只有乌拉尔翠榴石才有",
+        "content": "翠榴石最有名的鉴定特征是\"马尾\"内含物（horsetail inclusion）——一束细如发丝的金黄色石棉纤维从中心向外辐射，呈马尾形状。这是钙铁榴石与石棉脉伴生时形成的，**仅乌拉尔产翠榴石有**。\n\n后来发现的其他翠榴石产地（纳米比亚 Erongo、马达加斯加、伊朗 Kerman）都没有马尾——所以\"马尾\"成了乌拉尔产地的天然认证。一颗带完整马尾的乌拉尔翠榴石，单克拉价是普通祖母绿的 3-5 倍。\n\n苏联时期矿区基本停工。1990 年代后小规模恢复但产量极低，市面流通主要靠 19 世纪 Fabergé 时代的回流货。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Demantoid_garnet.jpg?width=640",
+    "image_credit": "翠榴石（含马尾）/ Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "翠榴石合法国际贸易。乌拉尔老料认明\"马尾\"内含物；其他产地（纳米比亚、马达加斯加、伊朗）颜色相近但不带马尾。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Nordenskiöld, Nils Adolf Erik",
+        "title": "Über eine neue Varietät des Granats",
+        "year": 1854
+      },
+      {
+        "type": "secondary",
+        "author": "Phillips, William R. & Talantsev, A.S.",
+        "title": "Russian demantoid: a celebration of horsetails",
+        "year": 1996,
+        "locator": "Gems & Gemology"
+      }
+    ]
+  },
+  {
+    "id": "norwegian_sunstone",
+    "name": "挪威太阳石",
+    "name_en": "Norwegian Sunstone",
+    "region": "挪威 · 松恩峡湾",
+    "region_en": "Sognefjord, Norway",
+    "coordinates": [
+      61.0,
+      6.5
+    ],
+    "category": "other",
+    "mineral_type": "堇青石 / Iolite (Mg₂Al₄Si₅O₁₈) · 维京\"sólarsteinn\"候选",
+    "color": "不同角度看呈深蓝紫 / 浅黄绿（强烈多色性 pleochroism）",
+    "marker_color": "#d4925c",
+    "earliest_year": 1000,
+    "stories": [
+      {
+        "culture": "维京时代 · 阴天导航石",
+        "title": "sólarsteinn 的考古证据",
+        "content": "北欧萨迦《Rauðúlfs þáttr》（13 世纪冰岛抄本，记述更早期事件）描述了 sólarsteinn（\"太阳石\"）：阴天找不到太阳时，维京水手举起这种石头对着云层，从特定角度看会闪烁出方向，能定位太阳的真实位置。\n\n现代物理学解释：堇青石的强多色性使它对偏振光极敏感——即使太阳被云层遮挡，从云层散射回来的光线仍保持偏振方向，堇青石转动到特定角度会出现明显的颜色变化点（\"消光位置\"），由此可推算太阳方位。\n\n2013 年法国 / 丹麦联合考古队在英吉利海峡海底沉没的 1592 年英国舰艇 Alderney 上挖出一块切磨过的方形透明矿物——光谱分析确认是堇青石。这是目前对\"维京太阳石\"假说最直接的考古证据。"
+      },
+      {
+        "culture": "现代命名 · iolite 还是 sunstone",
+        "title": "\"水蓝宝石\"的尴尬",
+        "content": "堇青石的英文学名是 iolite（来自希腊语 \"ios\"，紫罗兰）。但商业市场为了好卖把它叫 \"water sapphire\" 或 \"Viking compass stone\"——前者法律上其实违反美国 FTC《Jewelry Guides》（不能用别的宝石名误导），后者是营销话术。\n\n现代挪威 / 冰岛 / 格陵兰都产堇青石，但精品多产自印度泰米尔纳德邦和缅甸。\"挪威产堇青石\"在市场上往往是溢价 30-50% 的故事溢价——买的是维京神话，不是物理颜色差异。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iolite_cordierite.jpg?width=640",
+    "image_credit": "堇青石 / 太阳石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "堇青石合法贸易。市售常用\"water sapphire\"违规命名，美国 FTC 不允许；应叫 iolite / cordierite。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "title": "Rauðúlfs þáttr",
+        "year": 1300,
+        "locator": "Icelandic saga manuscript"
+      },
+      {
+        "type": "secondary",
+        "author": "Le Floch, Albert et al.",
+        "title": "A depolarizer as a possible precise sunstone for Viking navigation",
+        "year": 2013,
+        "locator": "Proceedings of the Royal Society A"
+      }
+    ]
+  },
+  {
+    "id": "icelandic_spar",
+    "name": "冰岛石（光学方解石）",
+    "name_en": "Iceland Spar",
+    "region": "冰岛 · 赫尔古斯塔迪尔",
+    "region_en": "Helgustadir, East Iceland",
+    "coordinates": [
+      65.0,
+      -14.0
+    ],
+    "category": "other",
+    "mineral_type": "方解石 / Calcite (CaCO₃) · 高纯度光学级",
+    "color": "完全无色透明（产生双折射现象 — birefringence）",
+    "marker_color": "#f0f0f0",
+    "earliest_year": 1668,
+    "stories": [
+      {
+        "culture": "1668 · Bartholin 与双折射",
+        "title": "物理学史的转折点",
+        "content": "1668 年丹麦科学家 Erasmus Bartholin 收到一块冰岛 Helgustadir 矿洞产的透明菱形方解石——透过这块石头看一个点，会看到两个像。他在 1669 年的论文里第一次系统描述了\"双折射\"（birefringence）现象，奠定了晶体光学的基础。\n\n这块石头催生了一个世纪的物理学突破：1690 年惠更斯用冰岛石观察到偏振光；1808 年马吕斯定律；1845 年法拉第效应；最终通向 20 世纪的偏光显微镜、3D 电影、LCD 屏幕——所有这些技术都建立在\"光是横波 + 可被偏振\"的认识上，而起点是冰岛 Helgustadir 矿洞里的几公斤透明石头。"
+      },
+      {
+        "culture": "维京导航 · 假说",
+        "title": "\"sólarsteinn\"的另一候选",
+        "content": "挪威堇青石不是唯一被怀疑是维京\"太阳石\"的候选——冰岛方解石也是有力候选，理由有三：\n\n· 产地就在维京活动核心区域（冰岛、法罗群岛、格陵兰）\n· 双折射能让阴天定位太阳的精度达到 ±5°（堇青石只有 ±20°）\n· 1969 年 Helgustadir 矿洞考古发现了一块手掌大小、明显被人工塑形过的冰岛石碎片，旁边是 10 世纪维京时期陶片\n\n但冰岛石易碎、海水蚀刻，水手随身带不实用。学界目前主流观点：维京可能两种都用——堇青石便携做日常导航，冰岛石做精确测量。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iceland_spar.jpg?width=640",
+    "image_credit": "冰岛石（双折射展示）/ Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "冰岛 Helgustadir 矿 1985 年起为自然保护区，禁止开采。市售\"冰岛石\"实为墨西哥、巴西等地光学级方解石，物理性质相同但非冰岛原产。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Bartholin, Erasmus",
+        "title": "Experimenta crystalli Islandici disdiaclastici",
+        "year": 1669,
+        "locator": "Copenhagen"
+      },
+      {
+        "type": "secondary",
+        "author": "Ropars, Guy et al.",
+        "title": "A depolarizer as a possible precise sunstone for Viking navigation",
+        "year": 2012,
+        "locator": "Proceedings of the Royal Society A"
+      }
+    ]
+  },
+  {
+    "id": "roman_carnelian",
+    "name": "罗马红玉髓",
+    "name_en": "Roman Carnelian",
+    "region": "意大利 · 罗马（文化中心）/ 印度 · 古吉拉特（主要矿源）",
+    "region_en": "Rome, Italy (cultural) / Khambhat, India (source)",
+    "coordinates": [
+      41.9028,
+      12.4964
+    ],
+    "category": "agate",
+    "mineral_type": "玉髓 / Chalcedony var. carnelian (含铁致色)",
+    "color": "橙红、深红、棕红（古罗马最爱的印章石材）",
+    "marker_color": "#c44a1c",
+    "earliest_year": -700,
+    "stories": [
+      {
+        "culture": "伊特鲁里亚 → 罗马 · 印章石之王",
+        "title": "奥古斯都的斯芬克斯印",
+        "content": "红玉髓在地中海世界做印章可追溯到公元前 700 年的伊特鲁里亚人（罗马前身）。罗马帝国时期，红玉髓成为元老阶层身份的标配——每位元老都有自己的红玉髓 intaglio（凹雕）印章。\n\n奥古斯都皇帝（公元前 27 - 公元 14）有三方私人印章：早年用\"斯芬克斯\"红玉髓印，中年改用\"亚历山大大帝头像\"，晚年用自己的肖像。这些印章随他下葬，作为身份证存在罗马帝国官方档案里。"
+      },
+      {
+        "culture": "伊斯兰世界 · 哈迪斯传统",
+        "title": "先知的红玉髓戒指",
+        "content": "伊斯兰圣训（Hadith）记载先知穆罕默德戴一枚红玉髓戒指——刻有 \"Muhammad rasūl Allāh\"（穆罕默德是真主的使者）。这枚戒指后传给阿布·伯克尔、奥马尔、奥斯曼——但奥斯曼洗手时不慎掉进麦地那的一口井里，至今未找回。\n\n这一典故让红玉髓在伊斯兰世界享有特殊地位——逊尼派穆斯林佩戴红玉髓戒指被视为\"圣行\"（sunnah）。今天伊朗、土耳其、印度的伊斯兰珠宝市场，红玉髓销量远超其他玉髓变种。主要矿源仍是印度古吉拉特邦 Khambhat（坎贝）——这一矿区从公元前已经向罗马、波斯、阿拉伯出口红玉髓，是世界上持续运营时间最长的宝石矿之一。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carnelian_intaglio.jpg?width=640",
+    "image_credit": "罗马红玉髓印章 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "红玉髓合法贸易；古罗马 / 中世纪伊斯兰 intaglio 古物受意大利 / 各国文物法保护，不得出境。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Suetonius",
+        "title": "De Vita Caesarum (Lives of the Caesars)",
+        "year": 121,
+        "locator": "Divus Augustus 50"
+      },
+      {
+        "type": "secondary",
+        "author": "Plantzos, Dimitris",
+        "title": "Hellenistic Engraved Gems",
+        "year": 1999,
+        "locator": "Oxford Monographs on Classical Archaeology"
+      }
+    ]
+  },
+  {
+    "id": "cornish_serpentine",
+    "name": "康沃尔蛇纹石",
+    "name_en": "Cornish Serpentine",
+    "region": "英国 · 康沃尔 · 利泽德半岛",
+    "region_en": "Lizard Peninsula, Cornwall, England",
+    "coordinates": [
+      49.96,
+      -5.21
+    ],
+    "category": "other",
+    "mineral_type": "蛇纹石 / Serpentine (Mg₆Si₄O₁₀(OH)₈) · 利泽德矿带变种",
+    "color": "深绿、橄榄绿、红褐相间纹（\"巴洛克\"花纹）",
+    "marker_color": "#2a4a3c",
+    "earliest_year": 1500,
+    "stories": [
+      {
+        "culture": "凯尔特 · 利泽德的\"龙石\"",
+        "title": "德鲁伊圣地的石头",
+        "content": "康沃尔最南端的 Lizard 半岛（\"lizard\" 来自康沃尔语 \"lys ardh\" = \"高地宫殿\"，与蜥蜴无关）是英国唯一一块大面积出露的橄榄岩 - 蛇纹石地质带——地理上极不寻常，地质学家认为这里是 4 亿年前洋壳被冲撞抬起的残片。\n\n凯尔特德鲁伊把这片石头视为圣地。利泽德蛇纹石的\"龙鳞\"花纹被认为是大地母神 Cliodhna 化身的龙的鳞片。中世纪后教堂禁绝凯尔特崇拜，但当地民俗一直保留——19 世纪英国人类学家 Robert Hunt《Popular Romances of the West of England》（1865）详细记录了利泽德蛇纹石的凯尔特用法。"
+      },
+      {
+        "culture": "维多利亚 · 旅游纪念品",
+        "title": "阿尔伯特亲王的助推",
+        "content": "1846 年维多利亚女王和阿尔伯特亲王访问 Lizard Point，亲王买下几件蛇纹石手工品带回温莎堡。媒体报道引发产业爆炸——1850-1900 年间 Lizard 形成了 50 多家蛇纹石作坊。\n\n经典产品是\"蛇纹石灯塔\"（仿当地 Lizard 灯塔）和\"蛇纹石壁炉饰\"，都是维多利亚客厅必备。今天仍有 4-5 家手工作坊在 Lizard 镇运营，是英国少数还在用纯手工车床加工天然石材的传统。市售要看 \"Cornwall Lizard Serpentine\" 标签——很多便宜款是从印度进口的廉价蛇纹石冒充。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lizard_serpentine_specimen.jpg?width=640",
+    "image_credit": "利泽德蛇纹石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "康沃尔蛇纹石合法贸易；Lizard 半岛部分区域为自然保护区，限制采集。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Hunt, Robert",
+        "title": "Popular Romances of the West of England",
+        "year": 1865
+      },
+      {
+        "type": "web",
+        "title": "Lizard Point – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lizard_Point,_Cornwall"
+      }
+    ]
+  },
+  {
+    "id": "madagascan_sapphire",
+    "name": "马达加斯加伊拉卡卡蓝宝",
+    "name_en": "Madagascan Ilakaka Sapphire",
+    "region": "马达加斯加 · 伊拉卡卡",
+    "region_en": "Ilakaka, Madagascar",
+    "coordinates": [
+      -22.7,
+      45.16
+    ],
+    "category": "sapphire",
+    "mineral_type": "刚玉 / Corundum (Al₂O₃) · 含铁钛致蓝色",
+    "color": "深蓝、矢车菊蓝、紫蓝、粉橙（产 padparadscha 帕帕拉恰）",
+    "marker_color": "#1e5fc5",
+    "earliest_year": 1998,
+    "stories": [
+      {
+        "culture": "1998 · 一夜建城",
+        "title": "从 40 人到 4 万人",
+        "content": "1998 年初马达加斯加 Ilakaka 还是个 40 多人的小村庄。一名牧民在 N7 国道边洗澡时发现一颗蓝色石头——是顶级蓝宝石。消息传开后六个月内，4 万人涌入。一年后 Ilakaka 矿区已成为世界最大蓝宝石产地，占全球供应量约 50%。\n\n2000 年代盛期，每天有几百公斤蓝宝石原石从这里被运出，多数到泰国曼谷加工。Ilakaka 镇至今仍处于半法外状态——没有红绿灯、没有银行、没有派出所，整条街都是宝石交易所。"
+      },
+      {
+        "culture": "帕帕拉恰 · 莲花色",
+        "title": "宝石界最难定义的颜色",
+        "content": "Ilakaka 出产了大量 padparadscha（帕帕拉恰）—— 一种粉橙色蓝宝石，名字来自僧伽罗语 \"padma raga\"（莲花色）。它是除红宝石外唯一有独立名称的彩色刚玉。\n\n问题是\"帕帕拉恰是什么颜色\"在宝石界 50 年没有共识。GIA 定义为\"粉与橙的混合，没有任何一色超过 80%\"；SSEF 定义为\"粉橙比 30/70 到 70/30 之间\"；GRS 更宽。一颗石头送三家实验室能拿到三种鉴定结果。这种模糊带来的溢价空间巨大——同一颗石头标 \"pink sapphire\" 卖 1 万美元，标 \"padparadscha\" 能卖 5 万。\n\nIlakaka 与斯里兰卡是公认的两大帕帕拉恰来源。今天市售帕帕拉恰需 GRS + SSEF + GIA 三方认证才有公信力。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sapphire_Madagascar.jpg?width=640",
+    "image_credit": "马达加斯加蓝宝石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "马达加斯加蓝宝石合法贸易。Ilakaka 矿区监管薄弱，存在童工与环境问题。优质料推荐有 Kimberley 类似的\"非冲突来源\"认证（虽然非强制）。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Schwarz, Dietmar et al.",
+        "title": "Rubies and Sapphires from Madagascar",
+        "year": 2000,
+        "locator": "Gems & Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Sapphires from Madagascar – GIA",
+        "url": "https://www.gia.edu/gems-gemology/sapphires-madagascar"
+      }
+    ]
+  },
+  {
+    "id": "tsumeb_dioptase",
+    "name": "楚梅布翠铜矿",
+    "name_en": "Tsumeb Dioptase",
+    "region": "纳米比亚 · 楚梅布",
+    "region_en": "Tsumeb, Namibia",
+    "coordinates": [
+      -19.24,
+      17.72
+    ],
+    "category": "other",
+    "mineral_type": "翠铜矿 / Dioptase (CuSiO₃·H₂O) · 铜致祖母绿色",
+    "color": "极饱和的祖母绿色（被称为\"祖母绿替身\"，但易碎不能镶嵌）",
+    "marker_color": "#008f6c",
+    "earliest_year": 1907,
+    "stories": [
+      {
+        "culture": "楚梅布矿 · 矿物收藏家的圣杯",
+        "title": "世界十大矿之一",
+        "content": "纳米比亚 Tsumeb 矿（1907-1996 年运营）是宝石学界的传奇——它是世界已知地质最复杂的矿之一，单一矿洞产出了 243 种独立矿物种类，其中 73 种是首次在 Tsumeb 发现的。Smithsonian、大英博物馆、维也纳自然历史博物馆都有专门的\"Tsumeb 馆\"。\n\n翠铜矿是 Tsumeb 最有名的产品——这种纯铜致色的祖母绿色晶体，颜色饱和度超过任何天然祖母绿，是矿物收藏家梦寐以求的标本。一组完整的 Tsumeb 翠铜矿丛簇（手掌大小），2019 年图森矿物展售价 18 万美元。"
+      },
+      {
+        "culture": "为什么不能做首饰",
+        "title": "莫氏硬度 5 的悲剧",
+        "content": "翠铜矿的化学成分让它本应该比祖母绿（莫氏 7.5）更绿、更亮——但它的莫氏硬度只有 5（比玻璃低），且解理极好。意味着：\n\n· 戒指 / 手镯几个月就磨花\n· 镶嵌时切磨工艺会让晶体直接裂开\n· 接触汗液 / 化妆品会缓慢腐蚀\n\n所以翠铜矿基本只做矿物标本和挂件，不做日戴首饰。这让它在宝石市场上属于\"漂亮但鸡肋\"的范畴，主要消费者是矿物收藏家而非珠宝买家。Tsumeb 矿 1996 年关闭后，市场流通的全是 1907-1996 年间的库存。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dioptase_Tsumeb.jpg?width=640",
+    "image_credit": "楚梅布翠铜矿标本 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "翠铜矿合法贸易；Tsumeb 老料属博物馆级，价格高、流通慢。新货从刚果（金）、智利、亚利桑那产，但颜色 / 晶体质量逊于 Tsumeb。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Gebhard, Georg",
+        "title": "Tsumeb: A Unique Mineral Locality",
+        "year": 1999,
+        "locator": "GG-Publishing"
+      },
+      {
+        "type": "web",
+        "title": "Dioptase – Mindat",
+        "url": "https://www.mindat.org/min-1295.html"
+      }
+    ]
+  },
+  {
+    "id": "ethiopian_opal",
+    "name": "埃塞俄比亚沃罗欧泊",
+    "name_en": "Ethiopian Welo Opal",
+    "region": "埃塞俄比亚 · 北沃罗",
+    "region_en": "Wegel Tena, Wollo Province, Ethiopia",
+    "coordinates": [
+      11.5,
+      39.5
+    ],
+    "category": "opal",
+    "mineral_type": "蛋白石 / Opal · 水欧泊 hydrophane 类型",
+    "color": "透明白底 + 全光谱变彩（\"水透白\" + 强彩虹斑）",
+    "marker_color": "#f5d68a",
+    "earliest_year": 2008,
+    "stories": [
+      {
+        "culture": "2008 · 颠覆市场的发现",
+        "title": "澳洲欧泊的最大对手",
+        "content": "2008 年埃塞俄比亚北沃罗（Wollo）省 Wegel Tena 镇附近的火山玄武岩层中发现一种\"水欧泊\"——透明度极高的白底蛋白石，变彩范围全光谱、火彩比澳洲 Lightning Ridge 黑欧泊更鲜艳。\n\n这是 30 年来欧泊市场最大的颠覆事件。Wegel Tena 一矿之力把全球欧泊价格压低 40-60%；澳洲老牌欧泊矿区受冲击巨大，部分小矿关停。今天市售 50% 以上的\"白底欧泊\"都来自埃塞俄比亚。"
+      },
+      {
+        "culture": "水欧泊 · 一个隐藏的坑",
+        "title": "能吸水变色的宝石",
+        "content": "Welo 欧泊属于\"hydrophane\"（水欧泊）—— 即\"亲水\"型蛋白石。它的孔隙率极高，能像海绵一样吸收液体：\n\n· 浸在水里几小时会从乳白变成完全透明，失去变彩\n· 干燥后会恢复，但反复几次后内部应力可能导致裂纹\n· 接触墨水、咖啡、酒会被染色，且**不可逆**\n· 香水 / 化妆品里的酒精也会渗入\n\nGIA 严格要求 Welo 欧泊销售时必须披露 \"hydrophane\" 属性。市售很多商家不告知，买家不知情把它放在浴室、戴去游泳——一颗 5000 元的欧泊几个月内就毁了。所以 Welo 欧泊适合做收藏 / 偶尔佩戴，不适合日戴。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Welo_opal_Ethiopia.jpg?width=640",
+    "image_credit": "沃罗欧泊 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "埃塞俄比亚欧泊合法贸易；销售必须披露 hydrophane 属性。市售大量染色 Welo 欧泊（增强变彩），需 GIA / SSEF 鉴定。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Rondeau, Benjamin et al.",
+        "title": "Play-of-color opal from Wegel Tena, Wollo Province, Ethiopia",
+        "year": 2010,
+        "locator": "Gems & Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Ethiopian Opal – GIA",
+        "url": "https://www.gia.edu/gems-gemology/ethiopian-opal"
+      }
+    ]
+  },
+  {
+    "id": "mozambique_paraiba",
+    "name": "莫桑比克帕拉伊巴",
+    "name_en": "Mozambique Paraíba-type Tourmaline",
+    "region": "莫桑比克 · Mavuco",
+    "region_en": "Mavuco, Alto Ligonha Province, Mozambique",
+    "coordinates": [
+      -15.5,
+      39.3
+    ],
+    "category": "tourmaline",
+    "mineral_type": "电气石 / 含铜锰碧玺（Cuprian Elbaite，与巴西帕拉伊巴同成分）",
+    "color": "霓虹蓝、青绿、海蓝（与巴西帕拉伊巴成分相同但色调略不同）",
+    "marker_color": "#18d6e8",
+    "earliest_year": 2001,
+    "stories": [
+      {
+        "culture": "2001 · 姊妹矿出现",
+        "title": "巴西垄断的终结",
+        "content": "1989 年巴西帕拉伊巴碧玺发现后，全球只有巴西一处产含铜电气石。2001 年莫桑比克北部 Mavuco 矿区发现了第二处——成分几乎完全相同（铜锰致色 elbaite），颜色风格略不同：莫桑比克更偏湖水蓝，巴西更偏霓虹绿蓝。\n\n2007 年第三处出现在尼日利亚 Edukko。这三处发现共同终结了巴西的垄断，把\"帕拉伊巴\"从单一产地名变成了一种宝石类型——含铜致色的电气石。\n\nGIA 在 2006 年定下规则：含铜电气石不论产地都可叫\"paraiba-type tourmaline\"，但产地需明示。市场上巴西产 vs 莫桑比克产同等品质，价差仍在 3-5 倍——巴西是\"原产地溢价\"。"
+      },
+      {
+        "culture": "莫桑比克的产能",
+        "title": "从手挖到工业化",
+        "content": "Mavuco 矿区位于莫桑比克北部 Zambezia 省最贫困地区。早期开采是手挖 + 镐头，村民每天 1-2 美元工资。2010 年代后中国 / 德国资本进入，引入水洗筛选、X 射线分选机。今天 Mavuco 产量已达巴西原矿的 50 倍以上。\n\n这带来\"市场扩张但伦理问题\"的两难：莫桑比克产能让普通消费者第一次买得起帕拉伊巴（最便宜的 1 克拉霓虹蓝 5000 人民币起），但矿工待遇仍然糟糕，矿区水土污染严重。Fair Trade Gems 等组织自 2015 年起在 Mavuco 推动\"公平贸易认证\"，但市占率仍低于 5%。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paraiba_tourmaline_Mozambique.jpg?width=640",
+    "image_credit": "莫桑比克帕拉伊巴电气石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "莫桑比克帕拉伊巴合法国际贸易。需 GIA / GRS 出具产地证书（产地差价大）。可关注 Fair Trade Gems 认证。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Laurs, Brendan M. et al.",
+        "title": "Copper-bearing tourmaline from Mozambique: a new find",
+        "year": 2008,
+        "locator": "Gems & Gemology Vol. 44"
+      },
+      {
+        "type": "web",
+        "title": "Paraíba Tourmaline – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Para%C3%ADba_tourmaline"
+      }
+    ]
+  },
+  {
+    "id": "egyptian_peridot",
+    "name": "埃及橄榄石（圣约翰岛）",
+    "name_en": "Egyptian Peridot (Zabargad / St. John's Island)",
+    "region": "埃及 · 红海 · 圣约翰岛 / 扎巴尔加德岛",
+    "region_en": "Zabargad Island, Red Sea, Egypt",
+    "coordinates": [
+      23.6,
+      36.2
+    ],
+    "category": "other",
+    "mineral_type": "橄榄石 / Peridot (镁铁橄榄石，世界最古老的橄榄石矿)",
+    "color": "深苹果绿、橄榄油绿（成色最深的橄榄石之一）",
+    "marker_color": "#98c93d",
+    "earliest_year": -1500,
+    "stories": [
+      {
+        "culture": "法老 · \"topazos\"的真身",
+        "title": "托勒密 II 的圣岛",
+        "content": "红海中的扎巴尔加德岛（Zabargad，希腊语 \"Topazos\"，意\"猜测之岛\"——因为常年雾气难找到）从公元前 1500 年起就在开采橄榄石。这是世界最古老的橄榄石矿，至少持续运营到罗马帝国时期。\n\n古希腊人称这种石头为 topazos——后来被错译为今天的 topaz（托帕石）。也就是说，**古文献里的\"topaz\"其实指橄榄石**。直到 18 世纪矿物学家才区分了 peridot 和 topaz 两种不同矿物，但\"topaz\"这个名字已经被让给了另一种宝石。\n\n埃及艳后克利奥帕特拉据说也藏有 Zabargad 橄榄石——许多归在她名下的\"祖母绿首饰\"，今天用现代鉴定可能其实是橄榄石。"
+      },
+      {
+        "culture": "近代 · 矿藏枯竭",
+        "title": "从皇室禁地到旅游岛",
+        "content": "托勒密时期 Zabargad 岛是皇室直辖矿区，外人擅自登岛处死。罗马接手后开采更密集，2 世纪罗马博物学家老普林尼《博物志》卷 37 详细描述了岛上夜间观察橄榄石发光（橄榄石在黑暗中确实会反射散射光）然后白天开采的工艺。\n\n罗马帝国晚期之后矿区逐渐废弃。1900 年代英国人短暂重启开采，但 1958 年埃及国有化、1990 年代彻底封矿。今天 Zabargad 是埃及红海保护区，禁止登岛取石。市售\"埃及橄榄石\"几乎都是 1900-1958 年的库存或巴基斯坦、缅甸、亚利桑那产货冒充——真正的 Zabargad 橄榄石属博物馆级。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peridot_Zabargad.jpg?width=640",
+    "image_credit": "扎巴尔加德橄榄石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "restricted",
+      "notes": "扎巴尔加德岛今为埃及自然保护区，禁开采。市售真正岛产料属博物馆级，多数\"埃及橄榄石\"为其他产地冒充。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Pliny the Elder",
+        "title": "Naturalis Historia",
+        "year": 77,
+        "locator": "Book XXXVII (topazos)"
+      },
+      {
+        "type": "web",
+        "title": "Zabargad Island – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zabargad_Island"
+      }
+    ]
+  },
+  {
+    "id": "umba_garnet",
+    "name": "乌姆巴河石榴石",
+    "name_en": "Umba River Garnet",
+    "region": "坦桑尼亚 · 乌姆巴河流域",
+    "region_en": "Umba River Valley, Tanga Region, Tanzania",
+    "coordinates": [
+      -4.5,
+      38.3
+    ],
+    "category": "garnet",
+    "mineral_type": "镁铝榴石-铁铝榴石过渡品 / Pyrope-Almandine series + 钒锰致色",
+    "color": "从橘粉到酒红、玫瑰红、墨红（变色 Color Change 变种存在）",
+    "marker_color": "#b86b2c",
+    "earliest_year": 1958,
+    "stories": [
+      {
+        "culture": "1958 · 一个新的石榴石\"家族\"",
+        "title": "Henn 与变色石榴石",
+        "content": "1958 年德国地质学家 Ulrich Henn 在坦桑尼亚北部乌姆巴河流域考察时，发现一种成色完全没见过的石榴石——同一块原石在日光下是粉橙色，烛光下竟变成覆盆子红。这是宝石学界首次明确记录\"变色石榴石\"，比亚历山大变石的变色机制还要复杂。\n\nUmba 矿区出产了之后所有著名\"色彩石榴石\"分类的源头：玫瑰榴石（rhodolite）、橘榴石（mandarin spessartine）、变色榴石、马拉雅榴石（malaya / malaia garnet）—— 这些分类原本是不同矿物变种，在 Umba 都能找到。"
+      },
+      {
+        "culture": "\"马拉雅\"误会的来历",
+        "title": "Malaya 不是马来西亚",
+        "content": "Umba 出产的一种粉橙色石榴石被市场叫做 \"malaya garnet\" 或 \"malaia garnet\"。**这与马来西亚完全无关**——malaya 在斯瓦希里语里意为\"局外人 / 妓女\"，是 Umba 当地矿工对这种\"非常规\"石榴石的轻蔑称呼。\n\n传统石榴石分类是单一矿物种（镁铝、铁铝、锰铝），但 Umba 的这种粉橙色榴石是镁铝 + 锰铝过渡品，矿工拿不到\"正经\"分类的收购价，就给它取了贬义名。1990 年代美国宝石市场把这个名字推为商业品牌（标榜\"独特的非洲色\"），价格涨了 10 倍。一个语言学上的羞辱被商业漂白成奢华品牌——宝石市场最迷人的怪事之一。\n\n今天 Umba 矿区仍小规模产出，由当地坦桑尼亚 / 印度合资公司运营。市售购买 \"malaya garnet\" 时知道这段语源即可。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malaya_garnet_Umba.jpg?width=640",
+    "image_credit": "乌姆巴马拉雅榴石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "坦桑尼亚乌姆巴石榴石合法贸易；产量小，市场流通中混入肯尼亚 / 莫桑比克过渡品石榴石。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Schmetzer, Karl & Bank, Hermann",
+        "title": "Color-change garnets from Umba Valley, Tanzania",
+        "year": 1981,
+        "locator": "Journal of Gemmology"
+      },
+      {
+        "type": "web",
+        "title": "Malaya garnet – GIA",
+        "url": "https://www.gia.edu/malaya-garnet"
+      }
+    ]
+  },
+  {
+    "id": "zambian_emerald",
+    "name": "赞比亚卡富布祖母绿",
+    "name_en": "Zambian Kafubu Emerald",
+    "region": "赞比亚 · 卡富布矿区",
+    "region_en": "Kafubu Mining Area, Copperbelt Province, Zambia",
+    "coordinates": [
+      -13.0,
+      28.0
+    ],
+    "category": "emerald",
+    "mineral_type": "绿柱石 / Beryl · 铁致色（vs 哥伦比亚穆佐的铬致色）",
+    "color": "深森林绿带蓝调（\"blue-green\" 比哥伦比亚祖母绿冷）",
+    "marker_color": "#157a4c",
+    "earliest_year": 1928,
+    "stories": [
+      {
+        "culture": "1928 · 殖民地的意外",
+        "title": "寻找翡翠铜矿",
+        "content": "1928 年英国殖民地南罗德西亚的 Miku 矿区一群英国地质学家本来在勘探铜矿——赞比亚铜矿带是世界最大铜矿产区之一。但他们在 Miku 山附近的伟晶岩脉里挖出几颗深绿色晶体——是高品质祖母绿。\n\n这一发现迟到了——20 世纪上半叶哥伦比亚穆佐祖母绿垄断全球市场，赞比亚货被当作\"替代品\"廉价倾销。直到 1976 年赞比亚独立后，国有的 Kagem 矿（卡富布主矿）才系统化生产，引入瑞士 SSEF 的产地鉴定，逐步建立\"赞比亚祖母绿\"的品牌地位。"
+      },
+      {
+        "culture": "赞比亚 vs 哥伦比亚 · 颜色之争",
+        "title": "蓝绿还是黄绿",
+        "content": "哥伦比亚祖母绿是铬致色（chromium）—— 纯绿略带黄。赞比亚祖母绿是铁致色（iron）+ 微量铬—— 绿带蓝调，更冷、更深。\n\n两派宝石爱好者长期对立：\n· 传统派 / 拍卖界：哥伦比亚 = 顶级，赞比亚 = 实用商品\n· 当代设计师 / Chopard / Gemfields：赞比亚 = 更现代的颜色 + 净度通常更好（哥伦比亚祖母绿内含物比赞比亚多得多）\n\nGemfields 公司 2008 年收购 Kagem 矿股份后，推广\"绿宝石 21 世纪应该是赞比亚的\"营销，连续 10 年赞助赞比亚祖母绿专题拍卖。今天赞比亚是全球第二大祖母绿产地（占 20%），价格已与穆佐顶级料缩小到 1.5-2 倍以内。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zambian_emerald.jpg?width=640",
+    "image_credit": "赞比亚祖母绿 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "赞比亚祖母绿合法国际贸易，主矿 Kagem 由英国上市公司 Gemfields 控股，供应链相对透明。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Zwaan, J.C. et al.",
+        "title": "Emeralds from Kafubu, Zambia",
+        "year": 2005,
+        "locator": "Gems & Gemology Vol. 41"
+      },
+      {
+        "type": "web",
+        "title": "Gemfields – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gemfields"
+      }
+    ]
+  },
+  {
+    "id": "nigerian_tourmaline",
+    "name": "尼日利亚 Ofiki 碧玺",
+    "name_en": "Nigerian Ofiki Tourmaline",
+    "region": "尼日利亚 · Oyo 州 · Ofiki",
+    "region_en": "Ofiki, Oyo State, Nigeria",
+    "coordinates": [
+      8.18,
+      3.3
+    ],
+    "category": "tourmaline",
+    "mineral_type": "电气石 / Elbaite + Rubellite（锂电气石，粉红色变种）",
+    "color": "深粉红、桃红、覆盆子红（rubellite 红碧玺）",
+    "marker_color": "#c4346b",
+    "earliest_year": 1970,
+    "stories": [
+      {
+        "culture": "1970s · Biafra 战后的\"绿色黄金\"",
+        "title": "从矿石到经济独立",
+        "content": "尼日利亚南部 Oyo 州 Ofiki 镇周边的伟晶岩脉自 1970 年代开始小规模开采碧玺，盛产红色（rubellite）和绿色变种。这一时期正值 Biafra 战争（1967-1970，比夫拉独立战争）之后—— 矿石开采成为南部尼日利亚部分贫困地区的经济命脉。\n\n1980-90 年代尼日利亚成为全球第二大碧玺产国（仅次于巴西），与马达加斯加、莫桑比克竞争。Ofiki 红碧玺以颜色饱和度著称，可与巴西 Itatiaia 红碧玺一较高下。"
+      },
+      {
+        "culture": "\"无产地证书\"的难题",
+        "title": "产地溯源是奢侈品",
+        "content": "尼日利亚碧玺的最大问题不是质量而是来源透明度。Ofiki 矿区与马达加斯加 / 莫桑比克 / 巴西的碧玺难以肉眼区分，且尼日利亚没有强制产地证书系统——矿工把原石卖给中间商，运到泰国曼谷或印度斋浦尔加工，最终市场上很难追溯到 Ofiki。\n\n2010 年代 Gübelin 实验室开发了基于矿物微量元素的产地溯源技术——通过 LA-ICP-MS（激光剥蚀-电感耦合等离子体质谱）分析晶体内含物，能以 90%+ 的把握判断碧玺产地。但单次检测费 ~$500，所以只用于高端 5 克拉以上的料。普通市场上的尼日利亚碧玺仍以\"非洲碧玺\"统称销售，混合在巴西 / 莫桑比克货里。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rubellite_Nigeria.jpg?width=640",
+    "image_credit": "尼日利亚红碧玺 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "尼日利亚碧玺合法国际贸易；产地溯源弱，市售大量与巴西 / 莫桑比克碧玺混卖，需 Gübelin / SSEF 出具产地证书。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Lyckberg, Peter et al.",
+        "title": "Famous mineral localities: pegmatites of Nigeria",
+        "year": 2009,
+        "locator": "Mineralogical Record"
+      },
+      {
+        "type": "web",
+        "title": "Rubellite – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rubellite"
+      }
+    ]
+  },
+  {
+    "id": "dominican_larimar",
+    "name": "多米尼加拉利玛",
+    "name_en": "Dominican Larimar",
+    "region": "多米尼加共和国 · 巴拉奥纳省",
+    "region_en": "Filipinas Mine, Barahona Province, Dominican Republic",
+    "coordinates": [
+      18.0,
+      -71.5
+    ],
+    "category": "other",
+    "mineral_type": "硅钙钠石 / Pectolite var. larimar（铜致色，加勒比海独有）",
+    "color": "天蓝、海蓝、绿松石蓝（带白色波浪纹理）",
+    "marker_color": "#6cb4cd",
+    "earliest_year": 1974,
+    "stories": [
+      {
+        "culture": "泰诺神话 · 加勒比的\"母海石\"",
+        "title": "Atabey 的眼泪",
+        "content": "加勒比泰诺人（Taíno，西班牙殖民前加勒比海岛原住民）口传中，蓝色的石头是大地母神 Atabey 凝结的眼泪——海与天的合一。泰诺人把这种蓝石用作护身符，西班牙殖民者 1492 年到达伊斯帕尼奥拉岛时见过泰诺人佩戴。\n\n但西班牙殖民彻底摧毁了泰诺文化（90% 人口在 1492-1550 死于战争与天花），蓝石的传统知识中断。500 年后这种矿物才被重新发现。"
+      },
+      {
+        "culture": "1974 · Miguel Méndez 的女儿",
+        "title": "\"Larissa\" + \"Mar\"",
+        "content": "1974 年多米尼加和平队志愿者 Norman Rilling 与多米尼加陶艺家 Miguel Méndez 在巴拉奥纳省海滩拾到几颗蓝石头——Méndez 想起小时候母亲提过山里有\"会发光的蓝石\"。两人沿河追溯，找到了 Filipinas 矿。\n\nMéndez 把这种石头命名为 \"Larimar\"——他女儿 Larissa 的名字 + 西班牙语 mar（海）。这是全球**仅一处产地**的宝石——只产于多米尼加共和国巴拉奥纳省的 Filipinas 单一矿。商业上完全是多米尼加国家品牌：被称为\"加勒比之蓝\"，多米尼加旅游纪念品销量第一。\n\n地质学解释：拉利玛是火山玄武岩中的硅钙钠石（pectolite），蓝色来自微量铜——这种成色的 pectolite 全球独此一处。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Larimar_pectolite.jpg?width=640",
+    "image_credit": "拉利玛 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "拉利玛合法贸易；多米尼加唯一产地，Filipinas 矿由 Larimar SA 国营公司控制，限量出口。市售假货（染色玻璃 / 树脂）多，需多米尼加 Casa de Larimar 认证。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Larimar Mining Company",
+        "title": "Larimar: la piedra del Caribe",
+        "year": 2010
+      },
+      {
+        "type": "web",
+        "title": "Larimar – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Larimar"
+      }
+    ]
+  },
+  {
+    "id": "arizona_peridot",
+    "name": "亚利桑那阿帕奇橄榄石",
+    "name_en": "San Carlos Apache Peridot",
+    "region": "美国 · 亚利桑那州 · 圣卡洛斯阿帕奇保留地",
+    "region_en": "San Carlos Apache Reservation, Arizona, USA",
+    "coordinates": [
+      33.34,
+      -110.5
+    ],
+    "category": "other",
+    "mineral_type": "橄榄石 / Peridot · 火山喷出岩中的橄榄石结核",
+    "color": "黄绿、苹果绿（颗粒较小，颜色比缅甸 / 巴基斯坦料偏黄）",
+    "marker_color": "#9bc94c",
+    "earliest_year": 1900,
+    "stories": [
+      {
+        "culture": "阿帕奇 · 唯一原住民独占的美国宝石矿",
+        "title": "部族主权",
+        "content": "美国亚利桑那州圣卡洛斯阿帕奇部族（San Carlos Apache Tribe）控制的保留地里的橄榄石矿区——位于死火山 Peridot Mesa 的玄武岩台地——是美国**唯一一个完全由原住民部族控制开采、加工、销售的商业宝石矿**。\n\n阿帕奇橄榄石占全球橄榄石产量约 80-90%。但单颗一般小（多数 1-2 克拉），颜色偏黄。所以市售大颗橄榄石（5 克拉以上）多来自巴基斯坦科希斯坦 / 缅甸抹谷，圣卡洛斯橄榄石多用于较平价首饰。"
+      },
+      {
+        "culture": "冰雹石 · 1885 的怪传说",
+        "title": "从天而降的橄榄石",
+        "content": "阿帕奇当地长期有传说：\"Peridot Mesa 的橄榄石是雷神之妻 Asdzą́ą Łigai 撒下的冰雹\"——因为橄榄石经常在暴雨后裸露在山坡。这其实是地质规律：雨水冲走表层风化的玄武岩松软部分，把藏在岩浆瘤里的橄榄石结核暴露出来。\n\n更怪的是 1885 年亚利桑那领地发生过一次\"陨石坠落事件\"，几位当地白人定居者声称看到\"绿色火球\"砸到 San Carlos——后来收集到的\"陨石碎片\"里竟然有橄榄石。这成为现代陨石学的关键案例之一：地外橄榄石（pallasite 橄榄陨铁）的发现重要参考点。今天 San Carlos 矿区每年仍有少量陨石被发现，部族会单独标价售卖。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Carlos_peridot.jpg?width=640",
+    "image_credit": "圣卡洛斯橄榄石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "阿帕奇部族独家控制，所有商业开采必须由部族审批。市售保留 \"San Carlos Apache\" 来源认证的支持部族经济。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Sinkankas, John",
+        "title": "Gemstones of North America",
+        "year": 1959
+      },
+      {
+        "type": "web",
+        "title": "San Carlos Apache Reservation – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/San_Carlos_Apache_Indian_Reservation"
+      }
+    ]
+  },
+  {
+    "id": "yogo_sapphire",
+    "name": "蒙大拿约戈蓝宝",
+    "name_en": "Yogo Gulch Sapphire",
+    "region": "美国 · 蒙大拿州 · Yogo Gulch",
+    "region_en": "Yogo Gulch, Judith Basin County, Montana, USA",
+    "coordinates": [
+      46.92,
+      -110.4
+    ],
+    "category": "sapphire",
+    "mineral_type": "刚玉 / Corundum · 美国本土唯一矢车菊蓝级",
+    "color": "矢车菊蓝、皇家蓝（不需热处理，天然色）",
+    "marker_color": "#4673a3",
+    "earliest_year": 1894,
+    "stories": [
+      {
+        "culture": "1894 · 杰克 · 霍格斯的金矿",
+        "title": "\"金矿里的蓝石头\"",
+        "content": "1894 年蒙大拿淘金者 Jake Hoover（杰克·胡佛）在 Yogo Gulch 干涸河床里淘金时，发现一袋蓝色小石头——他原本以为没价值，邮寄到纽约 Tiffany & Co. 鉴定 only \"为了好玩\"。Tiffany 总裁鉴定后开出 3750 美元的支票（相当于今天 12 万美元），并告诉胡佛\"赶紧把矿权买下\"。\n\n这就是美国本土唯一的矢车菊蓝级蓝宝石产地。Yogo 蓝宝石的特点：\n· 不需要任何热处理（颜色天然就到顶级）\n· 净度极高（几乎没有内含物）\n· 但颗粒小——5 克拉以上极少\n\n爱德华七世 1907 年加冕用的英国王室皇冠上镶嵌的就有 Yogo 蓝宝石——这是美国蓝宝石的最高荣耀时刻。"
+      },
+      {
+        "culture": "矿区现状 · 关闭与重启",
+        "title": "世界第八大宝石矿的尴尬",
+        "content": "Yogo 矿被认为是世界第八大宝石矿（按价值估算），但开采史一直不顺：洪水、地质问题、所有权纠纷反复让矿区关停。1929 年大萧条后第一次彻底关停。1980 年代重启又因地质风险关停。2008-2017 年小规模复产。\n\n今天 Yogo 矿由蒙大拿本地公司 Yogo Sapphire LLC 持有，年产量极少，全部直供珠宝品牌（如 Don Baide Designs）。市售\"Yogo sapphire\" 价格是缅甸 / 斯里兰卡同等品质的 1.5-2 倍——\"美国本土天然蓝宝石\"是它的卖点。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yogo_sapphire.jpg?width=640",
+    "image_credit": "约戈蓝宝石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "约戈蓝宝合法贸易；产量极少，市售真品多直供品牌珠宝公司，零售商基本拿不到。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Voynick, Stephen M.",
+        "title": "The Yogo Story: Montana's dream sapphires",
+        "year": 1985,
+        "locator": "Mountain Press"
+      },
+      {
+        "type": "web",
+        "title": "Yogo sapphire – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yogo_sapphire"
+      }
+    ]
+  },
+  {
+    "id": "lake_superior_agate",
+    "name": "苏必利尔湖玛瑙",
+    "name_en": "Lake Superior Agate",
+    "region": "美国 · 明尼苏达 · 苏必利尔湖北岸",
+    "region_en": "North Shore of Lake Superior, Minnesota, USA",
+    "coordinates": [
+      47.0,
+      -91.0
+    ],
+    "category": "agate",
+    "mineral_type": "玛瑙 / Banded agate · 12 亿年前火山玄武岩泡",
+    "color": "红 / 橙 / 棕带状（铁锈染色，与冰川作用相关）",
+    "marker_color": "#b85a2c",
+    "earliest_year": -5000,
+    "stories": [
+      {
+        "culture": "奥吉布瓦 · 雷鸟之卵",
+        "title": "Animikiig 的礼物",
+        "content": "苏必利尔湖周边的奥吉布瓦人（Ojibwe / Anishinaabe）口传里，苏必利尔湖玛瑙叫 \"Animikiig\" —— \"雷鸟\"。雷鸟（thunderbird）是奥吉布瓦神话中掌管暴风雨的巨鸟。打雷的时候雷鸟会下\"蛋\"——红色 / 橙色的玛瑙就是这些\"蛋\"被冲到湖滩上的。\n\n奥吉布瓦人收集这些\"雷石\"做仪式护身符。考古发掘显示从公元前 5000 年的\"古老期\"（Archaic Period）就有玛瑙加工作坊，部分加工品流通到密西西比河流域北部数百英里。"
+      },
+      {
+        "culture": "明尼苏达州石 · 1969",
+        "title": "\"看谁能在沙滩上找到\"",
+        "content": "苏必利尔湖玛瑙是明尼苏达州的\"State Gemstone\"（1969 年州议会立法指定）。它最特别的不是稀有性而是分布——苏必利尔湖北岸 100 多英里海滩上随机散落着大量玛瑙，任何人去海滩散步都可能捡到。\n\n这种\"沙滩寻宝\"成为明尼苏达独特的旅游文化。Two Harbors、Grand Marais 这些北岸小镇每年举办\"玛瑙节\"。专业玩家用风琴管子（试听卵石的撞击声辨认密度）和 UV 灯（玛瑙在 UV 下不发光，石英会）筛选。一颗超过 10 厘米、纹路完整的苏必利尔湖玛瑙能卖到 1-5 万美元——但 99% 的人捡到的是 2-3 厘米的小玛瑙，纪念意义大于经济价值。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Superior_agate.jpg?width=640",
+    "image_credit": "苏必利尔湖玛瑙 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "苏必利尔湖玛瑙合法采集（公共海滩 + 私人土地需许可）。州立公园内禁取。商业销售合法。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Minnesota Legislature",
+        "title": "Chapter 1, Article 7, Section 18 (State Gemstone)",
+        "year": 1969
+      },
+      {
+        "type": "secondary",
+        "author": "Wolter, Scott F.",
+        "title": "The Lake Superior Agate",
+        "year": 1996,
+        "locator": "Outernet Publishing"
+      }
+    ]
+  },
+  {
+    "id": "brazilian_amethyst",
+    "name": "巴西紫水晶大教堂",
+    "name_en": "Brazilian Amethyst Cathedral",
+    "region": "巴西 · 南里奥格兰德州",
+    "region_en": "Rio Grande do Sul, Brazil",
+    "coordinates": [
+      -29.0,
+      -53.0
+    ],
+    "category": "amethyst",
+    "mineral_type": "石英变种 / Quartz var. amethyst（南美玄武岩地幔气泡）",
+    "color": "深紫、薰衣紫、樱花紫（颜色比希腊紫水晶略浅但产量大）",
+    "marker_color": "#7c2db1",
+    "earliest_year": 1727,
+    "stories": [
+      {
+        "culture": "1727 · 南美的\"贵族跌价\"事件",
+        "title": "葡萄牙的祖母绿淘金队伍",
+        "content": "1727 年葡萄牙殖民地巴西米纳斯吉拉斯州的探险队本来在寻找祖母绿（哥伦比亚穆佐祖母绿当时垄断市场让葡萄牙眼红）—— 他们没找到祖母绿，但在巴西南部南里奥格兰德州的玄武岩台地里挖到一种东西，颠覆了欧洲珠宝市场。\n\n那就是巨型紫水晶晶洞——单个晶洞从手提箱大小到一整个房间大小，里面布满半透明紫水晶尖。这些\"大教堂级\"（cathedral）晶洞 1730 年代被运到里斯本，再到伦敦、巴黎，让原本与红宝石 / 钻石 / 蓝宝石 / 祖母绿并列\"五大贵宝石\"的紫水晶**一夜跌价 80%**，从皇室独享变成中产可负担。\n\n这是宝石史上最戏剧性的\"贵族跌价\"事件之一。"
+      },
+      {
+        "culture": "现代 · 南美玄武岩台地的奇迹",
+        "title": "一座地下\"水晶城堡\"",
+        "content": "南里奥格兰德州的紫水晶矿在地质上极为特殊——1.4 亿年前火山喷发形成的巨厚玄武岩层中保留了大量气泡（vug），气泡内壁后来被含铁的热液浸润，慢慢长出紫水晶晶簇。\n\n开采方式独特：矿工先用炸药松动玄武岩，然后小心切割成大块运出，最后到地表才用电锯把外壳剖开。一个完整的\"紫水晶大教堂\"晶洞（高 1.5-3 米）零售价 1-10 万美元，主要销往中国 / 中东高端家居市场，作为风水摆件。\n\n今天 Rio Grande do Sul 与乌拉圭 Artigas 加起来供应全球紫水晶约 70%。希腊那克索斯岛的传统紫水晶矿早已枯竭，但故事价值仍由希腊承担。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amethyst_cathedral_Brazil.jpg?width=640",
+    "image_credit": "巴西紫水晶大教堂 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "巴西紫水晶合法贸易；大型晶洞出口需巴西矿产管理局（ANM）许可，但小颗紫水晶完全自由流通。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Proctor, Keith",
+        "title": "Brazilian amethyst",
+        "year": 1988,
+        "locator": "Gems & Gemology"
+      },
+      {
+        "type": "web",
+        "title": "Amethyst – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amethyst"
+      }
+    ]
+  },
+  {
+    "id": "brazilian_aquamarine",
+    "name": "巴西海蓝宝",
+    "name_en": "Brazilian Aquamarine",
+    "region": "巴西 · 米纳斯吉拉斯州 · Santa Maria de Itabira",
+    "region_en": "Santa Maria de Itabira, Minas Gerais, Brazil",
+    "coordinates": [
+      -19.43,
+      -43.13
+    ],
+    "category": "other",
+    "mineral_type": "绿柱石 / Beryl var. aquamarine（铁致色，与祖母绿同矿物种）",
+    "color": "海蓝、天空蓝、深海蓝（深色 \"Santa Maria\" 级是最贵 aqua）",
+    "marker_color": "#6ec9d4",
+    "earliest_year": 1700,
+    "stories": [
+      {
+        "culture": "罗马 · 海神之石",
+        "title": "老普林尼的\"波塞冬之眼\"",
+        "content": "海蓝宝（aquamarine）的名字来自拉丁语 \"aqua marina\" = \"海水\"。老普林尼《博物志》卷 37 写：罗马水手出海前会把海蓝宝沉入海中献给波塞冬（罗马名 Neptune），祈求平安归航。中世纪欧洲传承这一信仰——船长室常挂海蓝宝护身符。\n\n但古代欧洲海蓝宝主要来自印度和斯里兰卡。直到 18 世纪初巴西米纳斯吉拉斯州大规模发现海蓝宝矿藏，欧洲海蓝宝市场才被巴西垄断。今天巴西仍占全球海蓝宝产量约 60%。"
+      },
+      {
+        "culture": "1910 · 全球最大单晶",
+        "title": "110 公斤的\"Marambaia\"",
+        "content": "1910 年米纳斯吉拉斯州 Marambaia 矿区挖出一颗 110 公斤、长 48 厘米的海蓝宝单晶——是有史以来最大的宝石级海蓝宝原石。它被切磨成超过 200 块珠宝级宝石，最大的一块 26 公斤蓝色\"Dom Pedro 海蓝宝\"现藏华盛顿史密森尼自然历史博物馆。\n\n更稀有的是\"Santa Maria\" 级——产自 Santa Maria de Itabira 矿的深海蓝色海蓝宝。颜色深到接近蓝宝石。一颗 5 克拉 Santa Maria 级海蓝宝单克拉价超过 2000 美元，是普通海蓝宝的 10 倍。今天 Santa Maria 矿基本枯竭，市售\"Santa Maria 色级\"多来自莫桑比克和马达加斯加。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aquamarine_Santa_Maria.jpg?width=640",
+    "image_credit": "巴西海蓝宝 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "巴西海蓝宝合法国际贸易；Santa Maria 色级珍稀，需 SSEF / GIA 产地证书。"
+    },
+    "sources": [
+      {
+        "type": "primary",
+        "author": "Pliny the Elder",
+        "title": "Naturalis Historia",
+        "year": 77,
+        "locator": "Book XXXVII (beryl)"
+      },
+      {
+        "type": "secondary",
+        "author": "Sinkankas, John",
+        "title": "Emerald and Other Beryls",
+        "year": 1981
+      }
+    ]
+  },
+  {
+    "id": "peruvian_chrysocolla",
+    "name": "秘鲁硅孔雀石",
+    "name_en": "Peruvian Chrysocolla",
+    "region": "秘鲁 · 利马省 · Lily 矿",
+    "region_en": "Lily Mine, Pisco Umay, Lima Province, Peru",
+    "coordinates": [
+      -13.2,
+      -76.2
+    ],
+    "category": "other",
+    "mineral_type": "硅孔雀石 / Chrysocolla ((Cu,Al)₂H₂Si₂O₅(OH)₄·nH₂O) · 铜的水合硅酸盐",
+    "color": "青绿、孔雀蓝、绿松石色（铜致色，硬度低需经玛瑙化处理）",
+    "marker_color": "#1f9eb4",
+    "earliest_year": 1500,
+    "stories": [
+      {
+        "culture": "印加 · 铜矿副产物",
+        "title": "Chuquicamata 之外",
+        "content": "硅孔雀石是铜矿氧化带的产物——印加帝国（13-16 世纪）大量开采铜（用于青铜武器和宗教器皿），硅孔雀石作为副产物被印加工匠保留。库斯科考古发掘出土的印加金银器中常见镶嵌硅孔雀石片，作为天空 / 水的象征。\n\n西班牙殖民者 1532 年征服印加帝国后，主要掠夺金银，对硅孔雀石不感兴趣——这反而让大量硅孔雀石标本保存到现代。今天秘鲁国家博物馆有专门的\"硅孔雀石厅\"。"
+      },
+      {
+        "culture": "Lily 矿 · 玛瑙化硅孔雀石",
+        "title": "世界顶级蓝",
+        "content": "秘鲁利马省 Pisco Umay 镇的 Lily 矿在 2000 年代发现一种特殊的硅孔雀石——已经被天然玛瑙化（chalcedony 包裹），称作 \"gem silica\" 或\"宝石级玉髓\"。化学成分是硅孔雀石致色的玉髓，硬度从硅孔雀石的 2-4 提升到玉髓的 6.5-7，可镶嵌做日戴首饰。\n\n这种\"宝石级硅孔雀石\"颜色饱和度极高，被宝石商称为\"加勒比海色\"。一颗 5 克拉 Lily 矿 gem silica 单克拉价 500-2000 美元，是普通硅孔雀石的 50 倍。Lily 矿年产量仅几公斤，全球供应紧张。\n\n市售\"硅孔雀石\"绝大多数是无玛瑙化的普通材料，只能做手链珠子和雕件。\"宝石级\"必须 Lotus / GIA 认证。"
+      }
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysocolla_Peru.jpg?width=640",
+    "image_credit": "秘鲁硅孔雀石 / Wikimedia Commons",
+    "legal_status": {
+      "commerce": "safe",
+      "notes": "硅孔雀石合法贸易。普通材料便宜流通；玛瑙化\"宝石级\"罕见，需 GIA 鉴定。"
+    },
+    "sources": [
+      {
+        "type": "secondary",
+        "author": "Liccini, Mark",
+        "title": "Gem Silica from Peru",
+        "year": 2010,
+        "locator": "Lapidary Journal Jewelry Artist"
+      },
+      {
+        "type": "web",
+        "title": "Chrysocolla – Mindat",
+        "url": "https://www.mindat.org/min-961.html"
+      }
+    ]
   }
 ]

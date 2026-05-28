@@ -1,0 +1,48 @@
+{
+  "id": "tsumeb_dioptase",
+  "name": "楚梅布翠铜矿",
+  "name_en": "Tsumeb Dioptase",
+  "region": "纳米比亚 · 楚梅布",
+  "region_en": "Tsumeb, Namibia",
+  "coordinates": [
+    -19.24,
+    17.72
+  ],
+  "category": "other",
+  "mineral_type": "翠铜矿 / Dioptase (CuSiO₃·H₂O) · 铜致祖母绿色",
+  "color": "极饱和的祖母绿色（被称为\"祖母绿替身\"，但易碎不能镶嵌）",
+  "marker_color": "#008f6c",
+  "earliest_year": 1907,
+  "stories": [
+    {
+      "culture": "楚梅布矿 · 矿物收藏家的圣杯",
+      "title": "世界十大矿之一",
+      "content": "纳米比亚 Tsumeb 矿（1907-1996 年运营）是宝石学界的传奇——它是世界已知地质最复杂的矿之一，单一矿洞产出了 243 种独立矿物种类，其中 73 种是首次在 Tsumeb 发现的。Smithsonian、大英博物馆、维也纳自然历史博物馆都有专门的\"Tsumeb 馆\"。\n\n翠铜矿是 Tsumeb 最有名的产品——这种纯铜致色的祖母绿色晶体，颜色饱和度超过任何天然祖母绿，是矿物收藏家梦寐以求的标本。一组完整的 Tsumeb 翠铜矿丛簇（手掌大小），2019 年图森矿物展售价 18 万美元。"
+    },
+    {
+      "culture": "为什么不能做首饰",
+      "title": "莫氏硬度 5 的悲剧",
+      "content": "翠铜矿的化学成分让它本应该比祖母绿（莫氏 7.5）更绿、更亮——但它的莫氏硬度只有 5（比玻璃低），且解理极好。意味着：\n\n· 戒指 / 手镯几个月就磨花\n· 镶嵌时切磨工艺会让晶体直接裂开\n· 接触汗液 / 化妆品会缓慢腐蚀\n\n所以翠铜矿基本只做矿物标本和挂件，不做日戴首饰。这让它在宝石市场上属于\"漂亮但鸡肋\"的范畴，主要消费者是矿物收藏家而非珠宝买家。Tsumeb 矿 1996 年关闭后，市场流通的全是 1907-1996 年间的库存。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dioptase_Tsumeb.jpg?width=640",
+  "image_credit": "楚梅布翠铜矿标本 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "翠铜矿合法贸易；Tsumeb 老料属博物馆级，价格高、流通慢。新货从刚果（金）、智利、亚利桑那产，但颜色 / 晶体质量逊于 Tsumeb。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Gebhard, Georg",
+      "title": "Tsumeb: A Unique Mineral Locality",
+      "year": 1999,
+      "locator": "GG-Publishing"
+    },
+    {
+      "type": "web",
+      "title": "Dioptase – Mindat",
+      "url": "https://www.mindat.org/min-1295.html"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "derbyshire_blue_john",
+  "name": "德比郡蓝约翰",
+  "name_en": "Derbyshire Blue John",
+  "region": "英国 · 德比郡 · 卡斯尔顿",
+  "region_en": "Castleton, Derbyshire, England",
+  "coordinates": [
+    53.345,
+    -1.776
+  ],
+  "category": "other",
+  "mineral_type": "萤石变种 / Fluorite var. Blue John (CaF₂，含碳氢化合物致紫色)",
+  "color": "紫蓝、深紫、米黄交错带状（独一无二的\"Blue John\"花纹）",
+  "marker_color": "#6b3a8a",
+  "earliest_year": 50,
+  "stories": [
+    {
+      "culture": "罗马时代 · \"Murrhine\"",
+      "title": "老普林尼的紫色酒杯",
+      "content": "\"Blue John\" 这种紫蓝相间的萤石全球只产于英国德比郡 Castleton 镇附近的两个矿（Blue John Cavern 和 Treak Cliff Cavern）。罗马博物学家老普林尼在《博物志》卷 37 提到一种叫 \"murrhine\"（紫纹石）的器皿——罗马贵族用它做酒杯，认为能\"提升酒香、防中毒\"。\n\n2014 年牛津大学考古团队用 X 射线荧光分析了大英博物馆藏的几件罗马 murrhine 器皿——成分确实是萤石，且杂质模式与德比郡 Blue John 高度吻合。这意味着罗马帝国时期就有从不列颠到罗马的 Blue John 贸易，比此前认为的早了 1700 年。"
+    },
+    {
+      "culture": "乔治时代 · 大教堂级花瓶",
+      "title": "\"Royal Pavilion 风格\"",
+      "content": "18 世纪英国 Matthew Boulton 在伯明翰生产的镀金 Blue John 花瓶成为乔治王朝最贵的家居饰品。乔治三世的 Carlton House、布莱顿 Royal Pavilion 都摆着 Blue John 巨瓶。\n\nBlue John 极难加工——萤石脆而易裂，1 公斤原石经常加工出来只剩 200 克成品。今天 Castleton 还有家族经营的小作坊（Bluejohn Cavern Ltd）继续做。年产量不到 500 公斤——比帝王托帕石、亚历山大变石都稀少。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_john_fluorite.jpg?width=640",
+  "image_credit": "蓝约翰萤石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "英国政府 1990 年起把 Blue John 矿区列入\"特殊科学价值地\"，开采有年度配额。市售真品价格高、假货（合成树脂染色）多。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Pliny the Elder",
+      "title": "Naturalis Historia",
+      "year": 77,
+      "locator": "Book XXXVII (on murrhine)"
+    },
+    {
+      "type": "secondary",
+      "author": "Vout, Caroline et al.",
+      "title": "Murrhine vases reconsidered: XRF analysis",
+      "year": 2014,
+      "locator": "Antiquity"
+    }
+  ]
+}

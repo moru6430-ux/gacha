@@ -1,0 +1,48 @@
+{
+  "id": "siberian_charoite",
+  "name": "西伯利亚紫龙晶",
+  "name_en": "Siberian Charoite",
+  "region": "俄罗斯 · 萨哈共和国 · 查罗河流域",
+  "region_en": "Murun Massif, Chara River, Sakha Republic, Russia",
+  "coordinates": [
+    56.0,
+    117.0
+  ],
+  "category": "other",
+  "mineral_type": "查罗石 / Charoite (复杂硅酸盐，俄罗斯独有矿物种)",
+  "color": "紫罗兰、薰衣紫、丝绢状光泽（含黑色霓辉石条纹和金色锥辉石点）",
+  "marker_color": "#835ec6",
+  "earliest_year": 1978,
+  "stories": [
+    {
+      "culture": "1978 · 一个矿、一个国、一种矿物",
+      "title": "Vera Rogova 的小矿",
+      "content": "查罗石是世界上极少数\"单一产地\"宝石——全球**只有一处**矿藏：东西伯利亚雅库特地区穆伦山脉（Murun Massif）查罗河（Chara River）边的一个小矿，方圆 10 平方公里。\n\n1978 年由苏联女地质学家 Vera Parfentievna Rogova 团队首次描述并命名。\"Charoite\" 来自查罗河，俄语 чары（charuyushchii）又意为\"魅惑\"——双关。查罗石是 IMA（国际矿物学协会）官方认证的独立矿物物种（许多\"宝石\"其实只是某既有矿物的变种，查罗石是新种）。"
+    },
+    {
+      "culture": "俄国资源管制 · 出口配额",
+      "title": "\"国家战略资源\"",
+      "content": "俄罗斯政府 1990 年代后期把查罗石列入\"国家战略矿产资源\"，开采权属国家垄断。每年出口配额仅几吨，市售优质大块查罗石标价超过钻石每克拉的 1/10。\n\n查罗石的紫色据说能在烛光与日光下呈现微妙的色彩变化——某些品级在日光下偏冷紫、烛光下偏暖紫（类似亚历山大石的弱版本）。中文圈把它译作\"紫龙晶\"是因为暗色霓辉石条纹蜿蜒如龙鳞。它已被市场炒为\"七种最稀有宝石\"之一。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charoite.jpg?width=640",
+  "image_credit": "查罗石标本 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "查罗石为俄罗斯独家产地，出口受配额管制。市售切磨件 1990 年代库存与近年合法出口混合流通；大块原石极稀。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Rogova, V.P. et al.",
+      "title": "Charoite — a new mineral and a new gem",
+      "year": 1978,
+      "locator": "Zapiski Vsesoyuznogo Mineralogicheskogo Obshchestva 107"
+    },
+    {
+      "type": "web",
+      "title": "Charoite – Mindat",
+      "url": "https://www.mindat.org/min-989.html"
+    }
+  ]
+}

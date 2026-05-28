@@ -1,0 +1,49 @@
+{
+  "id": "lake_superior_agate",
+  "name": "苏必利尔湖玛瑙",
+  "name_en": "Lake Superior Agate",
+  "region": "美国 · 明尼苏达 · 苏必利尔湖北岸",
+  "region_en": "North Shore of Lake Superior, Minnesota, USA",
+  "coordinates": [
+    47.0,
+    -91.0
+  ],
+  "category": "agate",
+  "mineral_type": "玛瑙 / Banded agate · 12 亿年前火山玄武岩泡",
+  "color": "红 / 橙 / 棕带状（铁锈染色，与冰川作用相关）",
+  "marker_color": "#b85a2c",
+  "earliest_year": -5000,
+  "stories": [
+    {
+      "culture": "奥吉布瓦 · 雷鸟之卵",
+      "title": "Animikiig 的礼物",
+      "content": "苏必利尔湖周边的奥吉布瓦人（Ojibwe / Anishinaabe）口传里，苏必利尔湖玛瑙叫 \"Animikiig\" —— \"雷鸟\"。雷鸟（thunderbird）是奥吉布瓦神话中掌管暴风雨的巨鸟。打雷的时候雷鸟会下\"蛋\"——红色 / 橙色的玛瑙就是这些\"蛋\"被冲到湖滩上的。\n\n奥吉布瓦人收集这些\"雷石\"做仪式护身符。考古发掘显示从公元前 5000 年的\"古老期\"（Archaic Period）就有玛瑙加工作坊，部分加工品流通到密西西比河流域北部数百英里。"
+    },
+    {
+      "culture": "明尼苏达州石 · 1969",
+      "title": "\"看谁能在沙滩上找到\"",
+      "content": "苏必利尔湖玛瑙是明尼苏达州的\"State Gemstone\"（1969 年州议会立法指定）。它最特别的不是稀有性而是分布——苏必利尔湖北岸 100 多英里海滩上随机散落着大量玛瑙，任何人去海滩散步都可能捡到。\n\n这种\"沙滩寻宝\"成为明尼苏达独特的旅游文化。Two Harbors、Grand Marais 这些北岸小镇每年举办\"玛瑙节\"。专业玩家用风琴管子（试听卵石的撞击声辨认密度）和 UV 灯（玛瑙在 UV 下不发光，石英会）筛选。一颗超过 10 厘米、纹路完整的苏必利尔湖玛瑙能卖到 1-5 万美元——但 99% 的人捡到的是 2-3 厘米的小玛瑙，纪念意义大于经济价值。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Superior_agate.jpg?width=640",
+  "image_credit": "苏必利尔湖玛瑙 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "苏必利尔湖玛瑙合法采集（公共海滩 + 私人土地需许可）。州立公园内禁取。商业销售合法。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Minnesota Legislature",
+      "title": "Chapter 1, Article 7, Section 18 (State Gemstone)",
+      "year": 1969
+    },
+    {
+      "type": "secondary",
+      "author": "Wolter, Scott F.",
+      "title": "The Lake Superior Agate",
+      "year": 1996,
+      "locator": "Outernet Publishing"
+    }
+  ]
+}

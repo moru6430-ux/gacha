@@ -1,0 +1,48 @@
+{
+  "id": "nigerian_tourmaline",
+  "name": "尼日利亚 Ofiki 碧玺",
+  "name_en": "Nigerian Ofiki Tourmaline",
+  "region": "尼日利亚 · Oyo 州 · Ofiki",
+  "region_en": "Ofiki, Oyo State, Nigeria",
+  "coordinates": [
+    8.18,
+    3.3
+  ],
+  "category": "tourmaline",
+  "mineral_type": "电气石 / Elbaite + Rubellite（锂电气石，粉红色变种）",
+  "color": "深粉红、桃红、覆盆子红（rubellite 红碧玺）",
+  "marker_color": "#c4346b",
+  "earliest_year": 1970,
+  "stories": [
+    {
+      "culture": "1970s · Biafra 战后的\"绿色黄金\"",
+      "title": "从矿石到经济独立",
+      "content": "尼日利亚南部 Oyo 州 Ofiki 镇周边的伟晶岩脉自 1970 年代开始小规模开采碧玺，盛产红色（rubellite）和绿色变种。这一时期正值 Biafra 战争（1967-1970，比夫拉独立战争）之后—— 矿石开采成为南部尼日利亚部分贫困地区的经济命脉。\n\n1980-90 年代尼日利亚成为全球第二大碧玺产国（仅次于巴西），与马达加斯加、莫桑比克竞争。Ofiki 红碧玺以颜色饱和度著称，可与巴西 Itatiaia 红碧玺一较高下。"
+    },
+    {
+      "culture": "\"无产地证书\"的难题",
+      "title": "产地溯源是奢侈品",
+      "content": "尼日利亚碧玺的最大问题不是质量而是来源透明度。Ofiki 矿区与马达加斯加 / 莫桑比克 / 巴西的碧玺难以肉眼区分，且尼日利亚没有强制产地证书系统——矿工把原石卖给中间商，运到泰国曼谷或印度斋浦尔加工，最终市场上很难追溯到 Ofiki。\n\n2010 年代 Gübelin 实验室开发了基于矿物微量元素的产地溯源技术——通过 LA-ICP-MS（激光剥蚀-电感耦合等离子体质谱）分析晶体内含物，能以 90%+ 的把握判断碧玺产地。但单次检测费 ~$500，所以只用于高端 5 克拉以上的料。普通市场上的尼日利亚碧玺仍以\"非洲碧玺\"统称销售，混合在巴西 / 莫桑比克货里。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rubellite_Nigeria.jpg?width=640",
+  "image_credit": "尼日利亚红碧玺 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "尼日利亚碧玺合法国际贸易；产地溯源弱，市售大量与巴西 / 莫桑比克碧玺混卖，需 Gübelin / SSEF 出具产地证书。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Lyckberg, Peter et al.",
+      "title": "Famous mineral localities: pegmatites of Nigeria",
+      "year": 2009,
+      "locator": "Mineralogical Record"
+    },
+    {
+      "type": "web",
+      "title": "Rubellite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rubellite"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "burmese_peridot",
+  "name": "缅甸抹谷橄榄石",
+  "name_en": "Burmese Mogok Peridot",
+  "region": "缅甸 · 抹谷 · 派昂矿区",
+  "region_en": "Pyaung-Gaung, Mogok, Myanmar",
+  "coordinates": [
+    23.1,
+    96.43
+  ],
+  "category": "other",
+  "mineral_type": "橄榄石 / Peridot (镁铁橄榄石 Forsterite-Fayalite)",
+  "color": "深森林绿、苹果绿（铁致色，越绿越含铁）",
+  "marker_color": "#94b53d",
+  "earliest_year": 1800,
+  "stories": [
+    {
+      "culture": "夜晚的祖母绿",
+      "title": "橄榄石与人造光",
+      "content": "橄榄石（peridot）的颜色源自晶体内部铁离子，最特殊的光学性质是它在白炽光 / 烛光下不变色——而几乎所有其他绿色宝石（祖母绿、沙弗莱、查罗石）在弱光下会失色变灰。\n\n古罗马人因此称它为 evening emerald（夜晚的祖母绿）：宴会、宫廷、教堂烛光下，橄榄石比任何祖母绿都更明亮。这一光学优势让它在没有电灯的时代尤其珍贵。中世纪欧洲教堂的彩绘玻璃常用橄榄石粉调色。"
+    },
+    {
+      "culture": "抹谷的高山矿",
+      "title": "克什米尔的同款问题",
+      "content": "抹谷派昂矿区位于海拔 1700 米的山中，矿洞与红宝石矿、尖晶石矿、月光石矿交织。最大颗粒抹谷橄榄石超过 100 克拉，1990 年代曾出过一颗 287 克拉的\"月光之翠\"（藏美国自然历史博物馆）。\n\n但与克什米尔蓝宝、缅甸翡翠类似——抹谷地区也长期是军事 / 民族冲突地带。2010 年代后矿区生产严重萎缩，加上 2021 政变和制裁，市售优质抹谷橄榄石越来越多来自巴基斯坦科希斯坦（Kohistan）和美国亚利桑那州圣卡洛斯 Apache 部落矿。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peridot_olivine.jpg?width=640",
+  "image_credit": "橄榄石晶体 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "缅甸橄榄石合法贸易；同样受 2021 政变后欧美制裁的部分影响。替代产地：巴基斯坦科希斯坦、美国 Arizona、埃及 Zabargad 岛（详见埃及橄榄石条目）。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Koivula, John I. et al.",
+      "title": "Peridot from Mogok, Myanmar",
+      "year": 2003,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Peridot – GIA",
+      "url": "https://www.gia.edu/peridot"
+    }
+  ]
+}

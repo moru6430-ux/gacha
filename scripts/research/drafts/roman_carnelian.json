@@ -1,0 +1,50 @@
+{
+  "id": "roman_carnelian",
+  "name": "罗马红玉髓",
+  "name_en": "Roman Carnelian",
+  "region": "意大利 · 罗马（文化中心）/ 印度 · 古吉拉特（主要矿源）",
+  "region_en": "Rome, Italy (cultural) / Khambhat, India (source)",
+  "coordinates": [
+    41.9028,
+    12.4964
+  ],
+  "category": "agate",
+  "mineral_type": "玉髓 / Chalcedony var. carnelian (含铁致色)",
+  "color": "橙红、深红、棕红（古罗马最爱的印章石材）",
+  "marker_color": "#c44a1c",
+  "earliest_year": -700,
+  "stories": [
+    {
+      "culture": "伊特鲁里亚 → 罗马 · 印章石之王",
+      "title": "奥古斯都的斯芬克斯印",
+      "content": "红玉髓在地中海世界做印章可追溯到公元前 700 年的伊特鲁里亚人（罗马前身）。罗马帝国时期，红玉髓成为元老阶层身份的标配——每位元老都有自己的红玉髓 intaglio（凹雕）印章。\n\n奥古斯都皇帝（公元前 27 - 公元 14）有三方私人印章：早年用\"斯芬克斯\"红玉髓印，中年改用\"亚历山大大帝头像\"，晚年用自己的肖像。这些印章随他下葬，作为身份证存在罗马帝国官方档案里。"
+    },
+    {
+      "culture": "伊斯兰世界 · 哈迪斯传统",
+      "title": "先知的红玉髓戒指",
+      "content": "伊斯兰圣训（Hadith）记载先知穆罕默德戴一枚红玉髓戒指——刻有 \"Muhammad rasūl Allāh\"（穆罕默德是真主的使者）。这枚戒指后传给阿布·伯克尔、奥马尔、奥斯曼——但奥斯曼洗手时不慎掉进麦地那的一口井里，至今未找回。\n\n这一典故让红玉髓在伊斯兰世界享有特殊地位——逊尼派穆斯林佩戴红玉髓戒指被视为\"圣行\"（sunnah）。今天伊朗、土耳其、印度的伊斯兰珠宝市场，红玉髓销量远超其他玉髓变种。主要矿源仍是印度古吉拉特邦 Khambhat（坎贝）——这一矿区从公元前已经向罗马、波斯、阿拉伯出口红玉髓，是世界上持续运营时间最长的宝石矿之一。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carnelian_intaglio.jpg?width=640",
+  "image_credit": "罗马红玉髓印章 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "红玉髓合法贸易；古罗马 / 中世纪伊斯兰 intaglio 古物受意大利 / 各国文物法保护，不得出境。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Suetonius",
+      "title": "De Vita Caesarum (Lives of the Caesars)",
+      "year": 121,
+      "locator": "Divus Augustus 50"
+    },
+    {
+      "type": "secondary",
+      "author": "Plantzos, Dimitris",
+      "title": "Hellenistic Engraved Gems",
+      "year": 1999,
+      "locator": "Oxford Monographs on Classical Archaeology"
+    }
+  ]
+}

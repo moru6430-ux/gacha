@@ -1,0 +1,47 @@
+{
+  "id": "dominican_larimar",
+  "name": "多米尼加拉利玛",
+  "name_en": "Dominican Larimar",
+  "region": "多米尼加共和国 · 巴拉奥纳省",
+  "region_en": "Filipinas Mine, Barahona Province, Dominican Republic",
+  "coordinates": [
+    18.0,
+    -71.5
+  ],
+  "category": "other",
+  "mineral_type": "硅钙钠石 / Pectolite var. larimar（铜致色，加勒比海独有）",
+  "color": "天蓝、海蓝、绿松石蓝（带白色波浪纹理）",
+  "marker_color": "#6cb4cd",
+  "earliest_year": 1974,
+  "stories": [
+    {
+      "culture": "泰诺神话 · 加勒比的\"母海石\"",
+      "title": "Atabey 的眼泪",
+      "content": "加勒比泰诺人（Taíno，西班牙殖民前加勒比海岛原住民）口传中，蓝色的石头是大地母神 Atabey 凝结的眼泪——海与天的合一。泰诺人把这种蓝石用作护身符，西班牙殖民者 1492 年到达伊斯帕尼奥拉岛时见过泰诺人佩戴。\n\n但西班牙殖民彻底摧毁了泰诺文化（90% 人口在 1492-1550 死于战争与天花），蓝石的传统知识中断。500 年后这种矿物才被重新发现。"
+    },
+    {
+      "culture": "1974 · Miguel Méndez 的女儿",
+      "title": "\"Larissa\" + \"Mar\"",
+      "content": "1974 年多米尼加和平队志愿者 Norman Rilling 与多米尼加陶艺家 Miguel Méndez 在巴拉奥纳省海滩拾到几颗蓝石头——Méndez 想起小时候母亲提过山里有\"会发光的蓝石\"。两人沿河追溯，找到了 Filipinas 矿。\n\nMéndez 把这种石头命名为 \"Larimar\"——他女儿 Larissa 的名字 + 西班牙语 mar（海）。这是全球**仅一处产地**的宝石——只产于多米尼加共和国巴拉奥纳省的 Filipinas 单一矿。商业上完全是多米尼加国家品牌：被称为\"加勒比之蓝\"，多米尼加旅游纪念品销量第一。\n\n地质学解释：拉利玛是火山玄武岩中的硅钙钠石（pectolite），蓝色来自微量铜——这种成色的 pectolite 全球独此一处。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Larimar_pectolite.jpg?width=640",
+  "image_credit": "拉利玛 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "拉利玛合法贸易；多米尼加唯一产地，Filipinas 矿由 Larimar SA 国营公司控制，限量出口。市售假货（染色玻璃 / 树脂）多，需多米尼加 Casa de Larimar 认证。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Larimar Mining Company",
+      "title": "Larimar: la piedra del Caribe",
+      "year": 2010
+    },
+    {
+      "type": "web",
+      "title": "Larimar – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Larimar"
+    }
+  ]
+}

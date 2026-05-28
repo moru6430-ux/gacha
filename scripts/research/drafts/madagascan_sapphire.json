@@ -1,0 +1,48 @@
+{
+  "id": "madagascan_sapphire",
+  "name": "马达加斯加伊拉卡卡蓝宝",
+  "name_en": "Madagascan Ilakaka Sapphire",
+  "region": "马达加斯加 · 伊拉卡卡",
+  "region_en": "Ilakaka, Madagascar",
+  "coordinates": [
+    -22.7,
+    45.16
+  ],
+  "category": "sapphire",
+  "mineral_type": "刚玉 / Corundum (Al₂O₃) · 含铁钛致蓝色",
+  "color": "深蓝、矢车菊蓝、紫蓝、粉橙（产 padparadscha 帕帕拉恰）",
+  "marker_color": "#1e5fc5",
+  "earliest_year": 1998,
+  "stories": [
+    {
+      "culture": "1998 · 一夜建城",
+      "title": "从 40 人到 4 万人",
+      "content": "1998 年初马达加斯加 Ilakaka 还是个 40 多人的小村庄。一名牧民在 N7 国道边洗澡时发现一颗蓝色石头——是顶级蓝宝石。消息传开后六个月内，4 万人涌入。一年后 Ilakaka 矿区已成为世界最大蓝宝石产地，占全球供应量约 50%。\n\n2000 年代盛期，每天有几百公斤蓝宝石原石从这里被运出，多数到泰国曼谷加工。Ilakaka 镇至今仍处于半法外状态——没有红绿灯、没有银行、没有派出所，整条街都是宝石交易所。"
+    },
+    {
+      "culture": "帕帕拉恰 · 莲花色",
+      "title": "宝石界最难定义的颜色",
+      "content": "Ilakaka 出产了大量 padparadscha（帕帕拉恰）—— 一种粉橙色蓝宝石，名字来自僧伽罗语 \"padma raga\"（莲花色）。它是除红宝石外唯一有独立名称的彩色刚玉。\n\n问题是\"帕帕拉恰是什么颜色\"在宝石界 50 年没有共识。GIA 定义为\"粉与橙的混合，没有任何一色超过 80%\"；SSEF 定义为\"粉橙比 30/70 到 70/30 之间\"；GRS 更宽。一颗石头送三家实验室能拿到三种鉴定结果。这种模糊带来的溢价空间巨大——同一颗石头标 \"pink sapphire\" 卖 1 万美元，标 \"padparadscha\" 能卖 5 万。\n\nIlakaka 与斯里兰卡是公认的两大帕帕拉恰来源。今天市售帕帕拉恰需 GRS + SSEF + GIA 三方认证才有公信力。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sapphire_Madagascar.jpg?width=640",
+  "image_credit": "马达加斯加蓝宝石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "马达加斯加蓝宝石合法贸易。Ilakaka 矿区监管薄弱，存在童工与环境问题。优质料推荐有 Kimberley 类似的\"非冲突来源\"认证（虽然非强制）。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Schwarz, Dietmar et al.",
+      "title": "Rubies and Sapphires from Madagascar",
+      "year": 2000,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Sapphires from Madagascar – GIA",
+      "url": "https://www.gia.edu/gems-gemology/sapphires-madagascar"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mozambique_paraiba",
+  "name": "莫桑比克帕拉伊巴",
+  "name_en": "Mozambique Paraíba-type Tourmaline",
+  "region": "莫桑比克 · Mavuco",
+  "region_en": "Mavuco, Alto Ligonha Province, Mozambique",
+  "coordinates": [
+    -15.5,
+    39.3
+  ],
+  "category": "tourmaline",
+  "mineral_type": "电气石 / 含铜锰碧玺（Cuprian Elbaite，与巴西帕拉伊巴同成分）",
+  "color": "霓虹蓝、青绿、海蓝（与巴西帕拉伊巴成分相同但色调略不同）",
+  "marker_color": "#18d6e8",
+  "earliest_year": 2001,
+  "stories": [
+    {
+      "culture": "2001 · 姊妹矿出现",
+      "title": "巴西垄断的终结",
+      "content": "1989 年巴西帕拉伊巴碧玺发现后，全球只有巴西一处产含铜电气石。2001 年莫桑比克北部 Mavuco 矿区发现了第二处——成分几乎完全相同（铜锰致色 elbaite），颜色风格略不同：莫桑比克更偏湖水蓝，巴西更偏霓虹绿蓝。\n\n2007 年第三处出现在尼日利亚 Edukko。这三处发现共同终结了巴西的垄断，把\"帕拉伊巴\"从单一产地名变成了一种宝石类型——含铜致色的电气石。\n\nGIA 在 2006 年定下规则：含铜电气石不论产地都可叫\"paraiba-type tourmaline\"，但产地需明示。市场上巴西产 vs 莫桑比克产同等品质，价差仍在 3-5 倍——巴西是\"原产地溢价\"。"
+    },
+    {
+      "culture": "莫桑比克的产能",
+      "title": "从手挖到工业化",
+      "content": "Mavuco 矿区位于莫桑比克北部 Zambezia 省最贫困地区。早期开采是手挖 + 镐头，村民每天 1-2 美元工资。2010 年代后中国 / 德国资本进入，引入水洗筛选、X 射线分选机。今天 Mavuco 产量已达巴西原矿的 50 倍以上。\n\n这带来\"市场扩张但伦理问题\"的两难：莫桑比克产能让普通消费者第一次买得起帕拉伊巴（最便宜的 1 克拉霓虹蓝 5000 人民币起），但矿工待遇仍然糟糕，矿区水土污染严重。Fair Trade Gems 等组织自 2015 年起在 Mavuco 推动\"公平贸易认证\"，但市占率仍低于 5%。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paraiba_tourmaline_Mozambique.jpg?width=640",
+  "image_credit": "莫桑比克帕拉伊巴电气石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "莫桑比克帕拉伊巴合法国际贸易。需 GIA / GRS 出具产地证书（产地差价大）。可关注 Fair Trade Gems 认证。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Laurs, Brendan M. et al.",
+      "title": "Copper-bearing tourmaline from Mozambique: a new find",
+      "year": 2008,
+      "locator": "Gems & Gemology Vol. 44"
+    },
+    {
+      "type": "web",
+      "title": "Paraíba Tourmaline – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Para%C3%ADba_tourmaline"
+    }
+  ]
+}

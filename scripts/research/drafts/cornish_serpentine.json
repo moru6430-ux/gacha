@@ -1,0 +1,47 @@
+{
+  "id": "cornish_serpentine",
+  "name": "康沃尔蛇纹石",
+  "name_en": "Cornish Serpentine",
+  "region": "英国 · 康沃尔 · 利泽德半岛",
+  "region_en": "Lizard Peninsula, Cornwall, England",
+  "coordinates": [
+    49.96,
+    -5.21
+  ],
+  "category": "other",
+  "mineral_type": "蛇纹石 / Serpentine (Mg₆Si₄O₁₀(OH)₈) · 利泽德矿带变种",
+  "color": "深绿、橄榄绿、红褐相间纹（\"巴洛克\"花纹）",
+  "marker_color": "#2a4a3c",
+  "earliest_year": 1500,
+  "stories": [
+    {
+      "culture": "凯尔特 · 利泽德的\"龙石\"",
+      "title": "德鲁伊圣地的石头",
+      "content": "康沃尔最南端的 Lizard 半岛（\"lizard\" 来自康沃尔语 \"lys ardh\" = \"高地宫殿\"，与蜥蜴无关）是英国唯一一块大面积出露的橄榄岩 - 蛇纹石地质带——地理上极不寻常，地质学家认为这里是 4 亿年前洋壳被冲撞抬起的残片。\n\n凯尔特德鲁伊把这片石头视为圣地。利泽德蛇纹石的\"龙鳞\"花纹被认为是大地母神 Cliodhna 化身的龙的鳞片。中世纪后教堂禁绝凯尔特崇拜，但当地民俗一直保留——19 世纪英国人类学家 Robert Hunt《Popular Romances of the West of England》（1865）详细记录了利泽德蛇纹石的凯尔特用法。"
+    },
+    {
+      "culture": "维多利亚 · 旅游纪念品",
+      "title": "阿尔伯特亲王的助推",
+      "content": "1846 年维多利亚女王和阿尔伯特亲王访问 Lizard Point，亲王买下几件蛇纹石手工品带回温莎堡。媒体报道引发产业爆炸——1850-1900 年间 Lizard 形成了 50 多家蛇纹石作坊。\n\n经典产品是\"蛇纹石灯塔\"（仿当地 Lizard 灯塔）和\"蛇纹石壁炉饰\"，都是维多利亚客厅必备。今天仍有 4-5 家手工作坊在 Lizard 镇运营，是英国少数还在用纯手工车床加工天然石材的传统。市售要看 \"Cornwall Lizard Serpentine\" 标签——很多便宜款是从印度进口的廉价蛇纹石冒充。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lizard_serpentine_specimen.jpg?width=640",
+  "image_credit": "利泽德蛇纹石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "康沃尔蛇纹石合法贸易；Lizard 半岛部分区域为自然保护区，限制采集。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Hunt, Robert",
+      "title": "Popular Romances of the West of England",
+      "year": 1865
+    },
+    {
+      "type": "web",
+      "title": "Lizard Point – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lizard_Point,_Cornwall"
+    }
+  ]
+}

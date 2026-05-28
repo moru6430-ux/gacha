@@ -1,0 +1,48 @@
+{
+  "id": "peruvian_chrysocolla",
+  "name": "秘鲁硅孔雀石",
+  "name_en": "Peruvian Chrysocolla",
+  "region": "秘鲁 · 利马省 · Lily 矿",
+  "region_en": "Lily Mine, Pisco Umay, Lima Province, Peru",
+  "coordinates": [
+    -13.2,
+    -76.2
+  ],
+  "category": "other",
+  "mineral_type": "硅孔雀石 / Chrysocolla ((Cu,Al)₂H₂Si₂O₅(OH)₄·nH₂O) · 铜的水合硅酸盐",
+  "color": "青绿、孔雀蓝、绿松石色（铜致色，硬度低需经玛瑙化处理）",
+  "marker_color": "#1f9eb4",
+  "earliest_year": 1500,
+  "stories": [
+    {
+      "culture": "印加 · 铜矿副产物",
+      "title": "Chuquicamata 之外",
+      "content": "硅孔雀石是铜矿氧化带的产物——印加帝国（13-16 世纪）大量开采铜（用于青铜武器和宗教器皿），硅孔雀石作为副产物被印加工匠保留。库斯科考古发掘出土的印加金银器中常见镶嵌硅孔雀石片，作为天空 / 水的象征。\n\n西班牙殖民者 1532 年征服印加帝国后，主要掠夺金银，对硅孔雀石不感兴趣——这反而让大量硅孔雀石标本保存到现代。今天秘鲁国家博物馆有专门的\"硅孔雀石厅\"。"
+    },
+    {
+      "culture": "Lily 矿 · 玛瑙化硅孔雀石",
+      "title": "世界顶级蓝",
+      "content": "秘鲁利马省 Pisco Umay 镇的 Lily 矿在 2000 年代发现一种特殊的硅孔雀石——已经被天然玛瑙化（chalcedony 包裹），称作 \"gem silica\" 或\"宝石级玉髓\"。化学成分是硅孔雀石致色的玉髓，硬度从硅孔雀石的 2-4 提升到玉髓的 6.5-7，可镶嵌做日戴首饰。\n\n这种\"宝石级硅孔雀石\"颜色饱和度极高，被宝石商称为\"加勒比海色\"。一颗 5 克拉 Lily 矿 gem silica 单克拉价 500-2000 美元，是普通硅孔雀石的 50 倍。Lily 矿年产量仅几公斤，全球供应紧张。\n\n市售\"硅孔雀石\"绝大多数是无玛瑙化的普通材料，只能做手链珠子和雕件。\"宝石级\"必须 Lotus / GIA 认证。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysocolla_Peru.jpg?width=640",
+  "image_credit": "秘鲁硅孔雀石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "硅孔雀石合法贸易。普通材料便宜流通；玛瑙化\"宝石级\"罕见，需 GIA 鉴定。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Liccini, Mark",
+      "title": "Gem Silica from Peru",
+      "year": 2010,
+      "locator": "Lapidary Journal Jewelry Artist"
+    },
+    {
+      "type": "web",
+      "title": "Chrysocolla – Mindat",
+      "url": "https://www.mindat.org/min-961.html"
+    }
+  ]
+}

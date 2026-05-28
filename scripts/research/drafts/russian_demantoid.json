@@ -1,0 +1,54 @@
+{
+  "id": "russian_demantoid",
+  "name": "俄罗斯翠榴石",
+  "name_en": "Russian Demantoid Garnet",
+  "region": "俄罗斯 · 中乌拉尔 · 博布罗夫卡",
+  "region_en": "Bobrovka, Central Urals, Russia",
+  "coordinates": [
+    57.5,
+    60.3
+  ],
+  "category": "garnet",
+  "mineral_type": "钙铁榴石变种 / Andradite var. demantoid（铬致色，含\"马尾\"内含物）",
+  "color": "黄绿、祖母绿色（火彩高于钻石的极少数有色宝石之一）",
+  "marker_color": "#1c7a3f",
+  "continent": [
+    "europe",
+    "asia"
+  ],
+  "border_note": "横跨欧亚边界（乌拉尔山脉）",
+  "earliest_year": 1853,
+  "stories": [
+    {
+      "culture": "1853 · Bobrovka 河里的金子",
+      "title": "淘金者捡到的\"祖母绿\"",
+      "content": "1853 年乌拉尔山 Bobrovka 河金矿的淘金工人在筛沙时不断挖出一种亮绿色的小晶体——起初以为是祖母绿。送到圣彼得堡矿物学院鉴定后，1854 年俄国矿物学家 Nils Nordenskiöld（同名儿子，他父亲是发现亚历山大石的那位）确认是石榴石的一个新变种，命名 demantoid（\"似钻石\"，因为它的色散和折射率接近钻石）。\n\n翠榴石迅速成为沙俄宫廷新宠。Fabergé 工坊几乎所有顶级作品里都镶有翠榴石——著名的 \"Lily-of-the-Valley Egg\"（铃兰彩蛋，1898 年献给亚历山德拉皇后）就用了大量乌拉尔翠榴石。"
+    },
+    {
+      "culture": "\"马尾\"内含物 · 唯一签名",
+      "title": "只有乌拉尔翠榴石才有",
+      "content": "翠榴石最有名的鉴定特征是\"马尾\"内含物（horsetail inclusion）——一束细如发丝的金黄色石棉纤维从中心向外辐射，呈马尾形状。这是钙铁榴石与石棉脉伴生时形成的，**仅乌拉尔产翠榴石有**。\n\n后来发现的其他翠榴石产地（纳米比亚 Erongo、马达加斯加、伊朗 Kerman）都没有马尾——所以\"马尾\"成了乌拉尔产地的天然认证。一颗带完整马尾的乌拉尔翠榴石，单克拉价是普通祖母绿的 3-5 倍。\n\n苏联时期矿区基本停工。1990 年代后小规模恢复但产量极低，市面流通主要靠 19 世纪 Fabergé 时代的回流货。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Demantoid_garnet.jpg?width=640",
+  "image_credit": "翠榴石（含马尾）/ Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "翠榴石合法国际贸易。乌拉尔老料认明\"马尾\"内含物；其他产地（纳米比亚、马达加斯加、伊朗）颜色相近但不带马尾。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Nordenskiöld, Nils Adolf Erik",
+      "title": "Über eine neue Varietät des Granats",
+      "year": 1854
+    },
+    {
+      "type": "secondary",
+      "author": "Phillips, William R. & Talantsev, A.S.",
+      "title": "Russian demantoid: a celebration of horsetails",
+      "year": 1996,
+      "locator": "Gems & Gemology"
+    }
+  ]
+}

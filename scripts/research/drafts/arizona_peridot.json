@@ -1,0 +1,47 @@
+{
+  "id": "arizona_peridot",
+  "name": "亚利桑那阿帕奇橄榄石",
+  "name_en": "San Carlos Apache Peridot",
+  "region": "美国 · 亚利桑那州 · 圣卡洛斯阿帕奇保留地",
+  "region_en": "San Carlos Apache Reservation, Arizona, USA",
+  "coordinates": [
+    33.34,
+    -110.5
+  ],
+  "category": "other",
+  "mineral_type": "橄榄石 / Peridot · 火山喷出岩中的橄榄石结核",
+  "color": "黄绿、苹果绿（颗粒较小，颜色比缅甸 / 巴基斯坦料偏黄）",
+  "marker_color": "#9bc94c",
+  "earliest_year": 1900,
+  "stories": [
+    {
+      "culture": "阿帕奇 · 唯一原住民独占的美国宝石矿",
+      "title": "部族主权",
+      "content": "美国亚利桑那州圣卡洛斯阿帕奇部族（San Carlos Apache Tribe）控制的保留地里的橄榄石矿区——位于死火山 Peridot Mesa 的玄武岩台地——是美国**唯一一个完全由原住民部族控制开采、加工、销售的商业宝石矿**。\n\n阿帕奇橄榄石占全球橄榄石产量约 80-90%。但单颗一般小（多数 1-2 克拉），颜色偏黄。所以市售大颗橄榄石（5 克拉以上）多来自巴基斯坦科希斯坦 / 缅甸抹谷，圣卡洛斯橄榄石多用于较平价首饰。"
+    },
+    {
+      "culture": "冰雹石 · 1885 的怪传说",
+      "title": "从天而降的橄榄石",
+      "content": "阿帕奇当地长期有传说：\"Peridot Mesa 的橄榄石是雷神之妻 Asdzą́ą Łigai 撒下的冰雹\"——因为橄榄石经常在暴雨后裸露在山坡。这其实是地质规律：雨水冲走表层风化的玄武岩松软部分，把藏在岩浆瘤里的橄榄石结核暴露出来。\n\n更怪的是 1885 年亚利桑那领地发生过一次\"陨石坠落事件\"，几位当地白人定居者声称看到\"绿色火球\"砸到 San Carlos——后来收集到的\"陨石碎片\"里竟然有橄榄石。这成为现代陨石学的关键案例之一：地外橄榄石（pallasite 橄榄陨铁）的发现重要参考点。今天 San Carlos 矿区每年仍有少量陨石被发现，部族会单独标价售卖。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Carlos_peridot.jpg?width=640",
+  "image_credit": "圣卡洛斯橄榄石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "阿帕奇部族独家控制，所有商业开采必须由部族审批。市售保留 \"San Carlos Apache\" 来源认证的支持部族经济。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Sinkankas, John",
+      "title": "Gemstones of North America",
+      "year": 1959
+    },
+    {
+      "type": "web",
+      "title": "San Carlos Apache Reservation – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/San_Carlos_Apache_Indian_Reservation"
+    }
+  ]
+}

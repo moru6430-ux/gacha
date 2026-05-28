@@ -1,0 +1,49 @@
+{
+  "id": "lantian_jade",
+  "name": "蓝田玉",
+  "name_en": "Lantian Jade",
+  "region": "中国 · 陕西 · 蓝田县",
+  "region_en": "Lantian County, Shaanxi Province, China",
+  "coordinates": [
+    34.13,
+    109.32
+  ],
+  "category": "jade",
+  "mineral_type": "蛇纹石化大理岩 / Serpentinite (与翡翠 / 和田玉化学结构不同)",
+  "color": "苹果绿、米黄、奶白、菠菜绿（多带云絮纹）",
+  "marker_color": "#6c8f3a",
+  "earliest_year": -3000,
+  "stories": [
+    {
+      "culture": "李商隐 · \"蓝田日暖玉生烟\"",
+      "title": "唐诗里的玉",
+      "content": "蓝田玉的开采可追溯到新石器时代仰韶文化（约公元前 3000 年）；秦汉时期它是皇家玉器主料——著名的\"和氏璧\"按部分考据极可能是蓝田玉而非新疆和田玉（地理上和田离中原太远，先秦时期未必能稳定进口）。\n\n蓝田玉的文学地位在唐朝达到顶点。李商隐《锦瑟》\"沧海月明珠有泪，蓝田日暖玉生烟\"——把蓝田玉与晨光下升腾的雾气并列。后世这成为中国诗歌里\"玉\"的标准意象之一。"
+    },
+    {
+      "culture": "现代矿物学 · 三玉之争",
+      "title": "它不是真\"玉\"",
+      "content": "严格矿物学定义里，\"玉\"特指两种：硬玉（jadeite，缅甸翡翠）和软玉（nephrite，和田玉）。蓝田玉的化学成分是蛇纹石化大理岩，硬度 2.5-5.5（明显低于翡翠 6.5-7、和田玉 6-6.5），其实更接近大理石。\n\n这引发持续的\"蓝田玉是不是玉\"争议。中国地质大学 2018 年的鉴定结论：从国标 GB/T16552 看，蓝田玉应归\"玉石\"大类下\"蛇纹石玉\"子类，与岫岩玉同列，与翡翠 / 和田玉不同类。但传统文化和文物界仍承认蓝田玉的\"玉\"地位——历史上它就是\"玉\"，矿物学定义改不了文化定义。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lantian_jade.jpg?width=640",
+  "image_credit": "蓝田玉 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "蓝田玉合法贸易。市售经常被冒充翡翠或和田玉，需国检 / 中国地质大学鉴定标签确认蛇纹石属性。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "李商隐",
+      "title": "《锦瑟》",
+      "year": 858
+    },
+    {
+      "type": "secondary",
+      "author": "韩世国",
+      "title": "《蓝田玉鉴赏与收藏》",
+      "year": 2010,
+      "locator": "中国地质大学出版社"
+    }
+  ]
+}

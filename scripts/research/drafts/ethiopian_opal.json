@@ -1,0 +1,48 @@
+{
+  "id": "ethiopian_opal",
+  "name": "埃塞俄比亚沃罗欧泊",
+  "name_en": "Ethiopian Welo Opal",
+  "region": "埃塞俄比亚 · 北沃罗",
+  "region_en": "Wegel Tena, Wollo Province, Ethiopia",
+  "coordinates": [
+    11.5,
+    39.5
+  ],
+  "category": "opal",
+  "mineral_type": "蛋白石 / Opal · 水欧泊 hydrophane 类型",
+  "color": "透明白底 + 全光谱变彩（\"水透白\" + 强彩虹斑）",
+  "marker_color": "#f5d68a",
+  "earliest_year": 2008,
+  "stories": [
+    {
+      "culture": "2008 · 颠覆市场的发现",
+      "title": "澳洲欧泊的最大对手",
+      "content": "2008 年埃塞俄比亚北沃罗（Wollo）省 Wegel Tena 镇附近的火山玄武岩层中发现一种\"水欧泊\"——透明度极高的白底蛋白石，变彩范围全光谱、火彩比澳洲 Lightning Ridge 黑欧泊更鲜艳。\n\n这是 30 年来欧泊市场最大的颠覆事件。Wegel Tena 一矿之力把全球欧泊价格压低 40-60%；澳洲老牌欧泊矿区受冲击巨大，部分小矿关停。今天市售 50% 以上的\"白底欧泊\"都来自埃塞俄比亚。"
+    },
+    {
+      "culture": "水欧泊 · 一个隐藏的坑",
+      "title": "能吸水变色的宝石",
+      "content": "Welo 欧泊属于\"hydrophane\"（水欧泊）—— 即\"亲水\"型蛋白石。它的孔隙率极高，能像海绵一样吸收液体：\n\n· 浸在水里几小时会从乳白变成完全透明，失去变彩\n· 干燥后会恢复，但反复几次后内部应力可能导致裂纹\n· 接触墨水、咖啡、酒会被染色，且**不可逆**\n· 香水 / 化妆品里的酒精也会渗入\n\nGIA 严格要求 Welo 欧泊销售时必须披露 \"hydrophane\" 属性。市售很多商家不告知，买家不知情把它放在浴室、戴去游泳——一颗 5000 元的欧泊几个月内就毁了。所以 Welo 欧泊适合做收藏 / 偶尔佩戴，不适合日戴。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Welo_opal_Ethiopia.jpg?width=640",
+  "image_credit": "沃罗欧泊 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "埃塞俄比亚欧泊合法贸易；销售必须披露 hydrophane 属性。市售大量染色 Welo 欧泊（增强变彩），需 GIA / SSEF 鉴定。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Rondeau, Benjamin et al.",
+      "title": "Play-of-color opal from Wegel Tena, Wollo Province, Ethiopia",
+      "year": 2010,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Ethiopian Opal – GIA",
+      "url": "https://www.gia.edu/gems-gemology/ethiopian-opal"
+    }
+  ]
+}

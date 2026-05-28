@@ -1,0 +1,49 @@
+{
+  "id": "norwegian_sunstone",
+  "name": "挪威太阳石",
+  "name_en": "Norwegian Sunstone",
+  "region": "挪威 · 松恩峡湾",
+  "region_en": "Sognefjord, Norway",
+  "coordinates": [
+    61.0,
+    6.5
+  ],
+  "category": "other",
+  "mineral_type": "堇青石 / Iolite (Mg₂Al₄Si₅O₁₈) · 维京\"sólarsteinn\"候选",
+  "color": "不同角度看呈深蓝紫 / 浅黄绿（强烈多色性 pleochroism）",
+  "marker_color": "#d4925c",
+  "earliest_year": 1000,
+  "stories": [
+    {
+      "culture": "维京时代 · 阴天导航石",
+      "title": "sólarsteinn 的考古证据",
+      "content": "北欧萨迦《Rauðúlfs þáttr》（13 世纪冰岛抄本，记述更早期事件）描述了 sólarsteinn（\"太阳石\"）：阴天找不到太阳时，维京水手举起这种石头对着云层，从特定角度看会闪烁出方向，能定位太阳的真实位置。\n\n现代物理学解释：堇青石的强多色性使它对偏振光极敏感——即使太阳被云层遮挡，从云层散射回来的光线仍保持偏振方向，堇青石转动到特定角度会出现明显的颜色变化点（\"消光位置\"），由此可推算太阳方位。\n\n2013 年法国 / 丹麦联合考古队在英吉利海峡海底沉没的 1592 年英国舰艇 Alderney 上挖出一块切磨过的方形透明矿物——光谱分析确认是堇青石。这是目前对\"维京太阳石\"假说最直接的考古证据。"
+    },
+    {
+      "culture": "现代命名 · iolite 还是 sunstone",
+      "title": "\"水蓝宝石\"的尴尬",
+      "content": "堇青石的英文学名是 iolite（来自希腊语 \"ios\"，紫罗兰）。但商业市场为了好卖把它叫 \"water sapphire\" 或 \"Viking compass stone\"——前者法律上其实违反美国 FTC《Jewelry Guides》（不能用别的宝石名误导），后者是营销话术。\n\n现代挪威 / 冰岛 / 格陵兰都产堇青石，但精品多产自印度泰米尔纳德邦和缅甸。\"挪威产堇青石\"在市场上往往是溢价 30-50% 的故事溢价——买的是维京神话，不是物理颜色差异。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iolite_cordierite.jpg?width=640",
+  "image_credit": "堇青石 / 太阳石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "堇青石合法贸易。市售常用\"water sapphire\"违规命名，美国 FTC 不允许；应叫 iolite / cordierite。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "title": "Rauðúlfs þáttr",
+      "year": 1300,
+      "locator": "Icelandic saga manuscript"
+    },
+    {
+      "type": "secondary",
+      "author": "Le Floch, Albert et al.",
+      "title": "A depolarizer as a possible precise sunstone for Viking navigation",
+      "year": 2013,
+      "locator": "Proceedings of the Royal Society A"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "afghan_kunzite",
+  "name": "阿富汗孔赛石",
+  "name_en": "Afghan Kunzite",
+  "region": "阿富汗 · 库纳尔河谷",
+  "region_en": "Kunar Valley, Afghanistan",
+  "coordinates": [
+    34.85,
+    71.15
+  ],
+  "category": "other",
+  "mineral_type": "锂辉石变种 / Spodumene var. kunzite (LiAlSi₂O₆)",
+  "color": "淡粉、紫粉、樱花粉（锰致色，对紫外光敏感会褪色）",
+  "marker_color": "#e88fb0",
+  "earliest_year": 1902,
+  "stories": [
+    {
+      "culture": "1902 · Tiffany 的命名",
+      "title": "George Kunz 的发现",
+      "content": "1902 年美国地质学家、Tiffany & Co. 首席珠宝鉴定师 George Frederick Kunz 在加州 Pala Chief 矿场鉴定一批粉紫色晶体——发现是一种全新的锂辉石变种。Tiffany 把它命名为 \"kunzite\" 纪念他（孔赛石中文译名）。\n\nKunz 是 20 世纪初最重要的宝石学家，Tiffany 的传奇珠宝多由他负责采购。他也是把摩根石（morganite，纪念金融家 J.P. Morgan）命名的人。"
+    },
+    {
+      "culture": "阿富汗 · 苏军占领后的矿藏",
+      "title": "世界最大孔赛石的产地",
+      "content": "加州矿藏迅速枯竭。1970 年代后阿富汗库纳尔河谷的伟晶岩脉成为新主要产地——这里出产了世界最大的几颗孔赛石单晶体，最高的一颗高 47 厘米、重 2 公斤。\n\n苏军 1979-1989 占领期间，矿区开采几乎停滞；塔利班 1996 年掌权后又开始无序开采。今天阿富汗占全球孔赛石产量约 60%，但因为政局动荡，运输基本经巴基斯坦白沙瓦走灰色渠道。市售孔赛石若标\"阿富汗产\"几乎都没合规出口手续。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kunzite_crystal.jpg?width=640",
+  "image_credit": "孔赛石晶体 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "孔赛石本身合法贸易；阿富汗产货源经塔利班 / 走私出口，难以做合规来源认证。佩戴时需避免长时间日晒，会褪色。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Kunz, George F.",
+      "title": "Pala Lithia Pegmatite – California Mineralogist",
+      "year": 1902
+    },
+    {
+      "type": "web",
+      "title": "Kunzite – GIA",
+      "url": "https://www.gia.edu/kunzite"
+    }
+  ]
+}

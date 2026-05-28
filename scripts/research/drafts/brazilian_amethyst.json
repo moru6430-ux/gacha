@@ -1,0 +1,48 @@
+{
+  "id": "brazilian_amethyst",
+  "name": "巴西紫水晶大教堂",
+  "name_en": "Brazilian Amethyst Cathedral",
+  "region": "巴西 · 南里奥格兰德州",
+  "region_en": "Rio Grande do Sul, Brazil",
+  "coordinates": [
+    -29.0,
+    -53.0
+  ],
+  "category": "amethyst",
+  "mineral_type": "石英变种 / Quartz var. amethyst（南美玄武岩地幔气泡）",
+  "color": "深紫、薰衣紫、樱花紫（颜色比希腊紫水晶略浅但产量大）",
+  "marker_color": "#7c2db1",
+  "earliest_year": 1727,
+  "stories": [
+    {
+      "culture": "1727 · 南美的\"贵族跌价\"事件",
+      "title": "葡萄牙的祖母绿淘金队伍",
+      "content": "1727 年葡萄牙殖民地巴西米纳斯吉拉斯州的探险队本来在寻找祖母绿（哥伦比亚穆佐祖母绿当时垄断市场让葡萄牙眼红）—— 他们没找到祖母绿，但在巴西南部南里奥格兰德州的玄武岩台地里挖到一种东西，颠覆了欧洲珠宝市场。\n\n那就是巨型紫水晶晶洞——单个晶洞从手提箱大小到一整个房间大小，里面布满半透明紫水晶尖。这些\"大教堂级\"（cathedral）晶洞 1730 年代被运到里斯本，再到伦敦、巴黎，让原本与红宝石 / 钻石 / 蓝宝石 / 祖母绿并列\"五大贵宝石\"的紫水晶**一夜跌价 80%**，从皇室独享变成中产可负担。\n\n这是宝石史上最戏剧性的\"贵族跌价\"事件之一。"
+    },
+    {
+      "culture": "现代 · 南美玄武岩台地的奇迹",
+      "title": "一座地下\"水晶城堡\"",
+      "content": "南里奥格兰德州的紫水晶矿在地质上极为特殊——1.4 亿年前火山喷发形成的巨厚玄武岩层中保留了大量气泡（vug），气泡内壁后来被含铁的热液浸润，慢慢长出紫水晶晶簇。\n\n开采方式独特：矿工先用炸药松动玄武岩，然后小心切割成大块运出，最后到地表才用电锯把外壳剖开。一个完整的\"紫水晶大教堂\"晶洞（高 1.5-3 米）零售价 1-10 万美元，主要销往中国 / 中东高端家居市场，作为风水摆件。\n\n今天 Rio Grande do Sul 与乌拉圭 Artigas 加起来供应全球紫水晶约 70%。希腊那克索斯岛的传统紫水晶矿早已枯竭，但故事价值仍由希腊承担。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amethyst_cathedral_Brazil.jpg?width=640",
+  "image_credit": "巴西紫水晶大教堂 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "巴西紫水晶合法贸易；大型晶洞出口需巴西矿产管理局（ANM）许可，但小颗紫水晶完全自由流通。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Proctor, Keith",
+      "title": "Brazilian amethyst",
+      "year": 1988,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Amethyst – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amethyst"
+    }
+  ]
+}

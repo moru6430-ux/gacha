@@ -1,0 +1,48 @@
+{
+  "id": "umba_garnet",
+  "name": "乌姆巴河石榴石",
+  "name_en": "Umba River Garnet",
+  "region": "坦桑尼亚 · 乌姆巴河流域",
+  "region_en": "Umba River Valley, Tanga Region, Tanzania",
+  "coordinates": [
+    -4.5,
+    38.3
+  ],
+  "category": "garnet",
+  "mineral_type": "镁铝榴石-铁铝榴石过渡品 / Pyrope-Almandine series + 钒锰致色",
+  "color": "从橘粉到酒红、玫瑰红、墨红（变色 Color Change 变种存在）",
+  "marker_color": "#b86b2c",
+  "earliest_year": 1958,
+  "stories": [
+    {
+      "culture": "1958 · 一个新的石榴石\"家族\"",
+      "title": "Henn 与变色石榴石",
+      "content": "1958 年德国地质学家 Ulrich Henn 在坦桑尼亚北部乌姆巴河流域考察时，发现一种成色完全没见过的石榴石——同一块原石在日光下是粉橙色，烛光下竟变成覆盆子红。这是宝石学界首次明确记录\"变色石榴石\"，比亚历山大变石的变色机制还要复杂。\n\nUmba 矿区出产了之后所有著名\"色彩石榴石\"分类的源头：玫瑰榴石（rhodolite）、橘榴石（mandarin spessartine）、变色榴石、马拉雅榴石（malaya / malaia garnet）—— 这些分类原本是不同矿物变种，在 Umba 都能找到。"
+    },
+    {
+      "culture": "\"马拉雅\"误会的来历",
+      "title": "Malaya 不是马来西亚",
+      "content": "Umba 出产的一种粉橙色石榴石被市场叫做 \"malaya garnet\" 或 \"malaia garnet\"。**这与马来西亚完全无关**——malaya 在斯瓦希里语里意为\"局外人 / 妓女\"，是 Umba 当地矿工对这种\"非常规\"石榴石的轻蔑称呼。\n\n传统石榴石分类是单一矿物种（镁铝、铁铝、锰铝），但 Umba 的这种粉橙色榴石是镁铝 + 锰铝过渡品，矿工拿不到\"正经\"分类的收购价，就给它取了贬义名。1990 年代美国宝石市场把这个名字推为商业品牌（标榜\"独特的非洲色\"），价格涨了 10 倍。一个语言学上的羞辱被商业漂白成奢华品牌——宝石市场最迷人的怪事之一。\n\n今天 Umba 矿区仍小规模产出，由当地坦桑尼亚 / 印度合资公司运营。市售购买 \"malaya garnet\" 时知道这段语源即可。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malaya_garnet_Umba.jpg?width=640",
+  "image_credit": "乌姆巴马拉雅榴石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "坦桑尼亚乌姆巴石榴石合法贸易；产量小，市场流通中混入肯尼亚 / 莫桑比克过渡品石榴石。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Schmetzer, Karl & Bank, Hermann",
+      "title": "Color-change garnets from Umba Valley, Tanzania",
+      "year": 1981,
+      "locator": "Journal of Gemmology"
+    },
+    {
+      "type": "web",
+      "title": "Malaya garnet – GIA",
+      "url": "https://www.gia.edu/malaya-garnet"
+    }
+  ]
+}

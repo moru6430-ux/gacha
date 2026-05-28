@@ -1,0 +1,54 @@
+{
+  "id": "burmese_spinel",
+  "name": "缅甸抹谷尖晶石",
+  "name_en": "Burmese Mogok Spinel",
+  "region": "缅甸 · 抹谷",
+  "region_en": "Mogok, Mandalay Region, Myanmar",
+  "coordinates": [
+    22.93,
+    96.5
+  ],
+  "category": "other",
+  "mineral_type": "尖晶石 / Spinel (MgAl₂O₄)",
+  "color": "鸽血红、霓虹粉、樱桃红（与红宝石难以肉眼区分）",
+  "marker_color": "#c44e6b",
+  "earliest_year": 1200,
+  "stories": [
+    {
+      "culture": "中世纪欧亚 · 错认了 600 年的\"红宝石\"",
+      "title": "黑王子的红宝石其实是尖晶石",
+      "content": "直到 1783 年法国矿物学家 Jean-Baptiste Romé de l'Isle 才用化学手段证明\"尖晶石\"和\"红宝石\"是两种完全不同的矿物——在此之前的六百多年，所有大尺寸\"红宝石\"几乎都是抹谷尖晶石。最著名的两颗：\n\n· \"黑王子红宝石\"（Black Prince's Ruby），1367 年起就镶在英国皇冠正中，现在还在帝国国冠上；2023 年查尔斯三世加冕戴的就是它\n· \"铁木儿红宝石\"（Timur Ruby），1612 年被刻上六位莫卧儿皇帝的名字，1849 年随光之山一起进了英国王室\n\n两颗都是抹谷尖晶石，不是红宝石。"
+    },
+    {
+      "culture": "现代宝石学 · 平反",
+      "title": "产量与稀有度反超红宝石",
+      "content": "抹谷尖晶石和抹谷红宝石产自同一片大理岩矿带，但尖晶石的优质大颗粒比红宝石更稀少——红宝石 5 克拉算大，5 克拉级别的纯净尖晶石属于博物馆藏品。\n\n2010 年代后宝石市场重新认识尖晶石。2017 年 GIA 把红色尖晶石列为 8 月生辰石（与橄榄石并列）。同期苏富比 / 佳士得拍卖里抹谷尖晶石单克拉价已超过部分红宝石。市售要警惕越南陆安（Lục Yên）尖晶石冒充——颜色相似但分子结构与价格差距数倍。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_spinel_crystal.jpg?width=640",
+  "image_credit": "红色尖晶石晶体 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "缅甸尖晶石合法国际贸易；但与缅甸翡翠一样，2021 政变后部分缅甸珠宝公司在欧美制裁名单。市售要看 GRS / SSEF 产地证书。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Romé de l'Isle, Jean-Baptiste",
+      "title": "Cristallographie",
+      "year": 1783
+    },
+    {
+      "type": "secondary",
+      "author": "Hughes, Richard W.",
+      "title": "Ruby & Sapphire: A Gemologist's Guide",
+      "year": 2017,
+      "locator": "Lotus Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Black Prince's Ruby – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_Prince%27s_Ruby"
+    }
+  ]
+}

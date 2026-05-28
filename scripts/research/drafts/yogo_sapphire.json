@@ -1,0 +1,48 @@
+{
+  "id": "yogo_sapphire",
+  "name": "蒙大拿约戈蓝宝",
+  "name_en": "Yogo Gulch Sapphire",
+  "region": "美国 · 蒙大拿州 · Yogo Gulch",
+  "region_en": "Yogo Gulch, Judith Basin County, Montana, USA",
+  "coordinates": [
+    46.92,
+    -110.4
+  ],
+  "category": "sapphire",
+  "mineral_type": "刚玉 / Corundum · 美国本土唯一矢车菊蓝级",
+  "color": "矢车菊蓝、皇家蓝（不需热处理，天然色）",
+  "marker_color": "#4673a3",
+  "earliest_year": 1894,
+  "stories": [
+    {
+      "culture": "1894 · 杰克 · 霍格斯的金矿",
+      "title": "\"金矿里的蓝石头\"",
+      "content": "1894 年蒙大拿淘金者 Jake Hoover（杰克·胡佛）在 Yogo Gulch 干涸河床里淘金时，发现一袋蓝色小石头——他原本以为没价值，邮寄到纽约 Tiffany & Co. 鉴定 only \"为了好玩\"。Tiffany 总裁鉴定后开出 3750 美元的支票（相当于今天 12 万美元），并告诉胡佛\"赶紧把矿权买下\"。\n\n这就是美国本土唯一的矢车菊蓝级蓝宝石产地。Yogo 蓝宝石的特点：\n· 不需要任何热处理（颜色天然就到顶级）\n· 净度极高（几乎没有内含物）\n· 但颗粒小——5 克拉以上极少\n\n爱德华七世 1907 年加冕用的英国王室皇冠上镶嵌的就有 Yogo 蓝宝石——这是美国蓝宝石的最高荣耀时刻。"
+    },
+    {
+      "culture": "矿区现状 · 关闭与重启",
+      "title": "世界第八大宝石矿的尴尬",
+      "content": "Yogo 矿被认为是世界第八大宝石矿（按价值估算），但开采史一直不顺：洪水、地质问题、所有权纠纷反复让矿区关停。1929 年大萧条后第一次彻底关停。1980 年代重启又因地质风险关停。2008-2017 年小规模复产。\n\n今天 Yogo 矿由蒙大拿本地公司 Yogo Sapphire LLC 持有，年产量极少，全部直供珠宝品牌（如 Don Baide Designs）。市售\"Yogo sapphire\" 价格是缅甸 / 斯里兰卡同等品质的 1.5-2 倍——\"美国本土天然蓝宝石\"是它的卖点。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yogo_sapphire.jpg?width=640",
+  "image_credit": "约戈蓝宝石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "约戈蓝宝合法贸易；产量极少，市售真品多直供品牌珠宝公司，零售商基本拿不到。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Voynick, Stephen M.",
+      "title": "The Yogo Story: Montana's dream sapphires",
+      "year": 1985,
+      "locator": "Mountain Press"
+    },
+    {
+      "type": "web",
+      "title": "Yogo sapphire – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yogo_sapphire"
+    }
+  ]
+}

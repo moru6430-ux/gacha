@@ -1,0 +1,48 @@
+{
+  "id": "finnish_spectrolite",
+  "name": "芬兰光谱石",
+  "name_en": "Finnish Spectrolite",
+  "region": "芬兰 · 于拉麦",
+  "region_en": "Ylämaa, Finland",
+  "coordinates": [
+    60.7,
+    27.5
+  ],
+  "category": "moonstone",
+  "mineral_type": "拉长石变种 / Labradorite var. Spectrolite",
+  "color": "黑底 + 全光谱彩虹晕彩（红黄绿蓝紫一应俱全）",
+  "marker_color": "#4a6b8a",
+  "earliest_year": 1940,
+  "stories": [
+    {
+      "culture": "1940 · 战争中的发现",
+      "title": "苏芬战争与铁路工程师",
+      "content": "1940 年冬天，苏芬战争（冬季战争）期间，芬兰工程师 Aarne Laitakari 带队在芬兰东南部 Ylämaa 镇附近修筑反坦克防线时，在花岗岩中发现一种带有强烈彩虹晕彩的黑色长石——比加拿大拉长石（labradorite）的晕彩更全、更亮。Laitakari 把它命名为 \"spectrolite\"（光谱石），后被国际矿物学协会确认为拉长石的优质变种。\n\n这个发现颇具戏剧性——战时国家级地质学家被征兵去挖战壕，反而成就了一项矿物学发现。今天 Ylämaa 镇有 \"Spectrolite Festival\"，每年 7 月召开矿物展。"
+    },
+    {
+      "culture": "卡累利阿神话 · \"北极光石\"",
+      "title": "极光在石头里凝固",
+      "content": "芬兰东南卡累利阿地区（Karelia，部分在芬兰部分在俄罗斯）的民间传统把彩虹色光长石与\"极光\"（aurora borealis）联系——卡累利阿萨满相信光谱石是凝固在地底的极光碎片，每年只在冬至那天被允许采挖。\n\n这种神话其实是 1990 年代后被旅游业再发明的——但植根于卡累利阿史诗 Kalevala 里关于\"地下星辰\"的描述。今天芬兰最高规格的国礼之一就是镶嵌光谱石的银饰，2019 年芬兰总统送给习近平的国礼里就有一枚。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spectrolite_Ylamaa.jpg?width=640",
+  "image_credit": "于拉麦光谱石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "光谱石合法贸易，全球唯一商业产地芬兰 Ylämaa。其他地区的\"光谱石\"应为普通拉长石（晕彩较弱）。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Laitakari, Aarne",
+      "title": "Spectrolite – uusi suomalainen jalokivilaji",
+      "year": 1941,
+      "locator": "Suomen Geologinen Seura"
+    },
+    {
+      "type": "web",
+      "title": "Labradorite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Labradorite"
+    }
+  ]
+}

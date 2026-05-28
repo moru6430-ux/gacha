@@ -1,0 +1,47 @@
+{
+  "id": "spanish_jet",
+  "name": "西班牙阿斯图里亚斯煤精",
+  "name_en": "Spanish Asturian Jet",
+  "region": "西班牙 · 阿斯图里亚斯",
+  "region_en": "Asturias, Spain",
+  "coordinates": [
+    43.3,
+    -5.7
+  ],
+  "category": "other",
+  "mineral_type": "煤精 / Jet（化石化木质，与英国 Whitby 同源不同矿）",
+  "color": "深黑、墨亮、可雕刻细腻",
+  "marker_color": "#1a1a1a",
+  "earliest_year": 1000,
+  "stories": [
+    {
+      "culture": "中世纪 · 圣地亚哥朝圣",
+      "title": "朝圣者的护身符",
+      "content": "阿斯图里亚斯的煤精与英国惠特比同期被开采，但走的是完全不同的文化路线。中世纪欧洲三大朝圣地之一是西班牙圣地亚哥-德孔波斯特拉（Santiago de Compostela，使徒雅各墓地）。从 11 世纪开始，朝圣者从欧洲各地步行数千公里到圣地亚哥——煤精护身符是必带物。\n\n阿斯图里亚斯紧邻朝圣路线，当地工匠把煤精雕刻成圣雅各形象（背着拐杖、戴扇贝徽章），称作 \"azabache\"。煤精被认为能防\"恶眼\"（mal de ojo）、防瘟疫、护佑长途旅行。这种煤精朝圣信物今天仍在 Santiago 老城销售，是合法的非物质文化遗产手工艺。"
+    },
+    {
+      "culture": "现代 · 复兴",
+      "title": "\"Higas\" 拳头护符",
+      "content": "阿斯图里亚斯煤精最经典的造型是 \"higa\"（拳头形护符）——握紧的小拳头雕成煤精挂件，拇指夹在食指中指间。这个手势在地中海文化里是辟邪符号（与意大利的 mano fico 同源）。婴儿洗礼后传统上要佩戴 higa de azabache。\n\n1936 西班牙内战时阿斯图里亚斯煤精产业几乎覆灭。1990 年代起欧盟资助 + 阿斯图里亚斯政府支持下逐步恢复，今天 Villaviciosa 镇是主要产地。市售要看 \"Azabache de Asturias\" 地理标志认证——避免买到玻璃 / 树脂仿品。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Azabache_higa_Asturias.jpg?width=640",
+  "image_credit": "阿斯图里亚斯煤精护符 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "欧盟原产地保护标志 PGI \"Azabache de Asturias\"。市面假货比例高（玻璃、酚醛树脂、煤），认明 PGI 标签。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Rodríguez Asensio, J.A.",
+      "title": "El azabache asturiano",
+      "year": 2008
+    },
+    {
+      "type": "web",
+      "title": "Jet (gemstone) – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)"
+    }
+  ]
+}

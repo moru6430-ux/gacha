@@ -1,0 +1,48 @@
+{
+  "id": "egyptian_peridot",
+  "name": "埃及橄榄石（圣约翰岛）",
+  "name_en": "Egyptian Peridot (Zabargad / St. John's Island)",
+  "region": "埃及 · 红海 · 圣约翰岛 / 扎巴尔加德岛",
+  "region_en": "Zabargad Island, Red Sea, Egypt",
+  "coordinates": [
+    23.6,
+    36.2
+  ],
+  "category": "other",
+  "mineral_type": "橄榄石 / Peridot (镁铁橄榄石，世界最古老的橄榄石矿)",
+  "color": "深苹果绿、橄榄油绿（成色最深的橄榄石之一）",
+  "marker_color": "#98c93d",
+  "earliest_year": -1500,
+  "stories": [
+    {
+      "culture": "法老 · \"topazos\"的真身",
+      "title": "托勒密 II 的圣岛",
+      "content": "红海中的扎巴尔加德岛（Zabargad，希腊语 \"Topazos\"，意\"猜测之岛\"——因为常年雾气难找到）从公元前 1500 年起就在开采橄榄石。这是世界最古老的橄榄石矿，至少持续运营到罗马帝国时期。\n\n古希腊人称这种石头为 topazos——后来被错译为今天的 topaz（托帕石）。也就是说，**古文献里的\"topaz\"其实指橄榄石**。直到 18 世纪矿物学家才区分了 peridot 和 topaz 两种不同矿物，但\"topaz\"这个名字已经被让给了另一种宝石。\n\n埃及艳后克利奥帕特拉据说也藏有 Zabargad 橄榄石——许多归在她名下的\"祖母绿首饰\"，今天用现代鉴定可能其实是橄榄石。"
+    },
+    {
+      "culture": "近代 · 矿藏枯竭",
+      "title": "从皇室禁地到旅游岛",
+      "content": "托勒密时期 Zabargad 岛是皇室直辖矿区，外人擅自登岛处死。罗马接手后开采更密集，2 世纪罗马博物学家老普林尼《博物志》卷 37 详细描述了岛上夜间观察橄榄石发光（橄榄石在黑暗中确实会反射散射光）然后白天开采的工艺。\n\n罗马帝国晚期之后矿区逐渐废弃。1900 年代英国人短暂重启开采，但 1958 年埃及国有化、1990 年代彻底封矿。今天 Zabargad 是埃及红海保护区，禁止登岛取石。市售\"埃及橄榄石\"几乎都是 1900-1958 年的库存或巴基斯坦、缅甸、亚利桑那产货冒充——真正的 Zabargad 橄榄石属博物馆级。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peridot_Zabargad.jpg?width=640",
+  "image_credit": "扎巴尔加德橄榄石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "扎巴尔加德岛今为埃及自然保护区，禁开采。市售真正岛产料属博物馆级，多数\"埃及橄榄石\"为其他产地冒充。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Pliny the Elder",
+      "title": "Naturalis Historia",
+      "year": 77,
+      "locator": "Book XXXVII (topazos)"
+    },
+    {
+      "type": "web",
+      "title": "Zabargad Island – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zabargad_Island"
+    }
+  ]
+}
