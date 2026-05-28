@@ -1,0 +1,47 @@
+{
+  "id": "tasmanian_crocoite",
+  "name": "塔斯马尼亚铬铅矿",
+  "name_en": "Tasmanian Crocoite",
+  "region": "澳大利亚 · 塔斯马尼亚 · Dundas",
+  "region_en": "Dundas, Tasmania, Australia",
+  "coordinates": [
+    -41.87,
+    145.48
+  ],
+  "category": "other",
+  "mineral_type": "铬铅矿 / Crocoite (PbCrO₄)",
+  "color": "鲜艳的橙红、朱红（细长棱柱状晶簇，标本界明星）",
+  "marker_color": "#e8401a",
+  "earliest_year": 1890,
+  "stories": [
+    {
+      "culture": "化学史 · \"铬\"元素的摇篮",
+      "title": "一块矿石命名一个元素",
+      "content": "铬铅矿在化学史上有特殊地位：1797 年法国化学家 Vauquelin 分析西伯利亚产的橙红色铬铅矿时，分离出一种新元素——因为它的化合物色彩缤纷，他用希腊语 chroma（颜色）命名为 \"chromium\"（铬）。也就是说，**\"铬\"这个元素是从铬铅矿里发现并得名的**。今天我们说的\"铬\"——不锈钢、铬黄颜料、红蓝宝石的致色元素——都源于这块橙红色的石头。"
+    },
+    {
+      "culture": "塔斯马尼亚 · 标本界的圣杯",
+      "title": "Adelaide 矿的橙色火焰",
+      "content": "塔斯马尼亚西部 Dundas 的 Adelaide 矿出产**世界最美的铬铅矿晶体**——鲜艳如火焰的橙红色细长棱柱，成簇生长在晶洞里，像一团凝固的火。它是塔斯马尼亚的\"矿物徽章\"（mineral emblem）。但铬铅矿莫氏硬度只有 2.5-3（很软）、含铅有毒、见光会缓慢褪色，所以它**纯粹是矿物收藏标本**，从不做首饰。一组完整的 Adelaide 矿铬铅矿晶簇是矿物收藏家梦寐以求的珍品，拍卖价可达数万美元。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crocoite.jpg?width=640",
+  "image_credit": "铬铅矿 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "铬铅矿合法贸易（作矿物标本）；含铅有毒，仅作收藏不可做首饰 / 入口。塔斯马尼亚 Adelaide 矿为顶级产地。"
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "author": "Vauquelin, L.N.",
+      "title": "Discovery of chromium from crocoite",
+      "year": 1797
+    },
+    {
+      "type": "web",
+      "title": "Crocoite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crocoite"
+    }
+  ]
+}

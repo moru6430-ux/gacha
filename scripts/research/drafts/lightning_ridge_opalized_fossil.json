@@ -1,0 +1,48 @@
+{
+  "id": "lightning_ridge_opalized_fossil",
+  "name": "闪电岭欧泊化石",
+  "name_en": "Lightning Ridge Opalized Fossil",
+  "region": "澳大利亚 · 新南威尔士 · 闪电岭",
+  "region_en": "Lightning Ridge, NSW, Australia",
+  "coordinates": [
+    -29.45,
+    147.99
+  ],
+  "category": "opal",
+  "mineral_type": "欧泊化石 / Opalized fossil（蛋白石交代恐龙骨 / 贝壳 / 松果）",
+  "color": "欧泊变彩 + 化石形态（骨骼 / 贝壳 / 牙齿的彩虹复制品）",
+  "marker_color": "#3a5a8a",
+  "earliest_year": 1900,
+  "stories": [
+    {
+      "culture": "古生物学 · 会发光的恐龙",
+      "title": "欧泊取代了骨头",
+      "content": "闪电岭最神奇的产物是\"欧泊化石\"——1 亿年前白垩纪的恐龙骨骼、贝壳、松果、甚至牙齿，在地下被二氧化硅溶液逐分子取代，最终变成了**会闪烁全光谱彩光的欧泊**，却完整保留了原始化石的形状。2019 年这里出土的新恐龙物种 Fostoria dhimbangunmal（一种禽龙类）整个骨架都是欧泊化的——是世界唯一的\"欧泊恐龙\"，现藏澳洲博物馆。还有欧泊化的上龙牙齿、菊石、双壳贝——一座彩虹色的史前博物馆。"
+    },
+    {
+      "culture": "⚠️ 化石红线",
+      "title": "为什么要谨慎",
+      "content": "欧泊化石处在\"宝石\"与\"古生物化石\"的交叉地带。普通的欧泊化贝壳、菊石在澳洲合法交易；但具有科学价值的脊椎动物化石（恐龙骨、海生爬行动物）受澳洲各州古生物遗产法保护，重要标本必须归博物馆，不得私自买卖出口。\n\n本平台对欧泊化石**仅作内容展示**：欣赏\"欧泊化的恐龙\"这一自然奇观即可。若涉及交易，普通无脊椎欧泊化石（贝壳类）需确认来源，脊椎动物化石一律不交易。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Opalised_shell.jpg?width=640",
+  "image_credit": "欧泊化贝壳化石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "⚠️ 欧泊化石处于宝石 / 化石交叉地带。普通无脊椎欧泊化石（贝壳）合法；脊椎动物化石（恐龙 / 海生爬行动物）受澳洲古生物遗产法保护，不得私自交易出口。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Bell, P.R. et al.",
+      "title": "Fostoria dhimbangunmal: opalized dinosaur",
+      "year": 2019,
+      "locator": "Journal of Vertebrate Paleontology"
+    },
+    {
+      "type": "web",
+      "title": "Opal – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opal#Opalized_fossils"
+    }
+  ]
+}

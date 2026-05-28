@@ -1,0 +1,46 @@
+{
+  "id": "mookaite_jasper",
+  "name": "莫卡碧玉",
+  "name_en": "Mookaite Jasper",
+  "region": "澳大利亚 · 西澳 · Mooka Station",
+  "region_en": "Mooka Station, Western Australia",
+  "coordinates": [
+    -24.9,
+    114.4
+  ],
+  "category": "agate",
+  "mineral_type": "碧玉 / 蛋白石化放射虫硅质岩（Radiolarite）",
+  "color": "红、黄、紫、白、奶油（同一块石头多色斑斓）",
+  "marker_color": "#c47a3a",
+  "earliest_year": -10000,
+  "stories": [
+    {
+      "culture": "原住民 · \"流水\"之地",
+      "title": "Mooka 的意思是流水",
+      "content": "莫卡碧玉产自西澳 Gascoyne 地区的 Mooka Station（牧场），\"Mooka\" 在当地原住民语言里意为\"流水\"——指这片土地上从地下渗出的泉水。澳洲原住民长期用这种多彩的硅质岩制作工具和颜料，红色 / 黄色的莫卡石粉是身体彩绘和岩画的材料。它的彩色来自不同价态的铁氧化物。"
+    },
+    {
+      "culture": "地质 · 一亿年前的微生物",
+      "title": "亿万放射虫的遗骸",
+      "content": "莫卡碧玉的本质很惊人：它是由**亿万个微小海洋浮游生物（放射虫 radiolaria）的硅质骨骼**在约 1.2 亿年前（白垩纪）沉积、硅化形成的\"放射虫岩\"（radiolarite）。当年这片西澳内陆还是浅海，无数放射虫死后骨骼堆积海底，被二氧化硅胶结、被铁染色，形成今天红黄紫白交织的斑斓石头。所以你手里的每一块莫卡碧玉，其实是一亿年前一整片海洋微生物群落的化石墓地——既是宝石又是地质档案。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mookaite.jpg?width=640",
+  "image_credit": "莫卡碧玉 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "莫卡碧玉合法贸易；西澳特产。质地致密耐用，适合做珠串雕件。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Mookaite – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mookaite"
+    },
+    {
+      "type": "web",
+      "title": "Radiolarite – Mindat",
+      "url": "https://www.mindat.org/"
+    }
+  ]
+}

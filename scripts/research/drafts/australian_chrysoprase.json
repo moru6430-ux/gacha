@@ -1,0 +1,46 @@
+{
+  "id": "australian_chrysoprase",
+  "name": "澳洲绿玉髓（澳玉）",
+  "name_en": "Australian Chrysoprase",
+  "region": "澳大利亚 · 昆士兰 · Marlborough",
+  "region_en": "Marlborough, Queensland, Australia",
+  "coordinates": [
+    -22.82,
+    149.9
+  ],
+  "category": "agate",
+  "mineral_type": "玉髓 / Chalcedony（镍致苹果绿，与波兰绿玉髓同种）",
+  "color": "苹果绿、葱绿、薄荷绿（半透明，镍致色）",
+  "marker_color": "#6fb83c",
+  "earliest_year": 1960,
+  "stories": [
+    {
+      "culture": "\"澳洲玉\"的商业名",
+      "title": "冒充翡翠的绿玉髓",
+      "content": "澳大利亚昆士兰 Marlborough 地区 1960 年代发现大型绿玉髓矿，质地细腻、绿色鲜嫩。商业上它被叫做 \"Australian jade\"（澳洲玉）——但它**不是真玉**（翡翠 / 软玉），而是镍致色的绿玉髓（chrysoprase），是石英大家族成员。这个营销名导致大量消费者把它误当翡翠购买。它和前面做过的波兰西里西亚绿玉髓是同一种矿物，但 Marlborough 矿是 20 世纪世界最大的优质绿玉髓产地。"
+    },
+    {
+      "culture": "矿物学 · 镍的绿",
+      "title": "会褪色的隐忧",
+      "content": "绿玉髓的苹果绿来自微量的镍（以含镍的蒙脱石微包体形式存在）。它有个小缺点：长时间暴露在强光 / 高温下，绿色可能缓慢变淡——所以收藏时要避免暴晒。Marlborough 的澳洲绿玉髓质地均匀、几乎无纹，是制作戒面、珠串和雕件的好材料，价格远低于翡翠，是\"平价绿色玉石\"的主力。鉴别澳玉与翡翠：绿玉髓更透、颜色更均匀、密度更低（上手更轻）。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysoprase.jpg?width=640",
+  "image_credit": "绿玉髓 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "澳洲绿玉髓合法贸易；常以\"澳洲玉\"名义销售，注意它不是翡翠 / 软玉。避免暴晒以防褪色。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Chrysoprase – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chrysoprase"
+    },
+    {
+      "type": "web",
+      "title": "Marlborough chrysoprase – Mindat",
+      "url": "https://www.mindat.org/"
+    }
+  ]
+}

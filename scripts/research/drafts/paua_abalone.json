@@ -1,0 +1,46 @@
+{
+  "id": "paua_abalone",
+  "name": "新西兰鲍贝（Pāua）",
+  "name_en": "New Zealand Pāua",
+  "region": "新西兰 · 南岛沿岸",
+  "region_en": "South Island coast, New Zealand",
+  "coordinates": [
+    -41.3,
+    174.0
+  ],
+  "category": "pearl",
+  "mineral_type": "鲍螺壳 / Abalone nacre（Haliotis iris，珍珠母质有机宝石）",
+  "color": "蓝、绿、紫、金虹彩（世界最艳丽的鲍贝）",
+  "marker_color": "#2a8a8a",
+  "earliest_year": 1300,
+  "stories": [
+    {
+      "culture": "毛利 · taonga 与雕刻的眼睛",
+      "title": "海的彩虹",
+      "content": "新西兰鲍贝（毛利语 pāua，学名 Haliotis iris）的内壳是世界上色彩最浓烈的鲍贝——蓝绿紫金的虹彩比北美 / 日本鲍贝艳丽得多。毛利人把 pāua 视为 taonga（珍宝），最经典的用法是镶嵌在木雕、骨雕和绿玉（pounamu）雕像的**眼睛**部位——会闪虹光的鲍贝眼睛让祖先雕像\"活\"了过来、注视后人。毛利神话里 pāua 是海神 Tangaroa 的孩子。"
+    },
+    {
+      "culture": "现代 · 严格的采集法规",
+      "title": "不能潜水时用气瓶",
+      "content": "新西兰对 pāua 采集有全球最严的管理：只能徒手或徒步在退潮带采集，**禁止使用水肺（气瓶）潜水**采集；每人每天限采 10 只；有最小尺寸限制（壳径 ≥125mm）。这是为了防止过度捕捞——pāua 生长极慢。商业采集需配额（类似渔业的 ITQ 制度）。市售 pāua 工艺品合法，但若是整壳 / 大量贝肉制品需确认来源。pāua 也产天然蓝色\"鲍珠\"（blue pearl），极稀有。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paua_shell.jpg?width=640",
+  "image_credit": "新西兰鲍贝 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "新西兰 pāua 采集受严格配额 + 尺寸限制（禁气瓶潜水、每日限 10 只、壳径≥125mm）。工艺品合法，整壳 / 大量制品需合法来源证明。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Pāua – Te Ara Encyclopedia of NZ",
+      "url": "https://teara.govt.nz/en/paua"
+    },
+    {
+      "type": "web",
+      "title": "Haliotis iris – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Haliotis_iris"
+    }
+  ]
+}

@@ -20,6 +20,9 @@ export const CATEGORIES = [
   { key: 'diamond', label: '钻石', color: '#f0f4ff' },
   { key: 'amethyst', label: '紫水晶', color: '#a855f7' },
   { key: 'garnet', label: '石榴石', color: '#dc2626' },
+  { key: 'beryl', label: '绿柱石', color: '#5bc0be' },
+  { key: 'peridot', label: '橄榄石', color: '#9bc94c' },
+  { key: 'spinel', label: '尖晶石', color: '#e0506a' },
   { key: 'other', label: '其他', color: '#f5c97a' },
 ]
 

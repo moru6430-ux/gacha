@@ -1,0 +1,48 @@
+{
+  "id": "argyle_pink_diamond",
+  "name": "阿盖尔粉钻",
+  "name_en": "Argyle Pink Diamond",
+  "region": "澳大利亚 · 西澳 · 金伯利 · 阿盖尔矿",
+  "region_en": "Argyle Mine, Kimberley, Western Australia",
+  "coordinates": [
+    -16.7,
+    128.4
+  ],
+  "category": "diamond",
+  "mineral_type": "钻石 / Diamond（塑性变形致粉，非杂质致色）",
+  "color": "粉红、玫红、紫红、罕见红（塑性变形 plastic deformation 致色）",
+  "marker_color": "#e89ab8",
+  "earliest_year": 1979,
+  "stories": [
+    {
+      "culture": "吉佳族 · 梦创时代的\"鲈鱼跳跃\"",
+      "title": "Barramundi Gap",
+      "content": "阿盖尔矿所在的西澳东金伯利地区是原住民吉佳族（Gija / Miriuwung）的传统领地。他们的\"梦创时代\"（Dreamtime）传说讲：一条巨大的鲈鱼（barramundi）逃避女人们的渔网，跳跃着穿过山脉，在岩壁上撞出一道缺口（Barramundi Gap），它身上闪烁的鳞片散落山间——后来人们在那里挖出了闪光的粉色钻石。这道\"鲈鱼缺口\"正是阿盖尔钻石矿的所在。开矿前矿业公司与吉佳族签订了传统所有者协议。"
+    },
+    {
+      "culture": "1979-2020 · 全球九成粉钻的来源与谢幕",
+      "title": "一座矿垄断一种颜色",
+      "content": "阿盖尔矿 1979 年被发现、1983 年投产，它供应了全球约 **90% 的粉红钻石**——粉钻极稀有，阿盖尔每年产出的钻石里只有约 0.01% 是宝石级粉钻。它的粉色成因独特：不是杂质，而是钻石在地下经历巨大压力发生\"塑性变形\"，晶格扭曲后选择性吸收光线而显粉红。2020 年 11 月阿盖尔矿因资源枯竭正式关闭——意味着世界主要粉钻来源断绝，存世阿盖尔粉钻价格此后持续飙升，顶级红钻每克拉拍卖价超过 200 万美元。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink_diamond.jpg?width=640",
+  "image_credit": "粉钻 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "restricted",
+    "notes": "钻石合法贸易；阿盖尔矿 2020 已闭矿，真品需 Argyle 原厂证书 + GIA。市场炒作 + 仿冒（处理粉钻）多，认证至关重要。"
+  },
+  "sources": [
+    {
+      "type": "secondary",
+      "author": "Shigley, J.E. et al.",
+      "title": "Argyle pink diamonds",
+      "year": 2001,
+      "locator": "Gems & Gemology"
+    },
+    {
+      "type": "web",
+      "title": "Argyle diamond mine – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Argyle_diamond_mine"
+    }
+  ]
+}

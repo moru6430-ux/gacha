@@ -1,0 +1,46 @@
+{
+  "id": "lightning_ridge_opal",
+  "name": "闪电岭黑欧泊",
+  "name_en": "Lightning Ridge Black Opal",
+  "region": "澳大利亚 · 新南威尔士 · 闪电岭",
+  "region_en": "Lightning Ridge, New South Wales, Australia",
+  "coordinates": [
+    -29.43,
+    147.98
+  ],
+  "category": "opal",
+  "mineral_type": "蛋白石 / Opal（黑 / 深底欧泊，变彩最强）",
+  "color": "深黑 / 墨蓝底 + 全光谱变彩（红色火彩最贵）",
+  "marker_color": "#1a2a4a",
+  "earliest_year": 1873,
+  "stories": [
+    {
+      "culture": "原住民 · 彩虹蛇的火",
+      "title": "欧泊的诅咒与圣火",
+      "content": "澳洲原住民对欧泊态度矛盾。一些部族传说：造物主（彩虹蛇 Rainbow Serpent）降临大地时，脚踏过的石头迸出了所有颜色的光——那就是欧泊。但也有部族视欧泊为禁忌、认为它是恶灵的眼睛。19 世纪欧洲人甚至因司各特小说《盖厄斯坦的安妮》而一度相信\"欧泊不祥\"，导致欧泊价格暴跌。直到 1877 年澳洲黑欧泊被发现、维多利亚女王带头佩戴，欧泊才翻身成为顶级宝石。"
+    },
+    {
+      "culture": "黑欧泊之都",
+      "title": "为什么黑底最贵",
+      "content": "闪电岭是世界**唯一**大规模产出宝石级黑欧泊的地方。欧泊的\"变彩\"（play-of-color）是内部规则排列的二氧化硅微球衍射光线产生的——而深色 / 黑色的底色让这些彩光对比最强烈、最鲜艳。所以同样变彩，黑欧泊的价值远超白欧泊（如库柏佩迪白欧泊）。一颗带强红色火彩的顶级闪电岭黑欧泊每克拉价可达 1-2 万美元，超过同重量钻石。闪电岭至今仍是小矿主 + 个体挖矿者的天下，没有大型矿业公司垄断。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_opal.jpg?width=640",
+  "image_credit": "黑欧泊 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "闪电岭黑欧泊合法贸易；新南威尔士。注意\"拼合欧泊\"（doublet/triplet）和合成欧泊（Gilson）冒充，需鉴定是否整石。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Lightning Ridge – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lightning_Ridge,_New_South_Wales"
+    },
+    {
+      "type": "web",
+      "title": "Opal – GIA",
+      "url": "https://www.gia.edu/opal"
+    }
+  ]
+}

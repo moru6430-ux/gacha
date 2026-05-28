@@ -1,0 +1,46 @@
+{
+  "id": "anakie_sapphire",
+  "name": "澳洲安纳基蓝宝石",
+  "name_en": "Australian Anakie Sapphire",
+  "region": "澳大利亚 · 昆士兰 · Anakie 蓝宝石带",
+  "region_en": "Anakie Sapphire Fields, Queensland, Australia",
+  "coordinates": [
+    -23.55,
+    147.46
+  ],
+  "category": "sapphire",
+  "mineral_type": "刚玉 / Corundum（玄武岩型蓝宝，含铁较高色偏深）",
+  "color": "深蓝、墨绿蓝、黄绿、双色\"派对蓝宝\"（parti sapphire）",
+  "marker_color": "#2a5a7a",
+  "earliest_year": 1875,
+  "stories": [
+    {
+      "culture": "被低估的产量大国",
+      "title": "澳洲曾是世界最大蓝宝石产地",
+      "content": "很少人知道：1980 年代澳大利亚一度是**世界最大的蓝宝石产地**，昆士兰 Anakie 和新南威尔士 New England 的蓝宝石带供应了全球大量蓝宝石。但澳洲蓝宝石含铁高、颜色偏深偏暗（墨水蓝、瓶绿色），不如克什米尔 / 斯里兰卡的明亮矢车菊蓝受宠——所以很多澳洲蓝宝石被运到泰国加热改色，再以\"泰国蓝宝\"或不标产地的形式卖出，澳洲产地的名声被埋没了。"
+    },
+    {
+      "culture": "\"派对蓝宝\" parti sapphire",
+      "title": "一颗石头几种颜色",
+      "content": "澳洲蓝宝石近年靠一个独特品种翻红——\"派对蓝宝\"（parti sapphire / teal sapphire）：同一颗宝石里天然呈现蓝、绿、黄的色块分区，每颗都独一无二。这种\"非均匀\"过去被当作瑕疵，现在却因为独特性和\"不经处理的天然色\"在订婚戒市场大受欢迎（迎合反钻石、求个性的年轻一代）。Anakie 至今仍有\"自己挖蓝宝石\"的旅游矿场，是昆士兰内陆的特色体验。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parti_sapphire.jpg?width=640",
+  "image_credit": "澳洲派对蓝宝石 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "澳洲蓝宝石合法贸易；派对蓝宝多为天然未处理（卖点）。普通深蓝澳宝多经泰国加热改色，应披露。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Sapphire – GIA",
+      "url": "https://www.gia.edu/sapphire"
+    },
+    {
+      "type": "web",
+      "title": "Anakie, Queensland – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anakie,_Queensland"
+    }
+  ]
+}

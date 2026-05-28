@@ -1,0 +1,46 @@
+{
+  "id": "queensland_boulder_opal",
+  "name": "昆士兰巨石欧泊",
+  "name_en": "Queensland Boulder Opal",
+  "region": "澳大利亚 · 昆士兰 · Yowah / Winton",
+  "region_en": "Yowah & Winton, Queensland, Australia",
+  "coordinates": [
+    -27.98,
+    144.63
+  ],
+  "category": "opal",
+  "mineral_type": "蛋白石 / Opal（在褐铁矿 ironstone 母岩裂隙中生长）",
+  "color": "铁褐母岩 + 蓝绿 / 彩虹欧泊脉（连母岩一起切磨）",
+  "marker_color": "#6a4a30",
+  "earliest_year": 1870,
+  "stories": [
+    {
+      "culture": "\"Yowah 坚果\"",
+      "title": "石头里的欧泊蛋",
+      "content": "昆士兰巨石欧泊和其他欧泊不同——它的欧泊是在坚硬的褐铁矿（ironstone）巨石的裂隙和空腔里生长的，开采时连母岩一起切磨，背景的铁褐色母岩反而衬托出欧泊脉的彩光。昆士兰 Yowah 地区出产一种独特的\"Yowah 坚果\"（Yowah nut）——拳头大小的铁矿结核，敲开里面可能藏着一汪欧泊，像石头里的彩蛋，是欧泊猎人最迷恋的\"开盲盒\"体验。"
+    },
+    {
+      "culture": "可持续的优势",
+      "title": "天然整石、不易开裂",
+      "content": "巨石欧泊有个实用优势：因为欧泊牢牢长在坚硬母岩上，它比纯欧泊（如闪电岭黑欧泊、埃塞俄比亚水欧泊）更**不容易开裂、失水**——纯欧泊含水，环境干燥时会龟裂（crazing），而巨石欧泊的铁矿母岩起到了保护和稳定作用。所以它适合做日常佩戴的戒面和吊坠，也是\"天然整石欧泊\"（不需要拼合）的代表。昆士兰还产世界著名的\"opalized fossil\"——欧泊化的恐龙骨与海洋生物化石。"
+    }
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boulder_opal.jpg?width=640",
+  "image_credit": "巨石欧泊 / Wikimedia Commons",
+  "legal_status": {
+    "commerce": "safe",
+    "notes": "昆士兰巨石欧泊合法贸易；天然整石稳定耐用，是欧泊里较适合日戴的类型。"
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Boulder opal – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opal#Boulder_opal"
+    },
+    {
+      "type": "web",
+      "title": "Queensland Boulder Opal – GIA",
+      "url": "https://www.gia.edu/opal"
+    }
+  ]
+}
