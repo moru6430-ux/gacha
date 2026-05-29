@@ -136,9 +136,11 @@ export default function DetailPanel({
         <ExternalReferences mineral={entry} />
       </div>
 
-      <footer className="px-5 py-3 border-t border-ink-700 text-xs text-stone-500">
-        坐标 {entry.coordinates[0].toFixed(4)}, {entry.coordinates[1].toFixed(4)}
-      </footer>
+      {Array.isArray(entry.coordinates) && entry.coordinates.length === 2 && (
+        <footer className="px-5 py-3 border-t border-ink-700 text-xs text-stone-500">
+          坐标 {Number(entry.coordinates[0]).toFixed(4)}, {Number(entry.coordinates[1]).toFixed(4)}
+        </footer>
+      )}
     </aside>
   )
 }

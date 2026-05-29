@@ -126,6 +126,19 @@ export default function App() {
     setCategory('all')
   }
 
+  // 从时间线 / 用户主页里点矿物：确保它一定出现在地图上。
+  // 清掉搜索 / 分类筛选，并切到它所属大洲——否则在别的大洲 / 筛选态下
+  // 这颗矿物不在 entries 里，标记不渲染、FlyTo 也不触发（空地图 bug）。
+  function focusMineral(id) {
+    const m = minerals.find((x) => x.id === id)
+    setSelectedId(id)
+    if (!m) return
+    if (query) setQuery('')
+    if (category !== 'all') setCategory('all')
+    const cs = getContinents(m.coordinates, m.continent)
+    if (cs[0]) setSelectedContinent(cs[0])
+  }
+
   const currentContinent = selectedContinent
     ? CONTINENT_MAP[selectedContinent]
     : null
@@ -316,14 +329,7 @@ export default function App() {
             open
             onClose={() => setTimelineOpen(false)}
             minerals={minerals}
-            onSelectMineral={(id) => {
-              setSelectedId(id)
-              const m = minerals.find((x) => x.id === id)
-              if (m && viewMode === 'world') {
-                const cs = getContinents(m.coordinates, m.continent)
-                if (cs[0]) setSelectedContinent(cs[0])
-              }
-            }}
+            onSelectMineral={focusMineral}
           />
         </Suspense>
       )}
@@ -335,14 +341,7 @@ export default function App() {
             onClose={() => setProfileUserId(null)}
             userId={profileUserId}
             minerals={minerals}
-            onSelectMineral={(id) => {
-              setSelectedId(id)
-              const m = minerals.find((x) => x.id === id)
-              if (m && viewMode === 'world') {
-                const cs = getContinents(m.coordinates, m.continent)
-                if (cs[0]) setSelectedContinent(cs[0])
-              }
-            }}
+            onSelectMineral={focusMineral}
             cartIds={cartIds}
             onToggleCart={toggleCart}
             favoriteListingIds={favoriteListingIds}

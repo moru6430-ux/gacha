@@ -2,7 +2,8 @@ import { useEffect, useState } from 'react'
 import { supabase } from '../lib/supabase.js'
 
 // 抓任一用户的公开档案 + 他们 active 的 listings + （如果他们设公开）收藏的图鉴
-export function useUserProfile(userId) {
+// reloadToken 变化时强制重新拉取（用于编辑资料保存后刷新，避免整页 reload）
+export function useUserProfile(userId, reloadToken = 0) {
   const [profile, setProfile] = useState(null)
   const [listings, setListings] = useState([])
   const [favoriteMineralIds, setFavoriteMineralIds] = useState([])
@@ -62,7 +63,7 @@ export function useUserProfile(userId) {
     return () => {
       cancelled = true
     }
-  }, [userId])
+  }, [userId, reloadToken])
 
   return { profile, listings, favoriteMineralIds, loading, error }
 }

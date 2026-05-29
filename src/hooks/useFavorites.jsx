@@ -5,11 +5,12 @@ import { useAuth } from './useAuth.jsx'
 export function useFavorites() {
   const { user } = useAuth()
   const [ids, setIds] = useState(() => new Set())
-  const [loading, setLoading] = useState(false)
+  const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     if (!user) {
       setIds(new Set())
+      setLoading(false)
       return
     }
     let cancelled = false

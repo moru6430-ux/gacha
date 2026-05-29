@@ -16,11 +16,18 @@ export function AuthProvider({ children }) {
 
   useEffect(() => {
     let cancelled = false
-    supabase.auth.getSession().then(({ data }) => {
-      if (cancelled) return
-      setSession(data.session)
-      setLoading(false)
-    })
+    supabase.auth
+      .getSession()
+      .then(({ data }) => {
+        if (cancelled) return
+        setSession(data.session)
+        setLoading(false)
+      })
+      .catch((err) => {
+        if (cancelled) return
+        console.warn('[auth] getSession failed', err.message)
+        setLoading(false)
+      })
     const { data: sub } = supabase.auth.onAuthStateChange((_event, s) => {
       setSession(s)
     })

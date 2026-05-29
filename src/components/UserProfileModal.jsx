@@ -24,8 +24,10 @@ export default function UserProfileModal({
   canCart,
 }) {
   const { user } = useAuth()
+  const [reloadToken, setReloadToken] = useState(0)
   const { profile, listings, favoriteMineralIds, loading, error } = useUserProfile(
     open ? userId : null,
+    reloadToken,
   )
   const isOwn = user && profile && user.id === profile.id
   const [editing, setEditing] = useState(false)
@@ -129,9 +131,7 @@ export default function UserProfileModal({
               onCancel={() => setEditing(false)}
               onSaved={() => {
                 setEditing(false)
-                // 重新拉一次：通过 close+reopen 太重，下次打开自动刷新即可
-                // 这里直接强制 useUserProfile 重跑：用一个小技巧——更新 profile state in-place
-                window.location.reload?.() // 简化：刷新整个页面让数据回流
+                setReloadToken((t) => t + 1) // 只重拉档案，不刷整页
               }}
             />
           )}

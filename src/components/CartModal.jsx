@@ -108,10 +108,12 @@ export default function CartModal({ open, onClose, cartIds, onRemove, onClear, o
       })
     : listings
   const groups = groupBySeller(filtered)
-  const total = filtered
-    .filter((l) => l.status === 'active')
-    .reduce((sum, l) => sum + (l.price_cents || 0), 0)
-  const currency = listings[0]?.currency || 'CNY'
+  const activeItems = filtered.filter((l) => l.status === 'active')
+  const total = activeItems.reduce((sum, l) => sum + (l.price_cents || 0), 0)
+  const currency = activeItems[0]?.currency || listings[0]?.currency || 'CNY'
+  // 只有所有在售商品同币种时，合计才有意义；否则不显示合计（避免混算）
+  const singleCurrency =
+    new Set(activeItems.map((l) => l.currency || 'CNY')).size <= 1
 
   async function handleClear() {
     if (!onClear) return
@@ -205,9 +207,9 @@ export default function CartModal({ open, onClose, cartIds, onRemove, onClear, o
             <div className="space-y-5">
               {groups.map((g) => {
                 const href = contactHref(g.contactMethod, g.contactValue)
-                const sellerSum = g.items
-                  .filter((i) => i.status === 'active')
-                  .reduce((s, i) => s + (i.price_cents || 0), 0)
+                const sellerActive = g.items.filter((i) => i.status === 'active')
+                const sellerSum = sellerActive.reduce((s, i) => s + (i.price_cents || 0), 0)
+                const sellerCurrency = sellerActive[0]?.currency || 'CNY'
                 return (
                   <div key={g.sellerId} className="border border-ink-700 rounded-md">
                     <div className="px-4 py-2.5 border-b border-ink-700 flex items-center justify-between bg-ink-800/40">
@@ -304,7 +306,7 @@ export default function CartModal({ open, onClose, cartIds, onRemove, onClear, o
                     </div>
                     {sellerSum > 0 && (
                       <div className="px-4 py-2 border-t border-ink-700 text-[11px] text-stone-400 flex justify-end">
-                        小计 {formatPrice(sellerSum, currency)}
+                        小计 {formatPrice(sellerSum, sellerCurrency)}
                       </div>
                     )}
                   </div>
@@ -317,9 +319,13 @@ export default function CartModal({ open, onClose, cartIds, onRemove, onClear, o
         {groups.length > 0 && total > 0 && (
           <footer className="px-6 py-4 border-t border-ink-700 flex items-center justify-between">
             <span className="text-xs text-stone-500">在售合计</span>
-            <span className="text-lg text-amber-glow font-medium">
-              {formatPrice(total, currency)}
-            </span>
+            {singleCurrency ? (
+              <span className="text-lg text-amber-glow font-medium">
+                {formatPrice(total, currency)}
+              </span>
+            ) : (
+              <span className="text-xs text-stone-500">多币种 · 见各卖家小计</span>
+            )}
           </footer>
         )}
       </div>

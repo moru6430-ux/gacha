@@ -89,15 +89,29 @@ export default function MapView({
   const showContinents = viewMode === 'world'
   const showMarkers = !showContinents
 
+  // 过滤掉坐标缺失 / 损坏的条目（Supabase 行可能 coordinates 为 null）——
+  // 否则 position / 外接框 / FlyTo 会在 undefined 上崩溃
+  const validEntries = useMemo(
+    () =>
+      entries.filter(
+        (e) =>
+          Array.isArray(e.coordinates) &&
+          e.coordinates.length === 2 &&
+          Number.isFinite(e.coordinates[0]) &&
+          Number.isFinite(e.coordinates[1]),
+      ),
+    [entries],
+  )
+
   // 进入大洲后，按当前可见的矿物动态算外接框，这样像大溪地这种远岛也能
   // 入镜。Leaflet 不知道地球是圆的，所以横跨 180° 经线的大洋洲（澳洲
   // lng 130 + 大溪地 lng -149）要先把负经度 +360 偏移到 211，外接框才会
   // 收紧在太平洋这一段，而不是把整个地球都框进来。
   const dynamicBounds = useMemo(() => {
-    if (viewMode !== 'continent' || !selectedContinent || entries.length === 0) {
+    if (viewMode !== 'continent' || !selectedContinent || validEntries.length === 0) {
       return null
     }
-    const coords = entries.map((e) => e.coordinates)
+    const coords = validEntries.map((e) => e.coordinates)
     const lngs = coords.map(([, lng]) => lng)
     const span = Math.max(...lngs) - Math.min(...lngs)
     const shifted =
@@ -105,7 +119,7 @@ export default function MapView({
         ? coords.map(([lat, lng]) => [lat, lng < 0 ? lng + 360 : lng])
         : coords
     return L.latLngBounds(shifted).pad(0.25)
-  }, [viewMode, selectedContinent, entries])
+  }, [viewMode, selectedContinent, validEntries])
 
   return (
     <MapContainer
@@ -127,7 +141,7 @@ export default function MapView({
       )}
 
       {showMarkers &&
-        entries.map((entry) => (
+        validEntries.map((entry) => (
           <Marker
             key={entry.id}
             position={entry.coordinates}
@@ -143,7 +157,9 @@ export default function MapView({
         continentId={selectedContinent}
         dynamicBounds={dynamicBounds}
       />
-      {selected && <FlyTo coordinates={selected.coordinates} />}
+      {selected && Array.isArray(selected.coordinates) && (
+        <FlyTo coordinates={selected.coordinates} />
+      )}
     </MapContainer>
   )
 }
