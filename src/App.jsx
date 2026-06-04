@@ -20,6 +20,7 @@ const MyListingsModal = lazy(() => import('./components/MyListingsModal.jsx'))
 const CartModal = lazy(() => import('./components/CartModal.jsx'))
 const FavoriteListingsModal = lazy(() => import('./components/FavoriteListingsModal.jsx'))
 const TimelineModal = lazy(() => import('./components/TimelineModal.jsx'))
+const ThemesModal = lazy(() => import('./components/ThemesModal.jsx'))
 const UserProfileModal = lazy(() => import('./components/UserProfileModal.jsx'))
 
 export default function App() {
@@ -42,6 +43,7 @@ export default function App() {
   const [favListingsOpen, setFavListingsOpen] = useState(false)
   const [cartOpen, setCartOpen] = useState(false)
   const [timelineOpen, setTimelineOpen] = useState(false)
+  const [themesOpen, setThemesOpen] = useState(false)
   const [profileUserId, setProfileUserId] = useState(null)
   const [listingsRefreshKey, setListingsRefreshKey] = useState(0)
 
@@ -176,6 +178,17 @@ export default function App() {
             <circle cx="6" cy="12" r="1.5" />
             <circle cx="12" cy="12" r="1.5" />
             <circle cx="18" cy="12" r="1.5" />
+          </svg>
+        </button>
+        <button
+          onClick={() => setThemesOpen(true)}
+          className="text-stone-300 hover:text-amber-glow transition-colors"
+          aria-label="意象浏览"
+          title="按神话意象浏览"
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6">
+            <circle cx="12" cy="12" r="9" />
+            <path d="M3 12h18M12 3a14 14 0 010 18M12 3a14 14 0 000 18" strokeLinecap="round" />
           </svg>
         </button>
         <UserMenu
@@ -328,6 +341,17 @@ export default function App() {
           <TimelineModal
             open
             onClose={() => setTimelineOpen(false)}
+            minerals={minerals}
+            onSelectMineral={focusMineral}
+          />
+        </Suspense>
+      )}
+
+      {themesOpen && (
+        <Suspense fallback={null}>
+          <ThemesModal
+            open
+            onClose={() => setThemesOpen(false)}
             minerals={minerals}
             onSelectMineral={focusMineral}
           />

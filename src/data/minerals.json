@@ -24,13 +24,17 @@
         "content": "毛利渔人讲，海中的鲨神 Mokarakara 在丢失爱人之后，眼泪沉入海底变成黑珍珠。所以潜水人要先向礁石礼拜，才能采珠，不然鲨神会把潜水人也变成珠子。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinctada_margaritifera_(black-lipped_pearl_oyster)_(Tuamotu_Islands,_French_Polynesia,_Pacific_Ocean).jpg?width=640",
     "legal_status": {
       "commerce": "safe",
       "notes": "黑唇牡蛎养殖珍珠合法流通；法属波利尼西亚已建立珍珠分级与原产地标识体系。"
     },
     "marker_color": "#2a3b3a",
-    "earliest_year": 1840
+    "earliest_year": 1840,
+    "themes": [
+      "sea",
+      "moon"
+    ]
   },
   {
     "id": "mediterranean_pearl",
@@ -64,7 +68,10 @@
     },
     "marker_color": "#f0d8c4",
     "image_credit": "Akoya 珍珠（Wikimedia Commons）— 暂代地中海珍珠",
-    "earliest_year": -500
+    "earliest_year": -500,
+    "themes": [
+      "sea"
+    ]
   },
   {
     "id": "hepu_pearl",
@@ -98,7 +105,11 @@
     },
     "marker_color": "#e9e2d0",
     "image_credit": "Akoya 珍珠（Wikimedia Commons）— 暂代南珠",
-    "earliest_year": -300
+    "earliest_year": -300,
+    "themes": [
+      "sea",
+      "sovereignty"
+    ]
   },
   {
     "id": "mogok_ruby",
@@ -136,7 +147,11 @@
     },
     "marker_color": "#c1132c",
     "image_credit": "红宝石晶体（Wikimedia Commons）",
-    "earliest_year": 100
+    "earliest_year": 100,
+    "themes": [
+      "war",
+      "blood"
+    ]
   },
   {
     "id": "badakhshan_lapis",
@@ -176,7 +191,11 @@
     ],
     "marker_color": "#1d3b8e",
     "image_credit": "巴达赫尚 Sar-e-Sang 矿区青金石原石 / James St. John CC-BY",
-    "earliest_year": -3000
+    "earliest_year": -3000,
+    "themes": [
+      "stars",
+      "sovereignty"
+    ]
   },
   {
     "id": "muzo_emerald",
@@ -214,7 +233,10 @@
     },
     "marker_color": "#0a8056",
     "image_credit": "穆佐矿区祖母绿原石 / James St. John CC-BY",
-    "earliest_year": 1545
+    "earliest_year": 1545,
+    "themes": [
+      "sovereignty"
+    ]
   },
   {
     "id": "ceylon_sapphire",
@@ -241,7 +263,7 @@
         "content": "斯里兰卡的蓝宝石因「矢车菊蓝」闻名，是 1981 年戴安娜王妃订婚戒指上那颗。后来这枚戒指传给了威廉王子，又戴在了凯特中指上。一颗石头跨越三代人，把一个家族的故事缝在自身。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Korund_(szafir),_bli%C5%BAniaki_-_Ratnapura,_Sri_Lanka..jpg?width=640",
     "legal_status": {
       "commerce": "safe",
       "notes": "斯里兰卡蓝宝石合法贸易，多数处理（加热）需如实标注；电商建议要求 NGTC / SSEF / GRS 证书并注明处理方式。",
@@ -250,7 +272,11 @@
       ]
     },
     "marker_color": "#2e5cb8",
-    "earliest_year": 400
+    "earliest_year": 400,
+    "themes": [
+      "protection",
+      "astrology"
+    ]
   },
   {
     "id": "merelani_tanzanite",
@@ -279,7 +305,11 @@
     },
     "marker_color": "#6452c8",
     "image_credit": "梅雷拉尼矿区坦桑石 / Wikimedia Commons CC-BY-SA",
-    "earliest_year": 1967
+    "earliest_year": 1967,
+    "themes": [
+      "modern",
+      "mine_lore"
+    ]
   },
   {
     "id": "baltic_amber",
@@ -313,7 +343,11 @@
     },
     "marker_color": "#c97f1a",
     "image_credit": "波罗的海琥珀原石 / Wikimedia Commons",
-    "earliest_year": -3000
+    "earliest_year": -3000,
+    "themes": [
+      "sun",
+      "sea"
+    ]
   },
   {
     "id": "cooberpedy_opal",
@@ -347,7 +381,10 @@
     },
     "marker_color": "#4dcae2",
     "image_credit": "澳洲黑欧泊（来自 Lightning Ridge，非库柏佩迪本矿）",
-    "earliest_year": 1915
+    "earliest_year": 1915,
+    "themes": [
+      "creature"
+    ]
   },
   {
     "id": "neyshabur_turquoise",
@@ -374,13 +411,17 @@
         "content": "唐代「胡商」把内沙布尔的绿松石经丝路驮入长安，称之为「瑟瑟」。在唐墓壁画中常见胡商身上垂着的串珠便是这种瑟瑟。绿松石之名「Turquoise」本身在法语里就是「土耳其的」，因为欧洲人最早从土耳其商人手中买到它——其实它来自更东的伊朗。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1611425862321-21ae9d96b67e?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iran,_nishapur,_coppa,_x_sec_05.JPG?width=640",
     "legal_status": {
       "commerce": "safe",
       "notes": "伊朗绿松石合法贸易；注意优化处理（注胶、染色）须如实标注。"
     },
     "marker_color": "#4ab1b6",
-    "earliest_year": -2000
+    "earliest_year": -2000,
+    "themes": [
+      "sovereignty",
+      "protection"
+    ]
   },
   {
     "id": "hetian_nephrite",
@@ -407,7 +448,7 @@
         "content": "和田之南有玉龙喀什河，每年秋洪退水后，村人提灯下河摸石——「籽料」即被河水亿万年冲打、温润如肤的玉。古时摸玉以妇女为先，相传女子阴气能引玉出水。如今这一图景多半只剩在老照片里：自 2011 年起，玉龙喀什河禁止机械采挖；2023 年新疆所有和田玉矿停业，籽料只能从存量与少量招标渠道流通。"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1611425143678-08fc480cafde?auto=format&fit=crop&w=800&q=80",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Collecting_jade_in_the_White_Jade_River_near_Khotan.jpg?width=640",
     "legal_status": {
       "commerce": "restricted",
       "notes": "玉龙喀什河 2011 起禁止机械采挖，2023 年和田所有矿口停业；市场货源真假混杂、俄料 / 青海料冒充时有发生。电商须强制 NGTC 证书并注明产地。",
@@ -416,7 +457,11 @@
       ]
     },
     "marker_color": "#e5dec5",
-    "earliest_year": -3000
+    "earliest_year": -3000,
+    "themes": [
+      "sovereignty",
+      "mine_lore"
+    ]
   },
   {
     "id": "ural_malachite",
@@ -479,7 +524,11 @@
     ],
     "border_note": "横跨欧亚边界 · 已知神话来自俄罗斯一侧",
     "marker_color": "#0b7a5a",
-    "earliest_year": 1635
+    "earliest_year": 1635,
+    "themes": [
+      "creature",
+      "mine_lore"
+    ]
   },
   {
     "id": "tibetan_dzi",
@@ -541,7 +590,11 @@
       }
     ],
     "marker_color": "#3a2a1c",
-    "earliest_year": -1500
+    "earliest_year": -1500,
+    "themes": [
+      "protection",
+      "creature"
+    ]
   },
   {
     "id": "meso_obsidian",
@@ -601,7 +654,11 @@
       }
     ],
     "marker_color": "#1c2820",
-    "earliest_year": -1200
+    "earliest_year": -1200,
+    "themes": [
+      "creature",
+      "protection"
+    ]
   },
   {
     "id": "sri_moonstone",
@@ -652,7 +709,11 @@
       }
     ],
     "marker_color": "#c9d8eb",
-    "earliest_year": -1500
+    "earliest_year": -1500,
+    "themes": [
+      "moon",
+      "astrology"
+    ]
   },
   {
     "id": "koh_i_noor_diamond",
@@ -724,7 +785,10 @@
       }
     ],
     "marker_color": "#eef2ff",
-    "earliest_year": 1304
+    "earliest_year": 1304,
+    "themes": [
+      "sovereignty"
+    ]
   },
   {
     "id": "imperial_topaz",
@@ -777,7 +841,10 @@
       }
     ],
     "marker_color": "#d97c2d",
-    "earliest_year": 1735
+    "earliest_year": 1735,
+    "themes": [
+      "sovereignty"
+    ]
   },
   {
     "id": "herkimer_quartz",
@@ -829,7 +896,10 @@
       }
     ],
     "marker_color": "#e8e9eb",
-    "earliest_year": 1820
+    "earliest_year": 1820,
+    "themes": [
+      "protection"
+    ]
   },
   {
     "id": "magatama_jade",
@@ -893,7 +963,11 @@
       }
     ],
     "marker_color": "#00a86b",
-    "earliest_year": -1000
+    "earliest_year": -1000,
+    "themes": [
+      "sovereignty",
+      "creature"
+    ]
   },
   {
     "id": "paraiba_tourmaline",
@@ -957,7 +1031,11 @@
       }
     ],
     "marker_color": "#00d4dc",
-    "earliest_year": 1989
+    "earliest_year": 1989,
+    "themes": [
+      "modern",
+      "mine_lore"
+    ]
   },
   {
     "id": "burmese_jadeite",
@@ -1012,7 +1090,10 @@
         "url": "https://en.wikipedia.org/wiki/Jade_trade_in_Myanmar"
       }
     ],
-    "earliest_year": 1784
+    "earliest_year": 1784,
+    "themes": [
+      "sovereignty"
+    ]
   },
   {
     "id": "kashmir_sapphire",
@@ -1067,7 +1148,10 @@
         "url": "https://en.wikipedia.org/wiki/Kashmir_Sapphire"
       }
     ],
-    "earliest_year": 1881
+    "earliest_year": 1881,
+    "themes": [
+      "mine_lore"
+    ]
   },
   {
     "id": "russian_alexandrite",
@@ -1126,7 +1210,10 @@
         "url": "https://www.gia.edu/alexandrite"
       }
     ],
-    "earliest_year": 1834
+    "earliest_year": 1834,
+    "themes": [
+      "sovereignty"
+    ]
   },
   {
     "id": "greek_amethyst",
@@ -1180,7 +1267,10 @@
         "url": "https://en.wikipedia.org/wiki/Amethyst"
       }
     ],
-    "earliest_year": -700
+    "earliest_year": -700,
+    "themes": [
+      "wine"
+    ]
   },
   {
     "id": "cleopatra_emerald",
@@ -1235,7 +1325,11 @@
         "url": "https://en.wikipedia.org/wiki/Mons_Smaragdus"
       }
     ],
-    "earliest_year": -1500
+    "earliest_year": -1500,
+    "themes": [
+      "sovereignty",
+      "rebirth"
+    ]
   },
   {
     "id": "cerrillos_turquoise",
@@ -1290,7 +1384,11 @@
         "url": "https://en.wikipedia.org/wiki/Cerrillos_Turquoise_Mines"
       }
     ],
-    "earliest_year": 700
+    "earliest_year": 700,
+    "themes": [
+      "creature",
+      "sovereignty"
+    ]
   },
   {
     "id": "nz_pounamu",
@@ -1344,7 +1442,11 @@
         "url": "https://teara.govt.nz/en/pounamu-jade-or-greenstone"
       }
     ],
-    "earliest_year": 1300
+    "earliest_year": 1300,
+    "themes": [
+      "creature",
+      "protection"
+    ]
   },
   {
     "id": "mexican_fire_opal",
@@ -1399,7 +1501,11 @@
         "url": "https://en.wikipedia.org/wiki/Fire_opal"
       }
     ],
-    "earliest_year": 1300
+    "earliest_year": 1300,
+    "themes": [
+      "fire",
+      "creature"
+    ]
   },
   {
     "id": "whitby_jet",
@@ -1427,7 +1533,7 @@
         "content": "1861 年阿尔伯特亲王去世后，维多利亚女王进入毕生哀悼期——王室哀悼期间唯一被允许佩戴的珠宝就是惠特比煤精（其他材料的\"暗淡感\"都不及它）。整个英国上流社会跟随，催生了惠特比煤精产业的鼎盛：1873 年有 1500 工人 + 200 矿工，每年产值 9 万英镑（约今 1500 万英镑）。\n\n1890 年 7-8 月，爱尔兰作家 Bram Stoker 在惠特比避暑，住在 West Cliff。这趟旅行让惠特比港口、Whitby Abbey 废墟、East Cliff 上 199 级台阶成为 1897 年小说《德古拉》中德古拉登陆英国的舞台。今天惠特比每年举办 Goth Weekend（始于 1994），煤精饰品依然是哥特族的\"在地认证\"。"
       }
     ],
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Whitby_jet_jewellery.jpg?width=640",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cw.jet.001.jpg?width=640",
     "image_credit": "惠特比煤精首饰 / Wikimedia Commons",
     "legal_status": {
       "commerce": "safe",
@@ -1459,7 +1565,12 @@
         "url": "https://whitbymuseum.org.uk/collection/jet-and-jet-jewellery/"
       }
     ],
-    "earliest_year": 77
+    "earliest_year": 77,
+    "themes": [
+      "protection",
+      "mourning",
+      "blood"
+    ]
   },
   {
     "id": "shoushan_tianhuang",
@@ -1487,7 +1598,7 @@
         "content": "福建寿山当地传说：王母娘娘飞越寿山时，口袋破了，把一袋宝石撒落人间。落在山上的成了田黄，落在溪里的成了水坑石。所以田黄独产于寿山溪两岸一二公里内、稻田一两米深处——\"无脉、无矿、无系统\"，全靠运气挖。\n\n田黄存世稀少与价格惊人到什么程度？2024 年北京保利春拍，一方乾隆田黄\"古希天子之宝\"印章成交价 1.61 亿人民币（约 2200 万美元）——折合每克 16 万美元，远超黄金。寿山原矿在 1990 年代基本采尽，今天市场流通的田黄九成是回流老货或仿制。"
       }
     ],
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoushan_stone_carving.jpg?width=640",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chunhuidadi.JPG?width=640",
     "image_credit": "寿山石雕（通用寿山石）/ Wikimedia Commons",
     "legal_status": {
       "commerce": "restricted",
@@ -1513,7 +1624,11 @@
         "url": "https://en.wikipedia.org/wiki/Shoushan_stone_carvings"
       }
     ],
-    "earliest_year": 420
+    "earliest_year": 420,
+    "themes": [
+      "sovereignty",
+      "creature"
+    ]
   },
   {
     "id": "cullinan_diamond",
@@ -1577,7 +1692,11 @@
         "url": "https://www.rct.uk/collection/31702/the-sovereigns-sceptre-with-cross"
       }
     ],
-    "earliest_year": 1905
+    "earliest_year": 1905,
+    "themes": [
+      "sovereignty",
+      "mine_lore"
+    ]
   },
   {
     "id": "tsavorite_garnet",
@@ -1632,7 +1751,11 @@
         "url": "https://en.wikipedia.org/wiki/Tsavorite"
       }
     ],
-    "earliest_year": 1967
+    "earliest_year": 1967,
+    "themes": [
+      "modern",
+      "mine_lore"
+    ]
   },
   {
     "id": "burmese_spinel",
@@ -1686,6 +1809,9 @@
         "title": "Black Prince's Ruby – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Black_Prince%27s_Ruby"
       }
+    ],
+    "themes": [
+      "sovereignty"
     ]
   },
   {
@@ -1734,6 +1860,9 @@
         "title": "Peridot – GIA",
         "url": "https://www.gia.edu/peridot"
       }
+    ],
+    "themes": [
+      "sun"
     ]
   },
   {
@@ -1782,6 +1911,10 @@
         "title": "Zircon – GIA",
         "url": "https://www.gia.edu/zircon"
       }
+    ],
+    "themes": [
+      "blood",
+      "modern"
     ]
   },
   {
@@ -1829,6 +1962,9 @@
         "title": "Kunzite – GIA",
         "url": "https://www.gia.edu/kunzite"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -1878,6 +2014,9 @@
         "year": 2008,
         "locator": "地质出版社"
       }
+    ],
+    "themes": [
+      "sovereignty"
     ]
   },
   {
@@ -1927,6 +2066,10 @@
         "year": 2010,
         "locator": "中国地质大学出版社"
       }
+    ],
+    "themes": [
+      "sovereignty",
+      "love"
     ]
   },
   {
@@ -1975,6 +2118,9 @@
         "title": "Charoite – Mindat",
         "url": "https://www.mindat.org/min-989.html"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -2022,6 +2168,9 @@
         "title": "Jet (gemstone) – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)"
       }
+    ],
+    "themes": [
+      "protection"
     ]
   },
   {
@@ -2072,6 +2221,10 @@
         "year": 2014,
         "locator": "Antiquity"
       }
+    ],
+    "themes": [
+      "sovereignty",
+      "mine_lore"
     ]
   },
   {
@@ -2120,6 +2273,10 @@
         "title": "Labradorite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Labradorite"
       }
+    ],
+    "themes": [
+      "stars",
+      "creature"
     ]
   },
   {
@@ -2174,6 +2331,9 @@
         "year": 1996,
         "locator": "Gems & Gemology"
       }
+    ],
+    "themes": [
+      "sovereignty"
     ]
   },
   {
@@ -2223,6 +2383,10 @@
         "year": 2013,
         "locator": "Proceedings of the Royal Society A"
       }
+    ],
+    "themes": [
+      "stars",
+      "sea"
     ]
   },
   {
@@ -2273,6 +2437,10 @@
         "year": 2012,
         "locator": "Proceedings of the Royal Society A"
       }
+    ],
+    "themes": [
+      "modern",
+      "creature"
     ]
   },
   {
@@ -2323,6 +2491,10 @@
         "year": 1999,
         "locator": "Oxford Monographs on Classical Archaeology"
       }
+    ],
+    "themes": [
+      "protection",
+      "sovereignty"
     ]
   },
   {
@@ -2370,6 +2542,9 @@
         "title": "Lizard Point – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Lizard_Point,_Cornwall"
       }
+    ],
+    "themes": [
+      "creature"
     ]
   },
   {
@@ -2418,6 +2593,10 @@
         "title": "Sapphires from Madagascar – GIA",
         "url": "https://www.gia.edu/gems-gemology/sapphires-madagascar"
       }
+    ],
+    "themes": [
+      "mine_lore",
+      "modern"
     ]
   },
   {
@@ -2466,6 +2645,9 @@
         "title": "Dioptase – Mindat",
         "url": "https://www.mindat.org/min-1295.html"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -2514,6 +2696,9 @@
         "title": "Ethiopian Opal – GIA",
         "url": "https://www.gia.edu/gems-gemology/ethiopian-opal"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -2562,6 +2747,9 @@
         "title": "Paraíba Tourmaline – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Para%C3%ADba_tourmaline"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -2610,6 +2798,10 @@
         "title": "Zabargad Island – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Zabargad_Island"
       }
+    ],
+    "themes": [
+      "sun",
+      "rebirth"
     ]
   },
   {
@@ -2658,6 +2850,9 @@
         "title": "Malaya garnet – GIA",
         "url": "https://www.gia.edu/malaya-garnet"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -2706,6 +2901,9 @@
         "title": "Gemfields – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Gemfields"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -2754,6 +2952,9 @@
         "title": "Rubellite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Rubellite"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -2801,6 +3002,10 @@
         "title": "Larimar – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Larimar"
       }
+    ],
+    "themes": [
+      "sea",
+      "creature"
     ]
   },
   {
@@ -2848,6 +3053,9 @@
         "title": "San Carlos Apache Reservation – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/San_Carlos_Apache_Indian_Reservation"
       }
+    ],
+    "themes": [
+      "blood"
     ]
   },
   {
@@ -2896,6 +3104,10 @@
         "title": "Yogo sapphire – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Yogo_sapphire"
       }
+    ],
+    "themes": [
+      "mine_lore",
+      "sovereignty"
     ]
   },
   {
@@ -2945,6 +3157,9 @@
         "year": 1996,
         "locator": "Outernet Publishing"
       }
+    ],
+    "themes": [
+      "creature"
     ]
   },
   {
@@ -2993,6 +3208,10 @@
         "title": "Amethyst – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Amethyst"
       }
+    ],
+    "themes": [
+      "wine",
+      "mine_lore"
     ]
   },
   {
@@ -3042,6 +3261,9 @@
         "title": "Emerald and Other Beryls",
         "year": 1981
       }
+    ],
+    "themes": [
+      "sea"
     ]
   },
   {
@@ -3090,6 +3312,9 @@
         "title": "Chrysocolla – Mindat",
         "url": "https://www.mindat.org/min-961.html"
       }
+    ],
+    "themes": [
+      "sovereignty"
     ]
   },
   {
@@ -3138,6 +3363,9 @@
         "title": "Ametrine – GIA",
         "url": "https://www.gia.edu/ametrine"
       }
+    ],
+    "themes": [
+      "love"
     ]
   },
   {
@@ -3185,6 +3413,10 @@
         "title": "Rhodochrosite – Mindat",
         "url": "https://www.mindat.org/min-3406.html"
       }
+    ],
+    "themes": [
+      "blood",
+      "sovereignty"
     ]
   },
   {
@@ -3233,6 +3465,10 @@
         "title": "Tiger's eye – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Tiger%27s_eye"
       }
+    ],
+    "themes": [
+      "war",
+      "protection"
     ]
   },
   {
@@ -3281,6 +3517,10 @@
         "title": "Bloodstone – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Heliotrope_(mineral)"
       }
+    ],
+    "themes": [
+      "blood",
+      "sun"
     ]
   },
   {
@@ -3328,6 +3568,10 @@
         "title": "Kunsthistorisches Museum · Gemma Augustea",
         "url": "https://www.khm.at/en/"
       }
+    ],
+    "themes": [
+      "love",
+      "sovereignty"
     ]
   },
   {
@@ -3375,6 +3619,10 @@
         "title": "Jasper – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Jasper"
       }
+    ],
+    "themes": [
+      "rebirth",
+      "protection"
     ]
   },
   {
@@ -3423,7 +3671,8 @@
         "title": "Azurite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Azurite"
       }
-    ]
+    ],
+    "themes": []
   },
   {
     "id": "frederick_chrysoprase",
@@ -3470,6 +3719,10 @@
         "title": "Chrysoprase – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Chrysoprase"
       }
+    ],
+    "themes": [
+      "war",
+      "sovereignty"
     ]
   },
   {
@@ -3518,6 +3771,10 @@
         "title": "Sunstone – GIA",
         "url": "https://www.gia.edu/sunstone"
       }
+    ],
+    "themes": [
+      "sun",
+      "blood"
     ]
   },
   {
@@ -3564,6 +3821,9 @@
         "title": "Citrine – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Citrine_(quartz)"
       }
+    ],
+    "themes": [
+      "sun"
     ]
   },
   {
@@ -3611,6 +3871,10 @@
         "title": "Morganite – GIA",
         "url": "https://www.gia.edu/morganite"
       }
+    ],
+    "themes": [
+      "love",
+      "modern"
     ]
   },
   {
@@ -3659,6 +3923,9 @@
         "title": "Sugilite – Mindat",
         "url": "https://www.mindat.org/min-3829.html"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -3711,6 +3978,10 @@
         "title": "Rhodonite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Rhodonite"
       }
+    ],
+    "themes": [
+      "sovereignty",
+      "mourning"
     ]
   },
   {
@@ -3759,6 +4030,10 @@
         "title": "Hematite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Hematite"
       }
+    ],
+    "themes": [
+      "blood",
+      "rebirth"
     ]
   },
   {
@@ -3807,6 +4082,9 @@
         "title": "Ammolite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ammolite"
       }
+    ],
+    "themes": [
+      "creature"
     ]
   },
   {
@@ -3855,6 +4133,9 @@
         "title": "Benitoite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Benitoite"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -3902,6 +4183,10 @@
         "title": "Variscite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Variscite"
       }
+    ],
+    "themes": [
+      "rebirth",
+      "protection"
     ]
   },
   {
@@ -3948,6 +4233,9 @@
         "title": "Chiastolite – Mindat",
         "url": "https://www.mindat.org/min-987.html"
       }
+    ],
+    "themes": [
+      "protection"
     ]
   },
   {
@@ -3995,6 +4283,9 @@
         "title": "Apatite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Apatite"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4041,6 +4332,9 @@
         "title": "Kyanite – Mindat",
         "url": "https://www.mindat.org/min-2303.html"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4087,6 +4381,9 @@
         "title": "Diopside – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Diopside"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4134,6 +4431,9 @@
         "title": "Prehnite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Prehnite"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4180,6 +4480,9 @@
         "title": "Scapolite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Scapolite"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4227,6 +4530,9 @@
         "title": "Aventurine glass of Murano",
         "year": 1984
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4274,6 +4580,9 @@
         "title": "Titanite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Titanite"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4320,6 +4629,10 @@
         "title": "Cymophane – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Chrysoberyl"
       }
+    ],
+    "themes": [
+      "protection",
+      "astrology"
     ]
   },
   {
@@ -4368,6 +4681,11 @@
         "title": "Corallium rubrum – CITES",
         "url": "https://cites.org/"
       }
+    ],
+    "themes": [
+      "blood",
+      "protection",
+      "sea"
     ]
   },
   {
@@ -4415,6 +4733,10 @@
         "title": "Precious Stones",
         "year": 1904
       }
+    ],
+    "themes": [
+      "mourning",
+      "sovereignty"
     ]
   },
   {
@@ -4461,6 +4783,9 @@
         "title": "Grossular – GIA",
         "url": "https://www.gia.edu/grossularite-tsavorite"
       }
+    ],
+    "themes": [
+      "astrology"
     ]
   },
   {
@@ -4509,6 +4834,9 @@
         "year": 1995,
         "locator": "Gems & Gemology"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4560,6 +4888,9 @@
         "title": "Uvarovite – Mindat",
         "url": "https://www.mindat.org/min-4125.html"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4608,6 +4939,9 @@
         "year": 2001,
         "locator": "American Mineralogist"
       }
+    ],
+    "themes": [
+      "love"
     ]
   },
   {
@@ -4655,6 +4989,9 @@
         "title": "Scottish gemstones",
         "year": 1989
       }
+    ],
+    "themes": [
+      "sovereignty"
     ]
   },
   {
@@ -4701,6 +5038,9 @@
         "title": "Rutile – Mindat",
         "url": "https://www.mindat.org/min-3486.html"
       }
+    ],
+    "themes": [
+      "love"
     ]
   },
   {
@@ -4747,6 +5087,9 @@
         "title": "Elbaite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Elbaite"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4793,6 +5136,10 @@
         "title": "Asterism – GIA",
         "url": "https://www.gia.edu/sapphire"
       }
+    ],
+    "themes": [
+      "stars",
+      "protection"
     ]
   },
   {
@@ -4841,6 +5188,9 @@
         "year": 2003,
         "locator": "Gems & Gemology"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -4887,6 +5237,9 @@
         "title": "Beryl – Mindat",
         "url": "https://www.mindat.org/min-819.html"
       }
+    ],
+    "themes": [
+      "sun"
     ]
   },
   {
@@ -4934,6 +5287,9 @@
         "title": "Color in feldspars",
         "year": 1985
       }
+    ],
+    "themes": [
+      "sovereignty"
     ]
   },
   {
@@ -4982,6 +5338,9 @@
         "year": 2010,
         "locator": "InColor"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -5028,6 +5387,9 @@
         "title": "Dendrite – Mindat",
         "url": "https://www.mindat.org/min-48587.html"
       }
+    ],
+    "themes": [
+      "flora"
     ]
   },
   {
@@ -5074,6 +5436,11 @@
         "title": "Smithsonian · Rosser Reeves Star Ruby",
         "url": "https://www.si.edu/"
       }
+    ],
+    "themes": [
+      "stars",
+      "protection",
+      "war"
     ]
   },
   {
@@ -5122,6 +5489,10 @@
         "title": "Argyle diamond mine – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Argyle_diamond_mine"
       }
+    ],
+    "themes": [
+      "creature",
+      "mine_lore"
     ]
   },
   {
@@ -5168,6 +5539,9 @@
         "title": "Opal – GIA",
         "url": "https://www.gia.edu/opal"
       }
+    ],
+    "themes": [
+      "creature"
     ]
   },
   {
@@ -5214,6 +5588,9 @@
         "title": "Queensland Boulder Opal – GIA",
         "url": "https://www.gia.edu/opal"
       }
+    ],
+    "themes": [
+      "mine_lore"
     ]
   },
   {
@@ -5260,6 +5637,11 @@
         "title": "Haliotis iris – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Haliotis_iris"
       }
+    ],
+    "themes": [
+      "sea",
+      "creature",
+      "protection"
     ]
   },
   {
@@ -5306,6 +5688,9 @@
         "title": "Marlborough chrysoprase – Mindat",
         "url": "https://www.mindat.org/"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -5352,6 +5737,9 @@
         "title": "Anakie, Queensland – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Anakie,_Queensland"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -5399,6 +5787,9 @@
         "title": "Crocoite – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Crocoite"
       }
+    ],
+    "themes": [
+      "modern"
     ]
   },
   {
@@ -5445,6 +5836,9 @@
         "title": "Radiolarite – Mindat",
         "url": "https://www.mindat.org/"
       }
+    ],
+    "themes": [
+      "creature"
     ]
   },
   {
@@ -5493,6 +5887,9 @@
         "title": "Opal – Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Opal#Opalized_fossils"
       }
+    ],
+    "themes": [
+      "mine_lore"
     ]
   }
 ]

@@ -1,4 +1,5 @@
 import LegalStatusCard from './LegalStatusCard.jsx'
+import { themeLabel, themeEmoji } from '../data/themes.js'
 import FavoriteButton from './FavoriteButton.jsx'
 import SourcesList from './SourcesList.jsx'
 import ListingsByMineral from './ListingsByMineral.jsx'
@@ -47,6 +48,20 @@ export default function DetailPanel({
             <div className="mt-2 inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-violet-500/10 border border-violet-400/30 text-violet-300 text-[11px]">
               <span>◇</span>
               <span>{entry.border_note}</span>
+            </div>
+          )}
+          {Array.isArray(entry.themes) && entry.themes.length > 0 && (
+            <div className="mt-2 flex flex-wrap gap-1">
+              {entry.themes.map((t) => (
+                <span
+                  key={t}
+                  className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-ink-800 border border-ink-700 text-[10px] text-stone-400"
+                  title={themeLabel(t)}
+                >
+                  <span>{themeEmoji(t)}</span>
+                  <span>{themeLabel(t)}</span>
+                </span>
+              ))}
             </div>
           )}
           <div className="mt-2">
