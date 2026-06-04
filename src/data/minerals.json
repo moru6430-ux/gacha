@@ -593,7 +593,8 @@
     "earliest_year": -1500,
     "themes": [
       "protection",
-      "creature"
+      "creature",
+      "faith"
     ]
   },
   {
@@ -966,7 +967,8 @@
     "earliest_year": -1000,
     "themes": [
       "sovereignty",
-      "creature"
+      "creature",
+      "faith"
     ]
   },
   {
@@ -2170,7 +2172,8 @@
       }
     ],
     "themes": [
-      "protection"
+      "protection",
+      "faith"
     ]
   },
   {
@@ -3520,7 +3523,8 @@
     ],
     "themes": [
       "blood",
-      "sun"
+      "sun",
+      "faith"
     ]
   },
   {
@@ -3622,7 +3626,8 @@
     ],
     "themes": [
       "rebirth",
-      "protection"
+      "protection",
+      "faith"
     ]
   },
   {
@@ -3672,7 +3677,9 @@
         "url": "https://en.wikipedia.org/wiki/Azurite"
       }
     ],
-    "themes": []
+    "themes": [
+      "faith"
+    ]
   },
   {
     "id": "frederick_chrysoprase",
@@ -4235,7 +4242,8 @@
       }
     ],
     "themes": [
-      "protection"
+      "protection",
+      "faith"
     ]
   },
   {

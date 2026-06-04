@@ -21,6 +21,7 @@ export const THEMES = [
   { key: 'protection',    emoji: '🛡️',  label: '守护护身',     desc: '护身符 / 辟邪 / 印章' },
   { key: 'mourning',      emoji: '⚱️',  label: '哀悼丧葬',     desc: '丧礼用石 / 殡葬 / 怀念' },
   { key: 'rebirth',       emoji: '🌅',  label: '重生',         desc: 'Isis / 凤凰 / 来世信仰' },
+  { key: 'faith',         emoji: '🙏',  label: '信仰圣物',     desc: '宗教崇拜 / 朝圣 / 神器 / 祭祀圣物' },
   { key: 'wine',          emoji: '🍷',  label: '酒神狂欢',     desc: 'Dionysus / 醉与醒' },
   { key: 'creature',      emoji: '🐉',  label: '神兽精灵',     desc: '龙 / 蛇 / 鸟 / 精怪' },
   { key: 'mine_lore',     emoji: '⛏️',  label: '矿场传奇',     desc: '发现现场 / 矿工传说 / 矿主故事' },
