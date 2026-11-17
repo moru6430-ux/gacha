@@ -17,6 +17,11 @@ body {
   font-family: inherit;
 }
 
+/* Darken only the OSM base tiles; keep markers, labels and controls unchanged. */
+.atlas-basemap-tile {
+  filter: invert(1) hue-rotate(180deg) saturate(0.35) brightness(0.8) contrast(0.9);
+}
+
 /* Override Leaflet popup styling to match dark theme */
 .leaflet-popup-content-wrapper,
 .leaflet-popup-tip {
