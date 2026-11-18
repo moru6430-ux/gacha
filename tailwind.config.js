@@ -2,6 +2,7 @@
 export default {
   content: [
     './index.html',
+    './smoke-free.html',
     './src/**/*.{js,jsx,ts,tsx}',
   ],
   theme: {
