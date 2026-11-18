@@ -147,12 +147,12 @@ export default function App() {
 
   return (
     <div className="h-full w-full flex flex-col bg-ink-950 text-stone-200">
-      <header className="px-6 py-4 border-b border-ink-700 flex items-center gap-6 bg-ink-900/80 backdrop-blur z-[1000]">
+      <header className="px-3 py-4 border-b border-ink-700 flex items-center gap-2 sm:px-6 sm:gap-6 bg-ink-900/80 backdrop-blur z-[1000]">
         <div className="flex flex-col">
           <h1 className="text-xl tracking-wide text-amber-glow font-serif">矿物神话地图</h1>
           <p className="text-xs text-stone-500 tracking-widest">Mineral Mythology Atlas</p>
         </div>
-        <div className="flex-1 max-w-xl">
+        <div className="min-w-0 flex-1 max-w-xl">
           <SearchBar
             value={query}
             onChange={setQuery}
@@ -191,6 +191,16 @@ export default function App() {
             <path d="M3 12h18M12 3a14 14 0 010 18M12 3a14 14 0 000 18" strokeLinecap="round" />
           </svg>
         </button>
+        <details className="relative shrink-0" translate="no">
+          <summary className="list-none cursor-pointer whitespace-nowrap rounded-full border border-ink-700 px-2.5 py-1.5 text-xs text-stone-200 hover:text-amber-glow [&::-webkit-details-marker]:hidden">
+            <span className="hidden sm:inline" lang="zh-CN">翻译 / </span>
+            <span lang="en">Translate</span>
+          </summary>
+          <div className="absolute right-0 top-full mt-2 w-56 space-y-2 rounded-lg border border-ink-700 bg-ink-900 p-3 text-sm leading-relaxed text-stone-200 shadow-lg">
+            <p lang="zh-CN">在浏览器地址栏或菜单中选择「翻译」，再选你要阅读的语言。</p>
+            <p lang="en">Choose Translate in your browser’s address bar or menu, then select your language.</p>
+          </div>
+        </details>
         <UserMenu
           onSignInClick={() => setAuthOpen(true)}
           onMyListingsClick={() => setMyListingsOpen(true)}
